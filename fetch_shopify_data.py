@@ -2,6 +2,7 @@
 """
 Nestacular Shopify Data Fetcher - REST API Version
 Fetches: blogs, products, collections, and individual collection products
+Note: body_html removed from both blogs and blog articles to reduce file size
 """
 
 import os
@@ -65,7 +66,7 @@ class NestacularDataFetcher:
             print(f"  Cleaned up {removed} old files", file=sys.stderr)
     
     def fetch_blogs_with_articles(self):
-        """Fetch all blogs with their articles"""
+        """Fetch all blogs with their articles (without body_html)"""
         print("\n=== FETCHING BLOGS ===", file=sys.stderr)
         
         try:
@@ -88,6 +89,10 @@ class NestacularDataFetcher:
                 blog_id = blog["id"]
                 print(f"Fetching articles for blog: {blog['title']}", file=sys.stderr)
                 
+                # Remove body_html from the blog object itself to reduce file size
+                if "body_html" in blog:
+                    del blog["body_html"]
+                
                 # Fetch all articles with pagination
                 all_articles = []
                 page_info = None
@@ -104,6 +109,12 @@ class NestacularDataFetcher:
                         articles = articles_response.json().get("articles", [])
                         if not articles:
                             break
+                        
+                        # Remove body_html field from each article to reduce file size
+                        for article in articles:
+                            if "body_html" in article:
+                                del article["body_html"]
+                        
                         all_articles.extend(articles)
                         print(f"  Fetched {len(articles)} articles", file=sys.stderr)
                         
@@ -402,7 +413,7 @@ class NestacularDataFetcher:
         """Create index files"""
         print("\n=== Creating Index Files ===", file=sys.stderr)
         
-        # UPDATE THIS with your actual GitHub username
+        # Nestacular repository URL
         base_url = "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/"
         timestamp = datetime.utcnow().isoformat() + "Z"
         
@@ -420,9 +431,9 @@ Currency: GBP
 Total Collections: {len(collection_files)}
 
 === MAIN FILES (All 4 Working) ===
-- Blogs: {base_url}blogs.json
-- Products: {base_url}products.json
-- Collections: {base_url}collections.json
+• Blogs: {base_url}blogs.json
+• Products: {base_url}products.json
+• Collections: {base_url}collections.json
 
 === ALL COLLECTION PRODUCT FILES ===
 """)
