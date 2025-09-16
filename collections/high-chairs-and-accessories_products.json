@@ -10153,8 +10153,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9799620526422",
       "variants": [
         {
-          "id": 51231517344086,
           "product_id": 9799620526422,
+          "id": 51231517344086,
           "title": "【 Khaki Grey 】 Multi-functional bench + plate + swivel wheels + guardrail",
           "price": "177.95",
           "position": 1,
@@ -10181,8 +10181,8 @@
           "image_id": 66307114402134
         },
         {
-          "id": 51231517376854,
           "product_id": 9799620526422,
+          "id": 51231517376854,
           "title": "【 Khaki Grey 】 Multi-functional bench + dinner plate + guardrail",
           "price": "177.95",
           "position": 2,
@@ -10209,8 +10209,8 @@
           "image_id": 66307039658326
         },
         {
-          "id": 51231517409622,
           "product_id": 9799620526422,
+          "id": 51231517409622,
           "title": "【 Milk Coffee Green 】 Multi-functional bench + Plate + swivel wheels + guardrail",
           "price": "177.95",
           "position": 3,
@@ -10237,8 +10237,8 @@
           "image_id": 66307066757462
         },
         {
-          "id": 51231517442390,
           "product_id": 9799620526422,
+          "id": 51231517442390,
           "title": "【 Cream White 】 Multi-functional bench + dinner plate + guardrail",
           "price": "177.95",
           "position": 4,
@@ -10265,8 +10265,8 @@
           "image_id": 66307075670358
         },
         {
-          "id": 51231517475158,
           "product_id": 9799620526422,
+          "id": 51231517475158,
           "title": "【 Milk Coffee Green 】 Multi-functional bench + dinner plate + guardrail",
           "price": "177.95",
           "position": 5,
@@ -10293,8 +10293,8 @@
           "image_id": 66307066757462
         },
         {
-          "id": 51231517507926,
           "product_id": 9799620526422,
+          "id": 51231517507926,
           "title": "【 Cream White 】 Multi-functional bench + plate + swivel wheels + guardrail",
           "price": "177.95",
           "position": 6,
@@ -10323,8 +10323,8 @@
       ],
       "options": [
         {
-          "id": 12650454909270,
           "product_id": 9799620526422,
+          "id": 12650454909270,
           "name": "Color",
           "position": 1,
           "values": [
