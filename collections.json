@@ -1,0 +1,3752 @@
+{
+  "collections": [
+    {
+      "id": 657306091862,
+      "handle": "anti-colic-bottles",
+      "title": "Anti-Colic Bottles",
+      "updated_at": "2025-09-16T12:54:53+01:00",
+      "body_html": "<p>Designed to make feeding more comfortable for your little one. Our range of anti-colic baby bottles feature innovative venting systems that reduce air ingestion during feeding. This can help to lessen the discomfort from colic, gas, and reflux. Find a trusted solution for a calmer, happier feeding experience.</p>",
+      "published_at": "2025-08-28T18:08:37+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Anti colic bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Anti-Colic Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Anti Colic Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Anti-Colic Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Anti colic"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Anti-colic baby bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "anti colic baby bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "anti colic baby bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "anti-colic"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657306091862",
+      "image": {
+        "created_at": "2025-08-31T12:12:34+01:00",
+        "alt": null,
+        "width": 1536,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A2_d0c7f55e-49b9-4cfd-99fc-15b4acefa7a6.png?v=1756638754"
+      }
+    },
+    {
+      "id": 658758926678,
+      "handle": "autumn-playdate-party-essentials",
+      "title": "Autumn Playdate Party Essentials",
+      "updated_at": "2025-09-16T13:24:17+01:00",
+      "body_html": "Perfect party supplies and feeding gear for hosting fall playdates, featuring themed tableware, easy-clean bibs, and mess-free feeding solutions.",
+      "published_at": "2025-09-16T13:24:17+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "party supplies"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "disposable tableware"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby bib"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "feeding set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "playdate"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/658758926678"
+    },
+    {
+      "id": 657478910294,
+      "handle": "baby-bottles",
+      "title": "Baby Bottles",
+      "updated_at": "2025-09-16T12:54:24+01:00",
+      "body_html": "<p>Discover the perfect baby bottle for your little one at Nestacular. Our curated collection features only the safest, most innovative, and ergonomically designed bottles from trusted brands. Whether you're looking for the purity of glass, the soft feel of silicone, or a specific solution to help with colic, you'll find the ideal option here. Explore our full range below or use our 'Shop by' guides to find the perfect bottle for your family.</p>",
+      "published_at": "2025-08-31T19:55:36+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "baby bottle"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657478910294",
+      "image": {
+        "created_at": "2025-09-03T09:27:23+01:00",
+        "alt": "Assorted baby bottles in various colors and designs with matching pacifiers and cleaning brush.",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_c7dd0b93-66b9-4464-8287-46e4f36d8deb.png?v=1758023420"
+      }
+    },
+    {
+      "id": 657305239894,
+      "handle": "baby-bottles-accessories",
+      "title": "Baby Bottles & Accessories",
+      "updated_at": "2025-09-16T12:54:24+01:00",
+      "body_html": "<p>Welcome to our complete collection of baby bottles and accessories. We've curated the very best options from trusted brands, focusing on safety, ergonomic design, and a modern aesthetic. Whether you're looking for a bottle made from a specific material like glass or silicone, a solution for colic, or essential cleaning tools, you'll find it here. Explore our range to build the perfect feeding system for your family.</p>",
+      "published_at": "2025-08-28T17:49:57+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "bottle"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657305239894",
+      "image": {
+        "created_at": "2025-08-31T12:31:27+01:00",
+        "alt": "Pink and blue baby bottles with measurement markings, bottle brush, and a white sterilizer.",
+        "width": 1536,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A3_9a6e4482-718c-4fe1-ab1c-91b4ebdd4bfa.png?v=1758023479"
+      }
+    },
+    {
+      "id": 657495097686,
+      "handle": "baby-food-makers-blenders",
+      "title": "Baby Food Makers & Blenders",
+      "updated_at": "2025-09-16T12:55:23+01:00",
+      "body_html": "<p>Effortlessly create fresh, delicious, and nutrient-rich meals for your baby. Our range of all-in-one baby food makers can steam and blend fruits, vegetables, and more in one simple step, creating perfect purees every time. Take control of your baby's nutrition from their very first bite with these time-saving, modern kitchen essentials.</p>",
+      "published_at": "2025-09-01T03:06:03+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "steamer"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby food steamer"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "portable baby food grinder"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby food supplement maker"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "manual baby food processor"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "food maker"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "blender"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "steamer"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Blenders"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "manual baby food processor"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Portable Rice Noodles"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657495097686",
+      "image": {
+        "created_at": "2025-09-03T09:35:58+01:00",
+        "alt": "White and green baby food maker and blender set, featuring jars and a hand blender, ideal for pureeing fruits and vegetables",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A3_58e4f168-140b-4f32-b993-153144045b95.png?v=1758023348"
+      }
+    },
+    {
+      "id": 657382998358,
+      "handle": "baby-shower-gifts",
+      "title": "Baby Shower Gifts",
+      "updated_at": "2025-09-03T12:45:29+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">Give a gift that's both beautiful and incredibly useful. Our selection of baby shower gifts, from complete weaning sets to luxury tableware, are perfect for modern parents-to-be.</p>",
+      "published_at": "2025-08-30T04:51:01+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "shower gift"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "shower gift"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "weaning set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "luxury"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "baby gift"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "baby shower"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "parties"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "party"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657382998358",
+      "image": {
+        "created_at": "2025-08-30T04:50:59+01:00",
+        "alt": "baby shower gifts",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Baby_shower_gifts.webp?v=1756525860"
+      }
+    },
+    {
+      "id": 658049859926,
+      "handle": "baby-shower-host-feeding-essentials",
+      "title": "Baby Shower Host Feeding Essentials",
+      "updated_at": "2025-09-16T13:07:47+01:00",
+      "body_html": "Perfect gift collection for new parents featuring essential feeding items every baby shower host needs to celebrate the upcoming arrival.",
+      "published_at": "2025-09-08T13:29:26+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby shower"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "gift set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "feeding essentials"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "new parent"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "celebration"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby shower gift"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Gift"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby shower gift"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "giftidea"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "full moon baby gift"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "newborn gift set"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/658049859926"
+    },
+    {
+      "id": 657380606294,
+      "handle": "baby-tableware",
+      "title": "Baby Tableware",
+      "updated_at": "2025-09-16T12:57:47+01:00",
+      "body_html": "<p>Discover the complete collection of Nestacular's baby tableware. From their first spoons to toddler plates, every item is beautifully designed, non-toxic, and made to make mealtimes simpler. Shop by product, solution, material, or age to find the perfect essentials.</p>",
+      "published_at": "2025-08-30T02:15:22+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Tableware"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "cup"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "spoon"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "fork"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "cutlery"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "cup"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "spoon"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "fork"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "cutlery"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "plate"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "bowl"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "bib"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "coverall"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "placemat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "snackpot"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "utensil"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "drinkware"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "tableware"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "napkin"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657380606294",
+      "image": {
+        "created_at": "2025-08-30T02:15:21+01:00",
+        "alt": "Baby Tableware",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Baby_Tableware.webp?v=1756516521"
+      }
+    },
+    {
+      "id": 657382408534,
+      "handle": "bamboo-tableware",
+      "title": "Bamboo Tableware",
+      "updated_at": "2025-09-05T13:20:09+01:00",
+      "body_html": "<p>An eco-friendly choice for your family. Our bamboo tableware is made from sustainable materials, offering a lightweight and durable alternative to plastic.</p>",
+      "published_at": "2025-08-30T04:00:37+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bamboo Tableware"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bamboo"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bamboo"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657382408534",
+      "image": {
+        "created_at": "2025-08-30T04:00:35+01:00",
+        "alt": "Bamboo Tableware",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Bamboo_tableware.webp?v=1756522837"
+      }
+    },
+    {
+      "id": 657688330582,
+      "handle": "bear-party-decorations",
+      "title": "Bear Party Decorations & Birthday Supplies",
+      "updated_at": "2025-09-11T12:12:07+01:00",
+      "body_html": "<h2>Bear Party Decorations Collection</h2><p>Transform your celebration with our bear-themed party decorations. This collection features everything needed for a memorable bear birthday party, from coordinated tableware to themed decorations that bring the woodland celebration to life.</p><p>Our bear party supplies include plates, cups, napkins, balloons, and decorative elements designed with adorable bear motifs. Perfect for children's birthday parties, baby showers, or any celebration where you want to create a warm, woodland atmosphere.</p><p>Each item in our bear party decorations collection is crafted with attention to detail, featuring high-quality materials and vibrant colors that coordinate seamlessly together. The bear theme appeals to all ages while creating a cohesive party aesthetic.</p><p>Whether you're planning an intimate gathering or larger celebration, these bear party decorations provide the foundation for creating lasting memories with family and friends.</p>",
+      "published_at": "2025-09-03T13:01:56+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "bear-party-decorations"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "party"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "party-plates-napkins"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Event & Party"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Festive & Party Supplies"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "animal-themed-party"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "children-party-supplies"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "kids-birthday-party"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "kids-party-plates"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "toddler-party-supplies"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Cartoon Birthday Party"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Life event Babies"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Dolhouse Birthday Party"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Circus Theme"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "toddler-party-supplies"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Cartoon Birthday Party"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Life event Babies"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Dolhouse Birthday Party"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Circus Theme"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657688330582"
+    },
+    {
+      "id": 657380966742,
+      "handle": "bibs-and-coveralls",
+      "title": "Bibs & Coveralls",
+      "updated_at": "2025-09-16T12:57:47+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">Contain the mess in style. Our collection of bibs ranges from wipe-clean silicone for quick meals to full-coverage coveralls for the most enthusiastic eaters.</p>",
+      "published_at": "2025-08-30T02:40:13+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bib"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "bib"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "coverall"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "bib"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "coverall"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "smock"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "napkin"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "gown"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657380966742",
+      "image": {
+        "created_at": "2025-08-30T02:40:11+01:00",
+        "alt": "Bibs & Coveralls",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Bibs_Coveralls.webp?v=1756518012"
+      }
+    },
+    {
+      "id": 657378509142,
+      "handle": "booster-seats-for-dining-chairs",
+      "title": "Booster Seats for Dining Chairs",
+      "updated_at": "2025-09-16T13:05:44+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">Give your toddler a seat at the big table! Our curated collection of booster seats are designed to be safe, secure, and easy to clean. They strap onto your existing dining chairs to bring your little one to the perfect height for family mealtimes.</p>",
+      "published_at": "2025-08-30T00:09:10+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Booster Seats"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Seats for Dining Chairs"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Booster Seat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Booster Seat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Booster"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657378509142",
+      "image": {
+        "created_at": "2025-08-30T00:09:09+01:00",
+        "alt": "Booster Seats for Dining Chairs",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Booster_Seats_for_Dining_Chairs.webp?v=1756508950"
+      }
+    },
+    {
+      "id": 657307304278,
+      "handle": "bottle-accessories",
+      "title": "Bottle Accessories",
+      "updated_at": "2025-09-08T12:51:43+01:00",
+      "body_html": "<p>Find all the essential add-ons to complete your bottle-feeding system. This collection includes everything you need for a safe, hygienic, and convenient routine, from replacement teats in various flow rates to electric sterilisers, bottle warmers, and specially designed cleaning tools. Perfect your setup with these must-have accessories.</p>",
+      "published_at": "2025-08-28T18:22:24+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bottle Accessories"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby bottle accessories"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle Teat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle Nipple"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle Sterilizer"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle Cleaner"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle warmer"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle cleaning"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby bottle teat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby bottle teat cleaner"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby bottle nipple"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby bottle electric steriliser"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "electric steriliser"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Teat cleaner"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "brush cleaner"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657307304278",
+      "image": {
+        "created_at": "2025-08-31T11:38:18+01:00",
+        "alt": null,
+        "width": 1536,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A2_6d4ceea8-40e0-44b5-a721-1fb461225f74.png?v=1756636698"
+      }
+    },
+    {
+      "id": 657308287318,
+      "handle": "bottle-cleaning",
+      "title": "Bottle Cleaning",
+      "updated_at": "2025-09-09T15:34:43+01:00",
+      "body_html": "<p>Keep your baby's feeding equipment hygienically clean with our range of essential cleaning tools. From specially designed bottle brushes with teat cleaners to stylish and practical drying racks, we have everything you need to wash and dry your bottles with ease. Ensure every feed is a fresh and safe one for your baby.</p>",
+      "published_at": "2025-08-28T18:34:03+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "bottle cleaner"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "bottle cleaner"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Drying Rack"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Drying Rack"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bottle Cleaning brush"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle Cleaning brush"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle brush"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bottle brush"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "teat cleaner"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "brush cleaner"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "brush"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657308287318",
+      "image": {
+        "created_at": "2025-08-31T11:55:37+01:00",
+        "alt": null,
+        "width": 771,
+        "height": 506,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_f1cec719-77ab-40ab-bfa4-2dde2532ef15.png?v=1756637737"
+      }
+    },
+    {
+      "id": 657307795798,
+      "handle": "bottle-sterilisers-warmers",
+      "title": "Bottle Sterilisers & Warmers",
+      "updated_at": "2025-09-08T12:51:43+01:00",
+      "body_html": "<p>Save time and gain peace of mind with our collection of modern bottle sterilisers and warmers. Our electric steam sterilisers eliminate 99.9% of harmful germs, while our bottle warmers quickly and safely heat milk to the perfect temperature. Discover sleek, efficient designs that make your daily routine easier.</p>",
+      "published_at": "2025-08-28T18:28:41+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bottle Sterilizer"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bottle Steriliser"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle Sterilizer"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle Steriliser"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle Warmer"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bottle Warmer"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bottle Heater"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby bottle warmer"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby bottle steriliser"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Baby bottle warmer"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657307795798",
+      "image": {
+        "created_at": "2025-08-31T11:47:52+01:00",
+        "alt": null,
+        "width": 779,
+        "height": 510,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A3_a38faf82-f37e-4fa4-af8b-c4f6775a0e76.png?v=1756637272"
+      }
+    },
+    {
+      "id": 657307697494,
+      "handle": "bottle-teats-nipples",
+      "title": "Bottle Teats & Nipples",
+      "updated_at": "2025-09-09T15:15:34+01:00",
+      "body_html": "<p>As your baby grows, their feeding needs change. Find the perfect flow rate for your little one with our collection of replacement bottle teats and nipples. We offer a range of sizes, from slow-flow for newborns to faster flows for older babies, all made from soft, baby-safe silicone. Ensure your baby always has a comfortable and efficient feed.</p>",
+      "published_at": "2025-08-28T18:25:41+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bottle Teat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bottle Nipple"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle Teat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bottle Nipple"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Feeding Nipple"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Feeding Teat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Nipple"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Teat"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657307697494",
+      "image": {
+        "created_at": "2025-08-31T12:03:42+01:00",
+        "alt": null,
+        "width": 769,
+        "height": 513,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A1_db947c01-f6b8-4f25-9b6a-cbdc006fdbab.png?v=1756638222"
+      }
+    },
+    {
+      "id": 657306648918,
+      "handle": "bottles-for-breastfed-babies",
+      "title": "Bottles for Breastfed Babies",
+      "updated_at": "2025-09-16T12:53:20+01:00",
+      "body_html": "<p>Make the transition between breast and bottle seamless. This collection is specially curated for breastfed babies, featuring bottles with wide, soft, breast-like teats to encourage a natural latch and reduce the chance of nipple confusion. Perfect for parents who are combination feeding or introducing a bottle for the first time.</p>",
+      "published_at": "2025-08-28T18:13:04+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Breastfeeding bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Breastfeeding bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Breast feeding bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "soft baby bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Breast Milk Imitating Feeder"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "breast-milk-bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "breast-to-bottle-transition"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "natural breast milk feeding bottle for newborns & infants."
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657306648918",
+      "image": {
+        "created_at": "2025-08-31T11:15:49+01:00",
+        "alt": "Four baby bottles for breastfed babies in various designs: Como Tomo (green), Dr. Brown's (clear), Lansinoh (purple), Philip",
+        "width": 1536,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_24a41ea5-d319-4ef3-b4c2-fdcc077836ca.png?v=1758023600"
+      }
+    },
+    {
+      "id": 657305993558,
+      "handle": "bpa-free-plastic-bottles",
+      "title": "BPA-Free Plastic Bottles",
+      "updated_at": "2025-09-16T12:52:20+01:00",
+      "body_html": "<p>Lightweight, convenient, and trusted by parents everywhere. Our collection of plastic baby bottles are all guaranteed to be 100% free of BPA, BPS, and phthalates. We've curated the most innovative and ergonomically designed bottles that offer practicality without compromising on safety for your little one.</p>",
+      "published_at": "2025-08-28T18:05:36+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "BPA-Free Plastic Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Plastic Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Plastic Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Plastic feeding Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "plastic baby bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Plastic Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "PP Plastic Baby Feeder"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "plastic feeding bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "BPA-Free Baby Feeding"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "BPA-Free Baby Tableware"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "bpa-free-baby-bottles"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657305993558",
+      "image": {
+        "created_at": "2025-08-31T10:53:49+01:00",
+        "alt": "Clear BPA-free plastic baby bottle with white lid and measurement markings.",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_27cd89ff-130f-44cd-9faf-0453b3fe605f.png?v=1758023540"
+      }
+    },
+    {
+      "id": 657381327190,
+      "handle": "complete-weaning-sets",
+      "title": "Complete Weaning Sets",
+      "updated_at": "2025-09-16T12:49:36+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">The perfect start to solid foods. Our curated weaning sets bundle all the matching tableware you need, from suction plates and bowls to first cutlery and cups.</p>",
+      "published_at": "2025-08-30T03:01:40+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Weaning Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "weaning tableware"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Weaning Set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Weaning tableware"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "weaning plate"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "weaning bowl"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "weaning cutlery"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "weaning cup"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "suction"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "easy-grip"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657381327190",
+      "image": {
+        "created_at": "2025-08-30T03:01:39+01:00",
+        "alt": "Complete Weaning Sets",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Complete_Weaning_Sets.webp?v=1756519300"
+      }
+    },
+    {
+      "id": 657372348758,
+      "handle": "convertible-high-chairs",
+      "title": "Convertible & Grows-with-you High Chairs",
+      "updated_at": "2025-09-16T12:57:47+01:00",
+      "body_html": "<p>The only chair they'll need. Our convertible high chairs cleverly transform from a supportive infant seat to a toddler chair and beyond, offering years of value.</p>",
+      "published_at": "2025-08-29T20:50:53+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "convertible high chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Grows-with-you High Chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Convertible high chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Grows-with-you High Chair"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657372348758",
+      "image": {
+        "created_at": "2025-08-29T20:50:51+01:00",
+        "alt": "A versatile convertible high chair shown in its infant, toddler, and youth chair configurations",
+        "width": 692,
+        "height": 637,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_versatile_convertible_high_chair_shown_in_its_infant_toddler_and_youth_chair_configurations.webp?v=1756497052"
+      }
+    },
+    {
+      "id": 657380770134,
+      "handle": "cups-and-drinkware",
+      "title": "Cups & Drinkware",
+      "updated_at": "2025-09-16T12:54:53+01:00",
+      "body_html": "<p>From their first sips to confident drinking. Our collection of cups and drinkware supports every stage, including sippy cups, straw cups, and expert-recommended open cups.</p>",
+      "published_at": "2025-08-30T02:26:48+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "cup"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "drinkware"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "sippy"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "straw"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "open cup"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "cup"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "drinkware"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "sippy"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "straw"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "open cup"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "sip"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657380770134",
+      "image": {
+        "created_at": "2025-08-30T02:26:46+01:00",
+        "alt": "Cups & Drinkware",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Cups_Drinkware.webp?v=1756517208"
+      }
+    },
+    {
+      "id": 657380901206,
+      "handle": "cutlery-and-utensils",
+      "title": "Cutlery & Utensils",
+      "updated_at": "2025-09-16T12:49:36+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">Designed for little hands to hold. Our ergonomic baby and toddler cutlery helps develop self-feeding skills with easy-grip handles and safe, effective designs.</p>",
+      "published_at": "2025-08-30T02:34:49+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "cutlery"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "utensil"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "cutlery"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "utensil"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "knife"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "fork"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "spoon"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "spoon"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657380901206",
+      "image": {
+        "created_at": "2025-08-30T02:34:47+01:00",
+        "alt": "cutlery and utensils",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/cutlery_and_utensils.webp?v=1756517688"
+      }
+    },
+    {
+      "id": 657689313622,
+      "handle": "daycare-ready-feeding-essentials",
+      "title": "Daycare Ready Feeding Essentials",
+      "updated_at": "2025-09-11T11:56:00+01:00",
+      "body_html": "Portable, labeled feeding supplies perfect for daycare and childcare - bottles, warmers, bibs, and travel-friendly feeding tools.",
+      "published_at": "2025-09-03T13:23:06+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "portable_feeding"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "daycare_supplies"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "bottle_warmer"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "travel_feeding"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "childcare_ready"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby feeding accessory"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby feeding bowl"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby feeding spoon"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657689313622"
+    },
+    {
+      "id": 657383063894,
+      "handle": "first-birthday-gifts",
+      "title": "First Birthday Gifts",
+      "updated_at": "2025-09-03T12:45:29+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">Celebrate their first big milestone with a gift they can grow with. Our toddler tableware, fun cutlery, and activity placemats make for a perfect and practical first birthday present.</p>",
+      "published_at": "2025-08-30T04:59:37+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Toddler Dining Seat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Toddler Dining"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "toddler gift"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "birthday"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "party"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "parties"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "first birthday"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "celebration"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657383063894",
+      "image": {
+        "created_at": "2025-08-30T04:59:35+01:00",
+        "alt": "Practical First Birthday Gifts for Toddlers",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Practical_First_Birthday_Gifts_for_Toddlers.webp?v=1756526376"
+      }
+    },
+    {
+      "id": 657382605142,
+      "handle": "first-stage-feeding",
+      "title": "First Stage (4-6 Months)",
+      "updated_at": "2025-09-16T15:35:49+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">For their very first tastes of solid food. This collection includes soft-tip spoons, small suction bowls, and easy-clean bibs perfect for the puree stage.</p>",
+      "published_at": "2025-08-30T04:20:49+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "infant"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "First Stage"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "First Stage"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "infant"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "puree"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "soft"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "small"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657382605142",
+      "image": {
+        "created_at": "2025-08-30T04:20:48+01:00",
+        "alt": "First Stage (4-6 Months) feeding",
+        "width": 1280,
+        "height": 1280,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/First_Stage_4-6_Months_tableware.webp?v=1756524049"
+      }
+    },
+    {
+      "id": 657495163222,
+      "handle": "food-storage-containers",
+      "title": "Food Storage Containers",
+      "updated_at": "2025-09-16T12:50:30+01:00",
+      "body_html": "<p>Keep your homemade baby food fresh, organised, and ready for mealtime. Our collection of food storage containers are made from safe, non-toxic materials like glass and silicone, with airtight and leak-proof lids to preserve nutrients and flavour. Perfect for storing portions in the fridge or packing in a diaper bag for days out.</p>",
+      "published_at": "2025-09-01T03:11:19+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby food storage bag"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "food container"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "food container"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "storage bag"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "storage box"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "glass container"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "silicone container"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "glass storage"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "silicone storage"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "storage"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657495163222",
+      "image": {
+        "created_at": "2025-09-03T09:29:11+01:00",
+        "alt": null,
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_652e0dd1-e969-4cbc-a8af-49eb3ef25c3e.png?v=1756888151"
+      }
+    },
+    {
+      "id": 657382932822,
+      "handle": "gifts-sets",
+      "title": "Gifts & Sets",
+      "updated_at": "2025-09-03T12:45:29+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">Find the perfect present for a new parent or baby. Our curated collection of beautiful and practical gifts and sets are sure to be loved and used every day, from baby showers to first birthdays.</p>",
+      "published_at": "2025-08-30T04:44:23+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Gift"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "gift"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "birthday"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "gift set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "giftset"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "shower gift"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "party"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657382932822",
+      "image": {
+        "created_at": "2025-08-30T04:44:22+01:00",
+        "alt": "baby tableware gift sets",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/baby_tableware_gift_sets.webp?v=1756525463"
+      }
+    },
+    {
+      "id": 657305764182,
+      "handle": "glass-baby-bottles",
+      "title": "Glass Baby Bottles",
+      "updated_at": "2025-09-01T11:46:04+01:00",
+      "body_html": "<p>Discover the pure and sustainable choice for your baby's feeding journey. Our curated collection of glass baby bottles are crafted from thermal-shock resistant borosilicate glass, ensuring they are safe, durable, and easy to clean. Free from the chemicals sometimes found in plastic, glass offers ultimate peace of mind. Shop our range of ergonomic and stylish glass bottles from leading brands.</p>",
+      "published_at": "2025-08-28T17:57:50+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Glass Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Glass Bottle Kids"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Glass Baby Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Glass Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Kids glass bottle"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657305764182",
+      "image": {
+        "created_at": "2025-08-31T11:59:55+01:00",
+        "alt": null,
+        "width": 777,
+        "height": 516,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_61ca34b1-8419-4b8a-a816-9215f7ab26aa.png?v=1756637995"
+      }
+    },
+    {
+      "id": 657750163798,
+      "handle": "grandparents-helper-feeding-station",
+      "title": "Grandparent's Helper Feeding Station",
+      "updated_at": "2025-09-08T12:52:12+01:00",
+      "body_html": "Easy-to-use feeding essentials perfect for grandparents watching little ones - simple, safe, and mess-free solutions for confident caregiving.",
+      "published_at": "2025-09-04T11:00:27+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bottle Warmer"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bibs"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Spoon Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Gift Box Set"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657750163798"
+    },
+    {
+      "id": 657378967894,
+      "handle": "high-chair-accessories",
+      "title": "High Chair Accessories",
+      "updated_at": "2025-09-04T03:29:37+01:00",
+      "body_html": "<p>Personalise and perfect your high chair with our range of essential accessories. Discover comfortable cushions, easy-clean placemats, replacement parts and more to enhance your mealtime setup.</p>",
+      "published_at": "2025-08-30T00:17:16+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "High Chair Accessory"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "High Chair Accessories"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "cushioned"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "placemat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "placemat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "cushion"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "replacement"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Chair Cushion"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "High Chair Cushion"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "cushion"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657378967894",
+      "image": {
+        "created_at": "2025-08-30T00:17:15+01:00",
+        "alt": "High Chair Accessories",
+        "width": 663,
+        "height": 573,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/High_Chair_Accessories.webp?v=1756509436"
+      }
+    },
+    {
+      "id": 657379066198,
+      "handle": "high-chair-cushions",
+      "title": "High Chair Cushions & Inserts",
+      "updated_at": "2025-09-16T13:11:24+01:00",
+      "body_html": "<p>Add a touch of comfort and style with our high chair cushions and inserts. Made from wipeable, baby-safe fabrics in a range of modern prints to suit your home.</p>",
+      "published_at": "2025-08-30T00:24:55+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "cushion"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "insert"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "cushion"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "pad"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "harness"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "high chair cover"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "high chair insert"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657379066198",
+      "image": {
+        "created_at": "2025-08-30T00:24:53+01:00",
+        "alt": "High Chair Cushions & Inserts",
+        "width": 663,
+        "height": 609,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/High_Chair_Cushions_Inserts.webp?v=1756509895"
+      }
+    },
+    {
+      "id": 657380278614,
+      "handle": "high-chair-placemats",
+      "title": "High Chair Placemats",
+      "updated_at": "2025-09-11T12:07:38+01:00",
+      "body_html": "<p>Protect your tray and contain the mess. Our high chair placemats are designed to fit popular models perfectly, made from non-slip, food-grade silicone for easy cleanup.</p>",
+      "published_at": "2025-08-30T01:54:31+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "High Chair Placemats"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "High Chair Placemat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Placemat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "High Chair Placemat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Baby Chair Placemats"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "placemat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Waterproof baby mat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Waterproof baby towel"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Anti-fraction"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657380278614",
+      "image": {
+        "created_at": "2025-08-30T01:54:30+01:00",
+        "alt": "High Chair Placemats",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/High_Chair_Placemats.webp?v=1756515271"
+      }
+    },
+    {
+      "id": 657370251606,
+      "handle": "high-chairs",
+      "title": "High Chairs",
+      "updated_at": "2025-09-16T13:12:04+01:00",
+      "body_html": "<p>Explore our complete collection of baby and toddler high chairs. From modern minimalist designs to classic wooden frames, find the perfect, safe, and stylish seat for your little one's first meals.</p>",
+      "published_at": "2025-08-29T20:07:05+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "high chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "high chair"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657370251606",
+      "image": {
+        "created_at": "2025-08-29T20:07:04+01:00",
+        "alt": "A beautiful, modern high chair with light wood legs and a white seat in a bright dining room",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_beautiful_modern_high_chair_with_light_wood_legs_and_a_white_seat_in_a_bright_dining_room..webp?v=1756494425"
+      }
+    },
+    {
+      "id": 657381720406,
+      "handle": "high-chairs-and-accessories",
+      "title": "High Chairs & Accessories",
+      "updated_at": "2025-09-16T13:11:49+01:00",
+      "body_html": "<p>Discover the centrepiece of your baby's mealtime experience. Our curated collection of high chairs and accessories is chosen for superior safety, ergonomic design, and a modern aesthetic that complements your home.</p>",
+      "published_at": "2025-08-30T03:34:49+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Highchairs"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "high chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "high chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "High Chair Placemat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "cushion"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "insert"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Booster seat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Dining chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "tray"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "strap"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657381720406",
+      "image": {
+        "created_at": "2025-08-30T03:34:47+01:00",
+        "alt": "High Chairs & Accessories",
+        "width": 667,
+        "height": 609,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/High_Chairs_Accessories.webp?v=1756521288"
+      }
+    },
+    {
+      "id": 657383260502,
+      "handle": "luxury-baby-gifts",
+      "title": "Luxury Baby Gifts",
+      "updated_at": "2025-09-03T12:45:58+01:00",
+      "body_html": "<p>For a truly special occasion, explore our range of luxury baby gifts. Featuring our most premium products, iconic designs, and beautiful gift-ready packaging, these are presents to be treasured.</p>",
+      "published_at": "2025-08-30T05:24:05+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "luxury baby"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "baby gift"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "shower gift"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "baby shower"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "weaning set"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657383260502",
+      "image": {
+        "created_at": "2025-08-30T05:24:03+01:00",
+        "alt": "Luxury Baby Gifts & Premium Weaning Sets",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Luxury_Baby_Gifts_Premium_Weaning_Sets.webp?v=1756527845"
+      }
+    },
+    {
+      "id": 657494901078,
+      "handle": "meal-prep-storage",
+      "title": "Meal Prep & Storage",
+      "updated_at": "2025-09-16T12:55:23+01:00",
+      "body_html": "<p>Make healthy, homemade baby food with ease. Our curated collection of meal prep and food storage solutions has everything you need to prepare, portion, and preserve nutritious meals for your little one. From all-in-one blenders to freezer-safe trays, discover the tools that save you time and give you peace of mind.</p>",
+      "published_at": "2025-09-01T02:55:02+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby meal preparation tool"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "preparation"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "preparation"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "meal prep"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "storage"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "container"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "food pouch"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "insulated"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "food maker"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "blender"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "freezer tray"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby food storage bag"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Kerafyn baby food grinder"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "manual baby food processor"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "portable baby food grinder"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657494901078",
+      "image": {
+        "created_at": "2025-09-03T09:26:49+01:00",
+        "alt": "Colorful meal prep containers and storage bowls with fruits and vegetables, featuring various shapes and sizes.",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A1_e13962cb-1e01-4154-ae8b-7e098857a3b1.png?v=1758023361"
+      }
+    },
+    {
+      "id": 657381654870,
+      "handle": "mess-free-essentials",
+      "title": "Mess-Free Essentials",
+      "updated_at": "2025-09-16T13:11:01+01:00",
+      "body_html": "<p>While a truly mess-free meal is a parent's dream, this collection of clever products comes close! Discover our best suction tableware, full-coverage bibs, and spill-proof cups designed to contain the chaos.</p>",
+      "published_at": "2025-08-30T03:28:00+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Mess-Free"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "mess-free"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "mess free"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Bib"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Suction"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "towel"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "napkin"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "feeding set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "feeding set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "spill-resistant"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657381654870",
+      "image": {
+        "created_at": "2025-08-30T03:27:59+01:00",
+        "alt": "Mess-Free Essentials",
+        "width": 645,
+        "height": 647,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Mess-Free_Essentials.webp?v=1756520880"
+      }
+    },
+    {
+      "id": 657371103574,
+      "handle": "modern-high-chairs",
+      "title": "Modern & Minimalist High Chairs",
+      "updated_at": "2025-09-16T12:57:18+01:00",
+      "body_html": "<p>For the style-conscious home. Our modern high chairs combine sleek lines, premium materials, and innovative features to make mealtimes simple and beautiful.</p>",
+      "published_at": "2025-08-29T20:27:42+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "modern high chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "minimalist high chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "modern high chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "modern"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "minimalist"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657371103574",
+      "image": {
+        "created_at": "2025-08-29T20:27:40+01:00",
+        "alt": "A chic, modern high chair with a white seat and light wood legs in a Scandinavian-style dining room",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_chic_modern_high_chair_with_a_white_seat_and_light_wood_legs_in_a_Scandinavian-style_dining_room.webp?v=1756495661"
+      }
+    },
+    {
+      "id": 657383129430,
+      "handle": "new-parent-gift-sets",
+      "title": "New Parent Gift Sets",
+      "updated_at": "2025-09-03T12:45:29+01:00",
+      "body_html": "<p>Support the new parents in your life with a thoughtful and practical gift. Our curated sets are designed to make their journey a little simpler and more beautiful, bundling essentials for their new arrival.</p>",
+      "published_at": "2025-08-30T05:17:03+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "gift set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "gift set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "shower gift"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "shower gift"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "weaning set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "luxury"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "baby gift"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "baby shower"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "parties"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "party"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657383129430",
+      "image": {
+        "created_at": "2025-08-30T05:17:01+01:00",
+        "alt": "Thoughtful Gift Sets for New Parents",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/New_Parent_Gift_Sets.webp?v=1756527422"
+      }
+    },
+    {
+      "id": 657306943830,
+      "handle": "newborn-bottle-sets",
+      "title": "Newborn Bottle Sets",
+      "updated_at": "2025-09-09T14:52:38+01:00",
+      "body_html": "<p>Get everything you need to start your bottle-feeding journey with confidence. Our newborn bottle sets are the perfect starter kits, often including multiple bottle sizes, slow-flow teats, and cleaning accessories. A beautiful and practical gift for any parent-to-be, curated for the earliest stages of feeding.</p>",
+      "published_at": "2025-08-28T18:16:14+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Newborn Bottle Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Newborn Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Newborn Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Newborn Bottle set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "bottle set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby bottle set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Infant Feeding Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "feeding bottle set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "infant bottle set"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657306943830",
+      "image": {
+        "created_at": "2025-08-31T11:24:07+01:00",
+        "alt": null,
+        "width": 1536,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A1_7834dd22-6a03-463d-b7cc-411d2e748719.png?v=1756635847"
+      }
+    },
+    {
+      "id": 657381622102,
+      "handle": "on-the-go-feeding",
+      "title": "On-the-Go Feeding",
+      "updated_at": "2025-09-16T13:11:49+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">Make eating out simple and stylish. Our on-the-go collection includes portable bibs, travel cutlery sets, and insulated jars for warm meals anywhere.</p>",
+      "published_at": "2025-08-30T03:16:21+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "On-the-Go"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "On-the-Go Feeding"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Portable Dining Seat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "portable dining"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "travel set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "portable bib"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "insulated jar"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "insulated"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "travel cutlery"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "travel tableware"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "travel cup"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "travel plate"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "portable jar"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "portable set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "portable tableware"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "on the go"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "portable feeding"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "travel feeding"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657381622102",
+      "image": {
+        "created_at": "2025-08-30T03:16:20+01:00",
+        "alt": "On-the-Go Feeding",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/On-the-Go_Feeding.webp?v=1756520181"
+      }
+    },
+    {
+      "id": 657381097814,
+      "handle": "placemats",
+      "title": "Placemats",
+      "updated_at": "2025-09-11T12:05:52+01:00",
+      "body_html": "<p>Protect your table and make cleanup a breeze with our non-slip silicone placemats. Beautifully designed to complement a modern home and define your child's eating space.</p>",
+      "published_at": "2025-08-30T02:48:47+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Placemat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "mat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Placemat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "table cover"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "baby place mats"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "place mat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Placemat"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Eating Mat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby eating mat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Eating Mat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Waterproof baby mat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Waterproof baby towel"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657381097814",
+      "image": {
+        "created_at": "2025-08-30T02:48:46+01:00",
+        "alt": "Placemats",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Placemats.webp?v=1756518527"
+      }
+    },
+    {
+      "id": 657380442454,
+      "handle": "plates-and-bowls",
+      "title": "Plates & Bowls",
+      "updated_at": "2025-09-16T12:57:47+01:00",
+      "body_html": "<p>Serve up delicious meals in our beautiful and practical baby plates and bowls. Designed for little ones, with features like suction bases and divided sections.</p>",
+      "published_at": "2025-08-30T02:02:36+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Plate"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bowl"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Plate"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bowl"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "plate"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "bowl"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657380442454",
+      "image": {
+        "created_at": "2025-08-30T02:02:35+01:00",
+        "alt": "baby Plates and bowls",
+        "width": 1000,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/baby_Plates_and_bowls.webp?v=1756515756"
+      }
+    },
+    {
+      "id": 657379230038,
+      "handle": "replacement-trays-straps",
+      "title": "Replacement Trays & Straps",
+      "updated_at": "2025-09-16T13:11:24+01:00",
+      "body_html": "<p>Extend the life of your favourite high chair with our official replacement trays and straps. Find the exact parts you need to keep your chair safe, clean, and functional for years to come.</p>",
+      "published_at": "2025-08-30T00:36:30+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "tray"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "replacement tray"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "tray"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "strap"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "replacement strap"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657379230038",
+      "image": {
+        "created_at": "2025-08-30T00:36:29+01:00",
+        "alt": "Replacement Trays & Straps",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Replacement_Trays_Straps.webp?v=1756510590"
+      }
+    },
+    {
+      "id": 657747935574,
+      "handle": "restaurant-baby-chair",
+      "title": "Restaurant Baby Chairs - Commercial High Chairs",
+      "updated_at": "2025-09-07T08:41:53+01:00",
+      "body_html": "<h2>Restaurant Baby Chairs for Commercial Dining</h2><p>Professional-grade baby chairs designed specifically for restaurant and commercial dining environments. These commercial high chairs feature durable construction, easy-to-clean surfaces, and safety features that meet commercial foodservice standards.</p><p>Restaurant baby chairs must withstand frequent daily use while maintaining safety and hygiene standards. Our collection includes stackable designs for efficient storage, non-porous materials that resist stains and bacteria, and sturdy frames built to handle the demands of busy dining establishments.</p><p>Key features include adjustable safety straps, removable trays for easy cleaning, and stable bases that prevent tipping. These commercial-grade baby chairs help restaurants provide safe, comfortable seating for their youngest guests while streamlining cleanup and storage operations.</p>",
+      "published_at": "2025-09-04T10:31:55+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": false,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "restaurant-baby-chair"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657747935574"
+    },
+    {
+      "id": 658758893910,
+      "handle": "returning-to-work-mom-feeding-prep",
+      "title": "Returning to Work Mom Feeding Prep",
+      "updated_at": "2025-09-16T13:24:10+01:00",
+      "body_html": "Essential feeding gear for moms transitioning back to work after maternity leave, featuring portable warmers, training cups, and easy-clean essentials.",
+      "published_at": "2025-09-16T13:24:10+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "bottle warmer"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "sippy cup"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "feeding bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "portable"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "working mom"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/658758893910"
+    },
+    {
+      "id": 657495294294,
+      "handle": "reusable-food-pouches",
+      "title": "Reusable Food Pouches",
+      "updated_at": "2025-09-11T11:58:00+01:00",
+      "body_html": "<p>Take healthy, homemade meals on the go without the waste. Our reusable food pouches are an eco-friendly and cost-effective alternative to single-use shop-bought pouches. Featuring wide, easy-fill openings and leak-proof seals, they are perfect for purees, smoothies, and yoghurts for mess-free snacking anywhere, anytime.</p>",
+      "published_at": "2025-09-01T03:18:04+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "reusable food pouch"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "food pouch"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "reusable food pouch"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "food pouch"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "food bag"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "baby food bag"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby food bag"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby food pouch"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "reusable-baby-bib"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "reusable-baby-feeding-set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "reusable-baby-towel"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657495294294",
+      "image": {
+        "created_at": "2025-09-03T09:32:08+01:00",
+        "alt": null,
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A1_934fcc1c-0318-4e35-8fbd-fdde6a08c38c.png?v=1756888328"
+      }
+    },
+    {
+      "id": 657305829718,
+      "handle": "silicone-baby-bottles",
+      "title": "Silicone Baby Bottles",
+      "updated_at": "2025-09-09T15:34:43+01:00",
+      "body_html": "<p>Soft, safe, and designed to mimic the natural feel of breastfeeding. Our collection of silicone baby bottles are made from 100% food-grade silicone, making them lightweight, unbreakable, and a perfect choice for tiny hands to hold. Their flexible nature makes them easy to clean and comfortable for your baby. Explore our range of aesthetic and ergonomic silicone bottles.</p>",
+      "published_at": "2025-08-28T18:01:16+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Silicone Baby Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Silicone Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Silicone Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Silicone baby bottle"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657305829718",
+      "image": {
+        "created_at": "2025-08-31T10:43:22+01:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_9d34e815-10df-4b96-8a14-2a011a99e618.png?v=1756633402"
+      }
+    },
+    {
+      "id": 657495261526,
+      "handle": "silicone-freezer-trays",
+      "title": "Silicone Freezer Trays",
+      "updated_at": "2025-09-16T12:50:01+01:00",
+      "body_html": "<p>The secret to efficient meal prep is batch-cooking. Our silicone freezer trays allow you to freeze perfect, single-serving portions of homemade purees and baby food. The flexible, non-stick silicone makes it effortless to pop out a single cube for mealtime, and the included lids prevent freezer burn and contamination.</p>",
+      "published_at": "2025-09-01T03:14:56+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "freezer tray"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "silicone freezer tray"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "freezer tray"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "silicone freezer tray"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Silicon Freezer Lid"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Silicone Freezer Tray"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Silicone Freezer Box"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Silicone Freezer Tray"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657495261526",
+      "image": {
+        "created_at": "2025-09-03T09:34:11+01:00",
+        "alt": null,
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A2_c8357561-5671-40ad-a19a-5a7e919ba2cf.png?v=1756888451"
+      }
+    },
+    {
+      "id": 657382342998,
+      "handle": "silicone-tableware",
+      "title": "Silicone Tableware",
+      "updated_at": "2025-09-16T12:57:16+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">Durable, unbreakable, and beautifully minimalist. Our complete range of 100% food-grade silicone tableware is the safe and stylish choice for modern parents.</p>",
+      "published_at": "2025-08-30T03:57:34+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Silicone"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Silicone"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "silicone tableware"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657382342998",
+      "image": {
+        "created_at": "2025-08-30T03:57:33+01:00",
+        "alt": "Silicone Tableware",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Silicone_Tableware.webp?v=1756522654"
+      }
+    },
+    {
+      "id": 657381228886,
+      "handle": "snack-pots",
+      "title": "Snack Pots",
+      "updated_at": "2025-09-16T12:50:05+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">For healthy snacks at home or on the go. Our clever snack pots are designed for little hands to easily access their food while preventing major spills.</p>",
+      "published_at": "2025-08-30T02:57:13+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Snack Pots"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "snack plate"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Snack Pot"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "snack plate"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "snack"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657381228886",
+      "image": {
+        "created_at": "2025-08-30T02:57:12+01:00",
+        "alt": "Snack Pots",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Snack_Pots.webp?v=1756519033"
+      }
+    },
+    {
+      "id": 658757386582,
+      "handle": "space-saving-chair",
+      "title": "Space Saving Chairs - Compact Folding & Stackable",
+      "updated_at": "2025-09-16T13:12:04+01:00",
+      "body_html": "<h2>Space Saving Chairs for Small Spaces</h2><p>Transform your compact living space with our collection of space saving chairs designed for modern homes and apartments. These chairs maximize functionality while minimizing footprint through innovative folding mechanisms, stackable designs, and compact profiles.</p><h3>Folding Chairs for Easy Storage</h3><p>Our folding space saving chairs collapse flat for convenient storage in closets, under beds, or behind doors. Perfect for occasional seating that doesn't compromise on comfort or style.</p><h3>Stackable Chair Solutions</h3><p>Stackable designs allow multiple chairs to nest together, reducing storage space by up to 80%. Ideal for dining rooms, home offices, and multi-purpose spaces where flexibility matters.</p><h3>Compact Chair Designs</h3><p>Each space saving chair features a streamlined profile that fits seamlessly into tight corners, small dining areas, and studio apartments without overwhelming the space.</p><p>Whether you need extra seating for guests or daily-use chairs that disappear when not needed, our space saving chair collection offers practical solutions for any compact living situation.</p>",
+      "published_at": "2025-09-16T13:04:02+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": false,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "space-saving-chair"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/658757386582"
+    },
+    {
+      "id": 657305895254,
+      "handle": "stainless-steel-bottles",
+      "title": "Stainless Steel Bottles",
+      "updated_at": "2025-09-04T11:26:36+01:00",
+      "body_html": "<p>The ultimate choice for durability and longevity. Our stainless steel baby bottles are completely plastic-free, shatterproof, and built to last from the newborn stage to toddlerhood and beyond. Many of our models are also insulated, keeping milk warm for longer when you're on the go. Shop our range of hygienic and eco-friendly stainless steel bottles.</p>",
+      "published_at": "2025-08-28T18:03:39+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Stainless Steel Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Stainless Steel Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Stainless Steel baby Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Stainless Steel Baby Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Stainless Steel Feeding Bottle"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Stainless Steel feeding Bottle"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657305895254",
+      "image": {
+        "created_at": "2025-08-31T11:06:46+01:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_23c64a5a-df40-4807-b857-5ea23ce8ab31.png?v=1756634806"
+      }
+    },
+    {
+      "id": 657382441302,
+      "handle": "stainless-steel-tableware",
+      "title": "Stainless Steel Tableware",
+      "updated_at": "2025-09-04T11:26:36+01:00",
+      "body_html": "<p>Hygienic, durable, and completely plastic-free. Our stainless steel tableware is built to last a lifetime, perfect for toddlers and beyond.</p>",
+      "published_at": "2025-08-30T04:05:07+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Stainless Steel Tableware"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Stainless Steel"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Stainless Steel"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657382441302",
+      "image": {
+        "created_at": "2025-08-30T04:05:06+01:00",
+        "alt": "Stainless Steel Tableware",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Stainless_Steel_Tableware.webp?v=1756523107"
+      }
+    },
+    {
+      "id": 657381392726,
+      "handle": "suction-tableware",
+      "title": "Suction Tableware",
+      "updated_at": "2025-09-16T12:49:36+01:00",
+      "body_html": "<p>No more flying plates! Our powerful suction tableware is designed to stay firmly put on high chair trays and tables, making mealtimes less messy and more fun.</p>",
+      "published_at": "2025-08-30T03:07:13+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "suction"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "suction"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "suction tableware"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "suction plate"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "suction cup"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657381392726",
+      "image": {
+        "created_at": "2025-08-30T03:07:12+01:00",
+        "alt": "Suction Tableware",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Suction_Tableware.webp?v=1756519633"
+      }
+    },
+    {
+      "id": 658049958230,
+      "handle": "thanksgiving-family-gathering-toddler-setup",
+      "title": "Thanksgiving Family Gathering Toddler Setup",
+      "updated_at": "2025-09-08T15:48:07+01:00",
+      "body_html": "Essential portable feeding gear for toddlers during holiday family gatherings, making mealtime manageable away from home.",
+      "published_at": "2025-09-08T13:29:35+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "thanksgiving"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "portable"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "toddler dining"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "family gathering"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "holiday feeding"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/658049958230"
+    },
+    {
+      "id": 657848271190,
+      "handle": "toddler-independence-milestone-kit",
+      "title": "Toddler Independence Milestone Kit",
+      "updated_at": "2025-09-11T12:03:02+01:00",
+      "body_html": "Self-feeding essentials for toddlers reaching independence milestones - perfect for 18-24 month developmental stages.",
+      "published_at": "2025-09-05T13:59:04+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "toddler"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "independence"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "self-feeding"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "milestone"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "development"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Toddler Drinking Accessory"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "toddler drinking training"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "toddler feeding accessory"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657848271190"
+    },
+    {
+      "id": 657382867286,
+      "handle": "toddler-stage-feeding",
+      "title": "Toddler Stage (1+ Year)",
+      "updated_at": "2025-09-16T12:57:47+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">As they master self-feeding, our toddler collection grows with them. Explore durable plates, stainless steel cutlery, and straw cups for independent mealtimes.</p>",
+      "published_at": "2025-08-30T04:37:43+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "toddler set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "toddler feeding"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "toddler set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "toddler feeding"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "stainless steel"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "straw"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "plate"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "spoon"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "knife"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "fork"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657382867286",
+      "image": {
+        "created_at": "2025-08-30T04:37:41+01:00",
+        "alt": "Toddler Stage (1+ Year) feeding",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/toddler_stage_feeding.webp?v=1756525062"
+      }
+    },
+    {
+      "id": 657372741974,
+      "handle": "travel-high-chairs",
+      "title": "Travel & Portable High Chairs",
+      "updated_at": "2025-09-16T13:11:49+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">Ensure your little one always has a safe seat at the table, wherever you go. Our travel high chairs are compact, lightweight, and easy to set up for meals on the move.</p>",
+      "published_at": "2025-08-29T20:58:44+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "travel high chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "portable high chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "travel high chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "portable high chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "travel"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "portable"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "portable"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "travel"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657372741974",
+      "image": {
+        "created_at": "2025-08-29T20:58:43+01:00",
+        "alt": "A stylish, compact portable high chair securely strapped to a modern cafe chair",
+        "width": 1280,
+        "height": 1280,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_stylish_compact_portable_high_chair_securely_strapped_to_a_modern_cafe_chair.webp?v=1756497524"
+      }
+    },
+    {
+      "id": 657382736214,
+      "handle": "weaning-stage-feeding",
+      "title": "Weaning Stage (6-12 Months)",
+      "updated_at": "2025-09-16T12:49:36+01:00",
+      "body_html": "<p><meta charset=\"utf-8\">Everything you need for the exciting journey of baby-led weaning. Discover suction plates, easy-grip utensils, and first cups to encourage self-feeding.</p>",
+      "published_at": "2025-08-30T04:30:39+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Weaning Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "weaning tableware"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Weaning Set"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Weaning tableware"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "weaning plate"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "weaning bowl"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "weaning cutlery"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "weaning cup"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "suction"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "easy-grip"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657382736214",
+      "image": {
+        "created_at": "2025-08-30T04:30:38+01:00",
+        "alt": "Weaning Stage (6-12 Months) feeding",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/Weaning_Stage_6-12_Months_feeding.webp?v=1756524639"
+      }
+    },
+    {
+      "id": 657371988310,
+      "handle": "wooden-high-chairs",
+      "title": "Wooden High Chairs",
+      "updated_at": "2025-09-11T11:59:17+01:00",
+      "body_html": "<p>Explore our timeless collection of wooden high chairs. Crafted from sustainable woods, these durable chairs offer classic style and adjustability to grow with your child.</p>",
+      "published_at": "2025-08-29T20:45:10+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "wooden high chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "wooden high chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "wooden chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Wooden Seat"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Wood"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/657371988310",
+      "image": {
+        "created_at": "2025-08-29T20:45:08+01:00",
+        "alt": "A beautiful, classic wooden high chair with a natural finish in a warm, inviting kitchen",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_beautiful_classic_wooden_high_chair_with_a_natural_finish_in_a_warm_inviting_kitchen.webp?v=1756496709"
+      }
+    },
+    {
+      "id": 656489480534,
+      "handle": "shop-by-age-tableware",
+      "title": "Shop by Age",
+      "updated_at": "2025-08-27T16:18:38+01:00",
+      "body_html": "<p>Find the perfect products for your child's developmental stage. We've curated our essentials into collections for newborns, babies starting solids, and independent toddlers.</p>",
+      "published_at": "2025-08-17T18:03:39+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/656489480534",
+      "image": {
+        "created_at": "2025-08-17T18:03:38+01:00",
+        "alt": "A sequence of images showing a baby, an older baby, and a toddler at their respective feeding stages.",
+        "width": 2048,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/removed_8eacc070-55de-4b03-8fb9-337b601c94d5.png?v=1755777972"
+      }
+    },
+    {
+      "id": 656489349462,
+      "handle": "shop-by-material-tableware",
+      "title": "Shop by Material",
+      "updated_at": "2025-09-16T13:15:13+01:00",
+      "body_html": "<p>Choose the perfect material for your family's needs. We've organized our collection by our core materials—durable silicone, sustainable bamboo, and hygienic stainless steel—to make shopping easy.</p>",
+      "published_at": "2025-08-17T18:03:31+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/656489349462",
+      "image": {
+        "created_at": "2025-08-17T18:03:30+01:00",
+        "alt": "A triptych image showing silicone, bamboo, and stainless steel baby tableware side-by-side.",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/removed_6732f140-3689-4635-87ae-268529fdc104.png?v=1755773543"
+      }
+    },
+    {
+      "id": 656488923478,
+      "handle": "shop-by-product-tableware",
+      "title": "Shop by Product",
+      "updated_at": "2025-09-16T13:14:52+01:00",
+      "body_html": "<p>Find exactly what you're looking for. Our baby tableware is organised by product type to make your shopping experience simple and intuitive. Browse our collections of plates, bowls, cups, cutlery, and bibs to find the perfect addition to your mealtime routine.</p>",
+      "published_at": "2025-08-17T18:03:11+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/656488923478",
+      "image": {
+        "created_at": "2025-08-17T18:03:10+01:00",
+        "alt": "A clean, organized grid-like image showing different types of baby tableware categories.",
+        "width": 665,
+        "height": 603,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/removed_b54f9c45-ba02-442e-8595-bd85d870f4ec.png?v=1755777617"
+      }
+    },
+    {
+      "id": 656489185622,
+      "handle": "shop-by-solution-tableware",
+      "title": "Shop by Solution",
+      "updated_at": "2025-09-16T13:15:02+01:00",
+      "body_html": "<p>Shop for your specific needs. Our solution-oriented collections are curated to solve common parenting challenges, from finding the perfect gift to creating a mess-free mealtime.</p>",
+      "published_at": "2025-08-17T18:03:23+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/656489185622",
+      "image": {
+        "created_at": "2025-08-17T18:03:22+01:00",
+        "alt": "A graphic showcasing different baby feeding 'solutions' like weaning sets and on-the-go gear.",
+        "width": 1280,
+        "height": 1280,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/removed_24c9eeea-b175-4e79-bdfd-a40f67e71870.png?v=1755777809"
+      }
+    }
+  ]
+}
