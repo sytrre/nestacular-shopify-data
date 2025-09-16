@@ -4768,8 +4768,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9785224429910",
       "variants": [
         {
-          "product_id": 9785224429910,
           "id": 51169211187542,
+          "product_id": 9785224429910,
           "title": "Black",
           "price": "74.95",
           "position": 1,
@@ -4796,8 +4796,8 @@
           "image_id": 66185454911830
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211220310,
+          "product_id": 9785224429910,
           "title": "Dark brown",
           "price": "74.95",
           "position": 2,
@@ -4824,8 +4824,8 @@
           "image_id": 66185454944598
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211253078,
+          "product_id": 9785224429910,
           "title": "Grey",
           "price": "74.95",
           "position": 3,
@@ -4852,8 +4852,8 @@
           "image_id": 66185454977366
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211285846,
+          "product_id": 9785224429910,
           "title": "Grey blue",
           "price": "74.95",
           "position": 4,
@@ -4880,8 +4880,8 @@
           "image_id": 66185455010134
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211318614,
+          "product_id": 9785224429910,
           "title": "Matcha Green",
           "price": "74.95",
           "position": 5,
@@ -4908,8 +4908,8 @@
           "image_id": 66185455042902
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211351382,
+          "product_id": 9785224429910,
           "title": "Red",
           "price": "74.95",
           "position": 6,
@@ -4936,8 +4936,8 @@
           "image_id": 66185455075670
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211384150,
+          "product_id": 9785224429910,
           "title": "Retro Grey",
           "price": "74.95",
           "position": 7,
@@ -4964,8 +4964,8 @@
           "image_id": 66185455108438
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211416918,
+          "product_id": 9785224429910,
           "title": "Sakura pink",
           "price": "74.95",
           "position": 8,
@@ -4992,8 +4992,8 @@
           "image_id": 66185455141206
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211449686,
+          "product_id": 9785224429910,
           "title": "Spring Moss Green",
           "price": "74.95",
           "position": 9,
@@ -5020,8 +5020,8 @@
           "image_id": 66185455173974
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211482454,
+          "product_id": 9785224429910,
           "title": "Sunflower yellow",
           "price": "74.95",
           "position": 10,
@@ -5048,8 +5048,8 @@
           "image_id": 66185455206742
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211515222,
+          "product_id": 9785224429910,
           "title": "White",
           "price": "74.95",
           "position": 11,
@@ -5076,8 +5076,8 @@
           "image_id": 66185455239510
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211547990,
+          "product_id": 9785224429910,
           "title": "Wood color",
           "price": "74.95",
           "position": 12,
@@ -5106,8 +5106,8 @@
       ],
       "options": [
         {
-          "product_id": 9785224429910,
           "id": 12633433899350,
+          "product_id": 9785224429910,
           "name": "Color",
           "position": 1,
           "values": [
