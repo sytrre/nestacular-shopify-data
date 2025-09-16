@@ -207,8 +207,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9794949480790",
       "variants": [
         {
-          "product_id": 9794949480790,
           "id": 51211274518870,
+          "product_id": 9794949480790,
           "title": "Retro green double-layered dinner plate",
           "price": "256.95",
           "position": 1,
@@ -235,8 +235,8 @@
           "image_id": 66311410614614
         },
         {
-          "product_id": 9794949480790,
           "id": 51211274551638,
+          "product_id": 9794949480790,
           "title": "Vitality yellow single-layer dinner plate",
           "price": "256.95",
           "position": 2,
@@ -263,8 +263,8 @@
           "image_id": 66311430898006
         },
         {
-          "product_id": 9794949480790,
           "id": 51211274584406,
+          "product_id": 9794949480790,
           "title": "Ivory white double-layered dinner plate",
           "price": "256.95",
           "position": 3,
@@ -291,8 +291,8 @@
           "image_id": 66311483326806
         },
         {
-          "product_id": 9794949480790,
           "id": 51211274617174,
+          "product_id": 9794949480790,
           "title": "Ivory white single-layer dinner plate",
           "price": "256.95",
           "position": 4,
@@ -319,8 +319,8 @@
           "image_id": 66311483326806
         },
         {
-          "product_id": 9794949480790,
           "id": 51211274649942,
+          "product_id": 9794949480790,
           "title": "Retro green single-layer dinner plate",
           "price": "256.95",
           "position": 5,
@@ -347,8 +347,8 @@
           "image_id": 66311410614614
         },
         {
-          "product_id": 9794949480790,
           "id": 51211274682710,
+          "product_id": 9794949480790,
           "title": "Vitality Yellow double-layer dinner plate",
           "price": "256.95",
           "position": 6,
@@ -377,8 +377,8 @@
       ],
       "options": [
         {
-          "product_id": 9794949480790,
           "id": 12644934418774,
+          "product_id": 9794949480790,
           "name": "Color",
           "position": 1,
           "values": [
