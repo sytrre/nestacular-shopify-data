@@ -403,7 +403,7 @@ class NestacularDataFetcher:
         print("\n=== Creating Index Files ===", file=sys.stderr)
         
         # UPDATE THIS with your actual GitHub username
-        base_url = "https://raw.githubusercontent.com/YOUR_USERNAME/nestacular-shopify-data/refs/heads/main/"
+        base_url = "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/"
         timestamp = datetime.utcnow().isoformat() + "Z"
         
         # Count collection files
