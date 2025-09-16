@@ -1,0 +1,69 @@
+name: Sync Nestacular Shopify Data
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  
+  workflow_dispatch:  # Manual trigger button
+  
+  push:
+    branches: [main]  # Run on push to main
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Fetch Shopify Data
+        env:
+          SHOPIFY_SHOP_DOMAIN: ${{ secrets.SHOPIFY_SHOP_DOMAIN }}
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+        run: |
+          python fetch_shopify_data.py
+      
+      - name: Generate README
+        run: |
+          cat > README.md << 'EOF'
+          # Nestacular Shopify Data
+          
+          Automated data sync from Nestacular Shopify store.
+          
+          ## Available Data Files
+          
+          - **[Products](products.json)** - All products with variants and pricing
+          - **[Collections](collections.json)** - All collections list
+          - **[Blogs](blogs.json)** - All blog articles
+          - **[Data Index](data_index.json)** - Complete file index
+          
+          ## Collection Products
+          
+          Individual collection product files are in the `collections/` directory.
+          
+          ## Update Frequency
+          
+          Data syncs automatically every 30 minutes.
+          
+          Last update: $(date -u +'%Y-%m-%d %H:%M UTC')
+          EOF
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "Update Nestacular data - $(date +'%Y-%m-%d %H:%M')"
+          git push || echo "No changes to push"
