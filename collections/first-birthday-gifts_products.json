@@ -8009,8 +8009,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791059984726",
       "variants": [
         {
-          "product_id": 9791059984726,
           "id": 51194323861846,
+          "product_id": 9791059984726,
           "title": "Flagship Avocado Green",
           "price": "210.95",
           "position": 1,
@@ -8037,8 +8037,8 @@
           "image_id": 66235919040854
         },
         {
-          "product_id": 9791059984726,
           "id": 51194323894614,
+          "product_id": 9791059984726,
           "title": "Flagship Dark Blue",
           "price": "210.95",
           "position": 2,
@@ -8065,8 +8065,8 @@
           "image_id": 66235919073622
         },
         {
-          "product_id": 9791059984726,
           "id": 51194323927382,
+          "product_id": 9791059984726,
           "title": "Flagship Graffiti Cloud Green",
           "price": "211.45",
           "position": 3,
@@ -8093,8 +8093,8 @@
           "image_id": 66235919106390
         },
         {
-          "product_id": 9791059984726,
           "id": 51194323960150,
+          "product_id": 9791059984726,
           "title": "Flagship Graffiti Pink",
           "price": "211.45",
           "position": 4,
@@ -8121,8 +8121,8 @@
           "image_id": 66235919139158
         },
         {
-          "product_id": 9791059984726,
           "id": 51194323992918,
+          "product_id": 9791059984726,
           "title": "Flagship Khaki",
           "price": "210.95",
           "position": 5,
@@ -8149,8 +8149,8 @@
           "image_id": 66235919171926
         },
         {
-          "product_id": 9791059984726,
           "id": 51194324025686,
+          "product_id": 9791059984726,
           "title": "Flagship Mist Pink",
           "price": "210.95",
           "position": 6,
@@ -8179,8 +8179,8 @@
       ],
       "options": [
         {
-          "product_id": 9791059984726,
           "id": 12640209994070,
+          "product_id": 9791059984726,
           "name": "Color",
           "position": 1,
           "values": [
