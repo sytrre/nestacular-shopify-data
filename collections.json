@@ -3748,5 +3748,14 @@
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/removed_24c9eeea-b175-4e79-bdfd-a40f67e71870.png?v=1755777809"
       }
     }
-  ]
+  ],
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "items_per_page": 250,
+    "total_items": 65,
+    "items_in_page": 65,
+    "has_next_page": false,
+    "has_previous_page": false
+  }
 }

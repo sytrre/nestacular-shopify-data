@@ -1,18 +1,25 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-09-16T18:49:19.151063Z
+Generated: 2025-09-16T19:03:54.423868Z
 Currency: GBP
-Total Collections: 65
+Pagination: 250 items per page
 
-=== MAIN FILES (All 4 Working) ===
-• Blogs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
-• Products: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/products.json
-• Collections: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections.json
+=== MAIN FILES ===
 
-=== ALL COLLECTION PRODUCT FILES ===
+PRODUCTS (2 pages):
+• Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/products.json
+• Page 2: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/products_page2.json
+
+COLLECTIONS (1 pages):
+• Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections.json
+
+BLOGS (1 pages):
+• Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
+
+=== COLLECTION PRODUCT FILES (65 collections) ===
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
-• baby-bottles-accessories: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-bottles-accessories_products.json
 • baby-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-bottles_products.json
+• baby-bottles-accessories: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-bottles-accessories_products.json
 • baby-food-makers-blenders: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-food-makers-blenders_products.json
 • baby-shower-gifts: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-shower-gifts_products.json
 • baby-shower-host-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-shower-host-feeding-essentials_products.json
@@ -41,8 +48,8 @@ Total Collections: 65
 • high-chair-accessories: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chair-accessories_products.json
 • high-chair-cushions: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chair-cushions_products.json
 • high-chair-placemats: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chair-placemats_products.json
-• high-chairs-and-accessories: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chairs-and-accessories_products.json
 • high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chairs_products.json
+• high-chairs-and-accessories: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chairs-and-accessories_products.json
 • luxury-baby-gifts: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/luxury-baby-gifts_products.json
 • meal-prep-storage: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/meal-prep-storage_products.json
 • mess-free-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/mess-free-essentials_products.json

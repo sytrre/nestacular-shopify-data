@@ -1,16 +1,23 @@
 {
-  "generated": "2025-09-16T18:49:19.151063Z",
+  "generated": "2025-09-16T19:03:54.423868Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
+  "pagination_size": 250,
   "files": {
-    "blogs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json",
-    "products": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/products.json",
+    "products": {
+      "total_pages": 2,
+      "files": {
+        "page_1": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/products.json",
+        "page_2": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/products_page2.json"
+      }
+    },
     "collections": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections.json",
+    "blogs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json",
     "collection_products": {
       "anti-colic-bottles": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json",
       "autumn-playdate-party-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json",
-      "baby-bottles-accessories": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-bottles-accessories_products.json",
       "baby-bottles": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-bottles_products.json",
+      "baby-bottles-accessories": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-bottles-accessories_products.json",
       "baby-food-makers-blenders": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-food-makers-blenders_products.json",
       "baby-shower-gifts": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-shower-gifts_products.json",
       "baby-shower-host-feeding-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-shower-host-feeding-essentials_products.json",
@@ -39,8 +46,8 @@
       "high-chair-accessories": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chair-accessories_products.json",
       "high-chair-cushions": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chair-cushions_products.json",
       "high-chair-placemats": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chair-placemats_products.json",
-      "high-chairs-and-accessories": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chairs-and-accessories_products.json",
       "high-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chairs_products.json",
+      "high-chairs-and-accessories": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chairs-and-accessories_products.json",
       "luxury-baby-gifts": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/luxury-baby-gifts_products.json",
       "meal-prep-storage": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/meal-prep-storage_products.json",
       "mess-free-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/mess-free-essentials_products.json",
@@ -73,6 +80,5 @@
       "weaning-stage-feeding": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weaning-stage-feeding_products.json",
       "wooden-high-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/wooden-high-chairs_products.json"
     }
-  },
-  "total_collections": 65
+  }
 }
