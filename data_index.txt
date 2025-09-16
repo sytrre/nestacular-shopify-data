@@ -1,12 +1,12 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-09-16T17:33:38.138003Z
+Generated: 2025-09-16T18:29:43.551435Z
 Currency: GBP
 Total Collections: 65
 
 === MAIN FILES (All 4 Working) ===
-- Blogs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
-- Products: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/products.json
-- Collections: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections.json
+• Blogs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
+• Products: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/products.json
+• Collections: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections.json
 
 === ALL COLLECTION PRODUCT FILES ===
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
