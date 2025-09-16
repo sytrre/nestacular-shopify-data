@@ -15140,8 +15140,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9788750037334",
       "variants": [
         {
-          "product_id": 9788750037334,
           "id": 51185303322966,
+          "product_id": 9788750037334,
           "title": "Black",
           "price": "34.50",
           "position": 1,
@@ -15170,8 +15170,8 @@
       ],
       "options": [
         {
-          "product_id": 9788750037334,
           "id": 12637452763478,
+          "product_id": 9788750037334,
           "name": "Color",
           "position": 1,
           "values": [
