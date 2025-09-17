@@ -3136,8 +3136,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789899735382",
       "variants": [
         {
-          "id": 51190065430870,
           "product_id": 9789899735382,
+          "id": 51190065430870,
           "title": "Pink",
           "price": "19.99",
           "position": 1,
@@ -3164,8 +3164,8 @@
           "image_id": 66224746135894
         },
         {
-          "id": 51190065463638,
           "product_id": 9789899735382,
+          "id": 51190065463638,
           "title": "Sea blue",
           "price": "19.99",
           "position": 2,
@@ -3192,8 +3192,8 @@
           "image_id": 66224746168662
         },
         {
-          "id": 51190065496406,
           "product_id": 9789899735382,
+          "id": 51190065496406,
           "title": "Orange",
           "price": "19.99",
           "position": 3,
@@ -3220,8 +3220,8 @@
           "image_id": 66224746201430
         },
         {
-          "id": 51190065529174,
           "product_id": 9789899735382,
+          "id": 51190065529174,
           "title": "Blue",
           "price": "19.99",
           "position": 4,
@@ -3248,8 +3248,8 @@
           "image_id": 66224746234198
         },
         {
-          "id": 51190065561942,
           "product_id": 9789899735382,
+          "id": 51190065561942,
           "title": "Khaki",
           "price": "19.99",
           "position": 5,
@@ -3276,8 +3276,8 @@
           "image_id": 66224746266966
         },
         {
-          "id": 51190065594710,
           "product_id": 9789899735382,
+          "id": 51190065594710,
           "title": "Rose red",
           "price": "19.99",
           "position": 6,
@@ -3306,8 +3306,8 @@
       ],
       "options": [
         {
-          "id": 12638739595606,
           "product_id": 9789899735382,
+          "id": 12638739595606,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6948,8 +6948,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649363798",
       "variants": [
         {
-          "id": 51201111753046,
           "product_id": 9792649363798,
+          "id": 51201111753046,
           "title": "Pink",
           "price": "15.44",
           "position": 1,
@@ -6976,8 +6976,8 @@
           "image_id": 66252997493078
         },
         {
-          "id": 51201111785814,
           "product_id": 9792649363798,
+          "id": 51201111785814,
           "title": "Green small",
           "price": "15.44",
           "position": 2,
@@ -7004,8 +7004,8 @@
           "image_id": 66252997525846
         },
         {
-          "id": 51201111818582,
           "product_id": 9792649363798,
+          "id": 51201111818582,
           "title": "Dark green small",
           "price": "15.44",
           "position": 3,
@@ -7032,8 +7032,8 @@
           "image_id": 66252997558614
         },
         {
-          "id": 51201111851350,
           "product_id": 9792649363798,
+          "id": 51201111851350,
           "title": "Purple small",
           "price": "15.44",
           "position": 4,
@@ -7062,8 +7062,8 @@
       ],
       "options": [
         {
-          "id": 12642096447830,
           "product_id": 9792649363798,
+          "id": 12642096447830,
           "name": "Color",
           "position": 1,
           "values": [
