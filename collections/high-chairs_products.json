@@ -7056,8 +7056,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9779868041558",
       "variants": [
         {
-          "id": 51144188002646,
           "product_id": 9779868041558,
+          "id": 51144188002646,
           "title": "Light Pink",
           "price": "50.95",
           "position": 1,
@@ -7084,8 +7084,8 @@
           "image_id": 66130627133782
         },
         {
-          "id": 51144188035414,
           "product_id": 9779868041558,
+          "id": 51144188035414,
           "title": "Navy",
           "price": "50.95",
           "position": 2,
@@ -7114,8 +7114,8 @@
       ],
       "options": [
         {
-          "id": 12626959565142,
           "product_id": 9779868041558,
+          "id": 12626959565142,
           "name": "Color",
           "position": 1,
           "values": [
