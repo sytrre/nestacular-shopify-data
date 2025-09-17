@@ -15293,7 +15293,7 @@
       "updated_at": "2025-09-17T13:38:22+01:00",
       "published_at": "2025-09-17T13:38:19+01:00",
       "template_suffix": null,
-      "published_scope": "web",
+      "published_scope": "global",
       "tags": "Baby Rocking Chair, CJ",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9825563148630",
