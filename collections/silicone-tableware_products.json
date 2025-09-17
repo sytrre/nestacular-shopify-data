@@ -824,8 +824,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9810929123670",
       "variants": [
         {
-          "product_id": 9810929123670,
           "id": 51276583108950,
+          "product_id": 9810929123670,
           "title": "Dusty rose",
           "price": "30.95",
           "position": 1,
@@ -852,8 +852,8 @@
           "image_id": 66472387314006
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583141718,
+          "product_id": 9810929123670,
           "title": "Dusty rose Bib",
           "price": "27.95",
           "position": 2,
@@ -880,8 +880,8 @@
           "image_id": 66472387346774
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583174486,
+          "product_id": 9810929123670,
           "title": "Dusty rose set set",
           "price": "38.95",
           "position": 3,
@@ -908,8 +908,8 @@
           "image_id": 66472387379542
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583207254,
+          "product_id": 9810929123670,
           "title": "Raw sienna",
           "price": "30.45",
           "position": 4,
@@ -936,8 +936,8 @@
           "image_id": 66472387412310
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583240022,
+          "product_id": 9810929123670,
           "title": "Raw sienna Bib",
           "price": "27.95",
           "position": 5,
@@ -964,8 +964,8 @@
           "image_id": 66472387445078
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583272790,
+          "product_id": 9810929123670,
           "title": "Raw sienna set",
           "price": "38.95",
           "position": 6,
@@ -992,8 +992,8 @@
           "image_id": 66472387477846
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583305558,
+          "product_id": 9810929123670,
           "title": "Shifting sand",
           "price": "30.95",
           "position": 7,
@@ -1020,8 +1020,8 @@
           "image_id": 66472387510614
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583338326,
+          "product_id": 9810929123670,
           "title": "Shifting sand Bib",
           "price": "27.95",
           "position": 8,
@@ -1048,8 +1048,8 @@
           "image_id": 66472387543382
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583371094,
+          "product_id": 9810929123670,
           "title": "Shifting sand set",
           "price": "38.95",
           "position": 9,
@@ -1076,8 +1076,8 @@
           "image_id": 66472387576150
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583403862,
+          "product_id": 9810929123670,
           "title": "Silver sage",
           "price": "30.95",
           "position": 10,
@@ -1104,8 +1104,8 @@
           "image_id": 66472387608918
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583436630,
+          "product_id": 9810929123670,
           "title": "Silver sage Bib",
           "price": "27.95",
           "position": 11,
@@ -1132,8 +1132,8 @@
           "image_id": 66472387641686
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583469398,
+          "product_id": 9810929123670,
           "title": "Silver sage set",
           "price": "38.95",
           "position": 12,
@@ -1160,8 +1160,8 @@
           "image_id": 66472387674454
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583502166,
+          "product_id": 9810929123670,
           "title": "Tradewinds",
           "price": "30.95",
           "position": 13,
@@ -1188,8 +1188,8 @@
           "image_id": 66472387707222
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583534934,
+          "product_id": 9810929123670,
           "title": "Tradewinds Bib",
           "price": "27.95",
           "position": 14,
@@ -1216,8 +1216,8 @@
           "image_id": 66472387739990
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583567702,
+          "product_id": 9810929123670,
           "title": "Tradewinds set",
           "price": "38.95",
           "position": 15,
@@ -1246,8 +1246,8 @@
       ],
       "options": [
         {
-          "product_id": 9810929123670,
           "id": 12663744921942,
+          "product_id": 9810929123670,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15183,8 +15183,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792650248534",
       "variants": [
         {
-          "id": 51201117192534,
           "product_id": 9792650248534,
+          "id": 51201117192534,
           "title": "Pink / 150ML",
           "price": "28.02",
           "position": 1,
@@ -15211,8 +15211,8 @@
           "image_id": 66253014270294
         },
         {
-          "id": 51201117225302,
           "product_id": 9792650248534,
+          "id": 51201117225302,
           "title": "Pink / 250ml",
           "price": "28.08",
           "position": 2,
@@ -15239,8 +15239,8 @@
           "image_id": 66253014303062
         },
         {
-          "id": 51201117258070,
           "product_id": 9792650248534,
+          "id": 51201117258070,
           "title": "Green / 150ML",
           "price": "28.02",
           "position": 3,
@@ -15267,8 +15267,8 @@
           "image_id": 66253014335830
         },
         {
-          "id": 51201117290838,
           "product_id": 9792650248534,
+          "id": 51201117290838,
           "title": "Green / 250ml",
           "price": "28.08",
           "position": 4,
@@ -15297,8 +15297,8 @@
       ],
       "options": [
         {
-          "id": 12642097398102,
           "product_id": 9792650248534,
+          "id": 12642097398102,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15307,8 +15307,8 @@
           ]
         },
         {
-          "id": 12642097430870,
           "product_id": 9792650248534,
+          "id": 12642097430870,
           "name": "capacity",
           "position": 2,
           "values": [
