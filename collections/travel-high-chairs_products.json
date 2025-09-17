@@ -4,7 +4,7 @@
     "handle": "travel-high-chairs",
     "title": "Travel & Portable High Chairs",
     "body_html": "<p><meta charset=\"utf-8\">Ensure your little one always has a safe seat at the table, wherever you go. Our travel high chairs are compact, lightweight, and easy to set up for meals on the move.</p>",
-    "products_count": 52
+    "products_count": 53
   },
   "products": [
     {
@@ -9451,6 +9451,215 @@
       }
     },
     {
+      "id": 9825475428694,
+      "title": "NestiHatch Folding Portable Baby Dining Chair – Lightweight, Space-Saving & Durable Design | Essential Feeding Chair for Babies & Toddlers",
+      "body_html": "<p>NestiHatch Folding Portable Baby Dining Chair combines lightweight portability with a space-saving design to create the perfect feeding solution for modern families on the go. Thoughtfully designed for both daily use and travel, this durable chair ensures comfort, safety, and convenience for babies and toddlers.</p>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Lightweight construction makes it easy to carry, store, and travel with</li>\n<li>Foldable, space-saving design fits perfectly in small kitchens, dining rooms, or cars</li>\n<li>Durable frame provides reliable support for everyday feeding needs</li>\n<li>Compact yet generous seating ensures comfort for your little one</li>\n<li>Neutral, stylish color options complement any home or outdoor setting</li>\n<li>Quick-fold mechanism allows effortless setup, storage, and transport</li>\n</ul>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Unfold chair and lock all joints securely in place</li>\n<li>Adjust harness and seat for your baby’s comfort</li>\n<li>Ensure all safety straps are properly fastened</li>\n<li>Wipe tray and seat clean before each use</li>\n<li>Fold flat after meals or outings for easy storage</li>\n</ol>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: High-quality, durable frame construction</li>\n<li>Dimensions: Compact when folded; expanded for full baby comfort</li>\n<li>Style: Folding portable design</li>\n<li>Colors: Neutral modern shades to suit any decor</li>\n<li>Suitable for: Babies and toddlers during mealtime at home or outdoors</li>\n<li>Package: 1 complete folding portable dining chair</li>\n</ul>\n<h3>Why Choose This Chair</h3>\n<p> </p>\n<ul>\n<li> Space-efficient design ideal for apartments, travel, or outdoor picnics</li>\n<li>Lightweight and portable for effortless carrying on trips or family outings</li>\n<li>Durable build ensures long-lasting use compared to basic plastic alternatives</li>\n<li>Compact folding mechanism keeps spaces tidy and organized</li>\n<li>Practical and stylish solution that supports busy modern lifestyles</li>\n</ul>\n<p><br></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-17T12:40:36+01:00",
+      "handle": "nestihatch-folding-portable-baby-dining-chair-lightweight-space-saving-durable-design-essential-feeding-chair-for-babies-toddlers",
+      "updated_at": "2025-09-17T12:41:52+01:00",
+      "published_at": null,
+      "template_suffix": null,
+      "published_scope": "web",
+      "tags": "CJ, Kid Dining Chair, Portable Kid Chair",
+      "status": "draft",
+      "admin_graphql_api_id": "gid://shopify/Product/9825475428694",
+      "variants": [
+        {
+          "id": 51338493690198,
+          "product_id": 9825475428694,
+          "title": "Blue",
+          "price": "69.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-17T12:40:44+01:00",
+          "updated_at": "2025-09-17T12:40:44+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 2300,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJJJTJT16715-Blue",
+          "weight": 2300.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53562172997974,
+          "inventory_quantity": 19560,
+          "old_inventory_quantity": 19560,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51338493690198",
+          "image_id": 66895859286358
+        },
+        {
+          "id": 51338493722966,
+          "product_id": 9825475428694,
+          "title": "Pink",
+          "price": "69.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-17T12:40:44+01:00",
+          "updated_at": "2025-09-17T12:40:44+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 2300,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJJJTJT16715-Pink",
+          "weight": 2300.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53562173030742,
+          "inventory_quantity": 19881,
+          "old_inventory_quantity": 19881,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51338493722966",
+          "image_id": 66895859319126
+        }
+      ],
+      "options": [
+        {
+          "id": 12681240412502,
+          "product_id": 9825475428694,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue",
+            "Pink"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66895855157590,
+          "alt": null,
+          "position": 1,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:37+01:00",
+          "updated_at": "2025-09-17T12:40:40+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895855157590",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/953085543716.jpg?v=1758109241",
+          "variant_ids": []
+        },
+        {
+          "id": 66895855583574,
+          "alt": null,
+          "position": 2,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:38+01:00",
+          "updated_at": "2025-09-17T12:40:41+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895855583574",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/251625755123.jpg?v=1758109242",
+          "variant_ids": []
+        },
+        {
+          "id": 66895856730454,
+          "alt": null,
+          "position": 3,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:39+01:00",
+          "updated_at": "2025-09-17T12:40:43+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895856730454",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3958777916119.jpg?v=1758109243",
+          "variant_ids": []
+        },
+        {
+          "id": 66895857516886,
+          "alt": null,
+          "position": 4,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:41+01:00",
+          "updated_at": "2025-09-17T12:40:43+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895857516886",
+          "width": 773,
+          "height": 773,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1621131355348.jpg?v=1758109243",
+          "variant_ids": []
+        },
+        {
+          "id": 66895857877334,
+          "alt": null,
+          "position": 5,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:42+01:00",
+          "updated_at": "2025-09-17T12:40:44+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895857877334",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5472596534191.jpg?v=1758109245",
+          "variant_ids": []
+        },
+        {
+          "id": 66895858401622,
+          "alt": null,
+          "position": 6,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:43+01:00",
+          "updated_at": "2025-09-17T12:40:45+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895858401622",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1132245611506.jpg?v=1758109246",
+          "variant_ids": []
+        },
+        {
+          "id": 66895859286358,
+          "alt": null,
+          "position": 7,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:44+01:00",
+          "updated_at": "2025-09-17T12:40:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895859286358",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/953085543716_1683dc8a-1814-4caa-9103-1d10105a4719.jpg?v=1758109248",
+          "variant_ids": [
+            51338493690198
+          ]
+        },
+        {
+          "id": 66895859319126,
+          "alt": null,
+          "position": 8,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:44+01:00",
+          "updated_at": "2025-09-17T12:40:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895859319126",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/679674837674.jpg?v=1758109248",
+          "variant_ids": [
+            51338493722966
+          ]
+        }
+      ],
+      "image": {
+        "id": 66895855157590,
+        "alt": null,
+        "position": 1,
+        "product_id": 9825475428694,
+        "created_at": "2025-09-17T12:40:37+01:00",
+        "updated_at": "2025-09-17T12:40:40+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66895855157590",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/953085543716.jpg?v=1758109241",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9630314529110,
       "title": "NeveMat - Adventure Awaits with Inflatable Sleeping Pads for Campers",
       "body_html": "<p class=\"MsoNormal\"> </p>\n<p style=\"text-align: center;\" class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">\"</span><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">NeveMat turns outdoor nights transforming rugged terrains to become comfortable and guarantee restful sleep. Cold and uncomfortable ground becomes a thing of the past, allowing deep rest and renewed energy. Rapid inflation and superior insulation feature exceed expectations, guaranteeing campers comfort and is a must-have addition for any backpacking adventure.\"</span></strong></em></p>\n<p style=\"text-align: center;\" class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><em><span style=\"color: rgb(0, 0, 0);\">⭐⭐⭐⭐⭐ </span></em></span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><span style=\"color: rgb(0, 0, 0);\">Morris Hugo</span></span><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><em><span style=\"color: rgb(0, 0, 0);\"><br></span></em><span style=\"color: rgb(0, 0, 0);\">✅ Verified Buyer</span></span></strong></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"> </span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Sleeping on cold uneven ground during backpacking trips often leads to <span style=\"text-decoration: underline;\">discomfort</span>, less energy, and poor sleep quality. Adding to these <span style=\"text-decoration: underline;\">problems</span> is the <span style=\"text-decoration: underline;\">bulk</span> and weight of traditional camping sleeping pads, making transport another <span style=\"text-decoration: underline;\">chore</span>. It <span style=\"text-decoration: underline;\">diminishes</span> the enjoyment of camping adventure giving campers constant <span style=\"text-decoration: underline;\">struggle</span>, inadequate insulation from the elements, and painful <span style=\"text-decoration: underline;\">pressure</span>, leading to <span style=\"text-decoration: underline;\">fatigue</span> and more <span style=\"text-decoration: underline;\">frustration</span>. Feeling <span style=\"text-decoration: underline;\">unprepared</span> is an understatement with these issues highlighting the need of having a comfortable inflatable sleeping pad.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">NeveMat’s Inflatable Sleeping Pads come with <strong>advanced</strong> insulation technology, <strong>ergonomic</strong> air cell design, and a rapid inflation valve perfect for <strong>comfort</strong> and <strong>warmth</strong>. The <strong>durable</strong> and <strong>lightweight</strong> build makes NeveMat compact reducing the effort needed when carrying it. High-quality construction of the sleeping pad makes it comfortably <strong>assuring</strong> for resting across different weather conditions and terrain. Get the <strong>confident</strong> inflatable sleeping pad needed for reduced discomfort and <strong>restorative</strong> sleep, guaranteeing an enjoyable, smoother camping experience.<br><br></span></p>\n<p class=\"MsoNormal\" style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A_d2759ff1-62e9-492b-abbe-a5b4ed1e9c40.jpg?v=1754476368\" alt=\"\"></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"> </span></p>\n<h2 style=\"text-align: center;\" class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">REASONS WHY NEVEMAT INFLATABLE SLEEPING PADS WILL CHANGE CAMPING EXPERIENCES</span></strong></h2>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><strong><span style=\"color: rgb(0, 0, 0);\">✅ </span>APEX COMFORT AND SUPPORT</strong>: Thanks to the air-cell design conforming on the body’s contour, NeveMat provides exceptional and quality cushioning and support. The pad guarantees a <strong>comfortable</strong> and stable sleeping surface, perfect for deep, restorative rest when backpacking.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><strong><span style=\"color: rgb(0, 0, 0);\">✅ </span>COMPACT AND LIGHTWEIGHT COMPATIBILITY</strong>: NeveMat pads are built with lightweight material making packing it down to a remarkable size easy. The compact <strong>portability</strong> guarantees easy to carry, reducing load for hikers and saving valuable space.<br><br></span></p>\n<p class=\"MsoNormal\" style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A1_16db3972-cfa4-45e2-9bad-e8873161750a.jpg?v=1754476368\" alt=\"\"></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><strong><span style=\"color: rgb(0, 0, 0);\"><br>✅ </span>DURABLE AND PUNCTURE-RESISTANT</strong>: Built from tear-resistant and strong materials, NeveMat <strong>withstands</strong> the rigors of backpacking environments with ease. Thanks to the durable build, the pad guarantees long-lasting performance by minimizing risk of punctures.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><strong><span style=\"color: rgb(0, 0, 0);\">✅ </span>RAPID INFLATION AND DEFLATION</strong>: Thanks to the innovative valve system, NeveMat allows for <strong>effortless</strong> and quick inflation, within a few breaths or with the help of an integrated pump. Deflating the pad is as fast, enabling a rapid packing, maximizing outdoor adventure.<br><br></span></p>\n<p class=\"MsoNormal\" style=\"text-align: center;\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A2_22b32192-e6e5-4c3f-9178-a957b4d63286.jpg?v=1754476411\" alt=\"\"></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><strong><span style=\"color: rgb(0, 0, 0);\"><br>✅ </span>SUPERIOR INLFATION DURING SEASONS</strong>: Thanks to an innovative insulation technology, NeveMat effectively <strong>blocks</strong> cold air from the ground, providing comfort and warmth during cold seasons. It makes the pad a perfect solution for multi-season camping.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"> </span></p>\n<h2 style=\"text-align: center;\" class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">HOW TO USE NEVEMAT INFLATABLE SLEEPING PADS</span></strong></h2>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">1. Start by Unrolling and Unfolding: Unroll NeveMat at the desired sleeping spot, and check the valve is easily accessible.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">2. Inflate Speedily: Next step is opening the inflation valve and blow air or use an integrated pump until the sleeping pad reaches the desired firmness.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">3. Enjoy Calming Sleep: Lay down on the inflated pad and watch as the ergonomic design cradles the body for a comfortable night’s rest.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">4. Deflate after Use and Pack: Finish by deflating the pad, open the valve, rolling the pad from the opposite end, push air out and finally fold and roll it to the compact storage size.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"> </span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">The discomfort of having to sleep on clod ground, <span style=\"text-decoration: underline;\">frustration</span> of bulky sleeping gear, and <span style=\"text-decoration: underline;\">uncomfortable</span> sleep patterns trigger body aches, <span style=\"text-decoration: underline;\">exhaustion</span>, and <span style=\"text-decoration: underline;\">fatigue</span>. Having to rely on <span style=\"text-decoration: underline;\">inadequate</span> sleeping solutions increases <span style=\"text-decoration: underline;\">discomfort</span> and at the same time, reducing the enjoyment one would experience of outdoor adventures.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">NeveMat’s inflatable sleeping pads come with an air-cell design, <strong>ergonomic</strong> body fit shape,<strong> rapid</strong> inflation coupled with <strong>superior</strong> inflation. Built in <strong>durable </strong>construction helps withstand the adversity of outdoor adventure, with the <strong>lightweight</strong> design making the mat easily <strong>portable</strong>. Each feature brings <strong>enhanced</strong> sleep quality, <strong>promoting</strong> warmth during cold nights. NeveMat is a perfect tool for any outdoor adventurer seeking improved comfort and lasting energy.<br><br></span></p>\n<p><video autoplay=\"autoplay\" muted=\"muted\" width=\"100%\" loop=\"loop\" preload=\"none\" playsinline=\"\"> <source src=\"https://cdn.shopify.com/videos/c/o/v/b139878412454c099a490e566f7a7397.mp4\" type=\"video/mp4\"> Your browser does not support the video tag. </source></video></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"> </span></p>\n<h2 style=\"text-align: center;\" align=\"center\" class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">PRODUCT SPECIFICATIONS</span></strong></h2>\n<p style=\"text-align: center;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Material: Cloth<br>Unfolded Size: 225cm*70cm<br>Package Size: 260*100*100(mm) 290*120*120(mm)<br>Color: Navy Blue, Army Green, Dark Blue, Royal Blue, Orange, Hemp Gray, Camouflage<br>Length: 190*60cm</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><b style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">A Nestacular Promise</span></b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"></span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO RISK for you!</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Congratulations!</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><b style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Customer Support:</span></b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"></span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Email: <a href=\"mailto:support@nestacular.com\"><span style=\"color: blue;\">support@nestacular.com</span></a></span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Phone: +1 (800) 913-9932</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> </span></p>\n<h3 style=\"line-height: normal; text-align: center;\" class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Frequently Asked Questions about NeveMat Inflatable Sleeping Pads</span></strong></h3>\n<h3 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">What’s the Main Advantage of Using NeveMat?</span></strong></em></h3>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Superior comfort, not forgetting insulation and thickness of NeveMat compared to other pads makes it a perfect choice. It provides far much better cushioning from uneven ground and guarantees effective protection from cold.</span></p>\n<h3 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">How Quickly Can NeveMat be Deflated and Inflated?</span></strong></em></h3>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Designed with rapid deflation and inflation in mind, most models come with an integrated pump allowing for a rapid packing and unpacking in a matter of minutes. Saving valuable time is another feature making NeveMat a better option.</span></p>\n<h3 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Are NeveMat Pads Durable and Resistant to Punctures?</span></strong></em></h3>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Absolutely! Built from durable and tear-resistant materials, NeveMat is designed to withstand the asperities of outdoor adventure. The pad is built to be puncture proof and often comes with a repair kit, just in case of accidents.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Can NeveMat be used in Extremely Cold Conditions?</span></strong></em></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Yes! Thanks to the varying-R values, NeveMat offers excellent warmth, making them suitable for cold weather, making winter camping comfortable.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">How Compact is NeveMat when Packed?</span></strong></em></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Designed with portability in mind, the pad packs down to a remarkable size, with most users comparing it to a water bottle, making them easy to carry inside a backpack.</span></p>",
@@ -10364,17 +10573,17 @@
     {
       "id": 9825417265494,
       "title": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
-      "body_html": "<p>NuriBabe Baby Dining Chair Multi-Function Portable Foldable combines intelligent space-saving design with durable construction to deliver the perfect feeding solution for modern families. Thoughtfully engineered for both function and convenience, this chair adapts seamlessly to your baby’s needs while helping you maximize living and dining room space.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8f6515fe-370d-4478-a4ad-ee038de119b9.jpg?v=1758108096\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Multi-Function Design – Serves as both a dining chair and a child’s activity seat for versatile daily use.</li>\n<li>Portable &amp; Foldable – Lightweight structure folds easily for travel, storage, or quick setup at mealtime.</li>\n<li>Durable Construction – Made from high-quality, child-safe materials built to withstand everyday use.</li>\n<li>Comfortable &amp; Spacious Seating – Designed to provide a secure and supportive seat for babies and toddlers.</li>\n<li>Space-Saving Solution – Compact fold makes it ideal for apartments, small homes, or families on the go.</li>\n<li>Stylish Finish Options – Neutral, modern tones blend beautifully with any home decor style.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/eb79a6fa-3c51-446c-8cfc-706ff2ad7b47.jpg?v=1758108096\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Unfold the chair and lock all joints securely in place.</li>\n<li>Adjust seat position and tray placement to suit your child’s needs.</li>\n<li>Ensure all safety straps and mechanisms are properly engaged.</li>\n<li>Clean tray and seat area after each use.</li>\n<li>Fold flat for easy storage or travel.</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1848472c-ccfd-4690-a2e8-37966ae54350.jpg?v=1758108095\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Premium, child-safe plastic and metal components</li>\n<li>Dimensions: 102x72x50cm when fully expanded</li>\n<li>Style: Multi-functional, foldable design</li>\n<li>Colors: Classic White, Soft Gray, Blush Pink</li>\n<li>Suitable for: Babies and toddlers during feeding or playtime</li>\n<li>Package Includes: 1 complete foldable baby dining chair</li>\n</ul>\n<h3>Why Choose This Chair</h3>\n<p> </p>\n<ul>\n<li> Multi-functional design adapts to different stages of your child’s growth</li>\n<li>Lightweight and portable for effortless travel and storage</li>\n<li>Durable materials provide long-lasting reliability compared to standard alternatives</li>\n<li>Space-saving fold keeps your home neat and organized</li>\n<li>Attractive, modern color options enhance your living space rather than clutter it</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "body_html": "<p>NuriBabe Baby Dining Chair Multi-Function Portable Foldable combines intelligent space-saving design with durable construction to deliver the perfect feeding solution for modern families. Thoughtfully engineered for both function and convenience, this chair adapts seamlessly to your baby’s needs while helping you maximize living and dining room space.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A1_d6e4365d-0bbc-46a8-91fc-bb1ddc5dc7bb.png?v=1758108711\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"margin-bottom: 14px; float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Multi-Function Design – Serves as both a dining chair and a child’s activity seat for versatile daily use.</li>\n<li>Portable &amp; Foldable – Lightweight structure folds easily for travel, storage, or quick setup at mealtime.</li>\n<li>Durable Construction – Made from high-quality, child-safe materials built to withstand everyday use.</li>\n<li>Comfortable &amp; Spacious Seating – Designed to provide a secure and supportive seat for babies and toddlers.</li>\n<li>Space-Saving Solution – Compact fold makes it ideal for apartments, small homes, or families on the go.</li>\n<li>Stylish Finish Options – Neutral, modern tones blend beautifully with any home decor style.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/eb79a6fa-3c51-446c-8cfc-706ff2ad7b47.jpg?v=1758108096\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Unfold the chair and lock all joints securely in place.</li>\n<li>Adjust seat position and tray placement to suit your child’s needs.</li>\n<li>Ensure all safety straps and mechanisms are properly engaged.</li>\n<li>Clean tray and seat area after each use.</li>\n<li>Fold flat for easy storage or travel.</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1848472c-ccfd-4690-a2e8-37966ae54350.jpg?v=1758108095\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Premium, child-safe plastic and metal components</li>\n<li>Dimensions: 102x72x50cm when fully expanded</li>\n<li>Style: Multi-functional, foldable design</li>\n<li>Colors: Classic White, Soft Gray, Blush Pink</li>\n<li>Suitable for: Babies and toddlers during feeding or playtime</li>\n<li>Package Includes: 1 complete foldable baby dining chair</li>\n</ul>\n<h3>Why Choose This Chair</h3>\n<p> </p>\n<ul>\n<li> Multi-functional design adapts to different stages of your child’s growth</li>\n<li>Lightweight and portable for effortless travel and storage</li>\n<li>Durable materials provide long-lasting reliability compared to standard alternatives</li>\n<li>Space-saving fold keeps your home neat and organized</li>\n<li>Attractive, modern color options enhance your living space rather than clutter it</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
       "vendor": "Nestacular",
       "product_type": "0",
       "created_at": "2025-09-17T12:21:28+01:00",
       "handle": "nuribabe-baby-dining-chair-multi-function-portable-foldable-durable-space-saving-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-17T12:26:48+01:00",
-      "published_at": null,
+      "updated_at": "2025-09-17T12:32:40+01:00",
+      "published_at": "2025-09-17T12:27:45+01:00",
       "template_suffix": null,
       "published_scope": "web",
       "tags": "CJ, High Chair Kids",
-      "status": "draft",
+      "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9825417265494",
       "variants": [
         {
@@ -10389,7 +10598,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:25:24+01:00",
+          "updated_at": "2025-09-17T12:32:38+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -10403,7 +10612,7 @@
           "inventory_quantity": 14984,
           "old_inventory_quantity": 14984,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51338380411222",
-          "image_id": 66895466594646
+          "image_id": 66895684960598
         },
         {
           "id": 51338380443990,
@@ -10468,14 +10677,14 @@
           "price": "339.95",
           "position": 4,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "399.95",
           "option1": "Purple",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:21:33+01:00",
+          "updated_at": "2025-09-17T12:27:31+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 7850,
           "inventory_management": "shopify",
@@ -10506,17 +10715,19 @@
       ],
       "images": [
         {
-          "id": 66895465251158,
+          "id": 66895684960598,
           "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
           "position": 1,
           "product_id": 9825417265494,
-          "created_at": "2025-09-17T12:21:29+01:00",
-          "updated_at": "2025-09-17T12:24:03+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66895465251158",
-          "width": 750,
-          "height": 750,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/574d310f-cc98-4b42-a74e-479d1e145567.jpg?v=1758108092",
-          "variant_ids": []
+          "created_at": "2025-09-17T12:31:47+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895684960598",
+          "width": 992,
+          "height": 1056,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A1_d6e4365d-0bbc-46a8-91fc-bb1ddc5dc7bb.png?v=1758108760",
+          "variant_ids": [
+            51338380411222
+          ]
         },
         {
           "id": 66895466594646,
@@ -10524,26 +10735,37 @@
           "position": 2,
           "product_id": 9825417265494,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:24:11+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66895466594646",
           "width": 319,
           "height": 338,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8f6515fe-370d-4478-a4ad-ee038de119b9.jpg?v=1758108096",
-          "variant_ids": [
-            51338380411222
-          ]
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8f6515fe-370d-4478-a4ad-ee038de119b9.jpg?v=1758108760",
+          "variant_ids": []
+        },
+        {
+          "id": 66895465251158,
+          "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
+          "position": 3,
+          "product_id": 9825417265494,
+          "created_at": "2025-09-17T12:21:29+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895465251158",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/574d310f-cc98-4b42-a74e-479d1e145567.jpg?v=1758108760",
+          "variant_ids": []
         },
         {
           "id": 66895466627414,
           "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
-          "position": 3,
+          "position": 4,
           "product_id": 9825417265494,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:24:18+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66895466627414",
           "width": 288,
           "height": 331,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/eb79a6fa-3c51-446c-8cfc-706ff2ad7b47.jpg?v=1758108096",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/eb79a6fa-3c51-446c-8cfc-706ff2ad7b47.jpg?v=1758108760",
           "variant_ids": [
             51338380443990
           ]
@@ -10551,14 +10773,14 @@
         {
           "id": 66895466660182,
           "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
-          "position": 4,
+          "position": 5,
           "product_id": 9825417265494,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:24:25+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66895466660182",
           "width": 304,
           "height": 344,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1848472c-ccfd-4690-a2e8-37966ae54350.jpg?v=1758108095",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1848472c-ccfd-4690-a2e8-37966ae54350.jpg?v=1758108760",
           "variant_ids": [
             51338380476758
           ]
@@ -10566,31 +10788,33 @@
         {
           "id": 66895466692950,
           "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
-          "position": 5,
+          "position": 6,
           "product_id": 9825417265494,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:24:32+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66895466692950",
           "width": 302,
           "height": 358,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f514b71c-56bf-423b-9ec6-b8eaa3750e4f.jpg?v=1758108096",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f514b71c-56bf-423b-9ec6-b8eaa3750e4f.jpg?v=1758108760",
           "variant_ids": [
             51338380509526
           ]
         }
       ],
       "image": {
-        "id": 66895465251158,
+        "id": 66895684960598,
         "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
         "position": 1,
         "product_id": 9825417265494,
-        "created_at": "2025-09-17T12:21:29+01:00",
-        "updated_at": "2025-09-17T12:24:03+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/66895465251158",
-        "width": 750,
-        "height": 750,
-        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/574d310f-cc98-4b42-a74e-479d1e145567.jpg?v=1758108092",
-        "variant_ids": []
+        "created_at": "2025-09-17T12:31:47+01:00",
+        "updated_at": "2025-09-17T12:32:40+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66895684960598",
+        "width": 992,
+        "height": 1056,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A1_d6e4365d-0bbc-46a8-91fc-bb1ddc5dc7bb.png?v=1758108760",
+        "variant_ids": [
+          51338380411222
+        ]
       }
     },
     {
@@ -17517,8 +17741,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 52,
-    "products_in_page": 52,
+    "total_products": 53,
+    "products_in_page": 53,
     "has_next_page": false,
     "has_previous_page": false
   }

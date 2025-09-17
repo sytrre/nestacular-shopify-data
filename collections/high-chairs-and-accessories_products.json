@@ -4,7 +4,7 @@
     "handle": "high-chairs-and-accessories",
     "title": "High Chairs & Accessories",
     "body_html": "<p>Discover the centrepiece of your baby's mealtime experience. Our curated collection of high chairs and accessories is chosen for superior safety, ergonomic design, and a modern aesthetic that complements your home.</p>",
-    "products_count": 40
+    "products_count": 41
   },
   "products": [
     {
@@ -8667,19 +8667,228 @@
       }
     },
     {
+      "id": 9825475428694,
+      "title": "NestiHatch Folding Portable Baby Dining Chair – Lightweight, Space-Saving & Durable Design | Essential Feeding Chair for Babies & Toddlers",
+      "body_html": "<p>NestiHatch Folding Portable Baby Dining Chair combines lightweight portability with a space-saving design to create the perfect feeding solution for modern families on the go. Thoughtfully designed for both daily use and travel, this durable chair ensures comfort, safety, and convenience for babies and toddlers.</p>\n<h3>Smart Design Features</h3>\n<ul>\n <li> Lightweight construction makes it easy to carry, store, and travel with </li>\n <li> Foldable, space-saving design fits perfectly in small kitchens, dining rooms, or cars </li>\n <li> Durable frame provides reliable support for everyday feeding needs </li>\n <li> Compact yet generous seating ensures comfort for your little one </li>\n <li> Neutral, stylish color options complement any home or outdoor setting </li>\n <li> Quick-fold mechanism allows effortless setup, storage, and transport </li>\n</ul>\n<h3>Setup and Usage</h3>\n<ol>\n <li> Unfold chair and lock all joints securely in place </li>\n <li> Adjust harness and seat for your baby’s comfort </li>\n <li> Ensure all safety straps are properly fastened </li>\n <li> Wipe tray and seat clean before each use </li>\n <li> Fold flat after meals or outings for easy storage </li>\n</ol>\n<h3>Product Specifications</h3>\n<ul>\n <li> Material: High-quality, durable frame construction </li>\n <li> Dimensions: Compact when folded; expanded for full baby comfort </li>\n <li> Style: Folding portable design </li>\n <li> Colors: Neutral modern shades to suit any decor </li>\n <li> Suitable for: Babies and toddlers during mealtime at home or outdoors </li>\n <li> Package: 1 complete folding portable dining chair </li>\n</ul>\n<h3>Why Choose This Chair</h3>\n<p></p>\n<ul>\n <li> Space-efficient design ideal for apartments, travel, or outdoor picnics </li>\n <li> Lightweight and portable for effortless carrying on trips or family outings </li>\n <li> Durable build ensures long-lasting use compared to basic plastic alternatives </li>\n <li> Compact folding mechanism keeps spaces tidy and organized </li>\n <li> Practical and stylish solution that supports busy modern lifestyles</li>\n</ul>\n<p>\n <br>\n</p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-17T12:40:36+01:00",
+      "handle": "nestihatch-folding-portable-baby-dining-chair-lightweight-space-saving-durable-design-essential-feeding-chair-for-babies-toddlers",
+      "updated_at": "2025-09-17T12:40:48+01:00",
+      "published_at": "2025-09-17T12:40:46+01:00",
+      "template_suffix": null,
+      "published_scope": "web",
+      "tags": "CJ, Kid Dining Chair, Portable Kid Chair",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9825475428694",
+      "variants": [
+        {
+          "id": 51338493690198,
+          "product_id": 9825475428694,
+          "title": "Blue",
+          "price": "69.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-17T12:40:44+01:00",
+          "updated_at": "2025-09-17T12:40:44+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 2300,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJJJTJT16715-Blue",
+          "weight": 2300.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53562172997974,
+          "inventory_quantity": 19560,
+          "old_inventory_quantity": 19560,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51338493690198",
+          "image_id": 66895859286358
+        },
+        {
+          "id": 51338493722966,
+          "product_id": 9825475428694,
+          "title": "Pink",
+          "price": "69.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-17T12:40:44+01:00",
+          "updated_at": "2025-09-17T12:40:44+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 2300,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJJJTJT16715-Pink",
+          "weight": 2300.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53562173030742,
+          "inventory_quantity": 19881,
+          "old_inventory_quantity": 19881,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51338493722966",
+          "image_id": 66895859319126
+        }
+      ],
+      "options": [
+        {
+          "id": 12681240412502,
+          "product_id": 9825475428694,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue",
+            "Pink"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66895855157590,
+          "alt": null,
+          "position": 1,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:37+01:00",
+          "updated_at": "2025-09-17T12:40:40+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895855157590",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/953085543716.jpg?v=1758109241",
+          "variant_ids": []
+        },
+        {
+          "id": 66895855583574,
+          "alt": null,
+          "position": 2,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:38+01:00",
+          "updated_at": "2025-09-17T12:40:41+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895855583574",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/251625755123.jpg?v=1758109242",
+          "variant_ids": []
+        },
+        {
+          "id": 66895856730454,
+          "alt": null,
+          "position": 3,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:39+01:00",
+          "updated_at": "2025-09-17T12:40:43+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895856730454",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3958777916119.jpg?v=1758109243",
+          "variant_ids": []
+        },
+        {
+          "id": 66895857516886,
+          "alt": null,
+          "position": 4,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:41+01:00",
+          "updated_at": "2025-09-17T12:40:43+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895857516886",
+          "width": 773,
+          "height": 773,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1621131355348.jpg?v=1758109243",
+          "variant_ids": []
+        },
+        {
+          "id": 66895857877334,
+          "alt": null,
+          "position": 5,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:42+01:00",
+          "updated_at": "2025-09-17T12:40:44+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895857877334",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5472596534191.jpg?v=1758109245",
+          "variant_ids": []
+        },
+        {
+          "id": 66895858401622,
+          "alt": null,
+          "position": 6,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:43+01:00",
+          "updated_at": "2025-09-17T12:40:45+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895858401622",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1132245611506.jpg?v=1758109246",
+          "variant_ids": []
+        },
+        {
+          "id": 66895859286358,
+          "alt": null,
+          "position": 7,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:44+01:00",
+          "updated_at": "2025-09-17T12:40:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895859286358",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/953085543716_1683dc8a-1814-4caa-9103-1d10105a4719.jpg?v=1758109248",
+          "variant_ids": [
+            51338493690198
+          ]
+        },
+        {
+          "id": 66895859319126,
+          "alt": null,
+          "position": 8,
+          "product_id": 9825475428694,
+          "created_at": "2025-09-17T12:40:44+01:00",
+          "updated_at": "2025-09-17T12:40:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895859319126",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/679674837674.jpg?v=1758109248",
+          "variant_ids": [
+            51338493722966
+          ]
+        }
+      ],
+      "image": {
+        "id": 66895855157590,
+        "alt": null,
+        "position": 1,
+        "product_id": 9825475428694,
+        "created_at": "2025-09-17T12:40:37+01:00",
+        "updated_at": "2025-09-17T12:40:40+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66895855157590",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/953085543716.jpg?v=1758109241",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9825417265494,
       "title": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
-      "body_html": "<p>NuriBabe Baby Dining Chair Multi-Function Portable Foldable combines intelligent space-saving design with durable construction to deliver the perfect feeding solution for modern families. Thoughtfully engineered for both function and convenience, this chair adapts seamlessly to your baby’s needs while helping you maximize living and dining room space.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8f6515fe-370d-4478-a4ad-ee038de119b9.jpg?v=1758108096\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Multi-Function Design – Serves as both a dining chair and a child’s activity seat for versatile daily use.</li>\n<li>Portable &amp; Foldable – Lightweight structure folds easily for travel, storage, or quick setup at mealtime.</li>\n<li>Durable Construction – Made from high-quality, child-safe materials built to withstand everyday use.</li>\n<li>Comfortable &amp; Spacious Seating – Designed to provide a secure and supportive seat for babies and toddlers.</li>\n<li>Space-Saving Solution – Compact fold makes it ideal for apartments, small homes, or families on the go.</li>\n<li>Stylish Finish Options – Neutral, modern tones blend beautifully with any home decor style.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/eb79a6fa-3c51-446c-8cfc-706ff2ad7b47.jpg?v=1758108096\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Unfold the chair and lock all joints securely in place.</li>\n<li>Adjust seat position and tray placement to suit your child’s needs.</li>\n<li>Ensure all safety straps and mechanisms are properly engaged.</li>\n<li>Clean tray and seat area after each use.</li>\n<li>Fold flat for easy storage or travel.</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1848472c-ccfd-4690-a2e8-37966ae54350.jpg?v=1758108095\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Premium, child-safe plastic and metal components</li>\n<li>Dimensions: 102x72x50cm when fully expanded</li>\n<li>Style: Multi-functional, foldable design</li>\n<li>Colors: Classic White, Soft Gray, Blush Pink</li>\n<li>Suitable for: Babies and toddlers during feeding or playtime</li>\n<li>Package Includes: 1 complete foldable baby dining chair</li>\n</ul>\n<h3>Why Choose This Chair</h3>\n<p> </p>\n<ul>\n<li> Multi-functional design adapts to different stages of your child’s growth</li>\n<li>Lightweight and portable for effortless travel and storage</li>\n<li>Durable materials provide long-lasting reliability compared to standard alternatives</li>\n<li>Space-saving fold keeps your home neat and organized</li>\n<li>Attractive, modern color options enhance your living space rather than clutter it</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "body_html": "<p>NuriBabe Baby Dining Chair Multi-Function Portable Foldable combines intelligent space-saving design with durable construction to deliver the perfect feeding solution for modern families. Thoughtfully engineered for both function and convenience, this chair adapts seamlessly to your baby’s needs while helping you maximize living and dining room space.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A1_d6e4365d-0bbc-46a8-91fc-bb1ddc5dc7bb.png?v=1758108711\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"margin-bottom: 14px; float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Multi-Function Design – Serves as both a dining chair and a child’s activity seat for versatile daily use.</li>\n<li>Portable &amp; Foldable – Lightweight structure folds easily for travel, storage, or quick setup at mealtime.</li>\n<li>Durable Construction – Made from high-quality, child-safe materials built to withstand everyday use.</li>\n<li>Comfortable &amp; Spacious Seating – Designed to provide a secure and supportive seat for babies and toddlers.</li>\n<li>Space-Saving Solution – Compact fold makes it ideal for apartments, small homes, or families on the go.</li>\n<li>Stylish Finish Options – Neutral, modern tones blend beautifully with any home decor style.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/eb79a6fa-3c51-446c-8cfc-706ff2ad7b47.jpg?v=1758108096\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Unfold the chair and lock all joints securely in place.</li>\n<li>Adjust seat position and tray placement to suit your child’s needs.</li>\n<li>Ensure all safety straps and mechanisms are properly engaged.</li>\n<li>Clean tray and seat area after each use.</li>\n<li>Fold flat for easy storage or travel.</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1848472c-ccfd-4690-a2e8-37966ae54350.jpg?v=1758108095\" alt=\"NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Premium, child-safe plastic and metal components</li>\n<li>Dimensions: 102x72x50cm when fully expanded</li>\n<li>Style: Multi-functional, foldable design</li>\n<li>Colors: Classic White, Soft Gray, Blush Pink</li>\n<li>Suitable for: Babies and toddlers during feeding or playtime</li>\n<li>Package Includes: 1 complete foldable baby dining chair</li>\n</ul>\n<h3>Why Choose This Chair</h3>\n<p> </p>\n<ul>\n<li> Multi-functional design adapts to different stages of your child’s growth</li>\n<li>Lightweight and portable for effortless travel and storage</li>\n<li>Durable materials provide long-lasting reliability compared to standard alternatives</li>\n<li>Space-saving fold keeps your home neat and organized</li>\n<li>Attractive, modern color options enhance your living space rather than clutter it</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
       "vendor": "Nestacular",
       "product_type": "0",
       "created_at": "2025-09-17T12:21:28+01:00",
       "handle": "nuribabe-baby-dining-chair-multi-function-portable-foldable-durable-space-saving-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-17T12:26:07+01:00",
-      "published_at": null,
+      "updated_at": "2025-09-17T12:32:40+01:00",
+      "published_at": "2025-09-17T12:27:45+01:00",
       "template_suffix": null,
       "published_scope": "web",
       "tags": "CJ, High Chair Kids",
-      "status": "draft",
+      "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9825417265494",
       "variants": [
         {
@@ -8694,7 +8903,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:25:24+01:00",
+          "updated_at": "2025-09-17T12:32:38+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -8708,7 +8917,7 @@
           "inventory_quantity": 14984,
           "old_inventory_quantity": 14984,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51338380411222",
-          "image_id": 66895466594646
+          "image_id": 66895684960598
         },
         {
           "id": 51338380443990,
@@ -8745,14 +8954,14 @@
           "price": "339.95",
           "position": 3,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "399.95",
           "option1": "Orange",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:21:33+01:00",
+          "updated_at": "2025-09-17T12:26:48+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 7850,
           "inventory_management": "shopify",
@@ -8773,14 +8982,14 @@
           "price": "339.95",
           "position": 4,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "399.95",
           "option1": "Purple",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:21:33+01:00",
+          "updated_at": "2025-09-17T12:27:31+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 7850,
           "inventory_management": "shopify",
@@ -8811,17 +9020,19 @@
       ],
       "images": [
         {
-          "id": 66895465251158,
+          "id": 66895684960598,
           "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
           "position": 1,
           "product_id": 9825417265494,
-          "created_at": "2025-09-17T12:21:29+01:00",
-          "updated_at": "2025-09-17T12:24:03+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66895465251158",
-          "width": 750,
-          "height": 750,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/574d310f-cc98-4b42-a74e-479d1e145567.jpg?v=1758108092",
-          "variant_ids": []
+          "created_at": "2025-09-17T12:31:47+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895684960598",
+          "width": 992,
+          "height": 1056,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A1_d6e4365d-0bbc-46a8-91fc-bb1ddc5dc7bb.png?v=1758108760",
+          "variant_ids": [
+            51338380411222
+          ]
         },
         {
           "id": 66895466594646,
@@ -8829,26 +9040,37 @@
           "position": 2,
           "product_id": 9825417265494,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:24:11+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66895466594646",
           "width": 319,
           "height": 338,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8f6515fe-370d-4478-a4ad-ee038de119b9.jpg?v=1758108096",
-          "variant_ids": [
-            51338380411222
-          ]
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8f6515fe-370d-4478-a4ad-ee038de119b9.jpg?v=1758108760",
+          "variant_ids": []
+        },
+        {
+          "id": 66895465251158,
+          "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
+          "position": 3,
+          "product_id": 9825417265494,
+          "created_at": "2025-09-17T12:21:29+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66895465251158",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/574d310f-cc98-4b42-a74e-479d1e145567.jpg?v=1758108760",
+          "variant_ids": []
         },
         {
           "id": 66895466627414,
           "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
-          "position": 3,
+          "position": 4,
           "product_id": 9825417265494,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:24:18+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66895466627414",
           "width": 288,
           "height": 331,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/eb79a6fa-3c51-446c-8cfc-706ff2ad7b47.jpg?v=1758108096",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/eb79a6fa-3c51-446c-8cfc-706ff2ad7b47.jpg?v=1758108760",
           "variant_ids": [
             51338380443990
           ]
@@ -8856,14 +9078,14 @@
         {
           "id": 66895466660182,
           "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
-          "position": 4,
+          "position": 5,
           "product_id": 9825417265494,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:24:25+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66895466660182",
           "width": 304,
           "height": 344,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1848472c-ccfd-4690-a2e8-37966ae54350.jpg?v=1758108095",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1848472c-ccfd-4690-a2e8-37966ae54350.jpg?v=1758108760",
           "variant_ids": [
             51338380476758
           ]
@@ -8871,31 +9093,33 @@
         {
           "id": 66895466692950,
           "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
-          "position": 5,
+          "position": 6,
           "product_id": 9825417265494,
           "created_at": "2025-09-17T12:21:33+01:00",
-          "updated_at": "2025-09-17T12:24:32+01:00",
+          "updated_at": "2025-09-17T12:32:40+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66895466692950",
           "width": 302,
           "height": 358,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f514b71c-56bf-423b-9ec6-b8eaa3750e4f.jpg?v=1758108096",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f514b71c-56bf-423b-9ec6-b8eaa3750e4f.jpg?v=1758108760",
           "variant_ids": [
             51338380509526
           ]
         }
       ],
       "image": {
-        "id": 66895465251158,
+        "id": 66895684960598,
         "alt": "NuriBabe Baby Dining Chair Multi-Function Portable Foldable – Durable, Space-Saving Design | Essential Feeding Equipment for Babies & Toddlers",
         "position": 1,
         "product_id": 9825417265494,
-        "created_at": "2025-09-17T12:21:29+01:00",
-        "updated_at": "2025-09-17T12:24:03+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/66895465251158",
-        "width": 750,
-        "height": 750,
-        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/574d310f-cc98-4b42-a74e-479d1e145567.jpg?v=1758108092",
-        "variant_ids": []
+        "created_at": "2025-09-17T12:31:47+01:00",
+        "updated_at": "2025-09-17T12:32:40+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66895684960598",
+        "width": 992,
+        "height": 1056,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A1_d6e4365d-0bbc-46a8-91fc-bb1ddc5dc7bb.png?v=1758108760",
+        "variant_ids": [
+          51338380411222
+        ]
       }
     },
     {
@@ -12987,8 +13211,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 40,
-    "products_in_page": 40,
+    "total_products": 41,
+    "products_in_page": 41,
     "has_next_page": false,
     "has_previous_page": false
   }
