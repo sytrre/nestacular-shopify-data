@@ -1028,8 +1028,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791387566422",
       "variants": [
         {
-          "product_id": 9791387566422,
           "id": 51196299313494,
+          "product_id": 9791387566422,
           "title": "Brown",
           "price": "17.56",
           "position": 1,
@@ -1056,8 +1056,8 @@
           "image_id": 66241145766230
         },
         {
-          "product_id": 9791387566422,
           "id": 51196299346262,
+          "product_id": 9791387566422,
           "title": "Yellow",
           "price": "17.56",
           "position": 2,
@@ -1084,8 +1084,8 @@
           "image_id": 66241145798998
         },
         {
-          "product_id": 9791387566422,
           "id": 51196299379030,
+          "product_id": 9791387566422,
           "title": "Orange",
           "price": "17.56",
           "position": 3,
@@ -1112,8 +1112,8 @@
           "image_id": 66241145831766
         },
         {
-          "product_id": 9791387566422,
           "id": 51196299411798,
+          "product_id": 9791387566422,
           "title": "Red",
           "price": "17.56",
           "position": 4,
@@ -1140,8 +1140,8 @@
           "image_id": 66241145864534
         },
         {
-          "product_id": 9791387566422,
           "id": 51196299444566,
+          "product_id": 9791387566422,
           "title": "Green",
           "price": "17.56",
           "position": 5,
@@ -1170,8 +1170,8 @@
       ],
       "options": [
         {
-          "product_id": 9791387566422,
           "id": 12640604160342,
+          "product_id": 9791387566422,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8507,8 +8507,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9788883829078",
       "variants": [
         {
-          "id": 51185922867542,
           "product_id": 9788883829078,
+          "id": 51185922867542,
           "title": "Black",
           "price": "22.64",
           "position": 1,
@@ -8537,8 +8537,8 @@
       ],
       "options": [
         {
-          "id": 12637589242198,
           "product_id": 9788883829078,
+          "id": 12637589242198,
           "name": "Color",
           "position": 1,
           "values": [
