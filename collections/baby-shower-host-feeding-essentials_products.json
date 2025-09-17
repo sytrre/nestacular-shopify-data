@@ -15,7 +15,7 @@
       "product_type": "0",
       "created_at": "2025-09-15T15:32:13+01:00",
       "handle": "babcoa-baby-s-rocking-chair-electric-coax-bassinet-with-gentle-motion-adjustable-comfort-essential-sleeping-soothing-solution-for-infants-toddlers",
-      "updated_at": "2025-09-16T13:07:36+01:00",
+      "updated_at": "2025-09-17T02:17:49+01:00",
       "published_at": "2025-09-15T15:37:42+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821652255062",
       "variants": [
         {
-          "product_id": 9821652255062,
           "id": 51323336819030,
+          "product_id": 9821652255062,
           "title": "Mica Gray / US adapter",
           "price": "219.95",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 66791802503510
         },
         {
-          "product_id": 9821652255062,
           "id": 51323336851798,
+          "product_id": 9821652255062,
           "title": "Mica White / US adapter",
           "price": "219.95",
           "position": 2,
@@ -82,8 +82,8 @@
       ],
       "options": [
         {
-          "product_id": 9821652255062,
           "id": 12676613341526,
+          "product_id": 9821652255062,
           "name": "Color",
           "position": 1,
           "values": [
@@ -92,8 +92,8 @@
           ]
         },
         {
-          "product_id": 9821652255062,
           "id": 12676613374294,
+          "product_id": 9821652255062,
           "name": "Power specification",
           "position": 2,
           "values": [
@@ -429,7 +429,7 @@
       "product_type": "0",
       "created_at": "2025-09-15T14:31:23+01:00",
       "handle": "cozzyii-baby-rocking-chair-gentle-motion-cradle-with-adjustable-comfort-safety-design-essential-soothing-sleeping-chair-for-infants-toddlers",
-      "updated_at": "2025-09-16T13:07:15+01:00",
+      "updated_at": "2025-09-17T02:37:26+01:00",
       "published_at": "2025-09-15T14:54:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
