@@ -1560,8 +1560,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9784119099734",
       "variants": [
         {
-          "product_id": 9784119099734,
           "id": 51163496907094,
+          "product_id": 9784119099734,
           "title": "Blue",
           "price": "20.95",
           "position": 1,
@@ -1588,8 +1588,8 @@
           "image_id": 66171848327510
         },
         {
-          "product_id": 9784119099734,
           "id": 51163496939862,
+          "product_id": 9784119099734,
           "title": "Creamy white",
           "price": "20.45",
           "position": 2,
@@ -1616,8 +1616,8 @@
           "image_id": 66171848360278
         },
         {
-          "product_id": 9784119099734,
           "id": 51163496972630,
+          "product_id": 9784119099734,
           "title": "Cute cow beige",
           "price": "20.45",
           "position": 3,
@@ -1644,8 +1644,8 @@
           "image_id": 66171848393046
         },
         {
-          "product_id": 9784119099734,
           "id": 51163497005398,
+          "product_id": 9784119099734,
           "title": "Cute cow blue",
           "price": "20.45",
           "position": 4,
@@ -1672,8 +1672,8 @@
           "image_id": 66171848425814
         },
         {
-          "product_id": 9784119099734,
           "id": 51163497038166,
+          "product_id": 9784119099734,
           "title": "Cute cow green",
           "price": "20.45",
           "position": 5,
@@ -1700,8 +1700,8 @@
           "image_id": 66171848458582
         },
         {
-          "product_id": 9784119099734,
           "id": 51163497070934,
+          "product_id": 9784119099734,
           "title": "Cute cow pink",
           "price": "20.45",
           "position": 6,
@@ -1728,8 +1728,8 @@
           "image_id": 66171848491350
         },
         {
-          "product_id": 9784119099734,
           "id": 51163497103702,
+          "product_id": 9784119099734,
           "title": "Green",
           "price": "20.45",
           "position": 7,
@@ -1756,8 +1756,8 @@
           "image_id": 66171848524118
         },
         {
-          "product_id": 9784119099734,
           "id": 51163497136470,
+          "product_id": 9784119099734,
           "title": "Pink",
           "price": "20.95",
           "position": 8,
@@ -1786,8 +1786,8 @@
       ],
       "options": [
         {
-          "product_id": 9784119099734,
           "id": 12632043225430,
+          "product_id": 9784119099734,
           "name": "Color",
           "position": 1,
           "values": [

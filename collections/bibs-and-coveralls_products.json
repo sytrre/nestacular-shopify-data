@@ -19015,8 +19015,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791458509142",
       "variants": [
         {
-          "id": 51196523774294,
           "product_id": 9791458509142,
+          "id": 51196523774294,
           "title": "Pink / White elephant",
           "price": "19.95",
           "position": 1,
@@ -19043,8 +19043,8 @@
           "image_id": 66242109047126
         },
         {
-          "id": 51196523807062,
           "product_id": 9791458509142,
+          "id": 51196523807062,
           "title": "Green / White elephant",
           "price": "19.95",
           "position": 2,
@@ -19071,8 +19071,8 @@
           "image_id": 66242109079894
         },
         {
-          "id": 51196523839830,
           "product_id": 9791458509142,
+          "id": 51196523839830,
           "title": "Blue / White elephant",
           "price": "20.47",
           "position": 3,
@@ -19101,8 +19101,8 @@
       ],
       "options": [
         {
-          "id": 12640682574166,
           "product_id": 9791458509142,
+          "id": 12640682574166,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19112,8 +19112,8 @@
           ]
         },
         {
-          "id": 12640682606934,
           "product_id": 9791458509142,
+          "id": 12640682606934,
           "name": "Style",
           "position": 2,
           "values": [

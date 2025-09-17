@@ -1,6 +1,330 @@
 {
   "products": [
     {
+      "id": 9791453790550,
+      "title": "OpalNest Wide-Caliber Baby Bottle – Anti-Colic, Anti-Fall Milk Feeder for Infants",
+      "body_html": "<p data-start=\"129\" data-end=\"490\">Ensure safe and comfortable feeding with the <strong data-start=\"205\" data-end=\"242\">OpalNest Wide-Caliber Baby Bottle</strong>. Designed with a <strong data-start=\"260\" data-end=\"295\">wide-neck and anti-colic nipple</strong>, this bottle reduces gas, spit-up, and discomfort during feeding. Its <strong data-start=\"366\" data-end=\"400\">durable, drop-resistant design</strong> helps prevent accidents and breakage, making it ideal for infants and growing toddlers.</p>\n<p data-start=\"492\" data-end=\"796\">Crafted from <strong data-start=\"505\" data-end=\"539\">BPA-free, food-grade materials</strong>, the OpalNest bottle is safe, easy to clean, and compatible with most standard bottle accessories. The ergonomic shape makes handling easier for both parents and little ones learning to hold their bottle. Perfect for milk, formula, or liquid supplements.</p>\n<p data-start=\"798\" data-end=\"817\"><strong data-start=\"798\" data-end=\"815\">Key Features:</strong></p>\n<ul data-start=\"818\" data-end=\"1148\">\n<li data-start=\"818\" data-end=\"882\">\n<p data-start=\"820\" data-end=\"882\"><strong data-start=\"820\" data-end=\"842\">Anti-Colic Design:</strong> Reduces gas, spit-up, and discomfort.</p>\n</li>\n<li data-start=\"883\" data-end=\"948\">\n<p data-start=\"885\" data-end=\"948\"><strong data-start=\"885\" data-end=\"909\">Anti-Fall &amp; Durable:</strong> Drop-resistant and safe for infants.</p>\n</li>\n<li data-start=\"949\" data-end=\"1019\">\n<p data-start=\"951\" data-end=\"1019\"><strong data-start=\"951\" data-end=\"975\">Wide-Caliber Nipple:</strong> Mimics natural feeding for easy latching.</p>\n</li>\n<li data-start=\"1020\" data-end=\"1077\">\n<p data-start=\"1022\" data-end=\"1077\"><strong data-start=\"1022\" data-end=\"1044\">BPA-Free Material:</strong> Safe and non-toxic for babies.</p>\n</li>\n<li data-start=\"1078\" data-end=\"1148\">\n<p data-start=\"1080\" data-end=\"1148\"><strong data-start=\"1080\" data-end=\"1098\">Easy to Clean:</strong> Compatible with standard bottle cleaning tools.</p>\n</li>\n</ul>\n<p data-start=\"1150\" data-end=\"1259\">Give your baby a safer, more comfortable feeding experience with the <strong data-start=\"1219\" data-end=\"1256\">OpalNest Wide-Caliber Baby Bottle.</strong><br></p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/eb9b5da6-34fd-414a-861a-799d939df952.jpg?v=1756904268\" alt=\"OpalNest Wide-Caliber Baby Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f551564b-8042-42fb-b099-be260500f57f.jpg?v=1756904269\" alt=\"OpalNest Wide-Caliber Baby Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/dc331962-1ca3-495e-9e03-e856cacefcd9.jpg?v=1756904270\" alt=\"OpalNest Wide-Caliber Baby Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/aab6abcc-cf88-4b2e-99b7-35fa948dc7a3.jpg?v=1756904270\" alt=\"OpalNest Wide-Caliber Baby Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>\n<style>@font-face{font-family:\"Times New Roman\";}@font-face{font-family:\"宋体\";}@font-face{font-family:\"Calibri\";}p.MsoNormal{mso-style-name:正文;mso-style-parent:\"\";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:\"\";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:\"\";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;}\n </style>",
+      "vendor": "Nestacular",
+      "product_type": "Baby Bottle",
+      "created_at": "2025-09-01T13:16:03+01:00",
+      "handle": "opalnest-wide-caliber-baby-bottle",
+      "updated_at": "2025-09-16T13:32:10+01:00",
+      "published_at": "2025-09-01T13:16:14+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Anti-Colic Infant Bottle, Anti-Fall Milk Feeder, BPA-Free Baby Bottle, Infant Feeding Bottle, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep, Wide-Caliber Baby Bottle",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9791453790550",
+      "variants": [
+        {
+          "id": 51196508537174,
+          "product_id": 9791453790550,
+          "title": "Green / 300ml",
+          "price": "31.76",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "41.29",
+          "option1": "Green",
+          "option2": "300ml",
+          "option3": null,
+          "created_at": "2025-09-01T13:16:10+01:00",
+          "updated_at": "2025-09-01T15:02:56+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 320,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE05481-Green-300ml",
+          "weight": 320.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53402017497430,
+          "inventory_quantity": 20000,
+          "old_inventory_quantity": 20000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196508537174",
+          "image_id": 66242037186902
+        },
+        {
+          "id": 51196508569942,
+          "product_id": 9791453790550,
+          "title": "Blue / 300ml",
+          "price": "31.76",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "41.29",
+          "option1": "Blue",
+          "option2": "300ml",
+          "option3": null,
+          "created_at": "2025-09-01T13:16:10+01:00",
+          "updated_at": "2025-09-01T15:02:56+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 320,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE05481-Blue-300ml",
+          "weight": 320.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53402017530198,
+          "inventory_quantity": 20000,
+          "old_inventory_quantity": 20000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196508569942",
+          "image_id": 66242037219670
+        },
+        {
+          "id": 51196508602710,
+          "product_id": 9791453790550,
+          "title": "Red / 240ml",
+          "price": "31.76",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "41.29",
+          "option1": "Red",
+          "option2": "240ml",
+          "option3": null,
+          "created_at": "2025-09-01T13:16:10+01:00",
+          "updated_at": "2025-09-01T15:02:56+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 290,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE05481-Red-240ml",
+          "weight": 290.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53402017562966,
+          "inventory_quantity": 20000,
+          "old_inventory_quantity": 20000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196508602710",
+          "image_id": 66242037252438
+        },
+        {
+          "id": 51196508635478,
+          "product_id": 9791453790550,
+          "title": "Blue / 240ml",
+          "price": "31.76",
+          "position": 4,
+          "inventory_policy": "deny",
+          "compare_at_price": "41.29",
+          "option1": "Blue",
+          "option2": "240ml",
+          "option3": null,
+          "created_at": "2025-09-01T13:16:10+01:00",
+          "updated_at": "2025-09-01T15:02:56+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 290,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE05481-Blue-240ml",
+          "weight": 290.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53402017595734,
+          "inventory_quantity": 20000,
+          "old_inventory_quantity": 20000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196508635478",
+          "image_id": 66242037219670
+        },
+        {
+          "id": 51196508668246,
+          "product_id": 9791453790550,
+          "title": "Green / 240ml",
+          "price": "31.76",
+          "position": 5,
+          "inventory_policy": "deny",
+          "compare_at_price": "41.29",
+          "option1": "Green",
+          "option2": "240ml",
+          "option3": null,
+          "created_at": "2025-09-01T13:16:10+01:00",
+          "updated_at": "2025-09-01T15:02:56+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 290,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE05481-Green-240ml",
+          "weight": 290.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53402017628502,
+          "inventory_quantity": 20000,
+          "old_inventory_quantity": 20000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196508668246",
+          "image_id": 66242037186902
+        },
+        {
+          "id": 51196508701014,
+          "product_id": 9791453790550,
+          "title": "Red / 300ml",
+          "price": "31.76",
+          "position": 6,
+          "inventory_policy": "deny",
+          "compare_at_price": "41.29",
+          "option1": "Red",
+          "option2": "300ml",
+          "option3": null,
+          "created_at": "2025-09-01T13:16:10+01:00",
+          "updated_at": "2025-09-01T15:02:56+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 320,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE05481-Red-300ml",
+          "weight": 320.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53402017661270,
+          "inventory_quantity": 20000,
+          "old_inventory_quantity": 20000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196508701014",
+          "image_id": 66242037252438
+        }
+      ],
+      "options": [
+        {
+          "id": 12640677593430,
+          "product_id": 9791453790550,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Green",
+            "Blue",
+            "Red"
+          ]
+        },
+        {
+          "id": 12640677626198,
+          "product_id": 9791453790550,
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "300ml",
+            "240ml"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66242035941718,
+          "alt": "OpalNest Wide-Caliber Baby Bottle",
+          "position": 1,
+          "product_id": 9791453790550,
+          "created_at": "2025-09-01T13:16:05+01:00",
+          "updated_at": "2025-09-01T15:03:13+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242035941718",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1259669534703.jpg?v=1756728968",
+          "variant_ids": []
+        },
+        {
+          "id": 66242036203862,
+          "alt": "OpalNest Wide-Caliber Baby Bottle",
+          "position": 2,
+          "product_id": 9791453790550,
+          "created_at": "2025-09-01T13:16:06+01:00",
+          "updated_at": "2025-09-01T15:03:17+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242036203862",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1853077732679.jpg?v=1756728969",
+          "variant_ids": []
+        },
+        {
+          "id": 66242036367702,
+          "alt": "OpalNest Wide-Caliber Baby Bottle",
+          "position": 3,
+          "product_id": 9791453790550,
+          "created_at": "2025-09-01T13:16:07+01:00",
+          "updated_at": "2025-09-01T15:03:22+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242036367702",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/194198176588.jpg?v=1756728970",
+          "variant_ids": []
+        },
+        {
+          "id": 66242036793686,
+          "alt": "OpalNest Wide-Caliber Baby Bottle",
+          "position": 4,
+          "product_id": 9791453790550,
+          "created_at": "2025-09-01T13:16:08+01:00",
+          "updated_at": "2025-09-01T15:03:27+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242036793686",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/279539491288.jpg?v=1756728971",
+          "variant_ids": []
+        },
+        {
+          "id": 66242037186902,
+          "alt": "OpalNest Wide-Caliber Baby Bottle",
+          "position": 5,
+          "product_id": 9791453790550,
+          "created_at": "2025-09-01T13:16:10+01:00",
+          "updated_at": "2025-09-01T15:03:32+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242037186902",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1259669534703_87196f83-981b-4825-a281-a291af9854aa.jpg?v=1756728974",
+          "variant_ids": [
+            51196508537174,
+            51196508668246
+          ]
+        },
+        {
+          "id": 66242037219670,
+          "alt": "OpalNest Wide-Caliber Baby Bottle",
+          "position": 6,
+          "product_id": 9791453790550,
+          "created_at": "2025-09-01T13:16:10+01:00",
+          "updated_at": "2025-09-01T15:03:36+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242037219670",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1995214811751.jpg?v=1756728974",
+          "variant_ids": [
+            51196508569942,
+            51196508635478
+          ]
+        },
+        {
+          "id": 66242037252438,
+          "alt": "OpalNest Wide-Caliber Baby Bottle",
+          "position": 7,
+          "product_id": 9791453790550,
+          "created_at": "2025-09-01T13:16:10+01:00",
+          "updated_at": "2025-09-01T15:03:40+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242037252438",
+          "width": 790,
+          "height": 797,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4698610116015.jpg?v=1756728973",
+          "variant_ids": [
+            51196508602710,
+            51196508701014
+          ]
+        }
+      ],
+      "image": {
+        "id": 66242035941718,
+        "alt": "OpalNest Wide-Caliber Baby Bottle",
+        "position": 1,
+        "product_id": 9791453790550,
+        "created_at": "2025-09-01T13:16:05+01:00",
+        "updated_at": "2025-09-01T15:03:13+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66242035941718",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1259669534703.jpg?v=1756728968",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9612696256854,
       "title": "OralQ - Keep your Smile Bright with a Portable Flossing Irrigator",
       "body_html": "<p dir=\"ltr\" style=\"text-align: center;\"> </p>\n<p style=\"line-height: normal; text-align: center;\" class=\"MsoNormal\"><strong><em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">\"Oral care routines are transformed into effortless cleanliness, and plaque buildup is no longer a concern with the OralQ portable flossing irrigator. Tedious string flossing and food debris are minimized, allowing for a fresh, clean feeling anytime, anywhere. Its powerful water jet and compact design exceeded expectations, ensuring reliable performance and a vital addition to any daily routine.\"</span></em></strong></p>\n<p style=\"line-height: normal; text-align: center;\" class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><span style=\"color: rgb(0, 0, 0);\">⭐⭐⭐⭐⭐ - </span></span></strong></em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><span style=\"color: rgb(0, 0, 0);\">Johna Plute</span></span><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><span style=\"color: rgb(0, 0, 0);\"></span></span></strong><em><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><span style=\"color: rgb(0, 0, 0);\"><br>✅ Verified Buyer</span></span></strong></em></p>\n<p style=\"line-height: normal; text-align: center;\" class=\"MsoNormal\"> </p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">The <span style=\"text-decoration: underline;\">struggle</span> with traditional string flossing—the <span style=\"text-decoration: underline;\">difficulty</span> in reaching back teeth, the <span style=\"text-decoration: underline;\">messiness</span>, and the<span style=\"text-decoration: underline;\"> irritation</span> to gums—often leads to <span style=\"text-decoration: underline;\">inconsistent</span> oral hygiene. Without a thorough cleaning solution, plaque and food debris can accumulate, causing bad breath, gum inflammation, and an overall feeling of an <span style=\"text-decoration: underline;\">unclean</span> mouth. The constant hassle of maintaining a consistent flossing routine can result in <span style=\"text-decoration: underline;\">frustration</span>, oral health issues, and a <span style=\"text-decoration: underline;\">diminished sense</span> of confidence, highlighting the critical need for a truly effective and convenient solution.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">OralQ's High-Performance <strong>Portable Flossing Irrigator</strong> features a <strong>powerful</strong>, pulsating water jet, multiple pressure settings, and a <strong>compact</strong>, cordless design for optimal oral health. Its <strong>efficient</strong> cleaning action and deep reach reduce plaque buildup while <strong>boosting</strong> gum health and ensuring a fresh, clean feeling after every use. Confident oral hygiene and reduced reliance on cumbersome tools bring a <strong>smoother</strong>, more refreshing daily experience.<br><br></span></p>\n<p style=\"line-height: normal; text-align: center;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/B_2f7264e5-0f26-4d52-8ccc-5649368be5cf.jpg?v=1747050687\"></span></p>\n<h2 style=\"line-height: normal; text-align: center;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><br>REASONS WHY ORALQ PORTABLE FLOSSING IRRIGATOR WILL CHANGE ORAL HYGIENE EXPERIENCES</span></h2>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Segoe UI Symbol',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Segoe UI Symbol';\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><strong><span style=\"color: rgb(0, 0, 0);\">✅ </span></strong></span></span><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><strong>SUPERIOR PLAQUE REMOVAL</strong><b>:</b> OralQ is specifically designed to <strong>blast away</strong> plaque and food debris from between teeth and below the gumline, where brushing and string flossing often miss. This deep cleaning action makes it an essential portable irrigator for comprehensive oral hygiene.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Segoe UI Symbol',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Segoe UI Symbol';\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><strong><span style=\"color: rgb(0, 0, 0);\">✅ </span></strong></span></span><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><strong>GENTLE &amp; EFFECTIVE ON GUMS</strong><b>:</b> The pulsating water jet of the OralQ flossing irrigator is powerful enough to <strong>clean effectively</strong> yet gentle on gums. This makes it a great choice for individuals with sensitive gums, braces, dental implants, or crowns, providing a comfortable and soothing clean.<br><br></span></p>\n<p style=\"line-height: normal; text-align: center;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><span><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/B2_9b19836a-f9ed-497d-8774-7cffdc7b211f.jpg?v=1741954384\" alt=\"\"></span></span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Segoe UI Symbol',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Segoe UI Symbol';\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><strong><span style=\"color: rgb(0, 0, 0);\"><br>✅</span></strong><span style=\"color: rgb(0, 0, 0);\"> </span></span></span><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><strong>COMPACT &amp; PORTABLE DESIGN</strong><b>:</b> Designed for ultimate convenience, OralQ is lightweight and features a compact, cordless design that fits easily in a toiletry bag or travel pack. This <strong>portability</strong> ensures a superior clean is always available, whether at home, the office, or on a trip.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Segoe UI Symbol',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Segoe UI Symbol';\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><strong><span style=\"color: rgb(0, 0, 0);\">✅ </span></strong></span></span><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><strong>MULTIPLE PRESSURE SETTINGS</strong><b>:</b> OralQ offers several pressure settings, allowing for a <strong>personalized</strong> cleaning experience. Users can choose a gentle mode for sensitive gums or a more powerful mode for a deeper clean, ensuring optimal comfort and effectiveness for everyone.<br><br></span></p>\n<p style=\"line-height: normal; text-align: center;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/B11_bae5e8aa-4c9a-40ca-8f8a-f809ab171edc.jpg?v=1747052197\"></span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Segoe UI Symbol',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Segoe UI Symbol';\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><strong><span style=\"color: rgb(0, 0, 0);\"><br>✅</span></strong><span style=\"color: rgb(0, 0, 0);\"> </span></span></span><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><strong>LONG-LASTING BATTERY &amp; EASY REFILLING</strong><b>:</b> The OralQ  is equipped with a powerful, <strong>long-lasting</strong> rechargeable battery, providing multiple uses on a single charge. Its easy-to-fill water reservoir makes refills quick and mess-free.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"> </p>\n<h2 style=\"line-height: normal; text-align: center;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">HOW TO USE ORALQ PORTABLE FLOSSING IRRIGATOR</span></h2>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">1. Fill Reservoir:</span></b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> Open the reservoir cap and fill the OralQ <b>portable flossing irrigator</b> with lukewarm water. Close the cap securely.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">2. Select Setting:</span></b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> Power on the device and select the desired pressure setting, starting with the lowest setting and increasing as comfort allows.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">3. Position Flosser:</span></b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> Lean over a sink and place the nozzle tip into the mouth, aiming the water jet at the gumline at a 90-degree angle.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">4. Floss &amp; Rinse:</span></b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> Move the nozzle along the gumline, pausing briefly between each tooth to allow the water to flush out debris. Continue until the entire mouth has been cleaned.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">5. Empty &amp; Dry:</span></b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> After use, turn off the device, empty any remaining water from the reservoir, and wipe the exterior dry.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"> </p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">The persistent problem of <span style=\"text-decoration: underline;\">ineffective</span> flossing, the <span style=\"text-decoration: underline;\">discomfort</span> of <span style=\"text-decoration: underline;\">irritated</span> gums, and the frustration of bulky oral care tools often trigger plaque buildup, <span style=\"text-decoration: underline;\">bad breath</span>, and a general sense of unease about oral health. Relying on temporary fixes can increase <span style=\"text-decoration: underline;\">discomfort </span>and reduce confidence in one's smile.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">OralQ's High-Performance combines a <strong>powerful</strong> water jet with a compact, cordless design. Built-in multiple pressure settings ensure a personalized clean, while <strong>efficient</strong> plaque removal promotes lasting gum health. Each feature <strong>enhances</strong> cleaning effectiveness, improves gum well-being, and boosts overall daily confidence, making it an <strong>indispensable</strong> tool for anyone seeking improved convenience and a superior clean.<br><br></span></p>\n<p><video playsinline=\"\" preload=\"none\" loop=\"loop\" width=\"100%\" muted=\"muted\" autoplay=\"autoplay\"> <source type=\"video/mp4\" src=\"https://cdn.shopify.com/videos/c/o/v/35ab87406979431888f46c8818e15e7b.mp4\"> Your browser does not support the video tag. </source></video></p>\n<p style=\"line-height: normal; text-align: center;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><img></span></p>\n<p style=\"margin-bottom: 12.0pt; text-align: center;\" align=\"center\"><strong><span style=\"color: black;\">PRODUCT SPECIFICATIONS<br></span></strong><b><br></b> Colors: Black/White/Green/Pink<br>Weight 15.2 Ounces<br>Product Dimensions 9.05x3.44x2.36 Inches</p>\n<p style=\"text-align: center;\" align=\"center\"><strong><span style=\"color: black;\">A Nestacular Promise</span></strong><b><span style=\"color: black;\"><br></span></b>At <strong><span style=\"color: black;\">Nestacular</span></strong>, we believe in the quality of our products<span style=\"box-sizing: border-box;\">, so we offer a <strong><span style=\"color: black;\">30-day Money-Back</span> <span style=\"color: black;\">Guarantee,</span> </strong><span style=\"color: #404040;\">no questions asked! When you purchase from us, there is</span><strong> <span style=\"color: black;\">ZERO Risk</span> </strong><span style=\"color: #404040;\">for you!</span></span></p>\n<p style=\"margin-bottom: 12.0pt; text-align: center;\" align=\"center\">Congratulations!<br>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</p>\n<p style=\"text-align: center;\" align=\"center\"><strong><span style=\"color: black;\">Customer Support:</span></strong><br>Email: support@nestacular.com<br>Phone: +1-(800) 913-9932</p>\n<p style=\"line-height: normal; text-align: center;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><img></span></p>\n<h2 style=\"text-align: center;\">\n<span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><br></span><b><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: windowtext;\">Frequently Asked Questions about OralQ Portable Flossing Irrigator</span></b><b><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: windowtext;\"></span></b>\n</h2>\n<h3 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">\n<em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">What is the main benefit of using OralQ portable flossing irrigator?</span></em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><em> </em><span style=\"mso-spacerun: yes;\"> </span></span>\n</h3>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">The main benefit of the OralQ <b>portable flossing irrigator</b> is its ability to provide a deep, effective clean by using a powerful water jet to remove plaque and debris from areas that are difficult to reach with a toothbrush or traditional string floss.</span></p>\n<h3 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">\n<em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Is the OralQ flossing irrigator suitable for people with braces or dental work?</span></em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> </span>\n</h3>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Yes, the OralQ <b>portable flossing irrigator</b> is an excellent tool for individuals with braces, implants, crowns, or bridges. The water jet can effectively clean around orthodontic appliances and dental work without causing damage or irritation.</span></p>\n<h3 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">How often should one use the OralQ portable flossing irrigator?</span><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> </span></em></h3>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">For optimal oral health, it is recommended to use the OralQ <b>portable flossing irrigator</b> at least once a day, preferably after brushing. Daily use helps prevent plaque buildup and promotes healthier gums.</span></p>\n<h3 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">\n<em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">How does the OralQ irrigator compare to traditional string floss?</span></em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> <span style=\"mso-spacerun: yes;\"> </span></span>\n</h3>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">The OralQ <b>portable flossing irrigator</b> provides a more thorough and often more comfortable clean than traditional string floss. Its water jet can reach deeper into gum pockets and between teeth, and it is less likely to cause gum irritation or bleeding.</span></p>\n<h3 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Is the OralQ portable flossing irrigator easy to travel with?</span><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> <span style=\"mso-spacerun: yes;\"> </span></span></em></h3>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Yes, the OralQ <b>portable flossing irrigator</b> is designed with portability in mind. Its compact, lightweight, and cordless design makes it easy to pack in a suitcase or carry-on, ensuring a consistent oral hygiene routine is maintained while traveling.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><strong><em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">What kind of water should be used in the OralQ portable flossing irrigator?</span></em></strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><em> </em><span style=\"mso-spacerun: yes;\"> </span></span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">It is recommended to use lukewarm tap water in the OralQ <b>portable flossing irrigator</b>. This is comfortable for most users and helps prevent thermal shock to sensitive teeth or gums.</span></p>\n<h3 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><em><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Can the OralQ portable flossing irrigator be used with mouthwash?</span><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> <span style=\"mso-spacerun: yes;\"> </span></span></em></h3>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Yes, a small amount of non-alcoholic mouthwash can be added to the water reservoir of the OralQ <b>portable flossing irrigator</b> for an extra fresh feeling. It is important to rinse the device thoroughly with plain water after using mouthwash to prevent residue buildup.</span></p>",
@@ -12397,8 +12721,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790121607510",
       "variants": [
         {
-          "product_id": 9790121607510,
           "id": 51191187210582,
+          "product_id": 9790121607510,
           "title": "B Pink",
           "price": "22.55",
           "position": 1,
@@ -12425,8 +12749,8 @@
           "image_id": 66229044773206
         },
         {
-          "product_id": 9790121607510,
           "id": 51191187243350,
+          "product_id": 9790121607510,
           "title": "Pink Set",
           "price": "63.36",
           "position": 2,
@@ -12453,8 +12777,8 @@
           "image_id": 66229044805974
         },
         {
-          "product_id": 9790121607510,
           "id": 51191187276118,
+          "product_id": 9790121607510,
           "title": "Blue",
           "price": "22.55",
           "position": 3,
@@ -12481,8 +12805,8 @@
           "image_id": 66229044838742
         },
         {
-          "product_id": 9790121607510,
           "id": 51191187308886,
+          "product_id": 9790121607510,
           "title": "Pink",
           "price": "22.55",
           "position": 4,
@@ -12511,8 +12835,8 @@
       ],
       "options": [
         {
-          "product_id": 9790121607510,
           "id": 12639058985302,
+          "product_id": 9790121607510,
           "name": "Color",
           "position": 1,
           "values": [
@@ -31219,8 +31543,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791458509142",
       "variants": [
         {
-          "id": 51196523774294,
           "product_id": 9791458509142,
+          "id": 51196523774294,
           "title": "Pink / White elephant",
           "price": "19.95",
           "position": 1,
@@ -31247,8 +31571,8 @@
           "image_id": 66242109047126
         },
         {
-          "id": 51196523807062,
           "product_id": 9791458509142,
+          "id": 51196523807062,
           "title": "Green / White elephant",
           "price": "19.95",
           "position": 2,
@@ -31275,8 +31599,8 @@
           "image_id": 66242109079894
         },
         {
-          "id": 51196523839830,
           "product_id": 9791458509142,
+          "id": 51196523839830,
           "title": "Blue / White elephant",
           "price": "20.47",
           "position": 3,
@@ -31305,8 +31629,8 @@
       ],
       "options": [
         {
-          "id": 12640682574166,
           "product_id": 9791458509142,
+          "id": 12640682574166,
           "name": "Color",
           "position": 1,
           "values": [
@@ -31316,8 +31640,8 @@
           ]
         },
         {
-          "id": 12640682606934,
           "product_id": 9791458509142,
+          "id": 12640682606934,
           "name": "Style",
           "position": 2,
           "values": [
@@ -40926,6 +41250,158 @@
       }
     },
     {
+      "id": 9825914552662,
+      "title": "WoodyNest Wooden Double-Layer Solid Wood Baby Height Chair – Durable Beech Construction, Adjustable Design | Essential Feeding Equipment for Babies & Toddlers",
+      "body_html": "<article></article>\n<article>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div style=\"text-align: start;\">\n<p><strong>WoodyNest Wooden Double-Layer Solid Wood Baby Height Chair</strong> combines natural durability with a timeless beech wood design to deliver a safe and stylish feeding solution for modern families. Thoughtfully crafted with double-layer support and adjustable height, this chair adapts as your child grows while enhancing your dining space with classic wooden charm.</p>\n<p style=\"text-align: center;\"><img style=\"float: none;\" alt=\"WoodyNest Wooden Double-Layer Solid Wood Baby Height Chair – Durable Beech Construction, Adjustable Design | Essential Feeding Equipment for Babies &amp; Toddlers\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/59136c08-0e12-40b4-889c-4b44cfb8d1d7.jpg?v=1758121030\"></p>\n<h3>Smart Design Features</h3>\n<p><strong>Double-layer structure</strong> provides enhanced stability and long-lasting use</p>\n<p><strong>Adjustable height design</strong> accommodates babies and toddlers at different growth stages</p>\n<p><strong>Durable solid beech wood construction</strong> ensures strength and reliability for daily use</p>\n<p><strong>Spacious seating design</strong> offers comfort during feeding and activity times</p>\n<p><strong>Smooth polished surface</strong> makes cleaning quick and effortless</p>\n<p><strong>Classic wooden finish</strong> complements any dining room or kitchen décor</p>\n<p style=\"text-align: center;\"><img style=\"float: none;\" alt=\"WoodyNest Wooden Double-Layer Solid Wood Baby Height Chair – Durable Beech Construction, Adjustable Design | Essential Feeding Equipment for Babies &amp; Toddlers\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2e3255de-f80c-4f70-bbe7-dd176653fa43.jpg?v=1758121029\"></p>\n<h3>Setup and Usage</h3>\n<p>Place the chair on a flat, stable surface before use</p>\n<p>Adjust seat height according to your child’s needs</p>\n<p>Securely lock all adjustment mechanisms for safety</p>\n<p>Clean seat and tray area before and after each use</p>\n<p>Ensure straps (if included) are properly fastened during feeding</p>\n<p style=\"text-align: center;\"><img style=\"float: none;\" alt=\"WoodyNest Wooden Double-Layer Solid Wood Baby Height Chair – Durable Beech Construction, Adjustable Design | Essential Feeding Equipment for Babies &amp; Toddlers\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/0d78e90f-3e94-4c53-aca5-4fdca9be89fb.jpg?v=1758121036\"></p>\n<h3>Product Specifications</h3>\n<p><strong>Material:</strong> Premium solid beech wood</p>\n<p><strong>Style:</strong> Double-layer design with adjustable height</p>\n<p><strong>Dimensions:</strong> Generous sizing for growing babies and toddlers</p>\n<p><strong>Finish:</strong> Natural wood grain for a timeless, elegant look</p>\n<p><strong>Suitable for:</strong> Babies and toddlers during feeding and playtime</p>\n<p><strong>Package:</strong> 1 complete solid wood baby height chair</p>\n<h3>Why Choose This Chair</h3>\n<p><strong>Natural wooden durability</strong> offers superior strength over plastic alternatives</p>\n<p><strong>Double-layer stability</strong> provides enhanced safety and comfort</p>\n<p><strong>Adjustable features</strong> grow with your child’s development</p>\n<p><strong>Easy-to-clean surfaces</strong> ensure hassle-free maintenance for parents</p>\n<p><strong>Classic wooden design</strong> elevates your home décor while serving practical needs</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</article>\n<p><br></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-17T15:57:01+01:00",
+      "handle": "woodynest-wooden-double-layer-solid-wood-baby-height-chair-durable-beech-construction-adjustable-design-essential-feeding-equipment-for-babies-toddlers",
+      "updated_at": "2025-09-17T16:05:30+01:00",
+      "published_at": "2025-09-17T16:02:18+01:00",
+      "template_suffix": null,
+      "published_scope": "web",
+      "tags": "CJ, Wooden Kid Chair",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9825914552662",
+      "variants": [
+        {
+          "id": 51339723276630,
+          "product_id": 9825914552662,
+          "title": "Natural",
+          "price": "99.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "139.95",
+          "option1": "Natural",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-17T15:57:14+01:00",
+          "updated_at": "2025-09-17T16:02:08+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 5220,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJFU228629701AZ",
+          "weight": 5220.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53564438217046,
+          "inventory_quantity": 62,
+          "old_inventory_quantity": 62,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51339723276630",
+          "image_id": 66903240507734
+        }
+      ],
+      "options": [
+        {
+          "id": 12681741336918,
+          "product_id": 9825914552662,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Natural"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66903237755222,
+          "alt": "Wooden high chair in a room with curtains and a plant",
+          "position": 1,
+          "product_id": 9825914552662,
+          "created_at": "2025-09-17T15:57:03+01:00",
+          "updated_at": "2025-09-17T16:00:33+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66903237755222",
+          "width": 600,
+          "height": 600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/b30430d5-d520-4676-b2ae-b9c094925f3b.jpg?v=1758121025",
+          "variant_ids": []
+        },
+        {
+          "id": 66903237951830,
+          "alt": "Wooden high chair with a black strap against a white curtain background",
+          "position": 2,
+          "product_id": 9825914552662,
+          "created_at": "2025-09-17T15:57:07+01:00",
+          "updated_at": "2025-09-17T16:00:39+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66903237951830",
+          "width": 600,
+          "height": 600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2e3255de-f80c-4f70-bbe7-dd176653fa43.jpg?v=1758121029",
+          "variant_ids": []
+        },
+        {
+          "id": 66903238672726,
+          "alt": "Wooden high chair in a room with a white wall and a shelf with toys.",
+          "position": 3,
+          "product_id": 9825914552662,
+          "created_at": "2025-09-17T15:57:08+01:00",
+          "updated_at": "2025-09-17T16:00:46+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66903238672726",
+          "width": 600,
+          "height": 600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/59136c08-0e12-40b4-889c-4b44cfb8d1d7.jpg?v=1758121030",
+          "variant_ids": []
+        },
+        {
+          "id": 66903240048982,
+          "alt": "Wooden high chair in a room with toys and a tent",
+          "position": 4,
+          "product_id": 9825914552662,
+          "created_at": "2025-09-17T15:57:12+01:00",
+          "updated_at": "2025-09-17T16:00:52+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66903240048982",
+          "width": 600,
+          "height": 600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1d667868-e688-42e7-81f8-20ffb26ec128.jpg?v=1758121034",
+          "variant_ids": []
+        },
+        {
+          "id": 66903240278358,
+          "alt": "Wooden high chair in a room with a white wall and a shelf with toys.",
+          "position": 5,
+          "product_id": 9825914552662,
+          "created_at": "2025-09-17T15:57:13+01:00",
+          "updated_at": "2025-09-17T16:00:58+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66903240278358",
+          "width": 600,
+          "height": 600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/0d78e90f-3e94-4c53-aca5-4fdca9be89fb.jpg?v=1758121036",
+          "variant_ids": []
+        },
+        {
+          "id": 66903240507734,
+          "alt": "Wooden high chair in a room with curtains and a plant",
+          "position": 6,
+          "product_id": 9825914552662,
+          "created_at": "2025-09-17T15:57:14+01:00",
+          "updated_at": "2025-09-17T16:01:05+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66903240507734",
+          "width": 600,
+          "height": 600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/b30430d5-d520-4676-b2ae-b9c094925f3b_6045a0f7-8409-49cf-a2fd-af39536b31b0.jpg?v=1758121037",
+          "variant_ids": [
+            51339723276630
+          ]
+        }
+      ],
+      "image": {
+        "id": 66903237755222,
+        "alt": "Wooden high chair in a room with curtains and a plant",
+        "position": 1,
+        "product_id": 9825914552662,
+        "created_at": "2025-09-17T15:57:03+01:00",
+        "updated_at": "2025-09-17T16:00:33+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66903237755222",
+        "width": 600,
+        "height": 600,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/b30430d5-d520-4676-b2ae-b9c094925f3b.jpg?v=1758121025",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9808496034134,
       "title": "Wullaboo Baby Eating Training Fork & Spoon Set – Cartoon Silicone Short Spoon Design, Safe & Durable | Essential Self-Feeding Utensils for Children & Toddlers",
       "body_html": "<p>Wullaboo Baby Eating Training Fork &amp; Spoon Set combines playful cartoon-inspired design with safe, durable silicone construction to create the perfect self-feeding solution for little learners. This thoughtfully crafted utensil set encourages independence while ensuring your child’s safety and comfort at every mealtime.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/78b49adf-3f02-45cf-afd2-3a6816048a8a.jpg?v=1757432790\" alt=\"Wullaboo Baby Eating Training Fork &amp; Spoon Set – Cartoon Silicone Short Spoon Design, Safe &amp; Durable | Essential Self-Feeding Utensils for Children &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Cartoon Silicone Short Spoon Design makes feeding fun and engaging for children</li>\n<li>Ergonomic fork and spoon size fits perfectly in small hands, supporting self-feeding skills</li>\n<li>Soft, food-grade silicone material protects delicate gums and developing teeth</li>\n<li>Durable and flexible construction ensures long-lasting use without breaking or bending</li>\n<li>Non-slip grip handles help toddlers hold utensils securely and confidently</li>\n<li>Vibrant, child-friendly colors make mealtime enjoyable and stress-free</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a93985ae-7da6-46d6-8ca0-8edcaf4dbdc6.jpg?v=1757432799\" alt=\"Wullaboo Baby Eating Training Fork &amp; Spoon Set – Cartoon Silicone Short Spoon Design, Safe &amp; Durable | Essential Self-Feeding Utensils for Children &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ul>\n<li>Wash thoroughly before first use with warm, soapy water</li>\n<li>Encourage your child to practice holding both fork and spoon independently</li>\n<li>Use during meals and snacks to develop fine motor skills and self-feeding habits</li>\n<li>Dishwasher-safe for easy cleaning after every use</li>\n<li>Store utensils in a clean, dry container when not in use</li>\n</ul>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: 100% BPA-free, food-grade silicone</li>\n<li>Design: Cartoon-inspired short spoon and fork with non-slip handles</li>\n<li>Safety: Soft edges, gum-friendly, safe for toddlers transitioning to solids</li>\n<li>Colors: Multiple vibrant, child-friendly options</li>\n<li>Suitable for: Babies and toddlers learning to self-feed</li>\n<li>Package: 1 fork + 1 spoon (training utensil set)</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f7bed836-616b-40c5-bb22-2c726464e714.jpg?v=1757432799\" alt=\"Wullaboo Baby Eating Training Fork &amp; Spoon Set – Cartoon Silicone Short Spoon Design, Safe &amp; Durable | Essential Self-Feeding Utensils for Children &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Why Choose This Set</h3>\n<p> </p>\n<ul>\n<li> Promotes independence by supporting safe self-feeding habits</li>\n<li>Protects your child’s gums and teeth with soft silicone tips</li>\n<li>Encourages fun at mealtimes with playful, cartoon-themed design</li>\n<li>Durable and hygienic – designed for daily use and easy cleaning</li>\n<li>Ideal for weaning – perfect for babies transitioning from parent-led feeding to self-feeding</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong><span style=\"color: black;\">A Nestacular Promise</span></strong></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong>At <span style=\"color: black;\">Nestacular</span>, we believe in the quality of our products, so we offer a <span style=\"color: black;\">30-day Money-Back</span> <span style=\"color: black;\">Guarantee,</span> <span style=\"color: #404040;\">no questions asked! When you purchase from us, there is</span> <span style=\"color: black;\">ZERO Risk</span> <span style=\"color: #404040;\">for you!</span></strong></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong>Congratulations!</strong></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong><span style=\"color: black;\">Customer Support:</span></strong></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong>Email: support@nestacular.com</strong></p>",
@@ -42534,8 +43010,8 @@
     "current_page": 2,
     "total_pages": 2,
     "items_per_page": 250,
-    "total_items": 349,
-    "items_in_page": 99,
+    "total_items": 351,
+    "items_in_page": 101,
     "has_next_page": false,
     "has_previous_page": true,
     "previous_page_file": "products.json"

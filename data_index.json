@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-17T14:40:27.801482Z",
+  "generated": "2025-09-17T15:35:54.432494Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -48,6 +48,7 @@
       "high-chair-placemats": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chair-placemats_products.json",
       "high-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chairs_products.json",
       "high-chairs-and-accessories": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chairs-and-accessories_products.json",
+      "high-wooden-chair": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-wooden-chair_products.json",
       "luxury-baby-gifts": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/luxury-baby-gifts_products.json",
       "meal-prep-storage": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/meal-prep-storage_products.json",
       "mess-free-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/mess-free-essentials_products.json",
