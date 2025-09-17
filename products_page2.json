@@ -7671,8 +7671,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790121607510",
       "variants": [
         {
-          "id": 51191187210582,
           "product_id": 9790121607510,
+          "id": 51191187210582,
           "title": "B Pink",
           "price": "22.55",
           "position": 1,
@@ -7699,8 +7699,8 @@
           "image_id": 66229044773206
         },
         {
-          "id": 51191187243350,
           "product_id": 9790121607510,
+          "id": 51191187243350,
           "title": "Pink Set",
           "price": "63.36",
           "position": 2,
@@ -7727,8 +7727,8 @@
           "image_id": 66229044805974
         },
         {
-          "id": 51191187276118,
           "product_id": 9790121607510,
+          "id": 51191187276118,
           "title": "Blue",
           "price": "22.55",
           "position": 3,
@@ -7755,8 +7755,8 @@
           "image_id": 66229044838742
         },
         {
-          "id": 51191187308886,
           "product_id": 9790121607510,
+          "id": 51191187308886,
           "title": "Pink",
           "price": "22.55",
           "position": 4,
@@ -7785,8 +7785,8 @@
       ],
       "options": [
         {
-          "id": 12639058985302,
           "product_id": 9790121607510,
+          "id": 12639058985302,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15433,8 +15433,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9807875998038",
       "variants": [
         {
-          "id": 51265061847382,
           "product_id": 9807875998038,
+          "id": 51265061847382,
           "title": "5PCS set",
           "price": "15.95",
           "position": 1,
@@ -15463,8 +15463,8 @@
       ],
       "options": [
         {
-          "id": 12660225409366,
           "product_id": 9807875998038,
+          "id": 12660225409366,
           "name": "Color",
           "position": 1,
           "values": [

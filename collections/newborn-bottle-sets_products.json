@@ -207,8 +207,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9807875998038",
       "variants": [
         {
-          "id": 51265061847382,
           "product_id": 9807875998038,
+          "id": 51265061847382,
           "title": "5PCS set",
           "price": "15.95",
           "position": 1,
@@ -237,8 +237,8 @@
       ],
       "options": [
         {
-          "id": 12660225409366,
           "product_id": 9807875998038,
+          "id": 12660225409366,
           "name": "Color",
           "position": 1,
           "values": [

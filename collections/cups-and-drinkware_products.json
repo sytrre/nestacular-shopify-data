@@ -3155,8 +3155,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9788883829078",
       "variants": [
         {
-          "product_id": 9788883829078,
           "id": 51185922867542,
+          "product_id": 9788883829078,
           "title": "Black",
           "price": "22.64",
           "position": 1,
@@ -3185,8 +3185,8 @@
       ],
       "options": [
         {
-          "product_id": 9788883829078,
           "id": 12637589242198,
+          "product_id": 9788883829078,
           "name": "Color",
           "position": 1,
           "values": [
