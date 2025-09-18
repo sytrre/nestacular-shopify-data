@@ -11196,7 +11196,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T11:08:22+01:00",
       "handle": "tallii-household-sitting-lying-multifunctional-portable-chair-adjustable-foldable-durable-design-essential-relaxation-feeding-chair-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:23:48+01:00",
+      "updated_at": "2025-09-18T14:28:42+01:00",
       "published_at": "2025-09-18T11:14:32+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -11205,8 +11205,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828446798166",
       "variants": [
         {
-          "product_id": 9828446798166,
           "id": 51346718654806,
+          "product_id": 9828446798166,
           "title": "Almond Yellow",
           "price": "325.95",
           "position": 1,
@@ -11233,8 +11233,8 @@
           "image_id": 66937949651286
         },
         {
-          "product_id": 9828446798166,
           "id": 51346718687574,
+          "product_id": 9828446798166,
           "title": "Black Knight",
           "price": "325.95",
           "position": 2,
@@ -11261,8 +11261,8 @@
           "image_id": 66937949684054
         },
         {
-          "product_id": 9828446798166,
           "id": 51346718720342,
+          "product_id": 9828446798166,
           "title": "Jingyi White",
           "price": "325.95",
           "position": 3,
@@ -11289,8 +11289,8 @@
           "image_id": 66937949716822
         },
         {
-          "product_id": 9828446798166,
           "id": 51346718753110,
+          "product_id": 9828446798166,
           "title": "Morning Pink",
           "price": "325.95",
           "position": 4,
@@ -11319,8 +11319,8 @@
       ],
       "options": [
         {
-          "product_id": 9828446798166,
           "id": 12684671615318,
+          "product_id": 9828446798166,
           "name": "Color",
           "position": 1,
           "values": [

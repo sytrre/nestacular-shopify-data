@@ -1360,8 +1360,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825545355606",
       "variants": [
         {
-          "product_id": 9825545355606,
           "id": 51338753868118,
+          "product_id": 9825545355606,
           "title": "Green",
           "price": "80.95",
           "position": 1,
@@ -1390,8 +1390,8 @@
       ],
       "options": [
         {
-          "product_id": 9825545355606,
           "id": 12681326199126,
+          "product_id": 9825545355606,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2706,7 +2706,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T13:38:08+01:00",
       "handle": "brio-children-s-dining-chair-baby-table-foldable-portable-design-durable-construction-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-18T14:07:43+01:00",
+      "updated_at": "2025-09-18T16:08:12+01:00",
       "published_at": "2025-09-18T13:45:13+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -2715,8 +2715,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828644192598",
       "variants": [
         {
-          "product_id": 9828644192598,
           "id": 51347407503702,
+          "product_id": 9828644192598,
           "title": "Black",
           "price": "60.95",
           "position": 1,
@@ -2743,8 +2743,8 @@
           "image_id": 66940546122070
         },
         {
-          "product_id": 9828644192598,
           "id": 51347407536470,
+          "product_id": 9828644192598,
           "title": "Green",
           "price": "62.95",
           "position": 2,
@@ -2771,8 +2771,8 @@
           "image_id": 66940546154838
         },
         {
-          "product_id": 9828644192598,
           "id": 51347407569238,
+          "product_id": 9828644192598,
           "title": "Grey",
           "price": "62.95",
           "position": 3,
@@ -2799,8 +2799,8 @@
           "image_id": 66940546187606
         },
         {
-          "product_id": 9828644192598,
           "id": 51347407602006,
+          "product_id": 9828644192598,
           "title": "Pink",
           "price": "62.95",
           "position": 4,
@@ -2829,8 +2829,8 @@
       ],
       "options": [
         {
-          "product_id": 9828644192598,
           "id": 12684916621654,
+          "product_id": 9828644192598,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17264,7 +17264,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T11:20:36+01:00",
       "handle": "roonest-infant-safety-seat-child-portable-eating-chair-with-plush-toy-baby-learning-sitting-sofa-stool-essential-multi-functional-dining-play-chair-for-toddlers",
-      "updated_at": "2025-09-18T13:56:03+01:00",
+      "updated_at": "2025-09-18T14:39:51+01:00",
       "published_at": "2025-09-18T11:34:31+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -17273,8 +17273,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828460069206",
       "variants": [
         {
-          "product_id": 9828460069206,
           "id": 51346769346902,
+          "product_id": 9828460069206,
           "title": "Blackred / 45x45",
           "price": "42.95",
           "position": 1,
@@ -17301,8 +17301,8 @@
           "image_id": 66938398376278
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769379670,
+          "product_id": 9828460069206,
           "title": "Blue / 45x45",
           "price": "43.25",
           "position": 2,
@@ -17329,8 +17329,8 @@
           "image_id": 66938398409046
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769412438,
+          "product_id": 9828460069206,
           "title": "Chocolate / 45x45",
           "price": "41.55",
           "position": 3,
@@ -17357,8 +17357,8 @@
           "image_id": 66938398441814
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769445206,
+          "product_id": 9828460069206,
           "title": "Greenyellow / 45x45",
           "price": "39.55",
           "position": 4,
@@ -17385,8 +17385,8 @@
           "image_id": 66938398474582
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769477974,
+          "product_id": 9828460069206,
           "title": "Leopard powder / 45x45",
           "price": "41.55",
           "position": 5,
@@ -17413,8 +17413,8 @@
           "image_id": 66938398507350
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769510742,
+          "product_id": 9828460069206,
           "title": "Leopard print / 45x45",
           "price": "40.55",
           "position": 6,
@@ -17441,8 +17441,8 @@
           "image_id": 66938398540118
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769543510,
+          "product_id": 9828460069206,
           "title": "Orange / 45x45",
           "price": "41.75",
           "position": 7,
@@ -17469,8 +17469,8 @@
           "image_id": 66938398572886
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769576278,
+          "product_id": 9828460069206,
           "title": "Pink / 45x45",
           "price": "41.75",
           "position": 8,
@@ -17497,8 +17497,8 @@
           "image_id": 66938398605654
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769609046,
+          "product_id": 9828460069206,
           "title": "PinkBrown / 45x45",
           "price": "41.95",
           "position": 9,
@@ -17525,8 +17525,8 @@
           "image_id": 66938398638422
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769641814,
+          "product_id": 9828460069206,
           "title": "Purple / 45x45",
           "price": "43.65",
           "position": 10,
@@ -17553,8 +17553,8 @@
           "image_id": 66938398671190
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769674582,
+          "product_id": 9828460069206,
           "title": "Spot / 45x45",
           "price": "39.75",
           "position": 11,
@@ -17581,8 +17581,8 @@
           "image_id": 66938398703958
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769707350,
+          "product_id": 9828460069206,
           "title": "Wave / 45x45",
           "price": "41.75",
           "position": 12,
@@ -17609,8 +17609,8 @@
           "image_id": 66938398736726
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769740118,
+          "product_id": 9828460069206,
           "title": "Whitegreen / 45x45",
           "price": "46.95",
           "position": 13,
@@ -17639,8 +17639,8 @@
       ],
       "options": [
         {
-          "product_id": 9828460069206,
           "id": 12684689441110,
+          "product_id": 9828460069206,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17660,8 +17660,8 @@
           ]
         },
         {
-          "product_id": 9828460069206,
           "id": 12684689473878,
+          "product_id": 9828460069206,
           "name": "Size",
           "position": 2,
           "values": [
@@ -20108,7 +20108,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T11:08:22+01:00",
       "handle": "tallii-household-sitting-lying-multifunctional-portable-chair-adjustable-foldable-durable-design-essential-relaxation-feeding-chair-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:23:48+01:00",
+      "updated_at": "2025-09-18T14:28:42+01:00",
       "published_at": "2025-09-18T11:14:32+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -20117,8 +20117,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828446798166",
       "variants": [
         {
-          "product_id": 9828446798166,
           "id": 51346718654806,
+          "product_id": 9828446798166,
           "title": "Almond Yellow",
           "price": "325.95",
           "position": 1,
@@ -20145,8 +20145,8 @@
           "image_id": 66937949651286
         },
         {
-          "product_id": 9828446798166,
           "id": 51346718687574,
+          "product_id": 9828446798166,
           "title": "Black Knight",
           "price": "325.95",
           "position": 2,
@@ -20173,8 +20173,8 @@
           "image_id": 66937949684054
         },
         {
-          "product_id": 9828446798166,
           "id": 51346718720342,
+          "product_id": 9828446798166,
           "title": "Jingyi White",
           "price": "325.95",
           "position": 3,
@@ -20201,8 +20201,8 @@
           "image_id": 66937949716822
         },
         {
-          "product_id": 9828446798166,
           "id": 51346718753110,
+          "product_id": 9828446798166,
           "title": "Morning Pink",
           "price": "325.95",
           "position": 4,
@@ -20231,8 +20231,8 @@
       ],
       "options": [
         {
-          "product_id": 9828446798166,
           "id": 12684671615318,
+          "product_id": 9828446798166,
           "name": "Color",
           "position": 1,
           "values": [

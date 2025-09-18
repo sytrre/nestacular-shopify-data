@@ -28622,7 +28622,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T11:20:36+01:00",
       "handle": "roonest-infant-safety-seat-child-portable-eating-chair-with-plush-toy-baby-learning-sitting-sofa-stool-essential-multi-functional-dining-play-chair-for-toddlers",
-      "updated_at": "2025-09-18T13:56:03+01:00",
+      "updated_at": "2025-09-18T14:39:51+01:00",
       "published_at": "2025-09-18T11:34:31+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -28631,8 +28631,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828460069206",
       "variants": [
         {
-          "product_id": 9828460069206,
           "id": 51346769346902,
+          "product_id": 9828460069206,
           "title": "Blackred / 45x45",
           "price": "42.95",
           "position": 1,
@@ -28659,8 +28659,8 @@
           "image_id": 66938398376278
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769379670,
+          "product_id": 9828460069206,
           "title": "Blue / 45x45",
           "price": "43.25",
           "position": 2,
@@ -28687,8 +28687,8 @@
           "image_id": 66938398409046
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769412438,
+          "product_id": 9828460069206,
           "title": "Chocolate / 45x45",
           "price": "41.55",
           "position": 3,
@@ -28715,8 +28715,8 @@
           "image_id": 66938398441814
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769445206,
+          "product_id": 9828460069206,
           "title": "Greenyellow / 45x45",
           "price": "39.55",
           "position": 4,
@@ -28743,8 +28743,8 @@
           "image_id": 66938398474582
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769477974,
+          "product_id": 9828460069206,
           "title": "Leopard powder / 45x45",
           "price": "41.55",
           "position": 5,
@@ -28771,8 +28771,8 @@
           "image_id": 66938398507350
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769510742,
+          "product_id": 9828460069206,
           "title": "Leopard print / 45x45",
           "price": "40.55",
           "position": 6,
@@ -28799,8 +28799,8 @@
           "image_id": 66938398540118
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769543510,
+          "product_id": 9828460069206,
           "title": "Orange / 45x45",
           "price": "41.75",
           "position": 7,
@@ -28827,8 +28827,8 @@
           "image_id": 66938398572886
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769576278,
+          "product_id": 9828460069206,
           "title": "Pink / 45x45",
           "price": "41.75",
           "position": 8,
@@ -28855,8 +28855,8 @@
           "image_id": 66938398605654
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769609046,
+          "product_id": 9828460069206,
           "title": "PinkBrown / 45x45",
           "price": "41.95",
           "position": 9,
@@ -28883,8 +28883,8 @@
           "image_id": 66938398638422
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769641814,
+          "product_id": 9828460069206,
           "title": "Purple / 45x45",
           "price": "43.65",
           "position": 10,
@@ -28911,8 +28911,8 @@
           "image_id": 66938398671190
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769674582,
+          "product_id": 9828460069206,
           "title": "Spot / 45x45",
           "price": "39.75",
           "position": 11,
@@ -28939,8 +28939,8 @@
           "image_id": 66938398703958
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769707350,
+          "product_id": 9828460069206,
           "title": "Wave / 45x45",
           "price": "41.75",
           "position": 12,
@@ -28967,8 +28967,8 @@
           "image_id": 66938398736726
         },
         {
-          "product_id": 9828460069206,
           "id": 51346769740118,
+          "product_id": 9828460069206,
           "title": "Whitegreen / 45x45",
           "price": "46.95",
           "position": 13,
@@ -28997,8 +28997,8 @@
       ],
       "options": [
         {
-          "product_id": 9828460069206,
           "id": 12684689441110,
+          "product_id": 9828460069206,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29018,8 +29018,8 @@
           ]
         },
         {
-          "product_id": 9828460069206,
           "id": 12684689473878,
+          "product_id": 9828460069206,
           "name": "Size",
           "position": 2,
           "values": [
