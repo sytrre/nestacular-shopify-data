@@ -8507,8 +8507,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9788883829078",
       "variants": [
         {
-          "product_id": 9788883829078,
           "id": 51185922867542,
+          "product_id": 9788883829078,
           "title": "Black",
           "price": "22.64",
           "position": 1,
@@ -8537,8 +8537,8 @@
       ],
       "options": [
         {
-          "product_id": 9788883829078,
           "id": 12637589242198,
+          "product_id": 9788883829078,
           "name": "Color",
           "position": 1,
           "values": [
@@ -49109,8 +49109,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792648642902",
       "variants": [
         {
-          "id": 51201108738390,
           "product_id": 9792648642902,
+          "id": 51201108738390,
           "title": "Army Green",
           "price": "15.74",
           "position": 1,
@@ -49137,8 +49137,8 @@
           "image_id": 66252988088662
         },
         {
-          "id": 51201108771158,
           "product_id": 9792648642902,
+          "id": 51201108771158,
           "title": "Powder blue",
           "price": "15.74",
           "position": 2,
@@ -49165,8 +49165,8 @@
           "image_id": 66252988121430
         },
         {
-          "id": 51201108803926,
           "product_id": 9792648642902,
+          "id": 51201108803926,
           "title": "Light Grey",
           "price": "15.74",
           "position": 3,
@@ -49193,8 +49193,8 @@
           "image_id": 66252988154198
         },
         {
-          "id": 51201108836694,
           "product_id": 9792648642902,
+          "id": 51201108836694,
           "title": "Navajo",
           "price": "15.74",
           "position": 4,
@@ -49221,8 +49221,8 @@
           "image_id": 66252988186966
         },
         {
-          "id": 51201108869462,
           "product_id": 9792648642902,
+          "id": 51201108869462,
           "title": "Baby blue",
           "price": "15.74",
           "position": 5,
@@ -49249,8 +49249,8 @@
           "image_id": 66252988219734
         },
         {
-          "id": 51201108902230,
           "product_id": 9792648642902,
+          "id": 51201108902230,
           "title": "Mint",
           "price": "15.74",
           "position": 6,
@@ -49277,8 +49277,8 @@
           "image_id": 66252988252502
         },
         {
-          "id": 51201108934998,
           "product_id": 9792648642902,
+          "id": 51201108934998,
           "title": "Dim grey",
           "price": "15.74",
           "position": 7,
@@ -49305,8 +49305,8 @@
           "image_id": 66252988285270
         },
         {
-          "id": 51201108967766,
           "product_id": 9792648642902,
+          "id": 51201108967766,
           "title": "Rose quartz",
           "price": "15.74",
           "position": 8,
@@ -49333,8 +49333,8 @@
           "image_id": 66252988318038
         },
         {
-          "id": 51201109000534,
           "product_id": 9792648642902,
+          "id": 51201109000534,
           "title": "Mustard",
           "price": "15.74",
           "position": 9,
@@ -49363,8 +49363,8 @@
       ],
       "options": [
         {
-          "id": 12642095595862,
           "product_id": 9792648642902,
+          "id": 12642095595862,
           "name": "Color",
           "position": 1,
           "values": [
