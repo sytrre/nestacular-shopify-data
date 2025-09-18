@@ -1553,8 +1553,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791245320534",
       "variants": [
         {
-          "product_id": 9791245320534,
           "id": 51195416346966,
+          "product_id": 9791245320534,
           "title": "Grey / Suit",
           "price": "17.34",
           "position": 1,
@@ -1581,8 +1581,8 @@
           "image_id": 66239087149398
         },
         {
-          "product_id": 9791245320534,
           "id": 51195416379734,
+          "product_id": 9791245320534,
           "title": "Blue / Suit",
           "price": "17.34",
           "position": 2,
@@ -1609,8 +1609,8 @@
           "image_id": 66239087182166
         },
         {
-          "product_id": 9791245320534,
           "id": 51195416412502,
+          "product_id": 9791245320534,
           "title": "Pink / Suit",
           "price": "17.34",
           "position": 3,
@@ -1639,8 +1639,8 @@
       ],
       "options": [
         {
-          "product_id": 9791245320534,
           "id": 12640430031190,
+          "product_id": 9791245320534,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1650,8 +1650,8 @@
           ]
         },
         {
-          "product_id": 9791245320534,
           "id": 12640430063958,
+          "product_id": 9791245320534,
           "name": "style",
           "position": 2,
           "values": [
@@ -15183,8 +15183,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792650248534",
       "variants": [
         {
-          "product_id": 9792650248534,
           "id": 51201117192534,
+          "product_id": 9792650248534,
           "title": "Pink / 150ML",
           "price": "28.02",
           "position": 1,
@@ -15211,8 +15211,8 @@
           "image_id": 66253014270294
         },
         {
-          "product_id": 9792650248534,
           "id": 51201117225302,
+          "product_id": 9792650248534,
           "title": "Pink / 250ml",
           "price": "28.08",
           "position": 2,
@@ -15239,8 +15239,8 @@
           "image_id": 66253014303062
         },
         {
-          "product_id": 9792650248534,
           "id": 51201117258070,
+          "product_id": 9792650248534,
           "title": "Green / 150ML",
           "price": "28.02",
           "position": 3,
@@ -15267,8 +15267,8 @@
           "image_id": 66253014335830
         },
         {
-          "product_id": 9792650248534,
           "id": 51201117290838,
+          "product_id": 9792650248534,
           "title": "Green / 250ml",
           "price": "28.08",
           "position": 4,
@@ -15297,8 +15297,8 @@
       ],
       "options": [
         {
-          "product_id": 9792650248534,
           "id": 12642097398102,
+          "product_id": 9792650248534,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15307,8 +15307,8 @@
           ]
         },
         {
-          "product_id": 9792650248534,
           "id": 12642097430870,
+          "product_id": 9792650248534,
           "name": "capacity",
           "position": 2,
           "values": [
