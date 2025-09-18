@@ -3630,8 +3630,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776279060822",
       "variants": [
         {
-          "product_id": 9776279060822,
           "id": 51128527913302,
+          "product_id": 9776279060822,
           "title": "Lake Blue",
           "price": "12.95",
           "position": 1,
@@ -3658,8 +3658,8 @@
           "image_id": 66088488796502
         },
         {
-          "product_id": 9776279060822,
           "id": 51128527946070,
+          "product_id": 9776279060822,
           "title": "Light yellow",
           "price": "12.95",
           "position": 2,
@@ -3688,8 +3688,8 @@
       ],
       "options": [
         {
-          "product_id": 9776279060822,
           "id": 12622722531670,
+          "product_id": 9776279060822,
           "name": "Color",
           "position": 1,
           "values": [
