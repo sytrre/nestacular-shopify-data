@@ -3673,6 +3673,18 @@
       }
     },
     {
+      "id": 658907824470,
+      "handle": "hammock",
+      "title": "Hammock",
+      "updated_at": "2025-09-18T08:28:01+01:00",
+      "body_html": "",
+      "published_at": "2025-09-18T08:27:49+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/658907824470"
+    },
+    {
       "id": 658868502870,
       "handle": "high-wooden-chair",
       "title": "High Wooden Chair",
@@ -3765,8 +3777,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 66,
-    "items_in_page": 66,
+    "total_items": 67,
+    "items_in_page": 67,
     "has_next_page": false,
     "has_previous_page": false
   }

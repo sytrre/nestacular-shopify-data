@@ -3290,8 +3290,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791673205078",
       "variants": [
         {
-          "id": 51197269180758,
           "product_id": 9791673205078,
+          "id": 51197269180758,
           "title": "Blue Suction Cup",
           "price": "18.53",
           "position": 1,
@@ -3318,8 +3318,8 @@
           "image_id": 66244534567254
         },
         {
-          "id": 51197269213526,
           "product_id": 9791673205078,
+          "id": 51197269213526,
           "title": "Green Suction Cup",
           "price": "18.53",
           "position": 2,
@@ -3346,8 +3346,8 @@
           "image_id": 66244534600022
         },
         {
-          "id": 51197269246294,
           "product_id": 9791673205078,
+          "id": 51197269246294,
           "title": "Pink Suction Cup",
           "price": "18.53",
           "position": 3,
@@ -3374,8 +3374,8 @@
           "image_id": 66244534632790
         },
         {
-          "id": 51197269279062,
           "product_id": 9791673205078,
+          "id": 51197269279062,
           "title": "Yellow Suction Cup",
           "price": "18.53",
           "position": 4,
@@ -3402,8 +3402,8 @@
           "image_id": 66244534665558
         },
         {
-          "id": 51197269311830,
           "product_id": 9791673205078,
+          "id": 51197269311830,
           "title": "White Suction Cup",
           "price": "18.53",
           "position": 5,
@@ -3430,8 +3430,8 @@
           "image_id": 66244534698326
         },
         {
-          "id": 51197269344598,
           "product_id": 9791673205078,
+          "id": 51197269344598,
           "title": "2pc",
           "price": "17.71",
           "position": 6,
@@ -3460,8 +3460,8 @@
       ],
       "options": [
         {
-          "id": 12640932233558,
           "product_id": 9791673205078,
+          "id": 12640932233558,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3993,8 +3993,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793804271958",
       "variants": [
         {
-          "product_id": 9793804271958,
           "id": 51206543311190,
+          "product_id": 9793804271958,
           "title": "Blue",
           "price": "16.81",
           "position": 1,
@@ -4021,8 +4021,8 @@
           "image_id": 66262955491670
         },
         {
-          "product_id": 9793804271958,
           "id": 51206543343958,
+          "product_id": 9793804271958,
           "title": "Pink",
           "price": "16.81",
           "position": 2,
@@ -4049,8 +4049,8 @@
           "image_id": 66262955524438
         },
         {
-          "product_id": 9793804271958,
           "id": 51206543376726,
+          "product_id": 9793804271958,
           "title": "Green",
           "price": "16.81",
           "position": 3,
@@ -4079,8 +4079,8 @@
       ],
       "options": [
         {
-          "product_id": 9793804271958,
           "id": 12643536765270,
+          "product_id": 9793804271958,
           "name": "Color",
           "position": 1,
           "values": [

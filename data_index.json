@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-18T06:51:46.023408Z",
+  "generated": "2025-09-18T07:30:21.193580Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -43,6 +43,7 @@
       "gifts-sets": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/gifts-sets_products.json",
       "glass-baby-bottles": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/glass-baby-bottles_products.json",
       "grandparents-helper-feeding-station": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/grandparents-helper-feeding-station_products.json",
+      "hammock": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/hammock_products.json",
       "high-chair-accessories": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chair-accessories_products.json",
       "high-chair-cushions": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chair-cushions_products.json",
       "high-chair-placemats": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/high-chair-placemats_products.json",

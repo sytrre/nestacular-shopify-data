@@ -38129,8 +38129,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791671107926",
       "variants": [
         {
-          "product_id": 9791671107926,
           "id": 51197255844182,
+          "product_id": 9791671107926,
           "title": "Dark Pink 10 Piece Set",
           "price": "38.77",
           "position": 1,
@@ -38157,8 +38157,8 @@
           "image_id": 66244511629654
         },
         {
-          "product_id": 9791671107926,
           "id": 51197255876950,
+          "product_id": 9791671107926,
           "title": "Gray Blue 10 Piece Set",
           "price": "38.77",
           "position": 2,
@@ -38185,8 +38185,8 @@
           "image_id": 66244511662422
         },
         {
-          "product_id": 9791671107926,
           "id": 51197255909718,
+          "product_id": 9791671107926,
           "title": "Creamy White 10 Piece Set",
           "price": "38.77",
           "position": 3,
@@ -38213,8 +38213,8 @@
           "image_id": 66244511695190
         },
         {
-          "product_id": 9791671107926,
           "id": 51197255942486,
+          "product_id": 9791671107926,
           "title": "Pink 10 Piece Set",
           "price": "38.77",
           "position": 4,
@@ -38241,8 +38241,8 @@
           "image_id": 66244511727958
         },
         {
-          "product_id": 9791671107926,
           "id": 51197255975254,
+          "product_id": 9791671107926,
           "title": "Smoky Gray 10 Piece Set",
           "price": "38.77",
           "position": 5,
@@ -38269,8 +38269,8 @@
           "image_id": 66244511760726
         },
         {
-          "product_id": 9791671107926,
           "id": 51197256008022,
+          "product_id": 9791671107926,
           "title": "Army Green 10 Piece Set",
           "price": "38.77",
           "position": 6,
@@ -38297,8 +38297,8 @@
           "image_id": 66244511793494
         },
         {
-          "product_id": 9791671107926,
           "id": 51197256040790,
+          "product_id": 9791671107926,
           "title": "Dark Purple 10 Piece Set",
           "price": "38.77",
           "position": 7,
@@ -38325,8 +38325,8 @@
           "image_id": 66244511826262
         },
         {
-          "product_id": 9791671107926,
           "id": 51197256073558,
+          "product_id": 9791671107926,
           "title": "Mint Green 10 Piece Set",
           "price": "38.77",
           "position": 8,
@@ -38353,8 +38353,8 @@
           "image_id": 66244511859030
         },
         {
-          "product_id": 9791671107926,
           "id": 51197256106326,
+          "product_id": 9791671107926,
           "title": "Sea Blue 10 Piece Set",
           "price": "38.77",
           "position": 9,
@@ -38383,8 +38383,8 @@
       ],
       "options": [
         {
-          "product_id": 9791671107926,
           "id": 12640929743190,
+          "product_id": 9791671107926,
           "name": "Color",
           "position": 1,
           "values": [
