@@ -4,7 +4,7 @@
     "handle": "grandparents-helper-feeding-station",
     "title": "Grandparent's Helper Feeding Station",
     "body_html": "Easy-to-use feeding essentials perfect for grandparents watching little ones - simple, safe, and mess-free solutions for confident caregiving.",
-    "products_count": 9
+    "products_count": 10
   },
   "products": [
     {
@@ -15,17 +15,17 @@
       "product_type": "Baby Bibs",
       "created_at": "2025-08-31T09:01:38+01:00",
       "handle": "babylium-baby-bibs-babies-accessories",
-      "updated_at": "2025-09-16T13:25:43+01:00",
+      "updated_at": "2025-09-18T13:48:33+01:00",
       "published_at": "2025-08-31T09:55:41+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Adjustable baby bib, Baby bibs, Baby drool cloth, baby-mealtime-essentials, babylium, babylium-baby-bibs, comfortable-baby-bibs, daycare-bibs, drool-protection-bibs, easy-clean-bibs, everyday-baby-bibs, feeding-bibs, hygienic-feeding, Infant feeding accessory, life-event-baby-shower-host-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-new-baby-first-foods-starter-kit, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, lightweight-bibs, mealtime-protection, mess-protection, Soft baby feeding bib, spill-proof-bibs, travel-baby-bibs",
+      "tags": "Adjustable baby bib, Baby bibs, Baby drool cloth, baby-mealtime-essentials, babylium, babylium-baby-bibs, comfortable-baby-bibs, daycare-bibs, drool-protection-bibs, easy-clean-bibs, everyday-baby-bibs, feeding-bibs, hygienic-feeding, Infant feeding accessory, life-event-baby-shower-host-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, lightweight-bibs, mealtime-protection, mess-protection, Soft baby feeding bib, spill-proof-bibs, travel-baby-bibs",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9789112942934",
       "variants": [
         {
-          "id": 51186776310102,
           "product_id": 9789112942934,
+          "id": 51186776310102,
           "title": "Animal World / 15.5X20cm / 3PCS",
           "price": "21.35",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 66217877209430
         },
         {
-          "id": 51186776342870,
           "product_id": 9789112942934,
+          "id": 51186776342870,
           "title": "Blue dinosaur / 15.5X20cm / 3PCS",
           "price": "21.70",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 66217877242198
         },
         {
-          "id": 51186776375638,
           "product_id": 9789112942934,
+          "id": 51186776375638,
           "title": "Mother bear / 15.5X20cm / 3PCS",
           "price": "21.70",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 66217877274966
         },
         {
-          "id": 51186776408406,
           "product_id": 9789112942934,
+          "id": 51186776408406,
           "title": "Triangle lion / 15.5X20cm / 3PCS",
           "price": "21.70",
           "position": 4,
@@ -138,8 +138,8 @@
       ],
       "options": [
         {
-          "id": 12637825696086,
           "product_id": 9789112942934,
+          "id": 12637825696086,
           "name": "Color",
           "position": 1,
           "values": [
@@ -150,8 +150,8 @@
           ]
         },
         {
-          "id": 12637825728854,
           "product_id": 9789112942934,
+          "id": 12637825728854,
           "name": "Child size",
           "position": 2,
           "values": [
@@ -159,8 +159,8 @@
           ]
         },
         {
-          "id": 12637825761622,
           "product_id": 9789112942934,
+          "id": 12637825761622,
           "name": "quantity",
           "position": 3,
           "values": [
@@ -330,11 +330,11 @@
       "product_type": "Baby Bottle Warmer",
       "created_at": "2025-09-01T06:25:44+01:00",
       "handle": "bebeva-portable-baby-bottle-warmer",
-      "updated_at": "2025-09-16T13:26:12+01:00",
+      "updated_at": "2025-09-18T13:49:00+01:00",
       "published_at": "2025-09-01T06:26:05+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby-bottle-heating-cover, baby-bottle-warmer, baby-feeding-accessories, bebeva-baby-products, bottle-heating-solution, Constant Temperature Bottle Warmer, constant-temp-baby-warmer, heat-retaining-bottle-cover, Insulated Baby Bottle Cover, life-event-baby-shower-host-feeding-essentials, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, lightweight-baby-feeding, Night Feeding Bottle Warmer, on-the-go-baby-feeding, portable-bottle-warmer, portable-feeding-essentials, safe-milk-warming, stress-free-night-feeding, Travel Baby Bottle Warmer, universal-baby-bottle-accessories, universal-bottle-warmer",
+      "tags": "baby-bottle-heating-cover, baby-bottle-warmer, baby-feeding-accessories, bebeva-baby-products, bottle-heating-solution, Constant Temperature Bottle Warmer, constant-temp-baby-warmer, heat-retaining-bottle-cover, Insulated Baby Bottle Cover, life-event-baby-shower-host-feeding-essentials, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, lightweight-baby-feeding, Night Feeding Bottle Warmer, on-the-go-baby-feeding, portable-bottle-warmer, portable-feeding-essentials, safe-milk-warming, stress-free-night-feeding, Travel Baby Bottle Warmer, universal-baby-bottle-accessories, universal-bottle-warmer",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791081480534",
       "variants": [
@@ -589,6 +589,277 @@
       }
     },
     {
+      "id": 9791235129686,
+      "title": "BlossomBabes Baby Bottle Heating Sleeve - Insulated Portable Warmer",
+      "body_html": "<h2>BlossomBabes Baby Bottle Heating Sleeve – Portable Insulated Warmer for Feeding</h2>\n\n<p>Keep your baby's milk at the perfect temperature anytime, anywhere with the <strong>BlossomBabes Baby Bottle Heating Sleeve</strong>. This <strong>portable insulated warmer</strong> is designed for busy parents on-the-go, making night feeds, travel, or outings stress-free and convenient.</p>\n\n<p>The sleeve's <strong>high-quality insulating material</strong> preserves warmth, while the <strong>lightweight and compact design</strong> fits most standard baby bottles. Easy to use and clean, it ensures your little one enjoys safely warmed milk whenever needed. Perfect for home, car, or travel, the BlossomBabes Heating Sleeve is a must-have feeding accessory for modern parents.</p>\n\n<h3>Key Features:</h3>\n<ul>\n<li>\n<strong>Portable Insulated Warmer:</strong> Keeps milk warm during travel or outings.</li>\n<li>\n<strong>Compatible with Most Bottles:</strong> Fits standard baby bottles easily.</li>\n<li>\n<strong>Lightweight &amp; Compact:</strong> Easy to carry and store.</li>\n<li>\n<strong>Safe &amp; Durable:</strong> Made from non-toxic, high-quality materials.</li>\n<li>\n<strong>Convenient Feeding Solution:</strong> Ideal for night feeds or outdoor use.</li>\n</ul>\n\n<p>Make feeding time effortless and worry-free with the <strong>BlossomBabes Baby Bottle Heating Sleeve</strong>.</p>\n\n<p><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4190544584065.jpg?v=1756714276\"></p>\n<p><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2930441147856.jpg?v=1756714281\"></p>\n<p><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/27981586789960.jpg?v=1756714281\"></p>\n<p><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/971674470834.jpg?v=1756714270\"></p>",
+      "vendor": "Nestacular",
+      "product_type": "Baby Bottle Heating Sleeve",
+      "created_at": "2025-09-01T09:11:04+01:00",
+      "handle": "blossombabes-baby-bottle-heating-sleeve",
+      "updated_at": "2025-09-18T13:49:16+01:00",
+      "published_at": "2025-09-01T09:11:21+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "baby-bottle-accessories, baby-bottle-warmer, baby-feeding-gear, bottle-heating-sleeve, car-feeding-accessories, compact-feeding-tools, feeding-accessories, Insulated Baby Sleeve, insulated-bottle-sleeve, life-event-baby-shower-host-feeding-essentials, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, lightweight-baby-gear, Night Feed Warmer, non-toxic-baby-products, on-the-go-feeding, outdoor-baby-feeding, Portable Bottle Heater, portable-baby-products, standard-bottle-compatible, Travel Baby Feeding, travel-bottle-warmer",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9791235129686",
+      "variants": [
+        {
+          "id": 51195357266262,
+          "product_id": 9791235129686,
+          "title": "Pink A",
+          "price": "39.58",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "53.25",
+          "option1": "Pink A",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T09:11:17+01:00",
+          "updated_at": "2025-09-01T10:08:23+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 120,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE01545-Pink A",
+          "weight": 120.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53400071864662,
+          "inventory_quantity": 12895,
+          "old_inventory_quantity": 12895,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51195357266262",
+          "image_id": 66238943527254
+        },
+        {
+          "id": 51195357299030,
+          "product_id": 9791235129686,
+          "title": "A",
+          "price": "39.58",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "53.25",
+          "option1": "A",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T09:11:17+01:00",
+          "updated_at": "2025-09-01T10:07:42+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 120,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE01545-A",
+          "weight": 120.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53400071897430,
+          "inventory_quantity": 11410,
+          "old_inventory_quantity": 11410,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51195357299030",
+          "image_id": 66238943560022
+        },
+        {
+          "id": 51195357331798,
+          "product_id": 9791235129686,
+          "title": "Pink B",
+          "price": "40.96",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "53.25",
+          "option1": "Pink B",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T09:11:17+01:00",
+          "updated_at": "2025-09-01T10:08:40+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 120,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE01545-Pink B",
+          "weight": 120.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53400071930198,
+          "inventory_quantity": 10933,
+          "old_inventory_quantity": 10933,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51195357331798",
+          "image_id": 66238943592790
+        },
+        {
+          "id": 51195357364566,
+          "product_id": 9791235129686,
+          "title": "B",
+          "price": "40.96",
+          "position": 4,
+          "inventory_policy": "deny",
+          "compare_at_price": "53.25",
+          "option1": "B",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T09:11:17+01:00",
+          "updated_at": "2025-09-01T10:08:16+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 120,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE01545-B",
+          "weight": 120.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53400071962966,
+          "inventory_quantity": 14434,
+          "old_inventory_quantity": 14434,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51195357364566",
+          "image_id": 66238943625558
+        }
+      ],
+      "options": [
+        {
+          "id": 12640417513814,
+          "product_id": 9791235129686,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Pink A",
+            "A",
+            "Pink B",
+            "B"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66238942740822,
+          "alt": "BlossomBabes Baby Bottle Heating Sleeve",
+          "position": 1,
+          "product_id": 9791235129686,
+          "created_at": "2025-09-01T09:11:07+01:00",
+          "updated_at": "2025-09-01T09:24:27+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238942740822",
+          "width": 790,
+          "height": 1003,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/971674470834.jpg?v=1756714270",
+          "variant_ids": []
+        },
+        {
+          "id": 66238943002966,
+          "alt": "BlossomBabes Baby Bottle Heating Sleeve",
+          "position": 2,
+          "product_id": 9791235129686,
+          "created_at": "2025-09-01T09:11:10+01:00",
+          "updated_at": "2025-09-01T09:24:31+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238943002966",
+          "width": 600,
+          "height": 600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8945452791.jpg?v=1756714272",
+          "variant_ids": []
+        },
+        {
+          "id": 66238943199574,
+          "alt": "BlossomBabes Baby Bottle Heating Sleeve",
+          "position": 3,
+          "product_id": 9791235129686,
+          "created_at": "2025-09-01T09:11:11+01:00",
+          "updated_at": "2025-09-01T09:24:35+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238943199574",
+          "width": 365,
+          "height": 360,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1278943694503.jpg?v=1756714274",
+          "variant_ids": []
+        },
+        {
+          "id": 66238943265110,
+          "alt": "BlossomBabes Baby Bottle Heating Sleeve",
+          "position": 4,
+          "product_id": 9791235129686,
+          "created_at": "2025-09-01T09:11:13+01:00",
+          "updated_at": "2025-09-01T09:24:39+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238943265110",
+          "width": 752,
+          "height": 528,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4190544584065.jpg?v=1756714276",
+          "variant_ids": []
+        },
+        {
+          "id": 66238943527254,
+          "alt": "BlossomBabes Baby Bottle Heating Sleeve",
+          "position": 5,
+          "product_id": 9791235129686,
+          "created_at": "2025-09-01T09:11:17+01:00",
+          "updated_at": "2025-09-01T09:24:43+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238943527254",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2930441147856.jpg?v=1756714281",
+          "variant_ids": [
+            51195357266262
+          ]
+        },
+        {
+          "id": 66238943560022,
+          "alt": "BlossomBabes Baby Bottle Heating Sleeve",
+          "position": 6,
+          "product_id": 9791235129686,
+          "created_at": "2025-09-01T09:11:17+01:00",
+          "updated_at": "2025-09-01T09:24:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238943560022",
+          "width": 600,
+          "height": 600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2901365591968.jpg?v=1756714281",
+          "variant_ids": [
+            51195357299030
+          ]
+        },
+        {
+          "id": 66238943592790,
+          "alt": "BlossomBabes Baby Bottle Heating Sleeve",
+          "position": 7,
+          "product_id": 9791235129686,
+          "created_at": "2025-09-01T09:11:18+01:00",
+          "updated_at": "2025-09-01T09:24:51+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238943592790",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/27981586789960.jpg?v=1756714281",
+          "variant_ids": [
+            51195357331798
+          ]
+        },
+        {
+          "id": 66238943625558,
+          "alt": "BlossomBabes Baby Bottle Heating Sleeve",
+          "position": 8,
+          "product_id": 9791235129686,
+          "created_at": "2025-09-01T09:11:18+01:00",
+          "updated_at": "2025-09-01T09:24:55+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238943625558",
+          "width": 600,
+          "height": 600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3715853359185.jpg?v=1756714281",
+          "variant_ids": [
+            51195357364566
+          ]
+        }
+      ],
+      "image": {
+        "id": 66238942740822,
+        "alt": "BlossomBabes Baby Bottle Heating Sleeve",
+        "position": 1,
+        "product_id": 9791235129686,
+        "created_at": "2025-09-01T09:11:07+01:00",
+        "updated_at": "2025-09-01T09:24:27+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66238942740822",
+        "width": 790,
+        "height": 1003,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/971674470834.jpg?v=1756714270",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9793806106966,
       "title": "Bubbora Newborn Baby Feeding Bottle - Safe Silicone Squeeze Milk Bottle for Toddler Training & Food Supplement",
       "body_html": "<p data-start=\"194\" data-end=\"629\">Make feeding time easy, safe, and fun with the <strong data-start=\"241\" data-end=\"280\">Bubbora Newborn Baby Feeding Bottle</strong>. Crafted from <strong data-start=\"295\" data-end=\"327\">premium, food-grade silicone</strong>, this squeeze bottle is <strong data-start=\"352\" data-end=\"384\">BPA-free and completely safe</strong> for newborns, infants, and toddlers. Its soft, squeezable design allows parents to <strong data-start=\"468\" data-end=\"497\">control milk or food flow</strong>, making it perfect for <strong data-start=\"521\" data-end=\"549\">toddler feeding training</strong> and <strong data-start=\"554\" data-end=\"589\">introducing complementary foods</strong> like rice cereal, purees, or formula.</p>\n<p data-start=\"631\" data-end=\"932\">The <strong data-start=\"635\" data-end=\"666\">ergonomic, anti-slip design</strong> ensures a comfortable grip for both parents and little hands, while the <strong data-start=\"739\" data-end=\"763\">soft silicone nipple</strong> mimics natural breastfeeding, helping your baby adjust easily. Lightweight, durable, and <strong data-start=\"853\" data-end=\"870\">easy to clean</strong>, this bottle is ideal for <strong data-start=\"897\" data-end=\"929\">home use, travel, or daycare</strong>.</p>\n<p data-start=\"934\" data-end=\"953\"><strong data-start=\"934\" data-end=\"951\">Key Benefits:</strong></p>\n<ul data-start=\"954\" data-end=\"1292\">\n<li data-start=\"954\" data-end=\"1009\">\n<p data-start=\"956\" data-end=\"1009\"><strong data-start=\"956\" data-end=\"977\">Safe &amp; Non-Toxic:</strong> BPA-free, food-grade silicone</p>\n</li>\n<li data-start=\"1010\" data-end=\"1080\">\n<p data-start=\"1012\" data-end=\"1080\"><strong data-start=\"1012\" data-end=\"1029\">Easy Feeding:</strong> Squeeze bottle for controlled milk and food flow</p>\n</li>\n<li data-start=\"1081\" data-end=\"1166\">\n<p data-start=\"1083\" data-end=\"1166\"><strong data-start=\"1083\" data-end=\"1113\">Toddler Training Friendly:</strong> Ideal for introducing solids or milk independently</p>\n</li>\n<li data-start=\"1167\" data-end=\"1234\">\n<p data-start=\"1169\" data-end=\"1234\"><strong data-start=\"1169\" data-end=\"1190\">Ergonomic Design:</strong> Comfortable grip for parents and toddlers</p>\n</li>\n<li data-start=\"1235\" data-end=\"1292\">\n<p data-start=\"1237\" data-end=\"1292\"><strong data-start=\"1237\" data-end=\"1260\">Durable &amp; Hygienic:</strong> Lightweight and easy to clean</p>\n</li>\n</ul>\n<p data-start=\"1294\" data-end=\"1461\">Ensure a <strong data-start=\"1303\" data-end=\"1337\">stress-free feeding experience</strong> for your little one with the <strong data-start=\"1367\" data-end=\"1406\">Bubbora Newborn Baby Feeding Bottle</strong>, perfect for milk, rice cereal, or food supplements.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1741654575926087680.jpg?v=1756921223\" alt=\"Bubbora Newborn Baby Feeding Bottle\" style=\"float: none;\"></div>",
@@ -596,11 +867,11 @@
       "product_type": "Baby Feeding Bottle",
       "created_at": "2025-09-02T17:03:36+01:00",
       "handle": "bubbora-newborn-baby-feeding-bottle",
-      "updated_at": "2025-09-16T13:26:44+01:00",
+      "updated_at": "2025-09-18T13:49:38+01:00",
       "published_at": "2025-09-02T17:03:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby feeding bottle, baby food supplement, life-event-baby-shower-host-feeding-essentials, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, newborn milk feeder, silicone squeeze bottle",
+      "tags": "baby feeding bottle, baby food supplement, life-event-baby-shower-host-feeding-essentials, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, newborn milk feeder, silicone squeeze bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9793806106966",
       "variants": [
@@ -1201,11 +1472,11 @@
       "product_type": "Baby Feeding Bottle",
       "created_at": "2025-09-02T13:08:14+01:00",
       "handle": "joybubs-large-diameter-baby-feeding-bottle",
-      "updated_at": "2025-09-16T13:29:35+01:00",
+      "updated_at": "2025-09-18T13:46:36+01:00",
       "published_at": "2025-09-02T13:08:32+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "anti-colic nursing bottle, baby feeding bottle, easy clean baby bottle, large diameter baby bottle, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep",
+      "tags": "anti-colic nursing bottle, baby feeding bottle, easy clean baby bottle, large diameter baby bottle, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-returning-to-work-mom-feeding-prep",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9793337065814",
       "variants": [
@@ -1441,11 +1712,11 @@
       "product_type": "Baby Feeding Bottle",
       "created_at": "2025-09-02T17:02:27+01:00",
       "handle": "kidula-baby-feeding-bottle-silicone-straw-mug",
-      "updated_at": "2025-09-16T13:29:53+01:00",
+      "updated_at": "2025-09-18T13:52:51+01:00",
       "published_at": "2025-09-02T17:02:48+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby feeding bottle, life-event-grandparents-helper-feeding-station, life-event-new-baby-first-foods-starter-kit, life-event-returning-to-work-mom-feeding-prep, life-event-toddler-independence-milestone-kit, safe kids feeder, silicone straw mug, spill-proof baby bottle",
+      "tags": "baby feeding bottle, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-returning-to-work-mom-feeding-prep, life-event-toddler-independence-milestone-kit, safe kids feeder, silicone straw mug, spill-proof baby bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9793802338646",
       "variants": [
@@ -1871,11 +2142,11 @@
       "product_type": "Baby Bottle Warmer",
       "created_at": "2025-08-31T16:04:45+01:00",
       "handle": "nurtura-baby-bottle-warmer-insulated-milk-bag",
-      "updated_at": "2025-09-16T13:32:03+01:00",
+      "updated_at": "2025-09-18T13:55:04+01:00",
       "published_at": "2025-08-31T16:05:02+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby bottle warmer, Baby feeding warmer, Insulated milk bag, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, Portable bottle warmer, Safe baby milk warmer",
+      "tags": "Baby bottle warmer, Baby feeding warmer, Insulated milk bag, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, Portable bottle warmer, Safe baby milk warmer",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9790063444310",
       "variants": [
@@ -2979,8 +3250,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 9,
-    "products_in_page": 9,
+    "total_products": 10,
+    "products_in_page": 10,
     "has_next_page": false,
     "has_previous_page": false
   }

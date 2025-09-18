@@ -4,7 +4,7 @@
     "handle": "on-the-go-feeding",
     "title": "On-the-Go Feeding",
     "body_html": "<p><meta charset=\"utf-8\">Make eating out simple and stylish. Our on-the-go collection includes portable bibs, travel cutlery sets, and insulated jars for warm meals anywhere.</p>",
-    "products_count": 14
+    "products_count": 15
   },
   "products": [
     {
@@ -15,11 +15,11 @@
       "product_type": "Baby Bottle Warmer",
       "created_at": "2025-09-01T06:25:44+01:00",
       "handle": "bebeva-portable-baby-bottle-warmer",
-      "updated_at": "2025-09-16T13:26:12+01:00",
+      "updated_at": "2025-09-18T13:49:00+01:00",
       "published_at": "2025-09-01T06:26:05+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby-bottle-heating-cover, baby-bottle-warmer, baby-feeding-accessories, bebeva-baby-products, bottle-heating-solution, Constant Temperature Bottle Warmer, constant-temp-baby-warmer, heat-retaining-bottle-cover, Insulated Baby Bottle Cover, life-event-baby-shower-host-feeding-essentials, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, lightweight-baby-feeding, Night Feeding Bottle Warmer, on-the-go-baby-feeding, portable-bottle-warmer, portable-feeding-essentials, safe-milk-warming, stress-free-night-feeding, Travel Baby Bottle Warmer, universal-baby-bottle-accessories, universal-bottle-warmer",
+      "tags": "baby-bottle-heating-cover, baby-bottle-warmer, baby-feeding-accessories, bebeva-baby-products, bottle-heating-solution, Constant Temperature Bottle Warmer, constant-temp-baby-warmer, heat-retaining-bottle-cover, Insulated Baby Bottle Cover, life-event-baby-shower-host-feeding-essentials, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, lightweight-baby-feeding, Night Feeding Bottle Warmer, on-the-go-baby-feeding, portable-bottle-warmer, portable-feeding-essentials, safe-milk-warming, stress-free-night-feeding, Travel Baby Bottle Warmer, universal-baby-bottle-accessories, universal-bottle-warmer",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791081480534",
       "variants": [
@@ -275,17 +275,17 @@
     },
     {
       "id": 9791235129686,
-      "title": "BlossomBabes Baby Bottle Heating Sleeve – Portable Insulated Warmer for Feeding",
-      "body_html": "<p data-end=\"431\" data-start=\"136\">Keep your baby’s milk at the perfect temperature anytime, anywhere with the <strong data-end=\"286\" data-start=\"243\">BlossomBabes Baby Bottle Heating Sleeve</strong>. This <strong data-end=\"322\" data-start=\"293\">portable insulated warmer</strong> is designed for busy parents on-the-go, making night feeds, travel, or outings stress-free and convenient.</p>\n<p data-end=\"792\" data-start=\"433\">The sleeve’s <strong data-end=\"482\" data-start=\"446\">high-quality insulating material</strong> preserves warmth, while the <strong data-end=\"545\" data-start=\"511\">lightweight and compact design</strong> fits most standard baby bottles. Easy to use and clean, it ensures your little one enjoys safely warmed milk whenever needed. Perfect for home, car, or travel, the BlossomBabes Heating Sleeve is a must-have feeding accessory for modern parents.</p>\n<p data-end=\"813\" data-start=\"794\"><strong data-end=\"811\" data-start=\"794\">Key Features:</strong></p>\n<ul data-end=\"1163\" data-start=\"814\">\n<li data-end=\"890\" data-start=\"814\">\n<p data-end=\"890\" data-start=\"816\"><strong data-end=\"846\" data-start=\"816\">Portable Insulated Warmer:</strong> Keeps milk warm during travel or outings.</p>\n</li>\n<li data-end=\"963\" data-start=\"891\">\n<p data-end=\"963\" data-start=\"893\"><strong data-end=\"926\" data-start=\"893\">Compatible with Most Bottles:</strong> Fits standard baby bottles easily.</p>\n</li>\n<li data-end=\"1019\" data-start=\"964\">\n<p data-end=\"1019\" data-start=\"966\"><strong data-end=\"992\" data-start=\"966\">Lightweight &amp; Compact:</strong> Easy to carry and store.</p>\n</li>\n<li data-end=\"1088\" data-start=\"1020\">\n<p data-end=\"1088\" data-start=\"1022\"><strong data-end=\"1041\" data-start=\"1022\">Safe &amp; Durable:</strong> Made from non-toxic, high-quality materials.</p>\n</li>\n<li data-end=\"1163\" data-start=\"1089\">\n<p data-end=\"1163\" data-start=\"1091\"><strong data-end=\"1123\" data-start=\"1091\">Convenient Feeding Solution:</strong> Ideal for night feeds or outdoor use.</p>\n</li>\n</ul>\n<p data-end=\"1264\" data-start=\"1165\">Make feeding time effortless and worry-free with the <strong data-end=\"1261\" data-start=\"1218\">BlossomBabes Baby Bottle Heating Sleeve</strong>.</p>\n<p data-end=\"1264\" data-start=\"1165\"><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4190544584065.jpg?v=1756714276\"></p>\n<p data-end=\"1264\" data-start=\"1165\"><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2930441147856.jpg?v=1756714281\"></p>\n<p data-end=\"1264\" data-start=\"1165\"><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/27981586789960.jpg?v=1756714281\"></p>\n<p data-end=\"1264\" data-start=\"1165\"><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/971674470834.jpg?v=1756714270\"></p>",
+      "title": "BlossomBabes Baby Bottle Heating Sleeve - Insulated Portable Warmer",
+      "body_html": "<h2>BlossomBabes Baby Bottle Heating Sleeve – Portable Insulated Warmer for Feeding</h2>\n\n<p>Keep your baby's milk at the perfect temperature anytime, anywhere with the <strong>BlossomBabes Baby Bottle Heating Sleeve</strong>. This <strong>portable insulated warmer</strong> is designed for busy parents on-the-go, making night feeds, travel, or outings stress-free and convenient.</p>\n\n<p>The sleeve's <strong>high-quality insulating material</strong> preserves warmth, while the <strong>lightweight and compact design</strong> fits most standard baby bottles. Easy to use and clean, it ensures your little one enjoys safely warmed milk whenever needed. Perfect for home, car, or travel, the BlossomBabes Heating Sleeve is a must-have feeding accessory for modern parents.</p>\n\n<h3>Key Features:</h3>\n<ul>\n<li>\n<strong>Portable Insulated Warmer:</strong> Keeps milk warm during travel or outings.</li>\n<li>\n<strong>Compatible with Most Bottles:</strong> Fits standard baby bottles easily.</li>\n<li>\n<strong>Lightweight &amp; Compact:</strong> Easy to carry and store.</li>\n<li>\n<strong>Safe &amp; Durable:</strong> Made from non-toxic, high-quality materials.</li>\n<li>\n<strong>Convenient Feeding Solution:</strong> Ideal for night feeds or outdoor use.</li>\n</ul>\n\n<p>Make feeding time effortless and worry-free with the <strong>BlossomBabes Baby Bottle Heating Sleeve</strong>.</p>\n\n<p><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4190544584065.jpg?v=1756714276\"></p>\n<p><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2930441147856.jpg?v=1756714281\"></p>\n<p><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/27981586789960.jpg?v=1756714281\"></p>\n<p><img alt=\"BlossomBabes Baby Bottle Heating Sleeve\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/971674470834.jpg?v=1756714270\"></p>",
       "vendor": "Nestacular",
       "product_type": "Baby Bottle Heating Sleeve",
       "created_at": "2025-09-01T09:11:04+01:00",
       "handle": "blossombabes-baby-bottle-heating-sleeve",
-      "updated_at": "2025-09-16T13:26:25+01:00",
+      "updated_at": "2025-09-18T13:49:16+01:00",
       "published_at": "2025-09-01T09:11:21+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Insulated Baby Sleeve, life-event-baby-shower-host-feeding-essentials, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, Night Feed Warmer, Portable Bottle Heater, Travel Baby Feeding",
+      "tags": "baby-bottle-accessories, baby-bottle-warmer, baby-feeding-gear, bottle-heating-sleeve, car-feeding-accessories, compact-feeding-tools, feeding-accessories, Insulated Baby Sleeve, insulated-bottle-sleeve, life-event-baby-shower-host-feeding-essentials, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, lightweight-baby-gear, Night Feed Warmer, non-toxic-baby-products, on-the-go-feeding, outdoor-baby-feeding, Portable Bottle Heater, portable-baby-products, standard-bottle-compatible, Travel Baby Feeding, travel-bottle-warmer",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791235129686",
       "variants": [
@@ -552,11 +552,11 @@
       "product_type": "0",
       "created_at": "2025-09-16T16:11:58+01:00",
       "handle": "campitots-baby-camping-folding-dining-chair-portable-lightweight-space-saving-design-essential-feeding-chair-for-babies-toddlers-on-the-go",
-      "updated_at": "2025-09-17T06:16:04+01:00",
+      "updated_at": "2025-09-18T13:49:55+01:00",
       "published_at": "2025-09-16T16:20:19+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Camping Chair, Baby Folding Chair, CJ",
+      "tags": "Baby Camping Chair, Baby Folding Chair, CJ, life-event-moving-day-baby-feeding-setup",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9823540379990",
       "variants": [
@@ -911,17 +911,17 @@
       "product_type": "Baby Bottle Warmer",
       "created_at": "2025-09-01T13:16:22+01:00",
       "handle": "celesta-baby-bottle-warmer",
-      "updated_at": "2025-09-16T13:27:02+01:00",
+      "updated_at": "2025-09-18T13:50:00+01:00",
       "published_at": "2025-09-01T13:16:40+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Insulated Baby Feeder, life-event-baby-shower-host-feeding-essentials, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, Newborn Bottle Heater, Portable Milk Warmer, Thermostat Milk Warmer",
+      "tags": "Insulated Baby Feeder, life-event-baby-shower-host-feeding-essentials, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, Newborn Bottle Heater, Portable Milk Warmer, Thermostat Milk Warmer",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791454511446",
       "variants": [
         {
-          "product_id": 9791454511446,
           "id": 51196510142806,
+          "product_id": 9791454511446,
           "title": "Multi Function Bottle / EU",
           "price": "43.95",
           "position": 1,
@@ -948,8 +948,8 @@
           "image_id": 66242050457942
         },
         {
-          "product_id": 9791454511446,
           "id": 51196510175574,
+          "product_id": 9791454511446,
           "title": "Multi Function Bottle / AU",
           "price": "43.95",
           "position": 2,
@@ -976,8 +976,8 @@
           "image_id": 66242050490710
         },
         {
-          "product_id": 9791454511446,
           "id": 51196510208342,
+          "product_id": 9791454511446,
           "title": "Multi Function Bottle / US",
           "price": "43.95",
           "position": 3,
@@ -1004,8 +1004,8 @@
           "image_id": 66242050523478
         },
         {
-          "product_id": 9791454511446,
           "id": 51196510241110,
+          "product_id": 9791454511446,
           "title": "Multi Function Bottle / UK",
           "price": "44.19",
           "position": 4,
@@ -1032,8 +1032,8 @@
           "image_id": 66242050556246
         },
         {
-          "product_id": 9791454511446,
           "id": 51196510273878,
+          "product_id": 9791454511446,
           "title": "Multi Function Bottle / USB",
           "price": "42.72",
           "position": 5,
@@ -1062,8 +1062,8 @@
       ],
       "options": [
         {
-          "product_id": 9791454511446,
           "id": 12640678347094,
+          "product_id": 9791454511446,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1071,8 +1071,8 @@
           ]
         },
         {
-          "product_id": 9791454511446,
           "id": 12640678379862,
+          "product_id": 9791454511446,
           "name": "Power",
           "position": 2,
           "values": [
@@ -1248,11 +1248,11 @@
       "product_type": "0",
       "created_at": "2025-09-15T13:18:34+01:00",
       "handle": "chairre-children-s-portable-folding-dining-chair-lightweight-space-saving-design-durable-construction-essential-feeding-chair-for-babies-toddlers-at-home-or-travel",
-      "updated_at": "2025-09-17T01:21:23+01:00",
+      "updated_at": "2025-09-18T13:50:03+01:00",
       "published_at": "2025-09-15T13:24:50+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby feeding, baby-high-chair, baby-travel-gear, chairre, CJ, compact design, compact-high-chair, family travel, feeding time, feeding-accessories, foldable-baby-chair, folding chair, folding-high-chair, Kid Dining Chair, life-event-returning-to-work-mom-feeding-prep, lightweight furniture, lightweight-chair, nursery essentials, nursery-furniture, Portable Dining Seat, portable-baby-seat, space saving, space-saving-chair, toddler chair, toddler-feeding-chair, travel chair, travel-essentials, travel-feeding-chair, travel-high-chair",
+      "tags": "baby feeding, baby-high-chair, baby-travel-gear, chairre, CJ, compact design, compact-high-chair, family travel, feeding time, feeding-accessories, foldable-baby-chair, folding chair, folding-high-chair, Kid Dining Chair, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, lightweight furniture, lightweight-chair, nursery essentials, nursery-furniture, Portable Dining Seat, portable-baby-seat, space saving, space-saving-chair, toddler chair, toddler-feeding-chair, travel chair, travel-essentials, travel-feeding-chair, travel-high-chair",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9821309731158",
       "variants": [
@@ -1514,11 +1514,11 @@
       "product_type": "0",
       "created_at": "2025-09-01T06:29:25+01:00",
       "handle": "dinsr-kfc-style-high-chair-wheels-pulleys-replacement-parts",
-      "updated_at": "2025-09-14T09:49:18+01:00",
+      "updated_at": "2025-09-18T13:51:01+01:00",
       "published_at": "2025-09-01T06:29:38+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Dining Chair, CJ, life-event-new-baby-first-foods-starter-kit, life-event-thanksgiving-family-gathering-toddler-setup, Portable Dining Seat",
+      "tags": "Baby Dining Chair, CJ, life-event-moving-day-baby-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-thanksgiving-family-gathering-toddler-setup, Portable Dining Seat",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791084495190",
       "variants": [
@@ -1679,11 +1679,11 @@
       "product_type": "Baby Bottle Warmer",
       "created_at": "2025-08-31T16:57:50+01:00",
       "handle": "dr-green-portable-baby-bottle-warmer",
-      "updated_at": "2025-09-16T13:27:59+01:00",
+      "updated_at": "2025-09-18T13:51:06+01:00",
       "published_at": "2025-09-01T06:04:45+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Insulated Bottle Sleeve, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, On-the-Go Bottle Warmer, Safe Baby Feeding, Travel Baby Bottle Warmer",
+      "tags": "Insulated Bottle Sleeve, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, On-the-Go Bottle Warmer, Safe Baby Feeding, Travel Baby Bottle Warmer",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9790202052950",
       "variants": [
@@ -1977,11 +1977,11 @@
       "product_type": "Baby Dining Chair",
       "created_at": "2025-08-24T10:12:30+01:00",
       "handle": "go-bag-baby-chair-cover-portable-feeding-harness",
-      "updated_at": "2025-09-14T22:55:43+01:00",
+      "updated_at": "2025-09-18T13:51:49+01:00",
       "published_at": "2025-08-24T10:20:33+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Chair Bag, Baby Dining Chair Ba, CJ, life-event-grandparents-helper-feeding-station, life-event-new-baby-first-foods-starter-kit, life-event-travel-ready-baby-feeding-kit",
+      "tags": "Baby Chair Bag, Baby Dining Chair Ba, CJ, life-event-grandparents-helper-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-travel-ready-baby-feeding-kit",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9776317759830",
       "variants": [
@@ -2129,11 +2129,11 @@
       "product_type": "",
       "created_at": "2025-08-18T22:52:30+01:00",
       "handle": "adorable-insulated-baby-feeding-bowl-set-300ml-stainless-steel-with-spoon-bpa-free-tableware",
-      "updated_at": "2025-09-16T13:29:26+01:00",
+      "updated_at": "2025-09-18T13:46:28+01:00",
       "published_at": "2025-08-18T22:52:31+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "300ml-baby-bowls, ADS, baby-bowls, baby-spoon-set, cartoon-baby-bowls, colorful-baby-dinnerware, complementary-food-bowls, curved-handle-bowls, double-wall-baby-bowls, easy-grip-baby-bowls, Feeding, food-grade-baby-bowls, heat-resistant-baby-bowls, insulated-feeding-bowls, life-event-grandparents-helper-feeding-station, life-event-new-baby-first-foods-starter-kit, life-event-returning-to-work-mom-feeding-prep, life-event-toddler-independence-milestone-kit, Mother & Kids, non-slip-baby-bowls, Solid Feeding, stainless-steel-baby-dinnerware, training-bowls",
+      "tags": "300ml-baby-bowls, ADS, baby-bowls, baby-spoon-set, cartoon-baby-bowls, colorful-baby-dinnerware, complementary-food-bowls, curved-handle-bowls, double-wall-baby-bowls, easy-grip-baby-bowls, Feeding, food-grade-baby-bowls, heat-resistant-baby-bowls, insulated-feeding-bowls, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-new-baby-first-foods-starter-kit, life-event-returning-to-work-mom-feeding-prep, life-event-toddler-independence-milestone-kit, Mother & Kids, non-slip-baby-bowls, Solid Feeding, stainless-steel-baby-dinnerware, training-bowls",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9765170020694",
       "variants": [
@@ -2395,11 +2395,11 @@
       "product_type": "Baby Bottle Warmer",
       "created_at": "2025-09-01T06:12:42+01:00",
       "handle": "nestoria-universal-baby-bottle-warmer",
-      "updated_at": "2025-09-16T13:31:44+01:00",
+      "updated_at": "2025-09-18T13:54:42+01:00",
       "published_at": "2025-09-01T06:12:52+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Insulated Bottle Jacket, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, Pigeon Bottle Warmer, Travel Baby Feeding Warmer, Universal Baby Bottle Warmer",
+      "tags": "Insulated Bottle Jacket, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, Pigeon Bottle Warmer, Travel Baby Feeding Warmer, Universal Baby Bottle Warmer",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791069421910",
       "variants": [
@@ -2563,11 +2563,11 @@
       "product_type": "Baby Bottle Warmer",
       "created_at": "2025-08-31T16:04:45+01:00",
       "handle": "nurtura-baby-bottle-warmer-insulated-milk-bag",
-      "updated_at": "2025-09-16T13:32:03+01:00",
+      "updated_at": "2025-09-18T13:55:04+01:00",
       "published_at": "2025-08-31T16:05:02+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby bottle warmer, Baby feeding warmer, Insulated milk bag, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, Portable bottle warmer, Safe baby milk warmer",
+      "tags": "Baby bottle warmer, Baby feeding warmer, Insulated milk bag, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, Portable bottle warmer, Safe baby milk warmer",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9790063444310",
       "variants": [
@@ -2933,6 +2933,184 @@
       }
     },
     {
+      "id": 9828521804118,
+      "title": "SafeUp Portable Booster Seat - Non-Slip Plastic Design for Toddlers",
+      "body_html": "<p>SafeUp Children's Chair Booster Seat combines durable craftsmanship with non-slip safety features to provide the perfect dining solution for growing toddlers and kids. Designed for comfort and security, this booster seat makes mealtime more enjoyable while giving parents peace of mind.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2ea1ec92-90ba-4e1d-987e-98548ffdafb0.jpg?v=1758193775\" alt=\"SafeUp Children's Chair Booster Seat – Non-Slip Feet, Durable &amp; Portable Design | Essential Dining Support for Toddlers &amp; Kids\" style=\"float: none;\"></div>\n<h2>Smart Design Features</h2>\n<ul>\n<li>Non-slip feet keep the booster seat firmly in place during use</li>\n<li>Durable and lightweight construction ensures long-lasting daily reliability</li>\n<li>Portable design makes it easy to move between rooms or take on the go</li>\n<li>Comfortable seating height helps toddlers reach the table with ease</li>\n<li>Easy-to-clean surface keeps maintenance simple and stress-free</li>\n<li>Compact build allows convenient storage when not in use</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/29ebed40-0d66-4cff-95cb-8ce26db216d7.jpg?v=1758193776\" alt=\"SafeUp Children's Chair Booster Seat – Non-Slip Feet, Durable &amp; Portable Design | Essential Dining Support for Toddlers &amp; Kids\" style=\"float: none;\"></div>\n<h2>Setup and Usage</h2>\n<ol>\n<li>Place booster seat securely on a stable dining chair</li>\n<li>Ensure non-slip feet are firmly in contact with the chair surface</li>\n<li>Seat your child and fasten any additional safety straps if provided</li>\n<li>Wipe clean after meals with a damp cloth</li>\n<li>Store or carry the booster seat as needed for travel or daily use</li>\n</ol>\n<h2>Product Specifications</h2>\n<ul>\n<li>Material: High-quality, durable plastic construction with non-slip feet</li>\n<li>Dimensions: Compact and lightweight for easy portability</li>\n<li>Style: Portable booster seat with safety and comfort in mind</li>\n<li>Colors: Multiple attractive options to complement dining spaces</li>\n<li>Suitable for: Toddlers and young kids during mealtime</li>\n<li>Package: 1 complete booster seat</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/05a52dbf-9514-488f-8bbd-646c364b2f48.jpg?v=1758193781\" alt=\"SafeUp Children's Chair Booster Seat – Non-Slip Feet, Durable &amp; Portable Design | Essential Dining Support for Toddlers &amp; Kids\" style=\"float: none;\"></div>\n<h2>Why Choose This Booster Seat</h2>\n<p> </p>\n<ul>\n<li> Non-slip feet add an extra layer of safety during use</li>\n<li>Lightweight and portable design makes it ideal for home or travel</li>\n<li>Simple setup and easy cleaning fit into busy family routines</li>\n<li>Durable build ensures long-term use through your child's early years</li>\n<li>Comfortable, ergonomic seating height encourages independent dining</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You've found a hidden discount code! Use code \"TTD\" at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-18T12:09:30+01:00",
+      "handle": "safeup-children-s-chair-booster-seat-non-slip-feet-durable-portable-design-essential-dining-support-for-toddlers-kids",
+      "updated_at": "2025-09-18T13:56:13+01:00",
+      "published_at": "2025-09-18T12:14:27+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "anti-slip, booster-seat, chair-attachment, child furniture, child safety, CJ, compact-storage, dining chair, dining support, dining-room-furniture, easy-clean, ergonomic-seating, feeding time, growing kids, high-chair-alternative, Kid Booster Seat, kids-dining-chair, life-event-moving-day-baby-feeding-setup, lightweight-seat, mealtime essentials, Nonslip Booster Seat, plastic-construction, portable seat, portable-dining-seat, SafeUp, SafeUp-booster-seat, slip-resistant, toddler seat, travel-booster",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9828521804118",
+      "variants": [
+        {
+          "id": 51347000951126,
+          "product_id": 9828521804118,
+          "title": "Green",
+          "price": "168.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "198.95",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-18T12:09:40+01:00",
+          "updated_at": "2025-09-18T12:14:09+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 1620,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT150112501AZ",
+          "weight": 1620.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53573647728982,
+          "inventory_quantity": 47789,
+          "old_inventory_quantity": 47789,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51347000951126",
+          "image_id": 66939723743574
+        }
+      ],
+      "options": [
+        {
+          "id": 12684764447062,
+          "product_id": 9828521804118,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Green"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66939722334550,
+          "alt": "Child sitting on a chair with a table and fruits in the background, with a close-up of a gray table leg extender.",
+          "position": 1,
+          "product_id": 9828521804118,
+          "created_at": "2025-09-18T12:09:31+01:00",
+          "updated_at": "2025-09-18T12:12:05+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66939722334550",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2ea1ec92-90ba-4e1d-987e-98548ffdafb0.jpg?v=1758193775",
+          "variant_ids": []
+        },
+        {
+          "id": 66939722432854,
+          "alt": "Green and black adjustable stand being held by a person on a white background",
+          "position": 2,
+          "product_id": 9828521804118,
+          "created_at": "2025-09-18T12:09:32+01:00",
+          "updated_at": "2025-09-18T12:12:13+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66939722432854",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/29ebed40-0d66-4cff-95cb-8ce26db216d7.jpg?v=1758193776",
+          "variant_ids": []
+        },
+        {
+          "id": 66939722629462,
+          "alt": "SafeUp Children’s Chair Booster Seat – Non-Slip Feet, Durable & Portable Design | Essential Dining Support for Toddlers & Kids",
+          "position": 3,
+          "product_id": 9828521804118,
+          "created_at": "2025-09-18T12:09:34+01:00",
+          "updated_at": "2025-09-18T12:12:19+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66939722629462",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/7a6edcfc-89ab-4fd9-99c0-8e20a45b2723.jpg?v=1758193776",
+          "variant_ids": []
+        },
+        {
+          "id": 66939722727766,
+          "alt": "Two chairs with green base stands on a white background",
+          "position": 4,
+          "product_id": 9828521804118,
+          "created_at": "2025-09-18T12:09:35+01:00",
+          "updated_at": "2025-09-18T12:12:26+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66939722727766",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/10b5824c-789f-47a2-99b3-439123100b2b.jpg?v=1758193778",
+          "variant_ids": []
+        },
+        {
+          "id": 66939722793302,
+          "alt": "SafeUp Children’s Chair Booster Seat – Non-Slip Feet, Durable & Portable Design | Essential Dining Support for Toddlers & Kids",
+          "position": 5,
+          "product_id": 9828521804118,
+          "created_at": "2025-09-18T12:09:36+01:00",
+          "updated_at": "2025-09-18T12:12:43+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66939722793302",
+          "width": 1920,
+          "height": 1441,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/577bc03e-e961-4f74-afb7-e62f01ebdd5a.jpg?v=1758193779",
+          "variant_ids": []
+        },
+        {
+          "id": 66939722858838,
+          "alt": "Green and black plastic component on a white background",
+          "position": 6,
+          "product_id": 9828521804118,
+          "created_at": "2025-09-18T12:09:37+01:00",
+          "updated_at": "2025-09-18T12:12:51+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66939722858838",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/05a52dbf-9514-488f-8bbd-646c364b2f48.jpg?v=1758193781",
+          "variant_ids": []
+        },
+        {
+          "id": 66939723088214,
+          "alt": "SafeUp Children’s Chair Booster Seat – Non-Slip Feet, Durable & Portable Design | Essential Dining Support for Toddlers & Kids",
+          "position": 7,
+          "product_id": 9828521804118,
+          "created_at": "2025-09-18T12:09:39+01:00",
+          "updated_at": "2025-09-18T12:12:58+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66939723088214",
+          "width": 1920,
+          "height": 1516,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/74a66d1d-6d80-4dd4-aec6-d20979643098.jpg?v=1758193781",
+          "variant_ids": []
+        },
+        {
+          "id": 66939723743574,
+          "alt": "SafeUp Children’s Chair Booster Seat – Non-Slip Feet, Durable & Portable Design | Essential Dining Support for Toddlers & Kids",
+          "position": 8,
+          "product_id": 9828521804118,
+          "created_at": "2025-09-18T12:09:40+01:00",
+          "updated_at": "2025-09-18T12:13:07+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66939723743574",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/53da9a83-69c2-4203-8b14-bc83e85f84cf.jpg?v=1758193783",
+          "variant_ids": [
+            51347000951126
+          ]
+        }
+      ],
+      "image": {
+        "id": 66939722334550,
+        "alt": "Child sitting on a chair with a table and fruits in the background, with a close-up of a gray table leg extender.",
+        "position": 1,
+        "product_id": 9828521804118,
+        "created_at": "2025-09-18T12:09:31+01:00",
+        "updated_at": "2025-09-18T12:12:05+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66939722334550",
+        "width": 1000,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2ea1ec92-90ba-4e1d-987e-98548ffdafb0.jpg?v=1758193775",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9772850905430,
       "title": "Siddhar Portable Baby Dining Seat On the Go Safety Harness",
       "body_html": "<p><br><span>Traveling with a little one often means <span style=\"text-decoration: underline;\">improvising</span> at mealtimes—using laps, <span style=\"text-decoration: underline;\">unstable booster seats</span>, or restaurant highchairs that aren't always clean or safe. These situations can turn dining into a <span style=\"text-decoration: underline;\">stressful</span> balancing act rather than a moment of ease. The Portable Dining Chair Bag is designed to solve that problem, giving parents a secure, compact, and reliable seating option no matter where they are. </span></p>\n<p><span>With its<strong> innovative</strong> design, the <strong>Portable</strong> Dining Chair Bag combines <strong>convenience</strong> with comfort, ensuring your child always has a safe seat at the table. Its <strong>lightweight</strong> and <strong>foldable </strong>build makes it easy to carry, while the <strong>sturdy</strong> structure provides stability for your little one. Mealtime becomes less about worry and more about enjoying food and family togetherness.</span></p>\n<div style=\"text-align: center;\"><img style=\"float: none;\" alt=\"Go-Anywhere Booster Seat | Portable Baby Chair Harness\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/210670089622.jpg?v=1755867673\"></div>\n<p> </p>\n<div style=\"text-align: center;\"><b> <br></b></div>\n<h2 style=\"text-align: center;\"><b>WHAT MAKES THE PORTABLE DINING CHAIR BAG DIFFERENT</b></h2>\n<p><br></p>\n<p><span style=\"font-size: 0.875rem;\">✅ </span><strong style=\"font-size: 0.875rem;\">ALL-IN-ONE FUNCTION</strong><span>—It acts as a storage bag and a baby dining chair, reducing the need for multiple bulky items. This makes it <strong>ideal for parents</strong> who love efficiency and organization.</span></p>\n<p>✅ <strong>FOLDABLE &amp; LIGHTWEIGHT—</strong>It is compact enough to carry in one hand or slip into a travel bag. Parents can set it up anywhere, making <strong>dining on the go seamless</strong> and stress-free.</p>\n<p><br></p>\n<div style=\"text-align: center;\">\n<img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1266905777405.jpg?v=1755867678\"><img style=\"margin-bottom: 14px; float: none;\" alt=\"Go-Anywhere Booster Seat | Portable Baby Chair Harness\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1266905777405.jpg?v=1755867678\">\n</div>\n<p><br>✅ <strong>SECURE DESIGN</strong> – Equipped with strong straps and safety buckles, the Portable Dining Chair Bag keeps children <strong>stable and comfortable </strong>during meals. This reassures parents that their little ones are safe even in unfamiliar environments.</p>\n<p>✅ <strong>COMFORTABLE SEATING</strong> – Padded construction gives kids<strong> proper support</strong> while sitting. This helps them stay at the table longer, reducing fussiness and making mealtime more enjoyable.</p>\n<p><br></p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 14px; float: none;\" alt=\"Go-Anywhere Booster Seat | Portable Baby Chair Harness\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1420425966393.jpg?v=1755867682\"></div>\n<p><br>✅ <strong>EASY TO CLEAN</strong>—The Portable Dining Chair Bag is made of <strong>wipeable materials</strong> that resist stains and spills. Parents save time cleaning, keeping the Bag fresh for the next outing. <br><br></p>\n<p> </p>\n<h2 style=\"text-align: center;\"><b>SIMPLE TO USE PORTABLE DINING CHAIR BAG</b></h2>\n<p><br></p>\n<p> </p>\n<p>1. Unfold the Portable Dining Chair Bag and secure it to a chair.</p>\n<p>2. Fasten the safety straps snugly around your child.</p>\n<p>3. Store small items in its built-in pockets.</p>\n<p>4. Fold it back up into a bag when mealtime is over. <br><br></p>\n<p>Studies show that over 60% of parents find eating out with young children <span style=\"text-decoration: underline;\">stressful</span> due to a lack of safe and hygienic seating. Many report avoiding family meals at restaurants or friends' houses altogether because of the <span style=\"text-decoration: underline;\">hassle.</span> <br><span><br>Parents who use the Portable Dining Chair Bag <strong>experience smoother</strong> dining anywhere, with <strong>peace of mind</strong> knowing their child is safe, <strong>comfortable, and seated</strong> correctly. Its <strong>versatility, portability</strong>, and <strong>easy-care design</strong> make it a must-have for families who want to simplify mealtime without sacrificing convenience.</span></p>\n<p><br></p>\n<p><br></p>\n<h2 style=\"text-align: center;\">\n<b>PRODUCT SPECIFICATIONS</b> <br><br>\n</h2>\n<p style=\"text-align: center;\">Material: Oxford Cloth, Nylon, Sponge</p>\n<p style=\"text-align: center;\">Dimensions: 30cm x 25cm x 8cm</p>\n<p style=\"text-align: center;\">Recommended Age: 1-3 years old</p>\n<p style=\"text-align: center;\">Colors: Sky Blue, Light Yellow, Pink (with a randomly selected hem color)</p>\n<p style=\"text-align: center;\">Package Size: 300 x 250 x 80 mm</p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\"><strong>A Nestacular Promise</strong></p>\n<p style=\"text-align: center;\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></p>\n<p style=\"text-align: center;\"><strong>Congratulations!</strong></p>\n<p style=\"text-align: center;\"><strong>You've found a hidden discount code! Use code \"TTD\" at checkout to claim an additional 10% OFF your ENTIRE order!</strong></p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\"><strong>Customer Support:</strong></p>\n<p style=\"text-align: center;\"><strong>Email: support@nestacular.com</strong></p>",
@@ -2940,11 +3118,11 @@
       "product_type": "Baby Dining Chair",
       "created_at": "2025-08-22T14:01:09+01:00",
       "handle": "siddhar-portable-baby-dining-seat-on-the-go-safety-harness",
-      "updated_at": "2025-09-16T13:33:06+01:00",
+      "updated_at": "2025-09-18T13:56:23+01:00",
       "published_at": "2025-08-22T14:10:41+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Dining Seat, CJ, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-toddler-independence-milestone-kit, Portable Baby Seat",
+      "tags": "Baby Dining Seat, CJ, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-toddler-independence-milestone-kit, Portable Baby Seat",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9772850905430",
       "variants": [
@@ -3660,8 +3838,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 14,
-    "products_in_page": 14,
+    "total_products": 15,
+    "products_in_page": 15,
     "has_next_page": false,
     "has_previous_page": false
   }
