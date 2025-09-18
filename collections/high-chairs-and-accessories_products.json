@@ -5255,7 +5255,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T08:47:59+01:00",
       "handle": "deentii-home-children-s-multifunctional-portable-foldable-dining-chair-space-saving-durable-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:50:55+01:00",
+      "updated_at": "2025-09-18T20:48:51+01:00",
       "published_at": "2025-09-18T08:54:47+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -5264,8 +5264,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9827700539734",
       "variants": [
         {
-          "product_id": 9827700539734,
           "id": 51344831807830,
+          "product_id": 9827700539734,
           "title": "Dark Blue",
           "price": "145.95",
           "position": 1,
@@ -5292,8 +5292,8 @@
           "image_id": 66930306220374
         },
         {
-          "product_id": 9827700539734,
           "id": 51344831840598,
+          "product_id": 9827700539734,
           "title": "Grey",
           "price": "145.95",
           "position": 2,
@@ -5320,8 +5320,8 @@
           "image_id": 66930306253142
         },
         {
-          "product_id": 9827700539734,
           "id": 51344831873366,
+          "product_id": 9827700539734,
           "title": "Khaki",
           "price": "145.95",
           "position": 3,
@@ -5348,8 +5348,8 @@
           "image_id": 66930306285910
         },
         {
-          "product_id": 9827700539734,
           "id": 51344831906134,
+          "product_id": 9827700539734,
           "title": "Sky Blue",
           "price": "145.95",
           "position": 4,
@@ -5378,8 +5378,8 @@
       ],
       "options": [
         {
-          "product_id": 9827700539734,
           "id": 12683830362454,
+          "product_id": 9827700539734,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12852,8 +12852,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791138333014",
       "variants": [
         {
-          "id": 51194928038230,
           "product_id": 9791138333014,
+          "id": 51194928038230,
           "title": "Beige",
           "price": "16.95",
           "position": 1,
@@ -12880,8 +12880,8 @@
           "image_id": 66236903686486
         },
         {
-          "id": 51194928070998,
           "product_id": 9791138333014,
+          "id": 51194928070998,
           "title": "Black",
           "price": "16.25",
           "position": 2,
@@ -12908,8 +12908,8 @@
           "image_id": 66236903719254
         },
         {
-          "id": 51194928103766,
           "product_id": 9791138333014,
+          "id": 51194928103766,
           "title": "Blue",
           "price": "15.75",
           "position": 3,
@@ -12936,8 +12936,8 @@
           "image_id": 66236903752022
         },
         {
-          "id": 51194928136534,
           "product_id": 9791138333014,
+          "id": 51194928136534,
           "title": "Brown",
           "price": "16.25",
           "position": 4,
@@ -12964,8 +12964,8 @@
           "image_id": 66236903784790
         },
         {
-          "id": 51194928169302,
           "product_id": 9791138333014,
+          "id": 51194928169302,
           "title": "Green",
           "price": "16.55",
           "position": 5,
@@ -12992,8 +12992,8 @@
           "image_id": 66236903817558
         },
         {
-          "id": 51194928202070,
           "product_id": 9791138333014,
+          "id": 51194928202070,
           "title": "Grey",
           "price": "16.55",
           "position": 6,
@@ -13020,8 +13020,8 @@
           "image_id": 66236903850326
         },
         {
-          "id": 51194928234838,
           "product_id": 9791138333014,
+          "id": 51194928234838,
           "title": "Letter",
           "price": "16.25",
           "position": 7,
@@ -13048,8 +13048,8 @@
           "image_id": 66236903883094
         },
         {
-          "id": 51194928267606,
           "product_id": 9791138333014,
+          "id": 51194928267606,
           "title": "Light blue",
           "price": "16.55",
           "position": 8,
@@ -13076,8 +13076,8 @@
           "image_id": 66236903915862
         },
         {
-          "id": 51194928300374,
           "product_id": 9791138333014,
+          "id": 51194928300374,
           "title": "Linen Blue",
           "price": "16.25",
           "position": 9,
@@ -13104,8 +13104,8 @@
           "image_id": 66236903948630
         },
         {
-          "id": 51194928333142,
           "product_id": 9791138333014,
+          "id": 51194928333142,
           "title": "Lotus root starch",
           "price": "16.25",
           "position": 10,
@@ -13132,8 +13132,8 @@
           "image_id": 66236903981398
         },
         {
-          "id": 51194928365910,
           "product_id": 9791138333014,
+          "id": 51194928365910,
           "title": "Orange",
           "price": "16.25",
           "position": 11,
@@ -13160,8 +13160,8 @@
           "image_id": 66236904014166
         },
         {
-          "id": 51194928398678,
           "product_id": 9791138333014,
+          "id": 51194928398678,
           "title": "Pink",
           "price": "16.25",
           "position": 12,
@@ -13188,8 +13188,8 @@
           "image_id": 66236904046934
         },
         {
-          "id": 51194928431446,
           "product_id": 9791138333014,
+          "id": 51194928431446,
           "title": "Purple",
           "price": "16.25",
           "position": 13,
@@ -13216,8 +13216,8 @@
           "image_id": 66236904079702
         },
         {
-          "id": 51194928464214,
           "product_id": 9791138333014,
+          "id": 51194928464214,
           "title": "Rose red",
           "price": "16.55",
           "position": 14,
@@ -13244,8 +13244,8 @@
           "image_id": 66236904112470
         },
         {
-          "id": 51194928496982,
           "product_id": 9791138333014,
+          "id": 51194928496982,
           "title": "Scarlet",
           "price": "16.25",
           "position": 15,
@@ -13272,8 +13272,8 @@
           "image_id": 66236904145238
         },
         {
-          "id": 51194928529750,
           "product_id": 9791138333014,
+          "id": 51194928529750,
           "title": "Shallow Khaki",
           "price": "16.55",
           "position": 16,
@@ -13300,8 +13300,8 @@
           "image_id": 66236904178006
         },
         {
-          "id": 51194928562518,
           "product_id": 9791138333014,
+          "id": 51194928562518,
           "title": "Spot",
           "price": "16.25",
           "position": 17,
@@ -13328,8 +13328,8 @@
           "image_id": 66236904210774
         },
         {
-          "id": 51194928595286,
           "product_id": 9791138333014,
+          "id": 51194928595286,
           "title": "Stripe",
           "price": "16.25",
           "position": 18,
@@ -13356,8 +13356,8 @@
           "image_id": 66236904243542
         },
         {
-          "id": 51194928628054,
           "product_id": 9791138333014,
+          "id": 51194928628054,
           "title": "Wine red",
           "price": "16.25",
           "position": 19,
@@ -13384,8 +13384,8 @@
           "image_id": 66236904276310
         },
         {
-          "id": 51194928660822,
           "product_id": 9791138333014,
+          "id": 51194928660822,
           "title": "Yellow",
           "price": "16.55",
           "position": 20,
@@ -13414,8 +13414,8 @@
       ],
       "options": [
         {
-          "id": 12640306856278,
           "product_id": 9791138333014,
+          "id": 12640306856278,
           "name": "Color",
           "position": 1,
           "values": [
