@@ -8074,8 +8074,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9788957884758",
       "variants": [
         {
-          "product_id": 9788957884758,
           "id": 51186247532886,
+          "product_id": 9788957884758,
           "title": "Green",
           "price": "22.34",
           "position": 1,
@@ -8104,8 +8104,8 @@
       ],
       "options": [
         {
-          "product_id": 9788957884758,
           "id": 12637668409686,
+          "product_id": 9788957884758,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9489,8 +9489,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9732319674710",
       "variants": [
         {
-          "product_id": 9732319674710,
           "id": 50948372169046,
+          "product_id": 9732319674710,
           "title": "Green / 110V",
           "price": "120.95",
           "position": 1,
@@ -9519,8 +9519,8 @@
       ],
       "options": [
         {
-          "product_id": 9732319674710,
           "id": 12570572915030,
+          "product_id": 9732319674710,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9528,8 +9528,8 @@
           ]
         },
         {
-          "product_id": 9732319674710,
           "id": 12570572947798,
+          "product_id": 9732319674710,
           "name": "Voltage",
           "position": 2,
           "values": [
