@@ -2004,8 +2004,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9788957884758",
       "variants": [
         {
-          "id": 51186247532886,
           "product_id": 9788957884758,
+          "id": 51186247532886,
           "title": "Green",
           "price": "22.34",
           "position": 1,
@@ -2034,8 +2034,8 @@
       ],
       "options": [
         {
-          "id": 12637668409686,
           "product_id": 9788957884758,
+          "id": 12637668409686,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2169,8 +2169,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791069421910",
       "variants": [
         {
-          "id": 51194352599382,
           "product_id": 9791069421910,
+          "id": 51194352599382,
           "title": "Pink red",
           "price": "49.64",
           "position": 1,
@@ -2197,8 +2197,8 @@
           "image_id": null
         },
         {
-          "id": 51194352632150,
           "product_id": 9791069421910,
+          "id": 51194352632150,
           "title": "Yellow glass",
           "price": "49.64",
           "position": 2,
@@ -2227,8 +2227,8 @@
       ],
       "options": [
         {
-          "id": 12640220152150,
           "product_id": 9791069421910,
+          "id": 12640220152150,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2961,8 +2961,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9815569039702",
       "variants": [
         {
-          "id": 51293618012502,
           "product_id": 9815569039702,
+          "id": 51293618012502,
           "title": "White [single Cup, Single Blade, 316 Full Steel] 12 Pages, Blade Head, 300 Ml",
           "price": "29.95",
           "position": 1,
@@ -2989,8 +2989,8 @@
           "image_id": 66597175722326
         },
         {
-          "id": 51293618045270,
           "product_id": 9815569039702,
+          "id": 51293618045270,
           "title": "White [double Cups, Double Blades, 316 Full Steel] 12 Blade Head, 300 Ml",
           "price": "31.95",
           "position": 2,
@@ -3017,8 +3017,8 @@
           "image_id": 66597175722326
         },
         {
-          "id": 51293618078038,
           "product_id": 9815569039702,
+          "id": 51293618078038,
           "title": "Blue [double Cups, Double Blades, 316 All-steel] 12 Pages, Blade Head, 300 Ml",
           "price": "31.95",
           "position": 3,
@@ -3045,8 +3045,8 @@
           "image_id": 66596852367702
         },
         {
-          "id": 51293618110806,
           "product_id": 9815569039702,
+          "id": 51293618110806,
           "title": "Blue [single Cup, Single Blade, 316 All-steel] 12, Blade Head, 300 Ml",
           "price": "31.95",
           "position": 4,
@@ -3075,8 +3075,8 @@
       ],
       "options": [
         {
-          "id": 12668941926742,
           "product_id": 9815569039702,
+          "id": 12668941926742,
           "name": "color",
           "position": 1,
           "values": [

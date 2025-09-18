@@ -31029,8 +31029,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9808140992854",
       "variants": [
         {
-          "id": 51266280816982,
           "product_id": 9808140992854,
+          "id": 51266280816982,
           "title": "Yellow / Five piece set",
           "price": "19.95",
           "position": 1,
@@ -31059,8 +31059,8 @@
       ],
       "options": [
         {
-          "id": 12660540539222,
           "product_id": 9808140992854,
+          "id": 12660540539222,
           "name": "Color",
           "position": 1,
           "values": [
@@ -31068,8 +31068,8 @@
           ]
         },
         {
-          "id": 12660540571990,
           "product_id": 9808140992854,
+          "id": 12660540571990,
           "name": "Style",
           "position": 2,
           "values": [
@@ -35264,8 +35264,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765170184534",
       "variants": [
         {
-          "id": 51084379750742,
           "product_id": 9765170184534,
+          "id": 51084379750742,
           "title": "Blue Bowl",
           "price": "3.59",
           "position": 1,
@@ -35292,8 +35292,8 @@
           "image_id": 65932724109654
         },
         {
-          "id": 51084379783510,
           "product_id": 9765170184534,
+          "id": 51084379783510,
           "title": "Red Bowl",
           "price": "3.63",
           "position": 2,
@@ -35320,8 +35320,8 @@
           "image_id": 65932724339030
         },
         {
-          "id": 51084379816278,
           "product_id": 9765170184534,
+          "id": 51084379816278,
           "title": "Yellow Bowl",
           "price": "3.63",
           "position": 3,
@@ -35350,8 +35350,8 @@
       ],
       "options": [
         {
-          "id": 12609595933014,
           "product_id": 9765170184534,
+          "id": 12609595933014,
           "name": "Color",
           "position": 1,
           "values": [

@@ -1787,8 +1787,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825545355606",
       "variants": [
         {
-          "id": 51338753868118,
           "product_id": 9825545355606,
+          "id": 51338753868118,
           "title": "Green",
           "price": "80.95",
           "position": 1,
@@ -1817,8 +1817,8 @@
       ],
       "options": [
         {
-          "id": 12681326199126,
           "product_id": 9825545355606,
+          "id": 12681326199126,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3612,8 +3612,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828644192598",
       "variants": [
         {
-          "id": 51347407503702,
           "product_id": 9828644192598,
+          "id": 51347407503702,
           "title": "Black",
           "price": "60.95",
           "position": 1,
@@ -3640,8 +3640,8 @@
           "image_id": 66940546122070
         },
         {
-          "id": 51347407536470,
           "product_id": 9828644192598,
+          "id": 51347407536470,
           "title": "Green",
           "price": "62.95",
           "position": 2,
@@ -3668,8 +3668,8 @@
           "image_id": 66940546154838
         },
         {
-          "id": 51347407569238,
           "product_id": 9828644192598,
+          "id": 51347407569238,
           "title": "Grey",
           "price": "62.95",
           "position": 3,
@@ -3696,8 +3696,8 @@
           "image_id": 66940546187606
         },
         {
-          "id": 51347407602006,
           "product_id": 9828644192598,
+          "id": 51347407602006,
           "title": "Pink",
           "price": "62.95",
           "position": 4,
@@ -3726,8 +3726,8 @@
       ],
       "options": [
         {
-          "id": 12684916621654,
           "product_id": 9828644192598,
+          "id": 12684916621654,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5535,8 +5535,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791084495190",
       "variants": [
         {
-          "id": 51194403520854,
           "product_id": 9791084495190,
+          "id": 51194403520854,
           "title": "F",
           "price": "29.95",
           "position": 1,
@@ -5565,8 +5565,8 @@
       ],
       "options": [
         {
-          "id": 12640237912406,
           "product_id": 9791084495190,
+          "id": 12640237912406,
           "name": "style",
           "position": 1,
           "values": [
@@ -9467,8 +9467,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828614144342",
       "variants": [
         {
-          "id": 51347294191958,
           "product_id": 9828614144342,
+          "id": 51347294191958,
           "title": "Black",
           "price": "525.95",
           "position": 1,
@@ -9495,8 +9495,8 @@
           "image_id": 66940251570518
         },
         {
-          "id": 51347294224726,
           "product_id": 9828614144342,
+          "id": 51347294224726,
           "title": "Brown",
           "price": "525.95",
           "position": 2,
@@ -9523,8 +9523,8 @@
           "image_id": 66940251603286
         },
         {
-          "id": 51347294257494,
           "product_id": 9828614144342,
+          "id": 51347294257494,
           "title": "Champagne gold",
           "price": "525.95",
           "position": 3,
@@ -9551,8 +9551,8 @@
           "image_id": 66940251636054
         },
         {
-          "id": 51347294290262,
           "product_id": 9828614144342,
+          "id": 51347294290262,
           "title": "Orange",
           "price": "525.95",
           "position": 4,
@@ -9581,8 +9581,8 @@
       ],
       "options": [
         {
-          "id": 12684878086486,
           "product_id": 9828614144342,
+          "id": 12684878086486,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11319,8 +11319,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9795008594262",
       "variants": [
         {
-          "id": 51211729895766,
           "product_id": 9795008594262,
+          "id": 51211729895766,
           "title": "Flagship Edition",
           "price": "291.12",
           "position": 1,
@@ -11347,8 +11347,8 @@
           "image_id": 66273338982742
         },
         {
-          "id": 51211729928534,
           "product_id": 9795008594262,
+          "id": 51211729928534,
           "title": "Cherry blossom powder",
           "price": "305.95",
           "position": 2,
@@ -11377,8 +11377,8 @@
       ],
       "options": [
         {
-          "id": 12645010932054,
           "product_id": 9795008594262,
+          "id": 12645010932054,
           "name": "style",
           "position": 1,
           "values": [
