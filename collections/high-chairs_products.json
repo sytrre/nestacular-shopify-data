@@ -2540,8 +2540,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821873766742",
       "variants": [
         {
-          "id": 51323933229398,
           "product_id": 9821873766742,
+          "id": 51323933229398,
           "title": "Blue",
           "price": "120.95",
           "position": 1,
@@ -2568,8 +2568,8 @@
           "image_id": 66796907102550
         },
         {
-          "id": 51323933262166,
           "product_id": 9821873766742,
+          "id": 51323933262166,
           "title": "Grey",
           "price": "120.95",
           "position": 2,
@@ -2596,8 +2596,8 @@
           "image_id": 66796908839254
         },
         {
-          "id": 51323933294934,
           "product_id": 9821873766742,
+          "id": 51323933294934,
           "title": "Red",
           "price": "120.95",
           "position": 3,
@@ -2626,8 +2626,8 @@
       ],
       "options": [
         {
-          "id": 12676872438102,
           "product_id": 9821873766742,
+          "id": 12676872438102,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7056,8 +7056,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9779868041558",
       "variants": [
         {
-          "product_id": 9779868041558,
           "id": 51144188002646,
+          "product_id": 9779868041558,
           "title": "Light Pink",
           "price": "50.95",
           "position": 1,
@@ -7084,8 +7084,8 @@
           "image_id": 66130627133782
         },
         {
-          "product_id": 9779868041558,
           "id": 51144188035414,
+          "product_id": 9779868041558,
           "title": "Navy",
           "price": "50.95",
           "position": 2,
@@ -7114,8 +7114,8 @@
       ],
       "options": [
         {
-          "product_id": 9779868041558,
           "id": 12626959565142,
+          "product_id": 9779868041558,
           "name": "Color",
           "position": 1,
           "values": [

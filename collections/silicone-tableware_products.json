@@ -24670,8 +24670,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791385174358",
       "variants": [
         {
-          "product_id": 9791385174358,
           "id": 51196291973462,
+          "product_id": 9791385174358,
           "title": "Orange / M",
           "price": "15.23",
           "position": 1,
@@ -24698,8 +24698,8 @@
           "image_id": 66241096515926
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292006230,
+          "product_id": 9791385174358,
           "title": "Green / L",
           "price": "15.23",
           "position": 2,
@@ -24726,8 +24726,8 @@
           "image_id": 66241096548694
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292038998,
+          "product_id": 9791385174358,
           "title": "Green / S",
           "price": "15.23",
           "position": 3,
@@ -24754,8 +24754,8 @@
           "image_id": 66241096548694
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292071766,
+          "product_id": 9791385174358,
           "title": "Blue / L",
           "price": "15.23",
           "position": 4,
@@ -24782,8 +24782,8 @@
           "image_id": 66241096581462
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292104534,
+          "product_id": 9791385174358,
           "title": "Orange / S",
           "price": "15.23",
           "position": 5,
@@ -24810,8 +24810,8 @@
           "image_id": 66241096515926
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292137302,
+          "product_id": 9791385174358,
           "title": "Purple / M",
           "price": "15.23",
           "position": 6,
@@ -24838,8 +24838,8 @@
           "image_id": 66241096614230
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292170070,
+          "product_id": 9791385174358,
           "title": "Purple / S",
           "price": "15.23",
           "position": 7,
@@ -24866,8 +24866,8 @@
           "image_id": 66241096614230
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292202838,
+          "product_id": 9791385174358,
           "title": "Blue / S",
           "price": "15.23",
           "position": 8,
@@ -24894,8 +24894,8 @@
           "image_id": 66241096581462
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292235606,
+          "product_id": 9791385174358,
           "title": "Green / M",
           "price": "15.23",
           "position": 9,
@@ -24922,8 +24922,8 @@
           "image_id": 66241096548694
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292268374,
+          "product_id": 9791385174358,
           "title": "Pink / L",
           "price": "15.23",
           "position": 10,
@@ -24950,8 +24950,8 @@
           "image_id": 66241096646998
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292301142,
+          "product_id": 9791385174358,
           "title": "Orange / L",
           "price": "15.23",
           "position": 11,
@@ -24978,8 +24978,8 @@
           "image_id": 66241096515926
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292333910,
+          "product_id": 9791385174358,
           "title": "Pink / S",
           "price": "15.23",
           "position": 12,
@@ -25006,8 +25006,8 @@
           "image_id": 66241096646998
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292366678,
+          "product_id": 9791385174358,
           "title": "Pink / M",
           "price": "15.23",
           "position": 13,
@@ -25034,8 +25034,8 @@
           "image_id": 66241096646998
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292399446,
+          "product_id": 9791385174358,
           "title": "Blue / M",
           "price": "15.23",
           "position": 14,
@@ -25062,8 +25062,8 @@
           "image_id": 66241096581462
         },
         {
-          "product_id": 9791385174358,
           "id": 51196292432214,
+          "product_id": 9791385174358,
           "title": "Purple / L",
           "price": "15.23",
           "position": 15,
@@ -25092,8 +25092,8 @@
       ],
       "options": [
         {
-          "product_id": 9791385174358,
           "id": 12640600916310,
+          "product_id": 9791385174358,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25105,8 +25105,8 @@
           ]
         },
         {
-          "product_id": 9791385174358,
           "id": 12640600949078,
+          "product_id": 9791385174358,
           "name": "Size",
           "position": 2,
           "values": [
@@ -33104,8 +33104,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765169955158",
       "variants": [
         {
-          "product_id": 9765169955158,
           "id": 51084377686358,
+          "product_id": 9765169955158,
           "title": "A-Blue",
           "price": "18.02",
           "position": 1,
@@ -33132,8 +33132,8 @@
           "image_id": 65932724732246
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377719126,
+          "product_id": 9765169955158,
           "title": "A-Green",
           "price": "18.25",
           "position": 2,
@@ -33160,8 +33160,8 @@
           "image_id": 65932724961622
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377751894,
+          "product_id": 9765169955158,
           "title": "A-Pink",
           "price": "18.25",
           "position": 3,
@@ -33188,8 +33188,8 @@
           "image_id": 65932724994390
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377784662,
+          "product_id": 9765169955158,
           "title": "C Pink",
           "price": "20.06",
           "position": 4,
@@ -33216,8 +33216,8 @@
           "image_id": 65932725027158
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377817430,
+          "product_id": 9765169955158,
           "title": "C Purple",
           "price": "19.49",
           "position": 5,
@@ -33244,8 +33244,8 @@
           "image_id": 65932725059926
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377850198,
+          "product_id": 9765169955158,
           "title": "B-Replacement",
           "price": "15.17",
           "position": 6,
@@ -33272,8 +33272,8 @@
           "image_id": 65932725092694
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377882966,
+          "product_id": 9765169955158,
           "title": "A-Yellow",
           "price": "18.44",
           "position": 7,
@@ -33300,8 +33300,8 @@
           "image_id": 65932725125462
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377915734,
+          "product_id": 9765169955158,
           "title": "Finger Toothbrush",
           "price": "14.55",
           "position": 8,
@@ -33328,8 +33328,8 @@
           "image_id": 65932725158230
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377948502,
+          "product_id": 9765169955158,
           "title": "C Green",
           "price": "19.39",
           "position": 9,
@@ -33358,8 +33358,8 @@
       ],
       "options": [
         {
-          "product_id": 9765169955158,
           "id": 12609595703638,
+          "product_id": 9765169955158,
           "name": "Color",
           "position": 1,
           "values": [
