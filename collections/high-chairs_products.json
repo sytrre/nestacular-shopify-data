@@ -13246,8 +13246,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9805913882966",
       "variants": [
         {
-          "id": 51255593173334,
           "product_id": 9805913882966,
+          "id": 51255593173334,
           "title": "Multi-functional Dining Chair + Plate + Swivel Wheels + Nordic Grey",
           "price": "130.95",
           "position": 1,
@@ -13274,8 +13274,8 @@
           "image_id": null
         },
         {
-          "id": 51255593206102,
           "product_id": 9805913882966,
+          "id": 51255593206102,
           "title": "Multi-functional Dining Chair + Plate + Swivel Wheels + Wheat Yellow And White",
           "price": "130.95",
           "position": 2,
@@ -13304,8 +13304,8 @@
       ],
       "options": [
         {
-          "id": 12657763942742,
           "product_id": 9805913882966,
+          "id": 12657763942742,
           "name": "Color",
           "position": 1,
           "values": [
