@@ -1869,8 +1869,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9574308872534",
       "variants": [
         {
-          "product_id": 9574308872534,
           "id": 50254057668950,
+          "product_id": 9574308872534,
           "title": "8K / 3 Batteries",
           "price": "129.95",
           "position": 1,
@@ -1897,8 +1897,8 @@
           "image_id": 61471435260246
         },
         {
-          "product_id": 9574308872534,
           "id": 50254057701718,
+          "product_id": 9574308872534,
           "title": "6K / 3 Batteries",
           "price": "125.95",
           "position": 2,
@@ -1925,8 +1925,8 @@
           "image_id": 61471437128022
         },
         {
-          "product_id": 9574308872534,
           "id": 50254057734486,
+          "product_id": 9574308872534,
           "title": "4K / 2 Batteries",
           "price": "120.95",
           "position": 3,
@@ -1955,8 +1955,8 @@
       ],
       "options": [
         {
-          "product_id": 9574308872534,
           "id": 12372374913366,
+          "product_id": 9574308872534,
           "name": "Camera HD Type",
           "position": 1,
           "values": [
@@ -1966,8 +1966,8 @@
           ]
         },
         {
-          "product_id": 9574308872534,
           "id": 12372374946134,
+          "product_id": 9574308872534,
           "name": "Size",
           "position": 2,
           "values": [
