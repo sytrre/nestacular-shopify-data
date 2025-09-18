@@ -3336,8 +3336,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791102681430",
       "variants": [
         {
-          "product_id": 9791102681430,
           "id": 51194467942742,
+          "product_id": 9791102681430,
           "title": "Car cigar head",
           "price": "28.16",
           "position": 1,
@@ -3366,8 +3366,8 @@
       ],
       "options": [
         {
-          "product_id": 9791102681430,
           "id": 12640258294102,
+          "product_id": 9791102681430,
           "name": "Color",
           "position": 1,
           "values": [

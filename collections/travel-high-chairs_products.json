@@ -6338,8 +6338,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9788957884758",
       "variants": [
         {
-          "product_id": 9788957884758,
           "id": 51186247532886,
+          "product_id": 9788957884758,
           "title": "Green",
           "price": "22.34",
           "position": 1,
@@ -6368,8 +6368,8 @@
       ],
       "options": [
         {
-          "product_id": 9788957884758,
           "id": 12637668409686,
+          "product_id": 9788957884758,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10106,7 +10106,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T12:40:36+01:00",
       "handle": "nestihatch-folding-portable-baby-dining-chair-lightweight-space-saving-durable-design-essential-feeding-chair-for-babies-toddlers",
-      "updated_at": "2025-09-17T13:08:28+01:00",
+      "updated_at": "2025-09-18T00:41:47+01:00",
       "published_at": "2025-09-17T12:45:59+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -15788,8 +15788,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9586936774998",
       "variants": [
         {
-          "product_id": 9586936774998,
           "id": 50308206428502,
+          "product_id": 9586936774998,
           "title": "Dark Blue",
           "price": "49.95",
           "position": 1,
@@ -15816,8 +15816,8 @@
           "image_id": 61658824933718
         },
         {
-          "product_id": 9586936774998,
           "id": 50308206461270,
+          "product_id": 9586936774998,
           "title": "Green",
           "price": "49.95",
           "position": 2,
@@ -15844,8 +15844,8 @@
           "image_id": 61658823786838
         },
         {
-          "product_id": 9586936774998,
           "id": 50308206494038,
+          "product_id": 9586936774998,
           "title": "Pink",
           "price": "49.95",
           "position": 3,
@@ -15874,8 +15874,8 @@
       ],
       "options": [
         {
-          "product_id": 9586936774998,
           "id": 12388794270038,
+          "product_id": 9586936774998,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16161,8 +16161,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791102681430",
       "variants": [
         {
-          "product_id": 9791102681430,
           "id": 51194467942742,
+          "product_id": 9791102681430,
           "title": "Car cigar head",
           "price": "28.16",
           "position": 1,
@@ -16191,8 +16191,8 @@
       ],
       "options": [
         {
-          "product_id": 9791102681430,
           "id": 12640258294102,
+          "product_id": 9791102681430,
           "name": "Color",
           "position": 1,
           "values": [
