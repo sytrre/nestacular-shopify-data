@@ -15,7 +15,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T12:51:42+01:00",
       "handle": "aibedo-home-musicology-multi-functional-baby-dining-chair-adjustable-space-saving-durable-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:47:27+01:00",
+      "updated_at": "2025-09-19T00:41:57+01:00",
       "published_at": "2025-09-17T13:13:32+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825499971926",
       "variants": [
         {
-          "id": 51338589897046,
           "product_id": 9825499971926,
+          "id": 51338589897046,
           "title": "Basic Style Cute Baby Pink",
           "price": "156.95",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 66896040132950
         },
         {
-          "id": 51338589929814,
           "product_id": 9825499971926,
+          "id": 51338589929814,
           "title": "Basic Style Gray Meal Body",
           "price": "156.95",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 66896040165718
         },
         {
-          "id": 51338589962582,
           "product_id": 9825499971926,
+          "id": 51338589962582,
           "title": "Basic Style Light Beige",
           "price": "156.95",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 66896040198486
         },
         {
-          "id": 51338589995350,
           "product_id": 9825499971926,
+          "id": 51338589995350,
           "title": "Basic Style Snow Blue",
           "price": "156.95",
           "position": 4,
@@ -136,8 +136,8 @@
           "image_id": 66896040231254
         },
         {
-          "id": 51338590028118,
           "product_id": 9825499971926,
+          "id": 51338590028118,
           "title": "Basic Style Vanilla Green",
           "price": "153.95",
           "position": 5,
@@ -164,8 +164,8 @@
           "image_id": 66896040264022
         },
         {
-          "id": 51338590060886,
           "product_id": 9825499971926,
+          "id": 51338590060886,
           "title": "Elite Cute Baby Pink",
           "price": "163.95",
           "position": 6,
@@ -192,8 +192,8 @@
           "image_id": 66896040296790
         },
         {
-          "id": 51338590093654,
           "product_id": 9825499971926,
+          "id": 51338590093654,
           "title": "Elite High Grade Gray",
           "price": "163.95",
           "position": 7,
@@ -220,8 +220,8 @@
           "image_id": 66896040329558
         },
         {
-          "id": 51338590126422,
           "product_id": 9825499971926,
+          "id": 51338590126422,
           "title": "Elite Light Beige",
           "price": "163.95",
           "position": 8,
@@ -248,8 +248,8 @@
           "image_id": 66896040362326
         },
         {
-          "id": 51338590159190,
           "product_id": 9825499971926,
+          "id": 51338590159190,
           "title": "Elite Snow Blue",
           "price": "163.95",
           "position": 9,
@@ -276,8 +276,8 @@
           "image_id": 66896040395094
         },
         {
-          "id": 51338590191958,
           "product_id": 9825499971926,
+          "id": 51338590191958,
           "title": "Elite Vanilla Green",
           "price": "163.95",
           "position": 10,
@@ -304,8 +304,8 @@
           "image_id": 66896040427862
         },
         {
-          "id": 51338590224726,
           "product_id": 9825499971926,
+          "id": 51338590224726,
           "title": "Flagship Cute Baby Pink",
           "price": "173.95",
           "position": 11,
@@ -332,8 +332,8 @@
           "image_id": 66896040460630
         },
         {
-          "id": 51338590257494,
           "product_id": 9825499971926,
+          "id": 51338590257494,
           "title": "Flagship High Grade Gray",
           "price": "173.95",
           "position": 12,
@@ -360,8 +360,8 @@
           "image_id": 66896040493398
         },
         {
-          "id": 51338590290262,
           "product_id": 9825499971926,
+          "id": 51338590290262,
           "title": "Flagship Light Beige",
           "price": "173.95",
           "position": 13,
@@ -388,8 +388,8 @@
           "image_id": 66896040526166
         },
         {
-          "id": 51338590323030,
           "product_id": 9825499971926,
+          "id": 51338590323030,
           "title": "Flagship Snow Blue",
           "price": "173.95",
           "position": 14,
@@ -416,8 +416,8 @@
           "image_id": 66896040558934
         },
         {
-          "id": 51338590355798,
           "product_id": 9825499971926,
+          "id": 51338590355798,
           "title": "Flagship Vanilla Green",
           "price": "173.95",
           "position": 15,
@@ -444,8 +444,8 @@
           "image_id": 66896040591702
         },
         {
-          "id": 51338590388566,
           "product_id": 9825499971926,
+          "id": 51338590388566,
           "title": "Intelligent Style Light Beige",
           "price": "168.95",
           "position": 16,
@@ -472,8 +472,8 @@
           "image_id": 66896040624470
         },
         {
-          "id": 51338590421334,
           "product_id": 9825499971926,
+          "id": 51338590421334,
           "title": "Smart Cute Baby Pink",
           "price": "168.95",
           "position": 17,
@@ -500,8 +500,8 @@
           "image_id": 66896040657238
         },
         {
-          "id": 51338590454102,
           "product_id": 9825499971926,
+          "id": 51338590454102,
           "title": "Smart High Grade Gray",
           "price": "168.95",
           "position": 18,
@@ -528,8 +528,8 @@
           "image_id": 66896040690006
         },
         {
-          "id": 51338590486870,
           "product_id": 9825499971926,
+          "id": 51338590486870,
           "title": "Smart Snow Blue",
           "price": "168.95",
           "position": 19,
@@ -556,8 +556,8 @@
           "image_id": 66896040722774
         },
         {
-          "id": 51338590519638,
           "product_id": 9825499971926,
+          "id": 51338590519638,
           "title": "Smart Vanilla Green",
           "price": "168.95",
           "position": 20,
@@ -586,8 +586,8 @@
       ],
       "options": [
         {
-          "id": 12681270296918,
           "product_id": 9825499971926,
+          "id": 12681270296918,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16347,7 +16347,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T11:39:06+01:00",
       "handle": "stolk-portable-foldable-stool-folding-chair-seat-lightweight-durable-functional-design-essential-travel-outdoor-fishing-hiking-bench-with-plastic-construction",
-      "updated_at": "2025-09-18T13:24:49+01:00",
+      "updated_at": "2025-09-19T00:40:00+01:00",
       "published_at": "2025-09-18T11:45:18+01:00",
       "template_suffix": null,
       "published_scope": "global",
