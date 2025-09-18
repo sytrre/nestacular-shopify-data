@@ -5656,8 +5656,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821873766742",
       "variants": [
         {
-          "product_id": 9821873766742,
           "id": 51323933229398,
+          "product_id": 9821873766742,
           "title": "Blue",
           "price": "120.95",
           "position": 1,
@@ -5684,8 +5684,8 @@
           "image_id": 66796907102550
         },
         {
-          "product_id": 9821873766742,
           "id": 51323933262166,
+          "product_id": 9821873766742,
           "title": "Grey",
           "price": "120.95",
           "position": 2,
@@ -5712,8 +5712,8 @@
           "image_id": 66796908839254
         },
         {
-          "product_id": 9821873766742,
           "id": 51323933294934,
+          "product_id": 9821873766742,
           "title": "Red",
           "price": "120.95",
           "position": 3,
@@ -5742,8 +5742,8 @@
       ],
       "options": [
         {
-          "product_id": 9821873766742,
           "id": 12676872438102,
+          "product_id": 9821873766742,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14128,7 +14128,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T09:15:16+01:00",
       "handle": "stow-children-s-baby-dining-chair-multifunctional-portable-foldable-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-18T09:33:50+01:00",
+      "updated_at": "2025-09-18T10:09:42+01:00",
       "published_at": "2025-09-18T09:33:47+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -14176,7 +14176,7 @@
           "option2": "Coffee",
           "option3": null,
           "created_at": "2025-09-18T09:15:27+01:00",
-          "updated_at": "2025-09-18T09:26:12+01:00",
+          "updated_at": "2025-09-18T10:09:42+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -14187,8 +14187,8 @@
           "weight": 1650.0,
           "weight_unit": "g",
           "inventory_item_id": 53571009446230,
-          "inventory_quantity": 24586,
-          "old_inventory_quantity": 24586,
+          "inventory_quantity": 46822,
+          "old_inventory_quantity": 46822,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51345183211862",
           "image_id": 66932375454038
         },

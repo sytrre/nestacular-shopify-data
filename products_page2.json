@@ -18350,7 +18350,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T09:15:16+01:00",
       "handle": "stow-children-s-baby-dining-chair-multifunctional-portable-foldable-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-18T09:33:50+01:00",
+      "updated_at": "2025-09-18T10:09:42+01:00",
       "published_at": "2025-09-18T09:33:47+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -18398,7 +18398,7 @@
           "option2": "Coffee",
           "option3": null,
           "created_at": "2025-09-18T09:15:27+01:00",
-          "updated_at": "2025-09-18T09:26:12+01:00",
+          "updated_at": "2025-09-18T10:09:42+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -18409,8 +18409,8 @@
           "weight": 1650.0,
           "weight_unit": "g",
           "inventory_item_id": 53571009446230,
-          "inventory_quantity": 24586,
-          "old_inventory_quantity": 24586,
+          "inventory_quantity": 46822,
+          "old_inventory_quantity": 46822,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51345183211862",
           "image_id": 66932375454038
         },
@@ -24595,8 +24595,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9807875998038",
       "variants": [
         {
-          "product_id": 9807875998038,
           "id": 51265061847382,
+          "product_id": 9807875998038,
           "title": "5PCS set",
           "price": "15.95",
           "position": 1,
@@ -24625,8 +24625,8 @@
       ],
       "options": [
         {
-          "product_id": 9807875998038,
           "id": 12660225409366,
+          "product_id": 9807875998038,
           "name": "Color",
           "position": 1,
           "values": [
@@ -30921,8 +30921,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791841239382",
       "variants": [
         {
-          "product_id": 9791841239382,
           "id": 51197710041430,
+          "product_id": 9791841239382,
           "title": "Blue 240ML",
           "price": "30.81",
           "position": 1,
@@ -30949,8 +30949,8 @@
           "image_id": 66245991366998
         },
         {
-          "product_id": 9791841239382,
           "id": 51197710074198,
+          "product_id": 9791841239382,
           "title": "Blue 300ML",
           "price": "31.45",
           "position": 2,
@@ -30977,8 +30977,8 @@
           "image_id": 66245991366998
         },
         {
-          "product_id": 9791841239382,
           "id": 51197710106966,
+          "product_id": 9791841239382,
           "title": "Green 240ML",
           "price": "30.45",
           "position": 3,
@@ -31005,8 +31005,8 @@
           "image_id": 66245991399766
         },
         {
-          "product_id": 9791841239382,
           "id": 51197710139734,
+          "product_id": 9791841239382,
           "title": "Pink 240ML",
           "price": "30.81",
           "position": 4,
@@ -31033,8 +31033,8 @@
           "image_id": 66245991432534
         },
         {
-          "product_id": 9791841239382,
           "id": 51197710172502,
+          "product_id": 9791841239382,
           "title": "Green 300ML",
           "price": "31.45",
           "position": 5,
@@ -31061,8 +31061,8 @@
           "image_id": 66245991465302
         },
         {
-          "product_id": 9791841239382,
           "id": 51197710205270,
+          "product_id": 9791841239382,
           "title": "Pink 300ML",
           "price": "31.45",
           "position": 6,
@@ -31091,8 +31091,8 @@
       ],
       "options": [
         {
-          "product_id": 9791841239382,
           "id": 12641120878934,
+          "product_id": 9791841239382,
           "name": "Color",
           "position": 1,
           "values": [

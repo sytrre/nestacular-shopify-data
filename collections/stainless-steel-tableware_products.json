@@ -1449,8 +1449,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791841239382",
       "variants": [
         {
-          "product_id": 9791841239382,
           "id": 51197710041430,
+          "product_id": 9791841239382,
           "title": "Blue 240ML",
           "price": "30.81",
           "position": 1,
@@ -1477,8 +1477,8 @@
           "image_id": 66245991366998
         },
         {
-          "product_id": 9791841239382,
           "id": 51197710074198,
+          "product_id": 9791841239382,
           "title": "Blue 300ML",
           "price": "31.45",
           "position": 2,
@@ -1505,8 +1505,8 @@
           "image_id": 66245991366998
         },
         {
-          "product_id": 9791841239382,
           "id": 51197710106966,
+          "product_id": 9791841239382,
           "title": "Green 240ML",
           "price": "30.45",
           "position": 3,
@@ -1533,8 +1533,8 @@
           "image_id": 66245991399766
         },
         {
-          "product_id": 9791841239382,
           "id": 51197710139734,
+          "product_id": 9791841239382,
           "title": "Pink 240ML",
           "price": "30.81",
           "position": 4,
@@ -1561,8 +1561,8 @@
           "image_id": 66245991432534
         },
         {
-          "product_id": 9791841239382,
           "id": 51197710172502,
+          "product_id": 9791841239382,
           "title": "Green 300ML",
           "price": "31.45",
           "position": 5,
@@ -1589,8 +1589,8 @@
           "image_id": 66245991465302
         },
         {
-          "product_id": 9791841239382,
           "id": 51197710205270,
+          "product_id": 9791841239382,
           "title": "Pink 300ML",
           "price": "31.45",
           "position": 6,
@@ -1619,8 +1619,8 @@
       ],
       "options": [
         {
-          "product_id": 9791841239382,
           "id": 12641120878934,
+          "product_id": 9791841239382,
           "name": "Color",
           "position": 1,
           "values": [

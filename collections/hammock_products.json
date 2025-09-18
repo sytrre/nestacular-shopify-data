@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9827760144726",
       "variants": [
         {
-          "id": 51345026711894,
           "product_id": 9827760144726,
+          "id": 51345026711894,
           "title": "Black",
           "price": "70.95",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 66931303088470
         },
         {
-          "id": 51345026744662,
           "product_id": 9827760144726,
+          "id": 51345026744662,
           "title": "Dark Blue",
           "price": "70.95",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 66931303121238
         },
         {
-          "id": 51345026777430,
           "product_id": 9827760144726,
+          "id": 51345026777430,
           "title": "Grey",
           "price": "68.95",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 66931303154006
         },
         {
-          "id": 51345026810198,
           "product_id": 9827760144726,
+          "id": 51345026810198,
           "title": "Pink",
           "price": "70.95",
           "position": 4,
@@ -138,8 +138,8 @@
       ],
       "options": [
         {
-          "id": 12683897930070,
           "product_id": 9827760144726,
+          "id": 12683897930070,
           "name": "Color",
           "position": 1,
           "values": [
@@ -308,8 +308,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9827617177942",
       "variants": [
         {
-          "id": 51344464576854,
           "product_id": 9827617177942,
+          "id": 51344464576854,
           "title": "Blue",
           "price": "70.95",
           "position": 1,
@@ -336,8 +336,8 @@
           "image_id": 66927325348182
         },
         {
-          "id": 51344464609622,
           "product_id": 9827617177942,
+          "id": 51344464609622,
           "title": "Blue set",
           "price": "92.95",
           "position": 2,
@@ -364,8 +364,8 @@
           "image_id": 66927325380950
         },
         {
-          "id": 51344464642390,
           "product_id": 9827617177942,
+          "id": 51344464642390,
           "title": "Green",
           "price": "70.95",
           "position": 3,
@@ -392,8 +392,8 @@
           "image_id": 66927325413718
         },
         {
-          "id": 51344464675158,
           "product_id": 9827617177942,
+          "id": 51344464675158,
           "title": "Green set",
           "price": "90.95",
           "position": 4,
@@ -420,8 +420,8 @@
           "image_id": 66927325446486
         },
         {
-          "id": 51344464707926,
           "product_id": 9827617177942,
+          "id": 51344464707926,
           "title": "Orange",
           "price": "70.95",
           "position": 5,
@@ -448,8 +448,8 @@
           "image_id": 66927325479254
         },
         {
-          "id": 51344464740694,
           "product_id": 9827617177942,
+          "id": 51344464740694,
           "title": "Pink",
           "price": "70.95",
           "position": 6,
@@ -476,8 +476,8 @@
           "image_id": 66927325512022
         },
         {
-          "id": 51344464773462,
           "product_id": 9827617177942,
+          "id": 51344464773462,
           "title": "Purple set",
           "price": "90.95",
           "position": 7,
@@ -506,8 +506,8 @@
       ],
       "options": [
         {
-          "id": 12683728945494,
           "product_id": 9827617177942,
+          "id": 12683728945494,
           "name": "Color",
           "position": 1,
           "values": [

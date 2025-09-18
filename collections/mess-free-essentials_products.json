@@ -7920,8 +7920,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792651264342",
       "variants": [
         {
-          "product_id": 9792651264342,
           "id": 51201121288534,
+          "product_id": 9792651264342,
           "title": "Dark Blue Dinosaurs",
           "price": "25.85",
           "position": 1,
@@ -7950,8 +7950,8 @@
       ],
       "options": [
         {
-          "product_id": 9792651264342,
           "id": 12642098512214,
+          "product_id": 9792651264342,
           "name": "Color",
           "position": 1,
           "values": [
