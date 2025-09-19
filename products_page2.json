@@ -16182,8 +16182,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830143525206",
       "variants": [
         {
-          "id": 51355008237910,
           "product_id": 9830143525206,
+          "id": 51355008237910,
           "title": "blue",
           "price": "132.95",
           "position": 1,
@@ -16210,8 +16210,8 @@
           "image_id": 66965557838166
         },
         {
-          "id": 51355008270678,
           "product_id": 9830143525206,
+          "id": 51355008270678,
           "title": "grey",
           "price": "132.95",
           "position": 2,
@@ -16238,8 +16238,8 @@
           "image_id": 66965557870934
         },
         {
-          "id": 51355008303446,
           "product_id": 9830143525206,
+          "id": 51355008303446,
           "title": "pink",
           "price": "132.95",
           "position": 3,
@@ -16266,8 +16266,8 @@
           "image_id": 66965557903702
         },
         {
-          "id": 51355008336214,
           "product_id": 9830143525206,
+          "id": 51355008336214,
           "title": "red",
           "price": "132.95",
           "position": 4,
@@ -16294,8 +16294,8 @@
           "image_id": 66965557936470
         },
         {
-          "id": 51355008368982,
           "product_id": 9830143525206,
+          "id": 51355008368982,
           "title": "sky blue",
           "price": "132.95",
           "position": 5,
@@ -16322,8 +16322,8 @@
           "image_id": 66965557969238
         },
         {
-          "id": 51355008401750,
           "product_id": 9830143525206,
+          "id": 51355008401750,
           "title": "yellow",
           "price": "132.95",
           "position": 6,
@@ -16352,8 +16352,8 @@
       ],
       "options": [
         {
-          "id": 12686797996374,
           "product_id": 9830143525206,
+          "id": 12686797996374,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29525,8 +29525,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789932667222",
       "variants": [
         {
-          "product_id": 9789932667222,
           "id": 51190249718102,
+          "product_id": 9789932667222,
           "title": "Style A",
           "price": "67.32",
           "position": 1,
@@ -29553,8 +29553,8 @@
           "image_id": 66225336713558
         },
         {
-          "product_id": 9789932667222,
           "id": 51190249750870,
+          "product_id": 9789932667222,
           "title": "Style B",
           "price": "67.32",
           "position": 2,
@@ -29581,8 +29581,8 @@
           "image_id": 66225336746326
         },
         {
-          "product_id": 9789932667222,
           "id": 51190249783638,
+          "product_id": 9789932667222,
           "title": "Style C",
           "price": "67.32",
           "position": 3,
@@ -29611,8 +29611,8 @@
       ],
       "options": [
         {
-          "product_id": 9789932667222,
           "id": 12638785143126,
+          "product_id": 9789932667222,
           "name": "style",
           "position": 1,
           "values": [
