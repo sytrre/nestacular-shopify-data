@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "The Nestacular Journal",
-      "updated_at": "2025-09-19T12:40:23+01:00",
+      "updated_at": "2025-09-19T13:55:12+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -21,18 +21,18 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-09-19T12:40:23+01:00",
+          "updated_at": "2025-09-19T13:28:39+01:00",
           "summary_html": "<p>Starting your baby’s day with nutritious, engaging BLW breakfasts supports healthy growth, iron intake, and independent self-feeding skills. From simple finger foods at 6 months to complex combinations by 12+ months, this guide offers 50 complete baby-led weaning breakfast ideas with textures, proteins, and prep-ahead strategies to simplify mornings while fueling your little one’s development.</p>",
           "template_suffix": "article",
           "handle": "blw-breakfast-ideas-50-easy-morning-meals-for-babies",
           "tags": "Baby-Led Weaning",
           "admin_graphql_api_id": "gid://shopify/Article/610566144342",
           "image": {
-            "created_at": "2025-09-19T12:40:21+01:00",
+            "created_at": "2025-09-19T13:28:38+01:00",
             "alt": "baby-led weaning breakfast ideas for 6 month old",
             "width": 1280,
             "height": 698,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/D_50ae769f-f646-4a10-aa36-b54070292b90.jpg?v=1758282023"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/D_6d39e431-41bc-4994-9114-77c0a8a5c80a.jpg?v=1758284919"
           }
         },
         {
@@ -43,12 +43,19 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-09-18T21:44:42+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-19T13:28:30+01:00",
+          "summary_html": "<p>Choosing the right high chair for baby-led weaning is essential for safe, stress-free, and independent self-feeding. This complete guide reviews premium, mid-range, and budget-friendly BLW high chairs, highlighting must-have features like 5-point harnesses, detachable trays, adjustable heights, and easy-clean surfaces. Explore expert comparisons, safety checklists, and accessories to find the perfect high chair that supports your baby’s development while making mealtimes easier for your family.</p>",
           "template_suffix": "article",
           "handle": "baby-led-weaning-high-chair-guide-features-that-matter-most",
           "tags": "",
-          "admin_graphql_api_id": "gid://shopify/Article/610562441558"
+          "admin_graphql_api_id": "gid://shopify/Article/610562441558",
+          "image": {
+            "created_at": "2025-09-19T13:28:29+01:00",
+            "alt": "best high chairs for baby led weaning 2025",
+            "width": 1280,
+            "height": 698,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/D1_4da1618d-d229-4d99-b219-f06d35638d12.jpg?v=1758284910"
+          }
         },
         {
           "id": 610562376022,
@@ -499,18 +506,18 @@
           "author": "Tayla White",
           "user_id": null,
           "published_at": "2025-08-23T05:21:33+01:00",
-          "updated_at": "2025-09-17T13:04:54+01:00",
+          "updated_at": "2025-09-19T13:55:12+01:00",
           "summary_html": "<p><meta charset=\"utf-8\">Searching for the best foldable high chair? Our guide reviews the top portable and space-saving options for modern families. Compare features, safety, and style.</p>",
           "template_suffix": "article",
           "handle": "the-ultimate-guide-to-foldable-high-chairs-portable-space-saving-solutions-for-modern-families",
           "tags": "High Chairs",
           "admin_graphql_api_id": "gid://shopify/Article/610325594454",
           "image": {
-            "created_at": "2025-09-07T09:47:33+01:00",
+            "created_at": "2025-09-19T13:55:10+01:00",
             "alt": null,
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/c049b0dc-ffa2-4a97-a342-872f6f9163e1_018f34f5-0d21-45e8-8e9c-0ff7b7ff83fe.jpg?v=1757234854"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/c049b0dc-ffa2-4a97-a342-872f6f9163e1_b7630452-7f95-4366-9fe7-69c79ed59aef.jpg?v=1758286512"
           }
         },
         {
