@@ -1613,7 +1613,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T13:49:31+01:00",
       "handle": "b-duck-multifunctional-baby-bag-portable-child-dining-chair-diaper-bag-backpack-travel-friendly-storage-baby-essentials-essential-feeding-care-solution-for-parents",
-      "updated_at": "2025-09-18T13:54:09+01:00",
+      "updated_at": "2025-09-19T05:05:16+01:00",
       "published_at": "2025-09-18T13:54:06+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -4136,8 +4136,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825679475030",
       "variants": [
         {
-          "id": 51339165696342,
           "product_id": 9825679475030,
+          "id": 51339165696342,
           "title": "Grey",
           "price": "25.95",
           "position": 1,
@@ -4166,8 +4166,8 @@
       ],
       "options": [
         {
-          "id": 12681477816662,
           "product_id": 9825679475030,
+          "id": 12681477816662,
           "name": "Color",
           "position": 1,
           "values": [
