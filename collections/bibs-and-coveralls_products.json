@@ -4284,8 +4284,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791384715606",
       "variants": [
         {
-          "id": 51196290564438,
           "product_id": 9791384715606,
+          "id": 51196290564438,
           "title": "Banana",
           "price": "15.14",
           "position": 1,
@@ -4312,8 +4312,8 @@
           "image_id": 66241077281110
         },
         {
-          "id": 51196290597206,
           "product_id": 9791384715606,
+          "id": 51196290597206,
           "title": "White bear",
           "price": "15.14",
           "position": 2,
@@ -4340,8 +4340,8 @@
           "image_id": 66241077313878
         },
         {
-          "id": 51196290629974,
           "product_id": 9791384715606,
+          "id": 51196290629974,
           "title": "Green bear",
           "price": "15.14",
           "position": 3,
@@ -4368,8 +4368,8 @@
           "image_id": 66241077346646
         },
         {
-          "id": 51196290662742,
           "product_id": 9791384715606,
+          "id": 51196290662742,
           "title": "Pink flower",
           "price": "15.14",
           "position": 4,
@@ -4398,8 +4398,8 @@
       ],
       "options": [
         {
-          "id": 12640600359254,
           "product_id": 9791384715606,
+          "id": 12640600359254,
           "name": "Color",
           "position": 1,
           "values": [

@@ -17559,8 +17559,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792648970582",
       "variants": [
         {
-          "product_id": 9792648970582,
           "id": 51201109721430,
+          "product_id": 9792648970582,
           "title": "Blue / 180ml",
           "price": "17.59",
           "position": 1,
@@ -17587,8 +17587,8 @@
           "image_id": 66252991693142
         },
         {
-          "product_id": 9792648970582,
           "id": 51201109754198,
+          "product_id": 9792648970582,
           "title": "Blue / 240ml",
           "price": "17.59",
           "position": 2,
@@ -17615,8 +17615,8 @@
           "image_id": 66252991725910
         },
         {
-          "product_id": 9792648970582,
           "id": 51201109786966,
+          "product_id": 9792648970582,
           "title": "Blue / 300ml",
           "price": "17.59",
           "position": 3,
@@ -17643,8 +17643,8 @@
           "image_id": 66252991758678
         },
         {
-          "product_id": 9792648970582,
           "id": 51201109819734,
+          "product_id": 9792648970582,
           "title": "Brown / 180ml",
           "price": "17.59",
           "position": 4,
@@ -17671,8 +17671,8 @@
           "image_id": 66252991791446
         },
         {
-          "product_id": 9792648970582,
           "id": 51201109852502,
+          "product_id": 9792648970582,
           "title": "Brown / 240ml",
           "price": "17.59",
           "position": 5,
@@ -17699,8 +17699,8 @@
           "image_id": 66252991824214
         },
         {
-          "product_id": 9792648970582,
           "id": 51201109885270,
+          "product_id": 9792648970582,
           "title": "Brown / 300ml",
           "price": "17.59",
           "position": 6,
@@ -17729,8 +17729,8 @@
       ],
       "options": [
         {
-          "product_id": 9792648970582,
           "id": 12642095956310,
+          "product_id": 9792648970582,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17739,8 +17739,8 @@
           ]
         },
         {
-          "product_id": 9792648970582,
           "id": 12642095989078,
+          "product_id": 9792648970582,
           "name": "Capacity size",
           "position": 2,
           "values": [

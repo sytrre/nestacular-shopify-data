@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765169758550",
       "variants": [
         {
-          "product_id": 9765169758550,
           "id": 51084376965462,
+          "product_id": 9765169758550,
           "title": "Pink  Without Box",
           "price": "25.09",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 66262204154198
         },
         {
-          "product_id": 9765169758550,
           "id": 51084376998230,
+          "product_id": 9765169758550,
           "title": "Beige  Without Box",
           "price": "25.33",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 66262210019670
         },
         {
-          "product_id": 9765169758550,
           "id": 51084377030998,
+          "product_id": 9765169758550,
           "title": "Green Without Box",
           "price": "25.42",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 66262223454550
         },
         {
-          "product_id": 9765169758550,
           "id": 51084377063766,
+          "product_id": 9765169758550,
           "title": "Blue  Without Box",
           "price": "25.42",
           "position": 4,
@@ -138,8 +138,8 @@
       ],
       "options": [
         {
-          "product_id": 9765169758550,
           "id": 12609595507030,
+          "product_id": 9765169758550,
           "name": "Color",
           "position": 1,
           "values": [
