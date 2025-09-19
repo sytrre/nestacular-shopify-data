@@ -1,6 +1,240 @@
 {
   "products": [
     {
+      "id": 9791822692694,
+      "title": "Noola Electric Baby Rocking Chair – Comfortable Yaoyao Chair for Infant Care",
+      "body_html": "<p data-end=\"419\" data-start=\"126\">Soothe and comfort your baby with the <strong data-end=\"232\" data-start=\"195\">Noola Electric Baby Rocking Chair</strong>, a smart and cozy <strong data-end=\"273\" data-start=\"251\">Yaoyao-style chair</strong> designed for infant care. This electric baby rocker gently mimics natural rocking motions, helping your baby relax, rest, and sleep peacefully.</p>\n<p data-end=\"687\" data-start=\"421\">Built with <strong data-end=\"460\" data-start=\"432\">soft, breathable fabrics</strong> and a supportive seat design, it ensures maximum comfort for your little one. The chair features <strong data-end=\"635\" data-start=\"558\">adjustable rocking speeds, safety harness protection, and quiet operation</strong>, making it perfect for both playtime and naptime.</p>\n<p data-end=\"828\" data-start=\"689\">Whether at home or on the go, the <strong data-end=\"755\" data-start=\"723\">Noola Electric Rocking Chair</strong> gives parents peace of mind and babies the soothing care they deserve.</p>\n<p data-end=\"849\" data-start=\"830\"><strong data-end=\"847\" data-start=\"830\">Key Features:</strong></p>\n<ul data-end=\"1274\" data-start=\"850\">\n<li data-end=\"922\" data-start=\"850\">\n<p data-end=\"922\" data-start=\"852\"><strong data-end=\"880\" data-start=\"852\">Gentle Electric Rocking:</strong> Mimics natural motions to calm infants.</p>\n</li>\n<li data-end=\"999\" data-start=\"923\">\n<p data-end=\"999\" data-start=\"925\"><strong data-end=\"961\" data-start=\"925\">Comfortable &amp; Supportive Design:</strong> Soft padding and breathable fabric.</p>\n</li>\n<li data-end=\"1068\" data-start=\"1000\">\n<p data-end=\"1068\" data-start=\"1002\"><strong data-end=\"1032\" data-start=\"1002\">Adjustable Rocking Speeds:</strong> Customizable soothing experience.</p>\n</li>\n<li data-end=\"1129\" data-start=\"1069\">\n<p data-end=\"1129\" data-start=\"1071\"><strong data-end=\"1099\" data-start=\"1071\">Safety Harness Included:</strong> Keeps baby secure and safe.</p>\n</li>\n<li data-end=\"1199\" data-start=\"1130\">\n<p data-end=\"1199\" data-start=\"1132\"><strong data-end=\"1158\" data-start=\"1132\">Quiet &amp; Durable Motor:</strong> Runs smoothly without disturbing naps.</p>\n</li>\n<li data-end=\"1274\" data-start=\"1200\">\n<p data-end=\"1274\" data-start=\"1202\"><strong data-end=\"1230\" data-start=\"1202\">Perfect for Infant Care:</strong> Ideal for relaxing, feeding, or sleeping.</p>\n</li>\n</ul>\n<p data-end=\"1374\" data-start=\"1276\">Give your baby the comfort of a mother’s embrace with the <strong data-end=\"1371\" data-start=\"1334\">Noola Electric Baby Rocking Chair</strong>.</p>\n<p><b>Product Image:</b> </p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Noola Electric Baby Rocking Chair\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8b585e1b-4d92-4bb6-8364-d78423139d9b_trans_c1035528-7efc-4a69-be63-6d0234184964.jpg?v=1756907497\"></div>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Noola Electric Baby Rocking Chair\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f4a4c1d4-284f-4578-854e-29a550827897_trans_9546b9fa-2c89-4256-998c-7bfcd32a5707.jpg?v=1756907496\"></div>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Noola Electric Baby Rocking Chair\" src=\"https://cf.cjdropshipping.com/c13def91-ae24-484b-b2f4-64af90f12333_trans.jpeg\"></div>\n<p> </p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Noola Electric Baby Rocking Chair\" src=\"https://cf.cjdropshipping.com/87bd737a-28de-43a5-a3d2-164df6ec7b28_trans.jpeg\"></div>\n<p> </p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Noola Electric Baby Rocking Chair\" src=\"https://cf.cjdropshipping.com/01ebdbf4-ab96-462d-952f-d457dad4cb47_trans.jpeg\"></div>",
+      "vendor": "Nestacular",
+      "product_type": "Baby Rocking Chair",
+      "created_at": "2025-09-01T16:36:27+01:00",
+      "handle": "noola-electric-baby-rocking-chair",
+      "updated_at": "2025-09-18T13:49:01+01:00",
+      "published_at": "2025-09-01T16:36:45+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Rocker with Safety Harness, Electric Baby Rocking Chair, Infant Care Chair, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, Noola Baby Chair, Yaoyao Infant Rocker",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9791822692694",
+      "variants": [
+        {
+          "id": 51197645062486,
+          "product_id": 9791822692694,
+          "title": "Cloud Blue / US",
+          "price": "142.97",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "185.86",
+          "option1": "Cloud Blue",
+          "option2": "US",
+          "option3": null,
+          "created_at": "2025-09-01T16:36:42+01:00",
+          "updated_at": "2025-09-01T17:44:53+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 6350,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD186896802BY",
+          "weight": 6350.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53403516698966,
+          "inventory_quantity": 13477,
+          "old_inventory_quantity": 13477,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51197645062486",
+          "image_id": 66245751439702
+        },
+        {
+          "id": 51197645095254,
+          "product_id": 9791822692694,
+          "title": "Cloud Blue / EU",
+          "price": "142.97",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "185.86",
+          "option1": "Cloud Blue",
+          "option2": "EU",
+          "option3": null,
+          "created_at": "2025-09-01T16:36:42+01:00",
+          "updated_at": "2025-09-01T17:44:53+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 6350,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD186896803CX",
+          "weight": 6350.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53403516731734,
+          "inventory_quantity": 12592,
+          "old_inventory_quantity": 12592,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51197645095254",
+          "image_id": 66245751439702
+        },
+        {
+          "id": 51197645128022,
+          "product_id": 9791822692694,
+          "title": "Cloud Blue / UK",
+          "price": "142.97",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "185.86",
+          "option1": "Cloud Blue",
+          "option2": "UK",
+          "option3": null,
+          "created_at": "2025-09-01T16:36:42+01:00",
+          "updated_at": "2025-09-01T17:44:53+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 6350,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD186896804DW",
+          "weight": 6350.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53403516764502,
+          "inventory_quantity": 14028,
+          "old_inventory_quantity": 14028,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51197645128022",
+          "image_id": 66245751439702
+        }
+      ],
+      "options": [
+        {
+          "id": 12641099415894,
+          "product_id": 9791822692694,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Cloud Blue"
+          ]
+        },
+        {
+          "id": 12641099448662,
+          "product_id": 9791822692694,
+          "name": "规格",
+          "position": 2,
+          "values": [
+            "US",
+            "EU",
+            "UK"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66245748719958,
+          "alt": "Noola Electric Baby Rocking Chair",
+          "position": 1,
+          "product_id": 9791822692694,
+          "created_at": "2025-09-01T16:36:28+01:00",
+          "updated_at": "2025-09-01T17:45:27+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66245748719958",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/69c1720c-9997-4622-b962-969ad3b30a9c_trans.jpg?v=1756740991",
+          "variant_ids": []
+        },
+        {
+          "id": 66245749014870,
+          "alt": "Noola Electric Baby Rocking Chair",
+          "position": 2,
+          "product_id": 9791822692694,
+          "created_at": "2025-09-01T16:36:30+01:00",
+          "updated_at": "2025-09-01T17:45:31+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66245749014870",
+          "width": 721,
+          "height": 721,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/593a87fc-bf4c-4dd7-aae0-05505f9564cf_trans.jpg?v=1756740992",
+          "variant_ids": []
+        },
+        {
+          "id": 66245750063446,
+          "alt": "Noola Electric Baby Rocking Chair",
+          "position": 3,
+          "product_id": 9791822692694,
+          "created_at": "2025-09-01T16:36:35+01:00",
+          "updated_at": "2025-09-01T17:45:36+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66245750063446",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/b2f2ca8b-5ce2-46ee-8439-88d6bff5b572_trans.jpg?v=1756740997",
+          "variant_ids": []
+        },
+        {
+          "id": 66245750653270,
+          "alt": "Noola Electric Baby Rocking Chair",
+          "position": 4,
+          "product_id": 9791822692694,
+          "created_at": "2025-09-01T16:36:39+01:00",
+          "updated_at": "2025-09-01T17:45:40+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66245750653270",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c13def91-ae24-484b-b2f4-64af90f12333_trans.jpg?v=1756741003",
+          "variant_ids": []
+        },
+        {
+          "id": 66245750686038,
+          "alt": "Noola Electric Baby Rocking Chair",
+          "position": 5,
+          "product_id": 9791822692694,
+          "created_at": "2025-09-01T16:36:41+01:00",
+          "updated_at": "2025-09-01T17:45:44+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66245750686038",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/87bd737a-28de-43a5-a3d2-164df6ec7b28_trans.jpg?v=1756741004",
+          "variant_ids": []
+        },
+        {
+          "id": 66245751112022,
+          "alt": "Noola Electric Baby Rocking Chair",
+          "position": 6,
+          "product_id": 9791822692694,
+          "created_at": "2025-09-01T16:36:42+01:00",
+          "updated_at": "2025-09-01T17:45:49+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66245751112022",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/01ebdbf4-ab96-462d-952f-d457dad4cb47_trans.jpg?v=1756741005",
+          "variant_ids": []
+        },
+        {
+          "id": 66245751439702,
+          "alt": "Noola Electric Baby Rocking Chair",
+          "position": 7,
+          "product_id": 9791822692694,
+          "created_at": "2025-09-01T16:36:43+01:00",
+          "updated_at": "2025-09-01T17:45:54+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66245751439702",
+          "width": 750,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/ffe6572f-0933-494f-920f-81b9dff9ff04_trans.jpg?v=1756741006",
+          "variant_ids": [
+            51197645062486,
+            51197645095254,
+            51197645128022
+          ]
+        }
+      ],
+      "image": {
+        "id": 66245748719958,
+        "alt": "Noola Electric Baby Rocking Chair",
+        "position": 1,
+        "product_id": 9791822692694,
+        "created_at": "2025-09-01T16:36:28+01:00",
+        "updated_at": "2025-09-01T17:45:27+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66245748719958",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/69c1720c-9997-4622-b962-969ad3b30a9c_trans.jpg?v=1756740991",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9732880564566,
       "title": "Nori - Optimize Screen Time with Blue light blocking glasses for gaming",
       "body_html": "<p class=\"MsoNormal\"> </p>\n<p class=\"MsoNormal\" style=\"text-align: center;\"><em><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">\"Gaming sessions with friends and foe are now becoming more comfortable with Nori blue light blocking glasses for gaming. The constant fatigue and eye strains are now a thing of the past, extending my focus and performance. Thanks to the lightweight built and clarity of vision which exceeds expectations, Nori gives an edge and ensures reliable protection when gaming.\"</span></strong></em></p>\n<p class=\"MsoNormal\" style=\"text-align: center;\"><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><span style=\"color: rgb(0, 0, 0);\"><em>⭐⭐⭐⭐⭐ - </em></span></span></span></strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><span style=\"color: rgb(0, 0, 0);\">Jesse Spades</span></span></span><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"><span style=\"color: rgb(0, 0, 0);\"><em><br></em>✅ Verified Buyer</span></span></span></strong></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"> </span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Gaming for too long leads to <span style=\"text-decoration: underline;\">blurred</span> vision, <span style=\"text-decoration: underline;\">dry eyes</span>, <span style=\"text-decoration: underline;\">eye strain</span>s, <span style=\"text-decoration: underline;\">headaches</span>, and <span style=\"text-decoration: underline;\">neck pains</span>. Constantly emitting high-energy blue lights, gaming monitors and screens do cause <span style=\"text-decoration: underline;\">disruption</span> to the sleep cycle and heavily contribute to visual <span style=\"text-decoration: underline;\">discomfort</span> which in turn impacts overall performance and reaction time. Constant strain from blue light gaming monitors often causes feeling <span style=\"text-decoration: underline;\">exhausted</span>, <span style=\"text-decoration: underline;\">frustration</span>, and reduced enjoyment. And this is why the need for effective glass protection is a need for serious gamers.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Nori’s blue light blocking glasses for gaming come with <strong>advanced lens technology</strong> coupled with <strong>ergonomic design</strong> and stylish frames that feel <strong>comfortable</strong> throughout the gaming experience. With specialized <strong>anti-glare </strong>and filtration properties that help reduce eye stress and thus, boosting clarity and comfort while gaming. Start getting <strong>confidence</strong> in your gaming experience thanks to <strong>reduced discomfort</strong>. Gamers can now enjoy a more enjoyable, immersive and smoother experience.<br><br></span></p>\n<p style=\"text-align: center;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A_49721139-25f3-4f1b-b9ac-7a2b1b5fd7f9.jpg?v=1753978311\"></span></p>\n<h2 class=\"MsoNormal\" style=\"text-align: center;\"><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">REASONS WHY NORI BLUE LIGHT BLOCKING GLASSES FOR GAMING CHANGES PLAYERS EXPERIENCE</span></strong></h2>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">✅ <strong>COMFORTABLE AND LIGHTWEIGHT</strong>: Crafted with <strong>durable</strong>, high-quality, and lightweight materials, Nori’s glass frames are designed for extended wear. During marathon gaming, the glasses guarantee optimal <strong>comfort</strong> with the slim profile compatible with gaming headsets.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">✅ <strong>ENHANCED VISUAL CLARITY AND CONTRAST</strong>: Nori’s specialized lenses actively enhance in-game contrast and <strong>minimize glare</strong>. This leads to a sharper details coupled with vibrant colors that help gamers provide a competitive edge and immersive gaming experience.<br><br></span></p>\n<p style=\"text-align: center;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A7_ed288ee7-e7b9-4d92-afee-21bd61df0935.jpg?v=1753978311\"></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><br>✅ <strong>IMPROVED SLEEP POST-GAMING</strong>: Blue light exposure gets reduced significantly, especially for those who love gaming through the night. Nori does help to regulate the body’s natural circadian flow and promotes <strong>healthy melatonin production</strong>, thus leading to better sleep patterns.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">✅ <strong>OPTIMIZED BLUE LIGHT FLITRATION</strong>: Engineered to effectively block a notable portion of harmful blue rays emitted from screens. Thanks to the filtration, Nori helps <strong>minimize fatigue,</strong> reduce eye strains, and protects eye health during intense and prolonged gaming sessions.<br><br></span></p>\n<p style=\"text-align: center;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A5_32cfffcd-c7c1-4bf7-af29-393fb044d140.jpg?v=1753978311\"></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><br>✅ <strong>REDUCED EYE FATIGUE FOR EXTENDED GAMING</strong> <strong>SESSIONS</strong>: Nori mitigates the detrimental effects of blue light rays by allowing players to <strong>game for longer</strong> without experiencing eye discomfort, preventing issues such as dry eyes and headaches.</span></p>\n<p class=\"MsoNormal\"> </p>\n<h2 style=\"text-align: center;\" class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">HOW TO USE NORI’S BLUE LIGHT BLOCKING GLASSES FOR GAMING</span></strong></h2>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">1. Make sure to comfortably wear the glasses: Start by placing Nori glasses for gaming comfortably on the face, ensure both lenses are properly positioned to fully cover the eyes for maximum protection against blue light.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">2. Engage with gaming screens: Proceed with the gaming monitors as the specialized glasses will automatically filter any harmful blue light rays emitted without having to make any additional changes.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">3. Experience enhanced gaming: Start enjoying gaming with less fatigue, minimal glare, and reduced eye strains during prolonged playing sessions. The glasses allow for a more comfortable, competitive, and productive gaming experience throughout the day and night.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"> </span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Discomfort of eye strains, <span style=\"text-decoration: underline;\">disruption</span> of natural sleep, and the pervasive nature of gaming screens does trigger a sense of <span style=\"text-decoration: underline;\">fatigue</span>, <span style=\"text-decoration: underline;\">blurred vision</span>, and <span style=\"text-decoration: underline;\">headaches</span>, impacting gaming experience and performance. Having to rely on unfiltered screen light increases <span style=\"text-decoration: underline;\">visual stress</span> and reduced overall gamer’s well-being and performance potential.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Nori’s blue light blocking glasses for gaming uses advanced lens technology and blends a <strong>stylish design</strong> optimized for gaming experience. Thanks to the built-in blue light filtration, gamers enjoy <strong>reduced eye strain</strong> while the ergonomic design helps <strong>enhance visual clarity</strong>. Nori enhances visual comfort, <strong>promotes better sleep</strong> and overall well-being of gamers. </span></p>\n<p><video autoplay=\"autoplay\" muted=\"muted\" width=\"100%\" loop=\"loop\" preload=\"none\" playsinline=\"\"> <source src=\"https://cdn.shopify.com/videos/c/o/v/08f3c9ab42374033a6eb94eb437b40ad.mp4\" type=\"video/mp4\"> Your browser does not support the video tag. </source></video></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"> </span></p>\n<h2 style=\"text-align: center;\" class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">PRODUCT SPECIFICATIONS </span></strong></h2>\n<p style=\"text-align: center;\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Material: Plastic<br>Product Attributes: Glasses<br>Package Size: 350*400*100(mm) <br>Lens Thickness: 0.42<br>Light Transmission: 0.90<br>Frame Material: Plate<br>Lens Type: Coated lens<br>Color: Black frame with red legs, black frame with blue legs, bright black frame.</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"> </span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">A Nestacular Promise</span></b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"></span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO RISK for you!</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Congratulations!</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"> </span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><b style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Customer Support:</span></b><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\"></span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Email: <a href=\"mailto:support@nestacular.com\"><span style=\"color: blue;\">support@nestacular.com</span></a></span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;\" align=\"center\" class=\"MsoNormal\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';\">Phone: +1 (800) 913-9932</span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"> </span></p>\n<h2 style=\"text-align: center;\" class=\"MsoNormal\"><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Frequently Asked Questions (FAQ) about NORI Blue Light Blocking Glasses for Gaming</span></strong></h2>\n<h3 class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">What is the primary benefit of using Nori?</span></strong></em></h3>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Get significant reduction of eye strain, fatigue, or potential headaches after long hours of gaming. The lenses allow gamers to enjoy a comfortable gaming experience.</span></p>\n<h3 class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Are Nori Glasses Specifically Designed with Gamers in Mind?</span></strong></em></h3>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Yes! Engineered and tailored to offer gamers optimized blue light filtration lenses that help enhance visual clarity.</span></p>\n<h3 class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Does the Lenses Affect the Color Accuracy of Games?</span></strong></em></h3>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">These glasses are tailored to minimize color distortion and enhance contrast making gaming visuals appear sharper and vibrant.</span></p>\n<h3 class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Can Nori Glasses be Comfortable Worn with Gaming Headsets?</span></strong></em></h3>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Yes! These frames are designed to have a slim profile and lightweight guaranteeing a comfortable experience.</span></p>\n<h3 class=\"MsoNormal\"><em><strong><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">How does Nori Glasses Contribute to Better Sleep after a Night of Gaming?</span></strong></em></h3>\n<p class=\"MsoNormal\"><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">These glasses effectively filter blue light by blocking harmful rays thereby increasing melatonin production. Gamers enjoy a more balanced circadian flow promoting better and restful sleep.</span></p>",
@@ -8323,6 +8557,272 @@
       }
     },
     {
+      "id": 9830225707350,
+      "title": "PeliKKan PP Material Children’s Dining Chair – Adjustable & Portable Design, Durable Construction | Essential Feeding Equipment for Babies & Toddlers",
+      "body_html": "<p>PeliKKan PP Material Children’s Dining Chair combines durable craftsmanship with a smart, portable design to create the perfect feeding solution for modern families. Made from premium PP material, this chair offers safety, comfort, and adjustability while keeping mealtime easy and stress-free for both parents and children.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1710933593943052288.jpg?v=1758272612\" alt=\"PeliKKan PP Material Children’s Dining Chair – Adjustable &amp; Portable Design, Durable Construction | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Adjustable seat settings ensure comfort for growing children.</li>\n<li>Portable and lightweight design makes it easy to carry and reposition anywhere in the home.</li>\n<li>Durable PP material construction offers long-lasting reliability and easy cleaning.</li>\n<li>Stable non-slip base provides secure support during mealtime.</li>\n<li>Compact and space-saving structure fits seamlessly into kitchens, dining rooms, or small living spaces.</li>\n<li>Easy-to-clean tray and surfaces ensure hygiene after every meal.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1710933595725631488.jpg?v=1758272605\" alt=\"PeliKKan PP Material Children’s Dining Chair – Adjustable &amp; Portable Design, Durable Construction | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Place the chair on a flat, stable surface.</li>\n<li>Adjust seat height to suit your child’s needs.</li>\n<li>Ensure all locking and safety mechanisms are properly engaged.</li>\n<li>Clean the tray and seat area before each use.</li>\n<li>Move or store the chair with ease thanks to its portable, lightweight construction.</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/744b1e82-727c-401a-823c-c56e9deb4063.jpg?v=1758272613\" alt=\"PeliKKan PP Material Children’s Dining Chair – Adjustable &amp; Portable Design, Durable Construction | Essential Feeding Equipment for Babies &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Premium PP plastic construction</li>\n<li>Dimensions: Designed for compact use in family homes</li>\n<li>Style: Adjustable seat with portable design</li>\n<li>Colors: Available in multiple modern finishes</li>\n<li>Suitable for: Babies and toddlers during feeding time</li>\n<li>Package Includes: 1 complete children’s dining chair</li>\n</ul>\n<h3>Why Choose This Chair</h3>\n<ul>\n<li>Durable PP construction ensures superior reliability and safety.</li>\n<li>Adjustable features grow with your child for extended usability.</li>\n<li>Portable design makes it convenient for both home and travel use.</li>\n<li>Easy cleaning and maintenance keep mealtime stress-free.</li>\n<li>Compact and stylish design enhances any home environment.</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-19T10:03:18+01:00",
+      "handle": "pelikkan-pp-material-children-s-dining-chair-adjustable-portable-design-durable-construction-essential-feeding-equipment-for-babies-toddlers",
+      "updated_at": "2025-09-19T10:09:33+01:00",
+      "published_at": "2025-09-19T10:09:30+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "CJ, Kid Dining Chair",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9830225707350",
+      "variants": [
+        {
+          "id": 51355112538454,
+          "product_id": 9830225707350,
+          "title": "Brown",
+          "price": "154.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "184.95",
+          "option1": "Brown",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-19T10:03:30+01:00",
+          "updated_at": "2025-09-19T10:07:38+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 4850,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD186559303CX",
+          "weight": 4850.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53583089008982,
+          "inventory_quantity": 10918,
+          "old_inventory_quantity": 10918,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51355112538454",
+          "image_id": 66965930934614
+        },
+        {
+          "id": 51355112571222,
+          "product_id": 9830225707350,
+          "title": "Green",
+          "price": "154.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "184.95",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-19T10:03:30+01:00",
+          "updated_at": "2025-09-19T10:08:20+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 4850,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD186559302BY",
+          "weight": 4850.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53583089041750,
+          "inventory_quantity": 13488,
+          "old_inventory_quantity": 13488,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51355112571222",
+          "image_id": 66965930967382
+        },
+        {
+          "id": 51355112603990,
+          "product_id": 9830225707350,
+          "title": "Pink",
+          "price": "154.95",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "184.95",
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-19T10:03:30+01:00",
+          "updated_at": "2025-09-19T10:09:17+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 4850,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD186559301AZ",
+          "weight": 4850.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53583089074518,
+          "inventory_quantity": 14650,
+          "old_inventory_quantity": 14650,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51355112603990",
+          "image_id": 66965931000150
+        }
+      ],
+      "options": [
+        {
+          "id": 12686886109526,
+          "product_id": 9830225707350,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Brown",
+            "Green",
+            "Pink"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66965927690582,
+          "alt": "Child sitting in a high chair with a tray, eating indoors.",
+          "position": 1,
+          "product_id": 9830225707350,
+          "created_at": "2025-09-19T10:03:20+01:00",
+          "updated_at": "2025-09-19T10:05:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66965927690582",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/15bb207b-1ed1-4fec-99b1-c4d1a1260b37.jpg?v=1758272603",
+          "variant_ids": []
+        },
+        {
+          "id": 66965929165142,
+          "alt": "Beige and white high chair with tray on a pink and peach striped background",
+          "position": 2,
+          "product_id": 9830225707350,
+          "created_at": "2025-09-19T10:03:22+01:00",
+          "updated_at": "2025-09-19T10:05:53+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66965929165142",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1710933595725631488.jpg?v=1758272605",
+          "variant_ids": []
+        },
+        {
+          "id": 66965929689430,
+          "alt": "Green baby high chair with dimensions on a white background",
+          "position": 3,
+          "product_id": 9830225707350,
+          "created_at": "2025-09-19T10:03:23+01:00",
+          "updated_at": "2025-09-19T10:06:01+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66965929689430",
+          "width": 790,
+          "height": 918,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1710933592051421184.jpg?v=1758272606",
+          "variant_ids": []
+        },
+        {
+          "id": 66965930148182,
+          "alt": "Baby seat with green cushion and straps on a light blue background",
+          "position": 4,
+          "product_id": 9830225707350,
+          "created_at": "2025-09-19T10:03:25+01:00",
+          "updated_at": "2025-09-19T10:06:08+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66965930148182",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/367447e3-deee-4cd1-9e30-d29a28a3e015.jpg?v=1758272608",
+          "variant_ids": []
+        },
+        {
+          "id": 66965930705238,
+          "alt": "Baby seat with green cushion and straps on a light blue background",
+          "position": 5,
+          "product_id": 9830225707350,
+          "created_at": "2025-09-19T10:03:27+01:00",
+          "updated_at": "2025-09-19T10:06:15+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66965930705238",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1710933594760941568.jpg?v=1758272609",
+          "variant_ids": []
+        },
+        {
+          "id": 66965930836310,
+          "alt": "Child sitting in a high chair with a tray, eating indoors.",
+          "position": 6,
+          "product_id": 9830225707350,
+          "created_at": "2025-09-19T10:03:28+01:00",
+          "updated_at": "2025-09-19T10:06:22+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66965930836310",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1710933593943052288.jpg?v=1758272612",
+          "variant_ids": []
+        },
+        {
+          "id": 66965930901846,
+          "alt": "Close-up of a green cleaning tool with a black bristle brush on a light blue background",
+          "position": 7,
+          "product_id": 9830225707350,
+          "created_at": "2025-09-19T10:03:29+01:00",
+          "updated_at": "2025-09-19T10:06:28+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66965930901846",
+          "width": 790,
+          "height": 770,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1710933592860921856.jpg?v=1758272611",
+          "variant_ids": []
+        },
+        {
+          "id": 66965930934614,
+          "alt": "Beige and white high chair with tray on a white background",
+          "position": 8,
+          "product_id": 9830225707350,
+          "created_at": "2025-09-19T10:03:30+01:00",
+          "updated_at": "2025-09-19T10:06:34+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66965930934614",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f62f3891-fac0-4cc3-9788-37cd237bea0d.jpg?v=1758272612",
+          "variant_ids": [
+            51355112538454
+          ]
+        },
+        {
+          "id": 66965930967382,
+          "alt": "Green baby high chair with tray on a white background",
+          "position": 9,
+          "product_id": 9830225707350,
+          "created_at": "2025-09-19T10:03:30+01:00",
+          "updated_at": "2025-09-19T10:06:41+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66965930967382",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/744b1e82-727c-401a-823c-c56e9deb4063.jpg?v=1758272613",
+          "variant_ids": [
+            51355112571222
+          ]
+        },
+        {
+          "id": 66965931000150,
+          "alt": "Pink baby high chair with tray on a white background",
+          "position": 10,
+          "product_id": 9830225707350,
+          "created_at": "2025-09-19T10:03:30+01:00",
+          "updated_at": "2025-09-19T10:06:48+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66965931000150",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/31cd0ce4-9a27-47bc-b53b-7a41e37951bd.jpg?v=1758272613",
+          "variant_ids": [
+            51355112603990
+          ]
+        }
+      ],
+      "image": {
+        "id": 66965927690582,
+        "alt": "Child sitting in a high chair with a tray, eating indoors.",
+        "position": 1,
+        "product_id": 9830225707350,
+        "created_at": "2025-09-19T10:03:20+01:00",
+        "updated_at": "2025-09-19T10:05:47+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66965927690582",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/15bb207b-1ed1-4fec-99b1-c4d1a1260b37.jpg?v=1758272603",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9791672254806,
       "title": "PetalTots 3D Waterproof Baby Bib – Soft Plastic Saliva Towel & Cartoon Apron for Newborns",
       "body_html": "<p data-start=\"137\" data-end=\"392\">Keep mealtime clean and fun with the <strong data-start=\"205\" data-end=\"241\">PetalTots 3D Waterproof Baby Bib</strong>. Designed for <strong data-start=\"256\" data-end=\"281\">newborns and toddlers</strong>, this <strong data-start=\"288\" data-end=\"335\">soft plastic saliva towel and cartoon apron</strong> protects clothes from spills, drools, and food stains.</p>\n<p data-start=\"394\" data-end=\"722\">Made from <strong data-start=\"404\" data-end=\"450\">durable, non-toxic, and BPA-free materials</strong>, the bib is gentle on your baby’s skin while providing full coverage. The 3D cartoon design makes eating enjoyable and encourages your little one to sit independently at mealtime. Lightweight, easy to wipe clean, and portable, it’s perfect for home, daycare, or travel.</p>\n<p data-start=\"724\" data-end=\"743\"><strong data-start=\"724\" data-end=\"741\">Key Features:</strong></p>\n<ul data-start=\"744\" data-end=\"1140\">\n<li data-start=\"744\" data-end=\"814\">\n<p data-start=\"746\" data-end=\"814\"><strong data-start=\"746\" data-end=\"768\">3D Cartoon Design:</strong> Fun and engaging for babies during feeding.</p>\n</li>\n<li data-start=\"815\" data-end=\"899\">\n<p data-start=\"817\" data-end=\"899\"><strong data-start=\"817\" data-end=\"850\">Waterproof &amp; Spill-Resistant:</strong> Protects clothes from drool, spills, and food.</p>\n</li>\n<li data-start=\"900\" data-end=\"969\">\n<p data-start=\"902\" data-end=\"969\"><strong data-start=\"902\" data-end=\"923\">Safe &amp; Non-Toxic:</strong> Made from BPA-free, soft plastic materials.</p>\n</li>\n<li data-start=\"970\" data-end=\"1048\">\n<p data-start=\"972\" data-end=\"1048\"><strong data-start=\"972\" data-end=\"1002\">Comfortable &amp; Lightweight:</strong> Gentle on the baby’s skin and easy to wear.</p>\n</li>\n<li data-start=\"1049\" data-end=\"1140\">\n<p data-start=\"1051\" data-end=\"1140\"><strong data-start=\"1051\" data-end=\"1080\">Portable &amp; Easy to Clean:</strong> Wipeable surface for quick cleaning at home or on-the-go.</p>\n</li>\n</ul>\n<p data-start=\"1142\" data-end=\"1279\">Make mealtime stress-free and adorable with the <strong data-start=\"1190\" data-end=\"1226\">PetalTots 3D Waterproof Baby Bib</strong> – a practical and cute solution for every newborn.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1636812512684.jpg?v=1756906978\" alt=\"PetalTots 3D Waterproof Baby Bib\" style=\"float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1636812512764.jpg?v=1756906978\" alt=\"PetalTots 3D Waterproof Baby Bib\" style=\"float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/e10cbb47-d3ba-465a-b6de-4b7fc0c423da.jpg?v=1756906977\" alt=\"PetalTots 3D Waterproof Baby Bib\" style=\"float: none;\"></div>",
@@ -13899,8 +14399,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765170184534",
       "variants": [
         {
-          "product_id": 9765170184534,
           "id": 51084379750742,
+          "product_id": 9765170184534,
           "title": "Blue Bowl",
           "price": "3.59",
           "position": 1,
@@ -13927,8 +14427,8 @@
           "image_id": 65932724109654
         },
         {
-          "product_id": 9765170184534,
           "id": 51084379783510,
+          "product_id": 9765170184534,
           "title": "Red Bowl",
           "price": "3.63",
           "position": 2,
@@ -13955,8 +14455,8 @@
           "image_id": 65932724339030
         },
         {
-          "product_id": 9765170184534,
           "id": 51084379816278,
+          "product_id": 9765170184534,
           "title": "Yellow Bowl",
           "price": "3.63",
           "position": 3,
@@ -13985,8 +14485,8 @@
       ],
       "options": [
         {
-          "product_id": 9765170184534,
           "id": 12609595933014,
+          "product_id": 9765170184534,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14145,7 +14645,7 @@
       "product_type": "0",
       "created_at": "2025-09-19T09:29:19+01:00",
       "handle": "prammy-portable-baby-car-seat-chair-cushion-easy-installation-comfortable-secure-design-essential-travel-feeding-support-for-infants-toddlers",
-      "updated_at": "2025-09-19T09:36:46+01:00",
+      "updated_at": "2025-09-19T10:15:09+01:00",
       "published_at": "2025-09-19T09:36:43+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -14165,7 +14665,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-19T09:29:26+01:00",
-          "updated_at": "2025-09-19T09:33:09+01:00",
+          "updated_at": "2025-09-19T10:15:09+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -14176,8 +14676,8 @@
           "weight": 450.0,
           "weight_unit": "g",
           "inventory_item_id": 53582841184598,
-          "inventory_quantity": 10104,
-          "old_inventory_quantity": 10104,
+          "inventory_quantity": 10103,
+          "old_inventory_quantity": 10103,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51355008237910",
           "image_id": 66965557838166
         },
@@ -14193,7 +14693,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-19T09:29:26+01:00",
-          "updated_at": "2025-09-19T09:33:46+01:00",
+          "updated_at": "2025-09-19T10:15:08+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -14204,8 +14704,8 @@
           "weight": 450.0,
           "weight_unit": "g",
           "inventory_item_id": 53582841217366,
-          "inventory_quantity": 6571,
-          "old_inventory_quantity": 6571,
+          "inventory_quantity": 11410,
+          "old_inventory_quantity": 11410,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51355008270678",
           "image_id": 66965557870934
         },
@@ -14305,7 +14805,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-19T09:29:26+01:00",
-          "updated_at": "2025-09-19T09:36:29+01:00",
+          "updated_at": "2025-09-19T10:15:07+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -14316,8 +14816,8 @@
           "weight": 450.0,
           "weight_unit": "g",
           "inventory_item_id": 53582841348438,
-          "inventory_quantity": 6610,
-          "old_inventory_quantity": 6610,
+          "inventory_quantity": 11512,
+          "old_inventory_quantity": 11512,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51355008401750",
           "image_id": 66965558002006
         }
@@ -21130,8 +21630,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791247810902",
       "variants": [
         {
-          "id": 51195424866646,
           "product_id": 9791247810902,
+          "id": 51195424866646,
           "title": "Blue",
           "price": "130.95",
           "position": 1,
@@ -21158,8 +21658,8 @@
           "image_id": 66239122342230
         },
         {
-          "id": 51195424899414,
           "product_id": 9791247810902,
+          "id": 51195424899414,
           "title": "Brown",
           "price": "130.95",
           "position": 2,
@@ -21186,8 +21686,8 @@
           "image_id": 66239122374998
         },
         {
-          "id": 51195424932182,
           "product_id": 9791247810902,
+          "id": 51195424932182,
           "title": "Green",
           "price": "130.95",
           "position": 3,
@@ -21214,8 +21714,8 @@
           "image_id": 66239122407766
         },
         {
-          "id": 51195424964950,
           "product_id": 9791247810902,
+          "id": 51195424964950,
           "title": "Navy Blue",
           "price": "130.95",
           "position": 4,
@@ -21242,8 +21742,8 @@
           "image_id": 66239122440534
         },
         {
-          "id": 51195424997718,
           "product_id": 9791247810902,
+          "id": 51195424997718,
           "title": "Orange",
           "price": "130.95",
           "position": 5,
@@ -21270,8 +21770,8 @@
           "image_id": 66239122473302
         },
         {
-          "id": 51195425030486,
           "product_id": 9791247810902,
+          "id": 51195425030486,
           "title": "Printing",
           "price": "130.95",
           "position": 6,
@@ -21298,8 +21798,8 @@
           "image_id": 66239122506070
         },
         {
-          "id": 51195425063254,
           "product_id": 9791247810902,
+          "id": 51195425063254,
           "title": "Red",
           "price": "130.95",
           "position": 7,
@@ -21326,8 +21826,8 @@
           "image_id": 66239122538838
         },
         {
-          "id": 51195425096022,
           "product_id": 9791247810902,
+          "id": 51195425096022,
           "title": "Rose Red",
           "price": "130.95",
           "position": 8,
@@ -21356,8 +21856,8 @@
       ],
       "options": [
         {
-          "id": 12640433013078,
           "product_id": 9791247810902,
+          "id": 12640433013078,
           "name": "Color",
           "position": 1,
           "values": [
@@ -22812,8 +23312,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9772850905430",
       "variants": [
         {
-          "id": 51115252089174,
           "product_id": 9772850905430,
+          "id": 51115252089174,
           "title": "Blue",
           "price": "56.95",
           "position": 1,
@@ -22840,8 +23340,8 @@
           "image_id": 66031791309142
         },
         {
-          "id": 51115252121942,
           "product_id": 9772850905430,
+          "id": 51115252121942,
           "title": "Pink",
           "price": "56.95",
           "position": 2,
@@ -22868,8 +23368,8 @@
           "image_id": 66031791341910
         },
         {
-          "id": 51115252154710,
           "product_id": 9772850905430,
+          "id": 51115252154710,
           "title": "Yellow",
           "price": "56.95",
           "position": 3,
@@ -22898,8 +23398,8 @@
       ],
       "options": [
         {
-          "id": 12618840211798,
           "product_id": 9772850905430,
+          "id": 12618840211798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -35219,7 +35719,7 @@
       "product_type": "0",
       "created_at": "2025-09-19T08:07:23+01:00",
       "handle": "totcharm-one-year-old-photo-portable-beach-chair-lightweight-foldable-travel-friendly-design-essential-outdoor-photography-relaxation-seat-for-toddlers",
-      "updated_at": "2025-09-19T08:13:02+01:00",
+      "updated_at": "2025-09-19T09:28:47+01:00",
       "published_at": "2025-09-19T08:13:00+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -35228,8 +35728,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830085886294",
       "variants": [
         {
-          "product_id": 9830085886294,
           "id": 51354750976342,
+          "product_id": 9830085886294,
           "title": "Bear dining chair",
           "price": "66.95",
           "position": 1,
@@ -35256,8 +35756,8 @@
           "image_id": 66960201122134
         },
         {
-          "product_id": 9830085886294,
           "id": 51354751009110,
+          "product_id": 9830085886294,
           "title": "Rabbit Dining Chair",
           "price": "66.95",
           "position": 2,
@@ -35284,8 +35784,8 @@
           "image_id": 66960201154902
         },
         {
-          "product_id": 9830085886294,
           "id": 51354751041878,
+          "product_id": 9830085886294,
           "title": "Threedimensional chrysanthemu",
           "price": "66.95",
           "position": 3,
@@ -35314,8 +35814,8 @@
       ],
       "options": [
         {
-          "product_id": 9830085886294,
           "id": 12686730527062,
+          "product_id": 9830085886294,
           "name": "style",
           "position": 1,
           "values": [
@@ -39352,17 +39852,17 @@
     {
       "id": 9830152601942,
       "title": "Toukkan Baby Indoor Swing Hanging Rocking Chair – Comfortable & Secure Cradle Design | Essential Coaxing & Relaxation Seat for Infants & Toddlers",
-      "body_html": "<p>Toukkan Baby Indoor Swing Hanging Rocking Chair combines cozy comfort with a safe, secure cradle design to provide the perfect relaxation and coaxing solution for modern families. This thoughtfully crafted swing offers gentle rocking to soothe infants while ensuring durability and safety for everyday use.</p>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Comfortable cradle-style seating keeps babies relaxed and supported</li>\n<li>Secure hanging design ensures stability and peace of mind for parents</li>\n<li>Gentle rocking motion helps calm and coax infants to sleep naturally</li>\n<li>Durable frame and soft materials built for long-lasting daily use</li>\n<li>Compact, space-efficient design suitable for nurseries, bedrooms, or living rooms</li>\n<li>Easy installation system makes setup simple and stress-free</li>\n</ul>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Install swing securely onto a stable hanging point following safety guidelines</li>\n<li>Place your baby gently into the cushioned seat and ensure safety straps are fastened</li>\n<li>Adjust positioning for maximum comfort and security</li>\n<li>Use gentle rocking to calm, coax, or entertain your infant</li>\n<li>Remove baby from seat after use and check all parts regularly for safety</li>\n</ol>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Durable frame with soft, breathable cushioning</li>\n<li>Dimensions: Optimized for infant comfort and safe swinging space</li>\n<li>Style: Hanging rocking cradle design for indoor use</li>\n<li>Colors: Available in classic soothing tones to match nursery décor</li>\n<li>Suitable for: Infants and toddlers during relaxation, coaxing, or nap time</li>\n<li>Package: 1 complete indoor swing rocking chair</li>\n</ul>\n<h3>Why Choose This Chair</h3>\n<p> </p>\n<ul>\n<li> Provides a safe and calming space for infants to rest and relax</li>\n<li>Gentle rocking helps naturally soothe babies without extra effort</li>\n<li>Durable design ensures lasting use through early developmental stages</li>\n<li>Space-saving and portable, ideal for small homes and nurseries</li>\n<li>Available in beautiful, soothing color options that complement any interior</li>\n</ul>\n<p><br></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "body_html": "<p>Toukkan Baby Indoor Swing Hanging Rocking Chair combines cozy comfort with a safe, secure cradle design to provide the perfect relaxation and coaxing solution for modern families. This thoughtfully crafted swing offers gentle rocking to soothe infants while ensuring durability and safety for everyday use.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/0e51198e-3da2-4373-a682-6b28bb1b17b2.jpg?v=1758271326\" alt=\"Toukkan Baby Indoor Swing Hanging Rocking Chair – Comfortable &amp; Secure Cradle Design | Essential Coaxing &amp; Relaxation Seat for Infants &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Comfortable cradle-style seating keeps babies relaxed and supported</li>\n<li>Secure hanging design ensures stability and peace of mind for parents</li>\n<li>Gentle rocking motion helps calm and coax infants to sleep naturally</li>\n<li>Durable frame and soft materials built for long-lasting daily use</li>\n<li>Compact, space-efficient design suitable for nurseries, bedrooms, or living rooms</li>\n<li>Easy installation system makes setup simple and stress-free</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1f1f0c45-66ca-4393-af42-ad60b973710f.jpg?v=1758271331\" alt=\"Toukkan Baby Indoor Swing Hanging Rocking Chair – Comfortable &amp; Secure Cradle Design | Essential Coaxing &amp; Relaxation Seat for Infants &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Install swing securely onto a stable hanging point following safety guidelines</li>\n<li>Place your baby gently into the cushioned seat and ensure safety straps are fastened</li>\n<li>Adjust positioning for maximum comfort and security</li>\n<li>Use gentle rocking to calm, coax, or entertain your infant</li>\n<li>Remove baby from seat after use and check all parts regularly for safety</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/508b5179-6afb-4796-87e2-9c327d20d521.jpg?v=1758271332\" alt=\"Toukkan Baby Indoor Swing Hanging Rocking Chair – Comfortable &amp; Secure Cradle Design | Essential Coaxing &amp; Relaxation Seat for Infants &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Durable frame with soft, breathable cushioning</li>\n<li>Dimensions: Optimized for infant comfort and safe swinging space</li>\n<li>Style: Hanging rocking cradle design for indoor use</li>\n<li>Colors: Available in classic soothing tones to match nursery décor</li>\n<li>Suitable for: Infants and toddlers during relaxation, coaxing, or nap time</li>\n<li>Package: 1 complete indoor swing rocking chair</li>\n</ul>\n<h3>Why Choose This Chair</h3>\n<p> </p>\n<ul>\n<li> Provides a safe and calming space for infants to rest and relax</li>\n<li>Gentle rocking helps naturally soothe babies without extra effort</li>\n<li>Durable design ensures lasting use through early developmental stages</li>\n<li>Space-saving and portable, ideal for small homes and nurseries</li>\n<li>Available in beautiful, soothing color options that complement any interior</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
       "vendor": "Nestacular",
       "product_type": "0",
       "created_at": "2025-09-19T09:42:01+01:00",
       "handle": "toukkan-baby-indoor-swing-hanging-rocking-chair-comfortable-secure-cradle-design-essential-coaxing-relaxation-seat-for-infants-toddlers",
-      "updated_at": "2025-09-19T09:43:20+01:00",
-      "published_at": null,
+      "updated_at": "2025-09-19T09:59:08+01:00",
+      "published_at": "2025-09-19T09:46:01+01:00",
       "template_suffix": null,
-      "published_scope": "web",
+      "published_scope": "global",
       "tags": "Baby Hammock, CJ",
-      "status": "draft",
+      "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9830152601942",
       "variants": [
         {
@@ -39372,14 +39872,14 @@
           "price": "164.95",
           "position": 1,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "224.95",
           "option1": "White",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-19T09:42:08+01:00",
-          "updated_at": "2025-09-19T09:42:08+01:00",
+          "updated_at": "2025-09-19T09:45:49+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 1560,
           "inventory_management": "shopify",
@@ -39434,11 +39934,11 @@
         },
         {
           "id": 66965664399702,
-          "alt": null,
+          "alt": "Children's hanging chair with a baby sitting in it, labeled as 'Children's Hanging Chair'.",
           "position": 3,
           "product_id": 9830152601942,
           "created_at": "2025-09-19T09:42:06+01:00",
-          "updated_at": "2025-09-19T09:42:08+01:00",
+          "updated_at": "2025-09-19T09:44:38+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66965664399702",
           "width": 1001,
           "height": 1001,
@@ -39447,11 +39947,11 @@
         },
         {
           "id": 66965664694614,
-          "alt": null,
+          "alt": "Hanging baby swing with children of different ages using it",
           "position": 4,
           "product_id": 9830152601942,
           "created_at": "2025-09-19T09:42:07+01:00",
-          "updated_at": "2025-09-19T09:42:10+01:00",
+          "updated_at": "2025-09-19T09:44:45+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66965664694614",
           "width": 1001,
           "height": 1001,
@@ -39460,11 +39960,11 @@
         },
         {
           "id": 66965664858454,
-          "alt": null,
+          "alt": "Collage of a macrame wall hanging with close-up details on a white background",
           "position": 5,
           "product_id": 9830152601942,
           "created_at": "2025-09-19T09:42:08+01:00",
-          "updated_at": "2025-09-19T09:42:10+01:00",
+          "updated_at": "2025-09-19T09:44:51+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66965664858454",
           "width": 1001,
           "height": 1001,
@@ -39473,11 +39973,11 @@
         },
         {
           "id": 66965665251670,
-          "alt": null,
+          "alt": "Children's hanging chair with neutral design, shown with a cactus plant on a white background.",
           "position": 6,
           "product_id": 9830152601942,
           "created_at": "2025-09-19T09:42:08+01:00",
-          "updated_at": "2025-09-19T09:42:11+01:00",
+          "updated_at": "2025-09-19T09:44:58+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66965665251670",
           "width": 1001,
           "height": 1001,
@@ -51782,8 +52282,8 @@
     "current_page": 2,
     "total_pages": 2,
     "items_per_page": 250,
-    "total_items": 375,
-    "items_in_page": 125,
+    "total_items": 377,
+    "items_in_page": 127,
     "has_next_page": false,
     "has_previous_page": true,
     "previous_page_file": "products.json"

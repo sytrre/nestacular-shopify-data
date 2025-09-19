@@ -902,8 +902,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765170184534",
       "variants": [
         {
-          "product_id": 9765170184534,
           "id": 51084379750742,
+          "product_id": 9765170184534,
           "title": "Blue Bowl",
           "price": "3.59",
           "position": 1,
@@ -930,8 +930,8 @@
           "image_id": 65932724109654
         },
         {
-          "product_id": 9765170184534,
           "id": 51084379783510,
+          "product_id": 9765170184534,
           "title": "Red Bowl",
           "price": "3.63",
           "position": 2,
@@ -958,8 +958,8 @@
           "image_id": 65932724339030
         },
         {
-          "product_id": 9765170184534,
           "id": 51084379816278,
+          "product_id": 9765170184534,
           "title": "Yellow Bowl",
           "price": "3.63",
           "position": 3,
@@ -988,8 +988,8 @@
       ],
       "options": [
         {
-          "product_id": 9765170184534,
           "id": 12609595933014,
+          "product_id": 9765170184534,
           "name": "Color",
           "position": 1,
           "values": [

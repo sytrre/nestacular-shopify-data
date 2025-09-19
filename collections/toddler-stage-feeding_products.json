@@ -14346,8 +14346,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765169693014",
       "variants": [
         {
-          "product_id": 9765169693014,
           "id": 51084376342870,
+          "product_id": 9765169693014,
           "title": "Redspoon",
           "price": "12.27",
           "position": 1,
@@ -14374,8 +14374,8 @@
           "image_id": 65932719915350
         },
         {
-          "product_id": 9765169693014,
           "id": 51084376375638,
+          "product_id": 9765169693014,
           "title": "Beigeset",
           "price": "20.67",
           "position": 2,
@@ -14402,8 +14402,8 @@
           "image_id": 65932720046422
         },
         {
-          "product_id": 9765169693014,
           "id": 51084376408406,
+          "product_id": 9765169693014,
           "title": "Pinkset",
           "price": "20.30",
           "position": 3,
@@ -14430,8 +14430,8 @@
           "image_id": 65932720111958
         },
         {
-          "product_id": 9765169693014,
           "id": 51084376441174,
+          "product_id": 9765169693014,
           "title": "Blueset",
           "price": "20.53",
           "position": 4,
@@ -14460,8 +14460,8 @@
       ],
       "options": [
         {
-          "product_id": 9765169693014,
           "id": 12609595441494,
+          "product_id": 9765169693014,
           "name": "Color",
           "position": 1,
           "values": [
