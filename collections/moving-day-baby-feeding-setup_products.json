@@ -10208,8 +10208,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765169955158",
       "variants": [
         {
-          "product_id": 9765169955158,
           "id": 51084377686358,
+          "product_id": 9765169955158,
           "title": "A-Blue",
           "price": "18.02",
           "position": 1,
@@ -10236,8 +10236,8 @@
           "image_id": 65932724732246
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377719126,
+          "product_id": 9765169955158,
           "title": "A-Green",
           "price": "18.25",
           "position": 2,
@@ -10264,8 +10264,8 @@
           "image_id": 65932724961622
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377751894,
+          "product_id": 9765169955158,
           "title": "A-Pink",
           "price": "18.25",
           "position": 3,
@@ -10292,8 +10292,8 @@
           "image_id": 65932724994390
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377784662,
+          "product_id": 9765169955158,
           "title": "C Pink",
           "price": "20.06",
           "position": 4,
@@ -10320,8 +10320,8 @@
           "image_id": 65932725027158
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377817430,
+          "product_id": 9765169955158,
           "title": "C Purple",
           "price": "19.49",
           "position": 5,
@@ -10348,8 +10348,8 @@
           "image_id": 65932725059926
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377850198,
+          "product_id": 9765169955158,
           "title": "B-Replacement",
           "price": "15.17",
           "position": 6,
@@ -10376,8 +10376,8 @@
           "image_id": 65932725092694
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377882966,
+          "product_id": 9765169955158,
           "title": "A-Yellow",
           "price": "18.44",
           "position": 7,
@@ -10404,8 +10404,8 @@
           "image_id": 65932725125462
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377915734,
+          "product_id": 9765169955158,
           "title": "Finger Toothbrush",
           "price": "14.55",
           "position": 8,
@@ -10432,8 +10432,8 @@
           "image_id": 65932725158230
         },
         {
-          "product_id": 9765169955158,
           "id": 51084377948502,
+          "product_id": 9765169955158,
           "title": "C Green",
           "price": "19.39",
           "position": 9,
@@ -10462,8 +10462,8 @@
       ],
       "options": [
         {
-          "product_id": 9765169955158,
           "id": 12609595703638,
+          "product_id": 9765169955158,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10727,8 +10727,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765170217302",
       "variants": [
         {
-          "product_id": 9765170217302,
           "id": 51084379849046,
+          "product_id": 9765170217302,
           "title": "Pink Sucker",
           "price": "16.15",
           "position": 1,
@@ -10755,8 +10755,8 @@
           "image_id": 65949896638806
         },
         {
-          "product_id": 9765170217302,
           "id": 51084379881814,
+          "product_id": 9765170217302,
           "title": "Light Green Sucker",
           "price": "16.58",
           "position": 2,
@@ -10783,8 +10783,8 @@
           "image_id": 65949903651158
         },
         {
-          "product_id": 9765170217302,
           "id": 51084379914582,
+          "product_id": 9765170217302,
           "title": "Grey Sucker",
           "price": "16.96",
           "position": 3,
@@ -10811,8 +10811,8 @@
           "image_id": 65944539496790
         },
         {
-          "product_id": 9765170217302,
           "id": 51084379947350,
+          "product_id": 9765170217302,
           "title": "Light Blue Sucker",
           "price": "16.77",
           "position": 4,
@@ -10839,8 +10839,8 @@
           "image_id": 65949913383254
         },
         {
-          "product_id": 9765170217302,
           "id": 51084379980118,
+          "product_id": 9765170217302,
           "title": "Khaki Sucker",
           "price": "18.11",
           "position": 5,
@@ -10869,8 +10869,8 @@
       ],
       "options": [
         {
-          "product_id": 9765170217302,
           "id": 12609595965782,
+          "product_id": 9765170217302,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11205,8 +11205,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828446798166",
       "variants": [
         {
-          "product_id": 9828446798166,
           "id": 51346718654806,
+          "product_id": 9828446798166,
           "title": "Almond Yellow",
           "price": "325.95",
           "position": 1,
@@ -11233,8 +11233,8 @@
           "image_id": 66937949651286
         },
         {
-          "product_id": 9828446798166,
           "id": 51346718687574,
+          "product_id": 9828446798166,
           "title": "Black Knight",
           "price": "325.95",
           "position": 2,
@@ -11261,8 +11261,8 @@
           "image_id": 66937949684054
         },
         {
-          "product_id": 9828446798166,
           "id": 51346718720342,
+          "product_id": 9828446798166,
           "title": "Jingyi White",
           "price": "325.95",
           "position": 3,
@@ -11289,8 +11289,8 @@
           "image_id": 66937949716822
         },
         {
-          "product_id": 9828446798166,
           "id": 51346718753110,
+          "product_id": 9828446798166,
           "title": "Morning Pink",
           "price": "325.95",
           "position": 4,
@@ -11319,8 +11319,8 @@
       ],
       "options": [
         {
-          "product_id": 9828446798166,
           "id": 12684671615318,
+          "product_id": 9828446798166,
           "name": "Color",
           "position": 1,
           "values": [

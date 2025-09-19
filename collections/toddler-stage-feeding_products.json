@@ -35978,8 +35978,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9808140992854",
       "variants": [
         {
-          "product_id": 9808140992854,
           "id": 51266280816982,
+          "product_id": 9808140992854,
           "title": "Yellow / Five piece set",
           "price": "19.95",
           "position": 1,
@@ -36008,8 +36008,8 @@
       ],
       "options": [
         {
-          "product_id": 9808140992854,
           "id": 12660540539222,
+          "product_id": 9808140992854,
           "name": "Color",
           "position": 1,
           "values": [
@@ -36017,8 +36017,8 @@
           ]
         },
         {
-          "product_id": 9808140992854,
           "id": 12660540571990,
+          "product_id": 9808140992854,
           "name": "Style",
           "position": 2,
           "values": [
@@ -39500,8 +39500,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765170217302",
       "variants": [
         {
-          "product_id": 9765170217302,
           "id": 51084379849046,
+          "product_id": 9765170217302,
           "title": "Pink Sucker",
           "price": "16.15",
           "position": 1,
@@ -39528,8 +39528,8 @@
           "image_id": 65949896638806
         },
         {
-          "product_id": 9765170217302,
           "id": 51084379881814,
+          "product_id": 9765170217302,
           "title": "Light Green Sucker",
           "price": "16.58",
           "position": 2,
@@ -39556,8 +39556,8 @@
           "image_id": 65949903651158
         },
         {
-          "product_id": 9765170217302,
           "id": 51084379914582,
+          "product_id": 9765170217302,
           "title": "Grey Sucker",
           "price": "16.96",
           "position": 3,
@@ -39584,8 +39584,8 @@
           "image_id": 65944539496790
         },
         {
-          "product_id": 9765170217302,
           "id": 51084379947350,
+          "product_id": 9765170217302,
           "title": "Light Blue Sucker",
           "price": "16.77",
           "position": 4,
@@ -39612,8 +39612,8 @@
           "image_id": 65949913383254
         },
         {
-          "product_id": 9765170217302,
           "id": 51084379980118,
+          "product_id": 9765170217302,
           "title": "Khaki Sucker",
           "price": "18.11",
           "position": 5,
@@ -39642,8 +39642,8 @@
       ],
       "options": [
         {
-          "product_id": 9765170217302,
           "id": 12609595965782,
+          "product_id": 9765170217302,
           "name": "Color",
           "position": 1,
           "values": [

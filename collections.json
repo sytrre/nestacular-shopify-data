@@ -249,6 +249,56 @@
       }
     },
     {
+      "id": 659151290710,
+      "handle": "baby-rocking-chair",
+      "title": "Baby Rocking Chair",
+      "updated_at": "2025-09-19T09:14:23+01:00",
+      "body_html": "",
+      "published_at": "2025-09-19T09:14:22+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": false,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "rocking-bassinet"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Rocking Chair"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/659151290710"
+    },
+    {
+      "id": 659151978838,
+      "handle": "baby-rocking-chair-1",
+      "title": "Baby Rocking Chair",
+      "updated_at": "2025-09-19T09:22:55+01:00",
+      "body_html": "",
+      "published_at": "2025-09-19T09:22:55+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": false,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Rocking Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Dual-purpose Rocking Carriage"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/659151978838"
+    },
+    {
       "id": 657382998358,
       "handle": "baby-shower-gifts",
       "title": "Baby Shower Gifts",
@@ -1574,7 +1624,7 @@
       "id": 657382605142,
       "handle": "first-stage-feeding",
       "title": "First Stage (4-6 Months)",
-      "updated_at": "2025-09-18T13:16:59+01:00",
+      "updated_at": "2025-09-19T09:43:18+01:00",
       "body_html": "<p><meta charset=\"utf-8\">For their very first tastes of solid food. This collection includes soft-tip spoons, small suction bowls, and easy-clean bibs perfect for the puree stage.</p>",
       "published_at": "2025-08-30T04:20:49+01:00",
       "sort_order": "best-selling",
@@ -1867,7 +1917,7 @@
       "id": 657378967894,
       "handle": "high-chair-accessories",
       "title": "High Chair Accessories",
-      "updated_at": "2025-09-04T03:29:37+01:00",
+      "updated_at": "2025-09-19T09:36:44+01:00",
       "body_html": "<p>Personalise and perfect your high chair with our range of essential accessories. Discover comfortable cushions, easy-clean placemats, replacement parts and more to enhance your mealtime setup.</p>",
       "published_at": "2025-08-30T00:17:16+01:00",
       "sort_order": "best-selling",
@@ -1939,7 +1989,7 @@
       "id": 657379066198,
       "handle": "high-chair-cushions",
       "title": "High Chair Cushions & Inserts",
-      "updated_at": "2025-09-18T13:07:02+01:00",
+      "updated_at": "2025-09-19T09:36:44+01:00",
       "body_html": "<p>Add a touch of comfort and style with our high chair cushions and inserts. Made from wipeable, baby-safe fabrics in a range of modern prints to suit your home.</p>",
       "published_at": "2025-08-30T00:24:55+01:00",
       "sort_order": "best-selling",
@@ -2095,7 +2145,7 @@
       "id": 657381720406,
       "handle": "high-chairs-and-accessories",
       "title": "High Chairs & Accessories",
-      "updated_at": "2025-09-19T08:23:51+01:00",
+      "updated_at": "2025-09-19T09:36:44+01:00",
       "body_html": "<p>Discover the centrepiece of your baby's mealtime experience. Our curated collection of high chairs and accessories is chosen for superior safety, ergonomic design, and a modern aesthetic that complements your home.</p>",
       "published_at": "2025-08-30T03:34:49+01:00",
       "sort_order": "best-selling",
@@ -3555,7 +3605,7 @@
       "id": 657372741974,
       "handle": "travel-high-chairs",
       "title": "Travel & Portable High Chairs",
-      "updated_at": "2025-09-19T08:23:51+01:00",
+      "updated_at": "2025-09-19T09:36:44+01:00",
       "body_html": "<p><meta charset=\"utf-8\">Ensure your little one always has a safe seat at the table, wherever you go. Our travel high chairs are compact, lightweight, and easy to set up for meals on the move.</p>",
       "published_at": "2025-08-29T20:58:44+01:00",
       "sort_order": "best-selling",
@@ -3736,7 +3786,7 @@
       "id": 658907824470,
       "handle": "hammock",
       "title": "Hammock",
-      "updated_at": "2025-09-18T13:13:56+01:00",
+      "updated_at": "2025-09-19T09:43:17+01:00",
       "body_html": "",
       "published_at": "2025-09-18T08:27:49+01:00",
       "sort_order": "best-selling",
@@ -3779,7 +3829,7 @@
       "id": 656489349462,
       "handle": "shop-by-material-tableware",
       "title": "Shop by Material",
-      "updated_at": "2025-09-16T13:15:13+01:00",
+      "updated_at": "2025-09-19T09:04:20+01:00",
       "body_html": "<p>Choose the perfect material for your family's needs. We've organized our collection by our core materials—durable silicone, sustainable bamboo, and hygienic stainless steel—to make shopping easy.</p>",
       "published_at": "2025-08-17T18:03:31+01:00",
       "sort_order": "best-selling",
@@ -3837,8 +3887,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 69,
-    "items_in_page": 69,
+    "total_items": 71,
+    "items_in_page": 71,
     "has_next_page": false,
     "has_previous_page": false
   }

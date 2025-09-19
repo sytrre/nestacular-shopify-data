@@ -7862,8 +7862,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791246106966",
       "variants": [
         {
-          "product_id": 9791246106966,
           "id": 51195419066710,
+          "product_id": 9791246106966,
           "title": "150ml / A",
           "price": "32.07",
           "position": 1,
@@ -7890,8 +7890,8 @@
           "image_id": 66239097569622
         },
         {
-          "product_id": 9791246106966,
           "id": 51195419099478,
+          "product_id": 9791246106966,
           "title": "150ml / B",
           "price": "32.81",
           "position": 2,
@@ -7918,8 +7918,8 @@
           "image_id": 66239097569622
         },
         {
-          "product_id": 9791246106966,
           "id": 51195419132246,
+          "product_id": 9791246106966,
           "title": "150ml / C",
           "price": "32.81",
           "position": 3,
@@ -7946,8 +7946,8 @@
           "image_id": 66239097569622
         },
         {
-          "product_id": 9791246106966,
           "id": 51195419165014,
+          "product_id": 9791246106966,
           "title": "150ml / D",
           "price": "34.06",
           "position": 4,
@@ -7974,8 +7974,8 @@
           "image_id": 66239097569622
         },
         {
-          "product_id": 9791246106966,
           "id": 51195419197782,
+          "product_id": 9791246106966,
           "title": "240ml / A",
           "price": "32.38",
           "position": 5,
@@ -8002,8 +8002,8 @@
           "image_id": 66239097602390
         },
         {
-          "product_id": 9791246106966,
           "id": 51195419230550,
+          "product_id": 9791246106966,
           "title": "240ml / B",
           "price": "33.12",
           "position": 6,
@@ -8030,8 +8030,8 @@
           "image_id": 66239097602390
         },
         {
-          "product_id": 9791246106966,
           "id": 51195419263318,
+          "product_id": 9791246106966,
           "title": "240ml / C",
           "price": "33.12",
           "position": 7,
@@ -8058,8 +8058,8 @@
           "image_id": 66239097602390
         },
         {
-          "product_id": 9791246106966,
           "id": 51195419296086,
+          "product_id": 9791246106966,
           "title": "240ml / D",
           "price": "34.06",
           "position": 8,
@@ -8088,8 +8088,8 @@
       ],
       "options": [
         {
-          "product_id": 9791246106966,
           "id": 12640430948694,
+          "product_id": 9791246106966,
           "name": "Size",
           "position": 1,
           "values": [
@@ -8098,8 +8098,8 @@
           ]
         },
         {
-          "product_id": 9791246106966,
           "id": 12640430981462,
+          "product_id": 9791246106966,
           "name": "style",
           "position": 2,
           "values": [

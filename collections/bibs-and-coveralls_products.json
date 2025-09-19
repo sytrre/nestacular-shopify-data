@@ -1127,8 +1127,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791839043926",
       "variants": [
         {
-          "product_id": 9791839043926,
           "id": 51197701783894,
+          "product_id": 9791839043926,
           "title": "bear",
           "price": "24.16",
           "position": 1,
@@ -1155,8 +1155,8 @@
           "image_id": 66245963022678
         },
         {
-          "product_id": 9791839043926,
           "id": 51197701816662,
+          "product_id": 9791839043926,
           "title": "Lion",
           "price": "24.20",
           "position": 2,
@@ -1183,8 +1183,8 @@
           "image_id": 66245963055446
         },
         {
-          "product_id": 9791839043926,
           "id": 51197701849430,
+          "product_id": 9791839043926,
           "title": "Fruit",
           "price": "24.16",
           "position": 3,
@@ -1211,8 +1211,8 @@
           "image_id": 66245963088214
         },
         {
-          "product_id": 9791839043926,
           "id": 51197701882198,
+          "product_id": 9791839043926,
           "title": "Beatle",
           "price": "24.30",
           "position": 4,
@@ -1239,8 +1239,8 @@
           "image_id": 66245963120982
         },
         {
-          "product_id": 9791839043926,
           "id": 51197701914966,
+          "product_id": 9791839043926,
           "title": "Fox",
           "price": "24.30",
           "position": 5,
@@ -1267,8 +1267,8 @@
           "image_id": 66245963153750
         },
         {
-          "product_id": 9791839043926,
           "id": 51197701947734,
+          "product_id": 9791839043926,
           "title": "Hedgehog",
           "price": "24.30",
           "position": 6,
@@ -1295,8 +1295,8 @@
           "image_id": 66245963186518
         },
         {
-          "product_id": 9791839043926,
           "id": 51197701980502,
+          "product_id": 9791839043926,
           "title": "Greens",
           "price": "24.30",
           "position": 7,
@@ -1323,8 +1323,8 @@
           "image_id": 66245963219286
         },
         {
-          "product_id": 9791839043926,
           "id": 51197702013270,
+          "product_id": 9791839043926,
           "title": "Squirrel",
           "price": "24.26",
           "position": 8,
@@ -1353,8 +1353,8 @@
       ],
       "options": [
         {
-          "product_id": 9791839043926,
           "id": 12641118257494,
+          "product_id": 9791839043926,
           "name": "style",
           "position": 1,
           "values": [

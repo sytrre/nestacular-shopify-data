@@ -1249,7 +1249,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T15:57:01+01:00",
       "handle": "woodynest-wooden-double-layer-solid-wood-baby-height-chair-durable-beech-construction-adjustable-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-19T04:39:04+01:00",
+      "updated_at": "2025-09-19T09:08:16+01:00",
       "published_at": "2025-09-17T16:02:18+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1269,7 +1269,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-17T15:57:14+01:00",
-          "updated_at": "2025-09-17T16:02:08+01:00",
+          "updated_at": "2025-09-19T09:08:16+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -1280,8 +1280,8 @@
           "weight": 5220.0,
           "weight_unit": "g",
           "inventory_item_id": 53564438217046,
-          "inventory_quantity": 62,
-          "old_inventory_quantity": 62,
+          "inventory_quantity": 60,
+          "old_inventory_quantity": 60,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51339723276630",
           "image_id": 66903240507734
         }

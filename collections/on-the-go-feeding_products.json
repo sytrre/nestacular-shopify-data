@@ -1523,8 +1523,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791084495190",
       "variants": [
         {
-          "product_id": 9791084495190,
           "id": 51194403520854,
+          "product_id": 9791084495190,
           "title": "F",
           "price": "29.95",
           "position": 1,
@@ -1553,8 +1553,8 @@
       ],
       "options": [
         {
-          "product_id": 9791084495190,
           "id": 12640237912406,
+          "product_id": 9791084495190,
           "name": "style",
           "position": 1,
           "values": [
