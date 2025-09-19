@@ -1370,7 +1370,7 @@
       "product_type": "0",
       "created_at": "2025-09-19T09:29:19+01:00",
       "handle": "prammy-portable-baby-car-seat-chair-cushion-easy-installation-comfortable-secure-design-essential-travel-feeding-support-for-infants-toddlers",
-      "updated_at": "2025-09-19T10:15:09+01:00",
+      "updated_at": "2025-09-19T21:29:34+01:00",
       "published_at": "2025-09-19T09:36:43+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1379,8 +1379,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830143525206",
       "variants": [
         {
-          "product_id": 9830143525206,
           "id": 51355008237910,
+          "product_id": 9830143525206,
           "title": "blue",
           "price": "132.95",
           "position": 1,
@@ -1407,8 +1407,8 @@
           "image_id": 66965557838166
         },
         {
-          "product_id": 9830143525206,
           "id": 51355008270678,
+          "product_id": 9830143525206,
           "title": "grey",
           "price": "132.95",
           "position": 2,
@@ -1435,8 +1435,8 @@
           "image_id": 66965557870934
         },
         {
-          "product_id": 9830143525206,
           "id": 51355008303446,
+          "product_id": 9830143525206,
           "title": "pink",
           "price": "132.95",
           "position": 3,
@@ -1463,8 +1463,8 @@
           "image_id": 66965557903702
         },
         {
-          "product_id": 9830143525206,
           "id": 51355008336214,
+          "product_id": 9830143525206,
           "title": "red",
           "price": "132.95",
           "position": 4,
@@ -1491,8 +1491,8 @@
           "image_id": 66965557936470
         },
         {
-          "product_id": 9830143525206,
           "id": 51355008368982,
+          "product_id": 9830143525206,
           "title": "sky blue",
           "price": "132.95",
           "position": 5,
@@ -1519,8 +1519,8 @@
           "image_id": 66965557969238
         },
         {
-          "product_id": 9830143525206,
           "id": 51355008401750,
+          "product_id": 9830143525206,
           "title": "yellow",
           "price": "132.95",
           "position": 6,
@@ -1549,8 +1549,8 @@
       ],
       "options": [
         {
-          "product_id": 9830143525206,
           "id": 12686797996374,
+          "product_id": 9830143525206,
           "name": "Color",
           "position": 1,
           "values": [

@@ -519,7 +519,7 @@
       "product_type": "0",
       "created_at": "2025-09-19T08:56:58+01:00",
       "handle": "kindyseat-kindergarten-chair-with-backrest-durable-plastic-construction-comfortable-design-essential-desks-chairs-for-children-s-learning-spaces",
-      "updated_at": "2025-09-19T09:21:46+01:00",
+      "updated_at": "2025-09-19T20:57:36+01:00",
       "published_at": "2025-09-19T09:04:19+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -528,8 +528,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830119506262",
       "variants": [
         {
-          "product_id": 9830119506262,
           "id": 51354923270486,
+          "product_id": 9830119506262,
           "title": "Macaron A",
           "price": "52.95",
           "position": 1,
@@ -556,8 +556,8 @@
           "image_id": 66964478689622
         },
         {
-          "product_id": 9830119506262,
           "id": 51354923303254,
+          "product_id": 9830119506262,
           "title": "Macaron B",
           "price": "52.95",
           "position": 2,
@@ -584,8 +584,8 @@
           "image_id": 66964478722390
         },
         {
-          "product_id": 9830119506262,
           "id": 51354923336022,
+          "product_id": 9830119506262,
           "title": "Macaron C",
           "price": "52.95",
           "position": 3,
@@ -612,8 +612,8 @@
           "image_id": 66964478755158
         },
         {
-          "product_id": 9830119506262,
           "id": 51354923368790,
+          "product_id": 9830119506262,
           "title": "Yellow green",
           "price": "52.95",
           "position": 4,
@@ -642,8 +642,8 @@
       ],
       "options": [
         {
-          "product_id": 9830119506262,
           "id": 12686771421526,
+          "product_id": 9830119506262,
           "name": "Color",
           "position": 1,
           "values": [
