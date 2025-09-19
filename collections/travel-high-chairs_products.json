@@ -10116,7 +10116,7 @@
       "product_type": "0",
       "created_at": "2025-09-19T10:52:51+01:00",
       "handle": "kraddle-children-s-dining-chair-heightening-pad-portable-comfortable-booster-cushion-essential-piano-mealtime-heightening-support-for-kids",
-      "updated_at": "2025-09-19T10:57:33+01:00",
+      "updated_at": "2025-09-19T22:53:04+01:00",
       "published_at": "2025-09-19T10:57:30+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -14163,8 +14163,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9612696256854",
       "variants": [
         {
-          "id": 50413878018390,
           "product_id": 9612696256854,
+          "id": 50413878018390,
           "title": "WHITE",
           "price": "77.95",
           "position": 1,
@@ -14191,8 +14191,8 @@
           "image_id": 62090826154326
         },
         {
-          "id": 50413878051158,
           "product_id": 9612696256854,
+          "id": 50413878051158,
           "title": "Black",
           "price": "77.95",
           "position": 2,
@@ -14221,8 +14221,8 @@
       ],
       "options": [
         {
-          "id": 12422488621398,
           "product_id": 9612696256854,
+          "id": 12422488621398,
           "name": "color",
           "position": 1,
           "values": [
@@ -19319,7 +19319,7 @@
       "product_type": "0",
       "created_at": "2025-09-19T11:12:40+01:00",
       "handle": "sack-n-seat-portable-integrated-baby-dining-chair-secure-protective-belt-foldable-travel-friendly-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-19T12:10:55+01:00",
+      "updated_at": "2025-09-19T23:12:53+01:00",
       "published_at": "2025-09-19T11:20:46+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -23569,8 +23569,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9778310676822",
       "variants": [
         {
-          "id": 51136575603030,
           "product_id": 9778310676822,
+          "id": 51136575603030,
           "title": "Gold / 1 Style",
           "price": "102.95",
           "position": 1,
@@ -23597,8 +23597,8 @@
           "image_id": 66112448921942
         },
         {
-          "id": 51136575635798,
           "product_id": 9778310676822,
+          "id": 51136575635798,
           "title": "Gold / 2 Style",
           "price": "108.95",
           "position": 2,
@@ -23625,8 +23625,8 @@
           "image_id": 66112448954710
         },
         {
-          "id": 51136575668566,
           "product_id": 9778310676822,
+          "id": 51136575668566,
           "title": "Gold / 3 Style",
           "price": "109.45",
           "position": 3,
@@ -23653,8 +23653,8 @@
           "image_id": 66112448987478
         },
         {
-          "id": 51136575701334,
           "product_id": 9778310676822,
+          "id": 51136575701334,
           "title": "Gold / 4 Style",
           "price": "112.95",
           "position": 4,
@@ -23681,8 +23681,8 @@
           "image_id": 66112449020246
         },
         {
-          "id": 51136575734102,
           "product_id": 9778310676822,
+          "id": 51136575734102,
           "title": "Gold / 5 Style",
           "price": "109.15",
           "position": 5,
@@ -23709,8 +23709,8 @@
           "image_id": 66112449053014
         },
         {
-          "id": 51136575766870,
           "product_id": 9778310676822,
+          "id": 51136575766870,
           "title": "Gold / 6 Style",
           "price": "110.95",
           "position": 6,
@@ -23737,8 +23737,8 @@
           "image_id": 66112449085782
         },
         {
-          "id": 51136575799638,
           "product_id": 9778310676822,
+          "id": 51136575799638,
           "title": "Gold / 7 Style",
           "price": "112.95",
           "position": 7,
@@ -23765,8 +23765,8 @@
           "image_id": 66112449118550
         },
         {
-          "id": 51136575832406,
           "product_id": 9778310676822,
+          "id": 51136575832406,
           "title": "Silver / 1 Style",
           "price": "102.95",
           "position": 8,
@@ -23793,8 +23793,8 @@
           "image_id": 66112449151318
         },
         {
-          "id": 51136575865174,
           "product_id": 9778310676822,
+          "id": 51136575865174,
           "title": "Silver / 2 Style",
           "price": "108.95",
           "position": 9,
@@ -23821,8 +23821,8 @@
           "image_id": 66112449184086
         },
         {
-          "id": 51136575897942,
           "product_id": 9778310676822,
+          "id": 51136575897942,
           "title": "Silver / 3 Style",
           "price": "109.45",
           "position": 10,
@@ -23849,8 +23849,8 @@
           "image_id": 66112449216854
         },
         {
-          "id": 51136575930710,
           "product_id": 9778310676822,
+          "id": 51136575930710,
           "title": "Silver / 4 Style",
           "price": "112.95",
           "position": 11,
@@ -23877,8 +23877,8 @@
           "image_id": 66112449249622
         },
         {
-          "id": 51136575963478,
           "product_id": 9778310676822,
+          "id": 51136575963478,
           "title": "Silver / 5 Style",
           "price": "109.15",
           "position": 12,
@@ -23905,8 +23905,8 @@
           "image_id": 66112449282390
         },
         {
-          "id": 51136575996246,
           "product_id": 9778310676822,
+          "id": 51136575996246,
           "title": "Silver / 6 Style",
           "price": "110.95",
           "position": 13,
@@ -23933,8 +23933,8 @@
           "image_id": 66112449315158
         },
         {
-          "id": 51136576029014,
           "product_id": 9778310676822,
+          "id": 51136576029014,
           "title": "Silver / 7 Style",
           "price": "112.95",
           "position": 14,
@@ -23963,8 +23963,8 @@
       ],
       "options": [
         {
-          "id": 12625133699414,
           "product_id": 9778310676822,
+          "id": 12625133699414,
           "name": "Color",
           "position": 1,
           "values": [
@@ -23973,8 +23973,8 @@
           ]
         },
         {
-          "id": 12625133732182,
           "product_id": 9778310676822,
+          "id": 12625133732182,
           "name": "style",
           "position": 2,
           "values": [
