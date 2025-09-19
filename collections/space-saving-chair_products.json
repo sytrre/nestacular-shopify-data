@@ -1794,8 +1794,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9805951697238",
       "variants": [
         {
-          "product_id": 9805951697238,
           "id": 51255845323094,
+          "product_id": 9805951697238,
           "title": "Εααααα Elegant Purple [basic Model] Height Unadjustable",
           "price": "120.95",
           "position": 1,
@@ -1822,8 +1822,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845355862,
+          "product_id": 9805951697238,
           "title": "Elegant Purple [upgraded Version] Adjustable Height + Double Plates",
           "price": "120.95",
           "position": 2,
@@ -1850,8 +1850,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845388630,
+          "product_id": 9805951697238,
           "title": "Dream Blue [luxury Edition] Adjustable Height + Leather Case",
           "price": "120.95",
           "position": 3,
@@ -1878,8 +1878,8 @@
           "image_id": 66367301091670
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845421398,
+          "product_id": 9805951697238,
           "title": "Purple [luxury Edition] Adjustable Height + Leather Case",
           "price": "120.95",
           "position": 4,
@@ -1906,8 +1906,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845454166,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [upgraded Version] Adjustable Height + Double Plates",
           "price": "120.95",
           "position": 5,
@@ -1934,8 +1934,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845486934,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [flagship Model] Adjustable Height + Leather Case + Double Plates",
           "price": "120.95",
           "position": 6,
@@ -1962,8 +1962,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845519702,
+          "product_id": 9805951697238,
           "title": "Blue [flagship Model] Adjustable Height + Leather Case + Double Plates",
           "price": "120.95",
           "position": 7,
@@ -1990,8 +1990,8 @@
           "image_id": 66367301091670
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845552470,
+          "product_id": 9805951697238,
           "title": "Εααααα Lemon Yellow [luxury Edition]",
           "price": "120.95",
           "position": 8,
@@ -2018,8 +2018,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845585238,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [basic Model] Height Unadjustable -",
           "price": "120.95",
           "position": 9,
@@ -2048,8 +2048,8 @@
       ],
       "options": [
         {
-          "product_id": 9805951697238,
           "id": 12657815290198,
+          "product_id": 9805951697238,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2633,7 +2633,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T12:19:03+01:00",
       "handle": "kidythrone-children-portable-safety-camping-dining-chair-folding-baby-dining-table-chair-outdoor-multifunctional-infant-feeding-solution",
-      "updated_at": "2025-09-18T13:52:53+01:00",
+      "updated_at": "2025-09-19T01:15:47+01:00",
       "published_at": "2025-09-18T12:23:12+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -2772,7 +2772,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T15:41:47+01:00",
       "handle": "carticute-cartoon-portable-baby-dining-chair-multifunctional-design-easy-to-fix-on-baby-car-essential-feeding-travel-chair-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:55:31+01:00",
+      "updated_at": "2025-09-19T01:12:42+01:00",
       "published_at": "2025-09-17T15:51:15+01:00",
       "template_suffix": null,
       "published_scope": "global",

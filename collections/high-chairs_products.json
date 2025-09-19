@@ -451,8 +451,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825499971926",
       "variants": [
         {
-          "id": 51338589897046,
           "product_id": 9825499971926,
+          "id": 51338589897046,
           "title": "Basic Style Cute Baby Pink",
           "price": "156.95",
           "position": 1,
@@ -479,8 +479,8 @@
           "image_id": 66896040132950
         },
         {
-          "id": 51338589929814,
           "product_id": 9825499971926,
+          "id": 51338589929814,
           "title": "Basic Style Gray Meal Body",
           "price": "156.95",
           "position": 2,
@@ -507,8 +507,8 @@
           "image_id": 66896040165718
         },
         {
-          "id": 51338589962582,
           "product_id": 9825499971926,
+          "id": 51338589962582,
           "title": "Basic Style Light Beige",
           "price": "156.95",
           "position": 3,
@@ -535,8 +535,8 @@
           "image_id": 66896040198486
         },
         {
-          "id": 51338589995350,
           "product_id": 9825499971926,
+          "id": 51338589995350,
           "title": "Basic Style Snow Blue",
           "price": "156.95",
           "position": 4,
@@ -563,8 +563,8 @@
           "image_id": 66896040231254
         },
         {
-          "id": 51338590028118,
           "product_id": 9825499971926,
+          "id": 51338590028118,
           "title": "Basic Style Vanilla Green",
           "price": "153.95",
           "position": 5,
@@ -591,8 +591,8 @@
           "image_id": 66896040264022
         },
         {
-          "id": 51338590060886,
           "product_id": 9825499971926,
+          "id": 51338590060886,
           "title": "Elite Cute Baby Pink",
           "price": "163.95",
           "position": 6,
@@ -619,8 +619,8 @@
           "image_id": 66896040296790
         },
         {
-          "id": 51338590093654,
           "product_id": 9825499971926,
+          "id": 51338590093654,
           "title": "Elite High Grade Gray",
           "price": "163.95",
           "position": 7,
@@ -647,8 +647,8 @@
           "image_id": 66896040329558
         },
         {
-          "id": 51338590126422,
           "product_id": 9825499971926,
+          "id": 51338590126422,
           "title": "Elite Light Beige",
           "price": "163.95",
           "position": 8,
@@ -675,8 +675,8 @@
           "image_id": 66896040362326
         },
         {
-          "id": 51338590159190,
           "product_id": 9825499971926,
+          "id": 51338590159190,
           "title": "Elite Snow Blue",
           "price": "163.95",
           "position": 9,
@@ -703,8 +703,8 @@
           "image_id": 66896040395094
         },
         {
-          "id": 51338590191958,
           "product_id": 9825499971926,
+          "id": 51338590191958,
           "title": "Elite Vanilla Green",
           "price": "163.95",
           "position": 10,
@@ -731,8 +731,8 @@
           "image_id": 66896040427862
         },
         {
-          "id": 51338590224726,
           "product_id": 9825499971926,
+          "id": 51338590224726,
           "title": "Flagship Cute Baby Pink",
           "price": "173.95",
           "position": 11,
@@ -759,8 +759,8 @@
           "image_id": 66896040460630
         },
         {
-          "id": 51338590257494,
           "product_id": 9825499971926,
+          "id": 51338590257494,
           "title": "Flagship High Grade Gray",
           "price": "173.95",
           "position": 12,
@@ -787,8 +787,8 @@
           "image_id": 66896040493398
         },
         {
-          "id": 51338590290262,
           "product_id": 9825499971926,
+          "id": 51338590290262,
           "title": "Flagship Light Beige",
           "price": "173.95",
           "position": 13,
@@ -815,8 +815,8 @@
           "image_id": 66896040526166
         },
         {
-          "id": 51338590323030,
           "product_id": 9825499971926,
+          "id": 51338590323030,
           "title": "Flagship Snow Blue",
           "price": "173.95",
           "position": 14,
@@ -843,8 +843,8 @@
           "image_id": 66896040558934
         },
         {
-          "id": 51338590355798,
           "product_id": 9825499971926,
+          "id": 51338590355798,
           "title": "Flagship Vanilla Green",
           "price": "173.95",
           "position": 15,
@@ -871,8 +871,8 @@
           "image_id": 66896040591702
         },
         {
-          "id": 51338590388566,
           "product_id": 9825499971926,
+          "id": 51338590388566,
           "title": "Intelligent Style Light Beige",
           "price": "168.95",
           "position": 16,
@@ -899,8 +899,8 @@
           "image_id": 66896040624470
         },
         {
-          "id": 51338590421334,
           "product_id": 9825499971926,
+          "id": 51338590421334,
           "title": "Smart Cute Baby Pink",
           "price": "168.95",
           "position": 17,
@@ -927,8 +927,8 @@
           "image_id": 66896040657238
         },
         {
-          "id": 51338590454102,
           "product_id": 9825499971926,
+          "id": 51338590454102,
           "title": "Smart High Grade Gray",
           "price": "168.95",
           "position": 18,
@@ -955,8 +955,8 @@
           "image_id": 66896040690006
         },
         {
-          "id": 51338590486870,
           "product_id": 9825499971926,
+          "id": 51338590486870,
           "title": "Smart Snow Blue",
           "price": "168.95",
           "position": 19,
@@ -983,8 +983,8 @@
           "image_id": 66896040722774
         },
         {
-          "id": 51338590519638,
           "product_id": 9825499971926,
+          "id": 51338590519638,
           "title": "Smart Vanilla Green",
           "price": "168.95",
           "position": 20,
@@ -1013,8 +1013,8 @@
       ],
       "options": [
         {
-          "id": 12681270296918,
           "product_id": 9825499971926,
+          "id": 12681270296918,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1613,7 +1613,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T13:18:15+01:00",
       "handle": "baathe-multifunctional-foldable-children-s-dining-chair-dual-use-feeding-bathing-design-space-saving-durable-essential-multi-purpose-chair-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:47:42+01:00",
+      "updated_at": "2025-09-19T02:28:49+01:00",
       "published_at": "2025-09-17T13:22:36+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -2431,7 +2431,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T11:49:56+01:00",
       "handle": "beechnest-adjustable-children-s-growth-chair-beech-solid-wood-construction-ergonomic-durable-design-essential-seating-solution-for-kids-toddlers",
-      "updated_at": "2025-09-18T13:04:41+01:00",
+      "updated_at": "2025-09-19T00:48:01+01:00",
       "published_at": "2025-09-18T12:04:56+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -3103,7 +3103,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T12:02:52+01:00",
       "handle": "beechnest-solid-wood-baby-dining-chair-durable-children-s-table-beech-wood-construction-essential-feeding-chair-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:42:28+01:00",
+      "updated_at": "2025-09-19T03:42:15+01:00",
       "published_at": "2025-09-17T12:07:36+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -3242,7 +3242,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T15:23:46+01:00",
       "handle": "beechnest-beech-solid-wood-multifunctional-baby-dining-chair-durable-construction-adjustable-design-essential-feeding-equipment-for-growing-toddlers",
-      "updated_at": "2025-09-18T13:42:30+01:00",
+      "updated_at": "2025-09-19T00:44:50+01:00",
       "published_at": "2025-09-17T15:29:01+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -3652,7 +3652,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T14:34:21+01:00",
       "handle": "bucklekid-children-s-dining-chair-safety-belt-protection-fixed-secure-design-adjustable-durable-essential-safety-harness-for-baby-feeding-chairs",
-      "updated_at": "2025-09-18T13:49:49+01:00",
+      "updated_at": "2025-09-19T01:07:07+01:00",
       "published_at": "2025-09-17T14:38:43+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -4729,8 +4729,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9805951697238",
       "variants": [
         {
-          "product_id": 9805951697238,
           "id": 51255845323094,
+          "product_id": 9805951697238,
           "title": "Εααααα Elegant Purple [basic Model] Height Unadjustable",
           "price": "120.95",
           "position": 1,
@@ -4757,8 +4757,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845355862,
+          "product_id": 9805951697238,
           "title": "Elegant Purple [upgraded Version] Adjustable Height + Double Plates",
           "price": "120.95",
           "position": 2,
@@ -4785,8 +4785,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845388630,
+          "product_id": 9805951697238,
           "title": "Dream Blue [luxury Edition] Adjustable Height + Leather Case",
           "price": "120.95",
           "position": 3,
@@ -4813,8 +4813,8 @@
           "image_id": 66367301091670
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845421398,
+          "product_id": 9805951697238,
           "title": "Purple [luxury Edition] Adjustable Height + Leather Case",
           "price": "120.95",
           "position": 4,
@@ -4841,8 +4841,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845454166,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [upgraded Version] Adjustable Height + Double Plates",
           "price": "120.95",
           "position": 5,
@@ -4869,8 +4869,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845486934,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [flagship Model] Adjustable Height + Leather Case + Double Plates",
           "price": "120.95",
           "position": 6,
@@ -4897,8 +4897,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845519702,
+          "product_id": 9805951697238,
           "title": "Blue [flagship Model] Adjustable Height + Leather Case + Double Plates",
           "price": "120.95",
           "position": 7,
@@ -4925,8 +4925,8 @@
           "image_id": 66367301091670
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845552470,
+          "product_id": 9805951697238,
           "title": "Εααααα Lemon Yellow [luxury Edition]",
           "price": "120.95",
           "position": 8,
@@ -4953,8 +4953,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845585238,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [basic Model] Height Unadjustable -",
           "price": "120.95",
           "position": 9,
@@ -4983,8 +4983,8 @@
       ],
       "options": [
         {
-          "product_id": 9805951697238,
           "id": 12657815290198,
+          "product_id": 9805951697238,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6158,7 +6158,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T15:32:57+01:00",
       "handle": "haumm-solid-wood-infant-dining-chair-beech-adjustable-design-durable-stylish-construction-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:45:59+01:00",
+      "updated_at": "2025-09-19T01:10:44+01:00",
       "published_at": "2025-09-17T15:37:41+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -7453,7 +7453,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T16:47:23+01:00",
       "handle": "kiddhatch-baby-portable-foldable-dining-chair-lightweight-durable-space-saving-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:52:37+01:00",
+      "updated_at": "2025-09-19T01:48:52+01:00",
       "published_at": "2025-09-17T16:53:07+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -8540,7 +8540,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T12:19:03+01:00",
       "handle": "kidythrone-children-portable-safety-camping-dining-chair-folding-baby-dining-table-chair-outdoor-multifunctional-infant-feeding-solution",
-      "updated_at": "2025-09-18T13:52:53+01:00",
+      "updated_at": "2025-09-19T01:15:47+01:00",
       "published_at": "2025-09-18T12:23:12+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -10336,7 +10336,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T15:41:47+01:00",
       "handle": "carticute-cartoon-portable-baby-dining-chair-multifunctional-design-easy-to-fix-on-baby-car-essential-feeding-travel-chair-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:55:31+01:00",
+      "updated_at": "2025-09-19T01:12:42+01:00",
       "published_at": "2025-09-17T15:51:15+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -11108,7 +11108,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T17:19:44+01:00",
       "handle": "nurinest-multifunctional-baby-dining-chair-foldable-durable-space-saving-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:55:55+01:00",
+      "updated_at": "2025-09-19T01:15:12+01:00",
       "published_at": "2025-09-17T17:37:11+01:00",
       "template_suffix": null,
       "published_scope": "global",

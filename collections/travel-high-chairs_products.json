@@ -1351,7 +1351,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T13:18:15+01:00",
       "handle": "baathe-multifunctional-foldable-children-s-dining-chair-dual-use-feeding-bathing-design-space-saving-durable-essential-multi-purpose-chair-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:47:42+01:00",
+      "updated_at": "2025-09-19T02:28:49+01:00",
       "published_at": "2025-09-17T13:22:36+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -2435,7 +2435,7 @@
       "product_type": "Baby Bottle Heating Sleeve",
       "created_at": "2025-09-01T09:11:04+01:00",
       "handle": "blossombabes-baby-bottle-heating-sleeve",
-      "updated_at": "2025-09-18T13:49:16+01:00",
+      "updated_at": "2025-09-19T00:47:53+01:00",
       "published_at": "2025-09-01T09:11:21+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -2706,7 +2706,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T13:38:08+01:00",
       "handle": "brio-children-s-dining-chair-baby-table-foldable-portable-design-durable-construction-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-18T16:08:12+01:00",
+      "updated_at": "2025-09-19T01:42:38+01:00",
       "published_at": "2025-09-18T13:45:13+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -5521,8 +5521,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9805951697238",
       "variants": [
         {
-          "product_id": 9805951697238,
           "id": 51255845323094,
+          "product_id": 9805951697238,
           "title": "Εααααα Elegant Purple [basic Model] Height Unadjustable",
           "price": "120.95",
           "position": 1,
@@ -5549,8 +5549,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845355862,
+          "product_id": 9805951697238,
           "title": "Elegant Purple [upgraded Version] Adjustable Height + Double Plates",
           "price": "120.95",
           "position": 2,
@@ -5577,8 +5577,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845388630,
+          "product_id": 9805951697238,
           "title": "Dream Blue [luxury Edition] Adjustable Height + Leather Case",
           "price": "120.95",
           "position": 3,
@@ -5605,8 +5605,8 @@
           "image_id": 66367301091670
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845421398,
+          "product_id": 9805951697238,
           "title": "Purple [luxury Edition] Adjustable Height + Leather Case",
           "price": "120.95",
           "position": 4,
@@ -5633,8 +5633,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845454166,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [upgraded Version] Adjustable Height + Double Plates",
           "price": "120.95",
           "position": 5,
@@ -5661,8 +5661,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845486934,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [flagship Model] Adjustable Height + Leather Case + Double Plates",
           "price": "120.95",
           "position": 6,
@@ -5689,8 +5689,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845519702,
+          "product_id": 9805951697238,
           "title": "Blue [flagship Model] Adjustable Height + Leather Case + Double Plates",
           "price": "120.95",
           "position": 7,
@@ -5717,8 +5717,8 @@
           "image_id": 66367301091670
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845552470,
+          "product_id": 9805951697238,
           "title": "Εααααα Lemon Yellow [luxury Edition]",
           "price": "120.95",
           "position": 8,
@@ -5745,8 +5745,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845585238,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [basic Model] Height Unadjustable -",
           "price": "120.95",
           "position": 9,
@@ -5775,8 +5775,8 @@
       ],
       "options": [
         {
-          "product_id": 9805951697238,
           "id": 12657815290198,
+          "product_id": 9805951697238,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6726,7 +6726,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T13:09:51+01:00",
       "handle": "ivolia-multi-functional-foldable-portable-baby-dining-chair-durable-space-saving-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:52:20+01:00",
+      "updated_at": "2025-09-19T02:19:40+01:00",
       "published_at": "2025-09-18T13:15:56+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -6735,8 +6735,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828614144342",
       "variants": [
         {
-          "product_id": 9828614144342,
           "id": 51347294191958,
+          "product_id": 9828614144342,
           "title": "Black",
           "price": "525.95",
           "position": 1,
@@ -6763,8 +6763,8 @@
           "image_id": 66940251570518
         },
         {
-          "product_id": 9828614144342,
           "id": 51347294224726,
+          "product_id": 9828614144342,
           "title": "Brown",
           "price": "525.95",
           "position": 2,
@@ -6791,8 +6791,8 @@
           "image_id": 66940251603286
         },
         {
-          "product_id": 9828614144342,
           "id": 51347294257494,
+          "product_id": 9828614144342,
           "title": "Champagne gold",
           "price": "525.95",
           "position": 3,
@@ -6819,8 +6819,8 @@
           "image_id": 66940251636054
         },
         {
-          "product_id": 9828614144342,
           "id": 51347294290262,
+          "product_id": 9828614144342,
           "title": "Orange",
           "price": "525.95",
           "position": 4,
@@ -6849,8 +6849,8 @@
       ],
       "options": [
         {
-          "product_id": 9828614144342,
           "id": 12684878086486,
+          "product_id": 9828614144342,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8230,7 +8230,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T16:47:23+01:00",
       "handle": "kiddhatch-baby-portable-foldable-dining-chair-lightweight-durable-space-saving-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:52:37+01:00",
+      "updated_at": "2025-09-19T01:48:52+01:00",
       "published_at": "2025-09-17T16:53:07+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -8726,7 +8726,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T12:19:03+01:00",
       "handle": "kidythrone-children-portable-safety-camping-dining-chair-folding-baby-dining-table-chair-outdoor-multifunctional-infant-feeding-solution",
-      "updated_at": "2025-09-18T13:52:53+01:00",
+      "updated_at": "2025-09-19T01:15:47+01:00",
       "published_at": "2025-09-18T12:23:12+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -15575,7 +15575,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T15:41:47+01:00",
       "handle": "carticute-cartoon-portable-baby-dining-chair-multifunctional-design-easy-to-fix-on-baby-car-essential-feeding-travel-chair-for-babies-toddlers",
-      "updated_at": "2025-09-18T13:55:31+01:00",
+      "updated_at": "2025-09-19T01:12:42+01:00",
       "published_at": "2025-09-17T15:51:15+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -18066,7 +18066,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T12:09:30+01:00",
       "handle": "safeup-children-s-chair-booster-seat-non-slip-feet-durable-portable-design-essential-dining-support-for-toddlers-kids",
-      "updated_at": "2025-09-18T13:56:13+01:00",
+      "updated_at": "2025-09-19T00:57:26+01:00",
       "published_at": "2025-09-18T12:14:27+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -20108,7 +20108,7 @@
       "product_type": "0",
       "created_at": "2025-09-18T11:08:22+01:00",
       "handle": "tallii-household-sitting-lying-multifunctional-portable-chair-adjustable-foldable-durable-design-essential-relaxation-feeding-chair-for-babies-toddlers",
-      "updated_at": "2025-09-18T14:28:42+01:00",
+      "updated_at": "2025-09-19T02:53:41+01:00",
       "published_at": "2025-09-18T11:14:32+01:00",
       "template_suffix": null,
       "published_scope": "global",
