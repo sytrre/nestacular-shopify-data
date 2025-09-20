@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-09-20T11:41:57.234989Z
+Generated: 2025-09-20T13:06:19.164594Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -15,7 +15,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (71 collections) ===
+=== COLLECTION PRODUCT FILES (73 collections) ===
 
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
@@ -27,6 +27,7 @@ BLOGS (1 pages):
 • baby-shower-gifts: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-shower-gifts_products.json
 • baby-shower-host-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-shower-host-feeding-essentials_products.json
 • baby-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-tableware_products.json
+• babys-first-halloween-party-prep: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/babys-first-halloween-party-prep_products.json
 • bamboo-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bamboo-tableware_products.json
 • bear-party-decorations: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bear-party-decorations_products.json
 • bibs-and-coveralls: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bibs-and-coveralls_products.json
@@ -87,4 +88,5 @@ BLOGS (1 pages):
 • toddler-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-stage-feeding_products.json
 • travel-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-high-chairs_products.json
 • weaning-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weaning-stage-feeding_products.json
+• weekend-camping-baby-feeding-gear: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weekend-camping-baby-feeding-gear_products.json
 • wooden-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/wooden-high-chairs_products.json

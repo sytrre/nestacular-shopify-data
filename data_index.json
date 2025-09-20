@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-20T11:41:57.234989Z",
+  "generated": "2025-09-20T13:06:19.164594Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -24,6 +24,7 @@
       "baby-shower-gifts": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-shower-gifts_products.json",
       "baby-shower-host-feeding-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-shower-host-feeding-essentials_products.json",
       "baby-tableware": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-tableware_products.json",
+      "babys-first-halloween-party-prep": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/babys-first-halloween-party-prep_products.json",
       "bamboo-tableware": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bamboo-tableware_products.json",
       "bear-party-decorations": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bear-party-decorations_products.json",
       "bibs-and-coveralls": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bibs-and-coveralls_products.json",
@@ -84,6 +85,7 @@
       "toddler-stage-feeding": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-stage-feeding_products.json",
       "travel-high-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-high-chairs_products.json",
       "weaning-stage-feeding": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weaning-stage-feeding_products.json",
+      "weekend-camping-baby-feeding-gear": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weekend-camping-baby-feeding-gear_products.json",
       "wooden-high-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/wooden-high-chairs_products.json"
     }
   }
