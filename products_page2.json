@@ -4765,8 +4765,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9612696256854",
       "variants": [
         {
-          "product_id": 9612696256854,
           "id": 50413878018390,
+          "product_id": 9612696256854,
           "title": "WHITE",
           "price": "77.95",
           "position": 1,
@@ -4793,8 +4793,8 @@
           "image_id": 62090826154326
         },
         {
-          "product_id": 9612696256854,
           "id": 50413878051158,
+          "product_id": 9612696256854,
           "title": "Black",
           "price": "77.95",
           "position": 2,
@@ -4823,8 +4823,8 @@
       ],
       "options": [
         {
-          "product_id": 9612696256854,
           "id": 12422488621398,
+          "product_id": 9612696256854,
           "name": "color",
           "position": 1,
           "values": [
@@ -7543,8 +7543,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9507800252758",
       "variants": [
         {
-          "product_id": 9507800252758,
           "id": 50043297268054,
+          "product_id": 9507800252758,
           "title": "Beige / Fabric",
           "price": "45.95",
           "position": 1,
@@ -7571,8 +7571,8 @@
           "image_id": 60647138001238
         },
         {
-          "product_id": 9507800252758,
           "id": 50043297366358,
+          "product_id": 9507800252758,
           "title": "Beige / Cotton",
           "price": "45.95",
           "position": 2,
@@ -7599,8 +7599,8 @@
           "image_id": 60647138001238
         },
         {
-          "product_id": 9507800252758,
           "id": 50043297300822,
+          "product_id": 9507800252758,
           "title": "White / Fabric",
           "price": "45.95",
           "position": 3,
@@ -7627,8 +7627,8 @@
           "image_id": 60647189676374
         },
         {
-          "product_id": 9507800252758,
           "id": 50043297399126,
+          "product_id": 9507800252758,
           "title": "White / Cotton",
           "price": "45.95",
           "position": 4,
@@ -7655,8 +7655,8 @@
           "image_id": 60647189676374
         },
         {
-          "product_id": 9507800252758,
           "id": 50043297333590,
+          "product_id": 9507800252758,
           "title": "Multicolor / Fabric",
           "price": "45.95",
           "position": 5,
@@ -7683,8 +7683,8 @@
           "image_id": 60647189741910
         },
         {
-          "product_id": 9507800252758,
           "id": 50043297431894,
+          "product_id": 9507800252758,
           "title": "Multicolor / Cotton",
           "price": "45.95",
           "position": 6,
@@ -7713,8 +7713,8 @@
       ],
       "options": [
         {
-          "product_id": 9507800252758,
           "id": 12308260585814,
+          "product_id": 9507800252758,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7724,8 +7724,8 @@
           ]
         },
         {
-          "product_id": 9507800252758,
           "id": 12308260553046,
+          "product_id": 9507800252758,
           "name": "Material",
           "position": 2,
           "values": [
@@ -45378,8 +45378,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9778310676822",
       "variants": [
         {
-          "product_id": 9778310676822,
           "id": 51136575603030,
+          "product_id": 9778310676822,
           "title": "Gold / 1 Style",
           "price": "102.95",
           "position": 1,
@@ -45406,8 +45406,8 @@
           "image_id": 66112448921942
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575635798,
+          "product_id": 9778310676822,
           "title": "Gold / 2 Style",
           "price": "108.95",
           "position": 2,
@@ -45434,8 +45434,8 @@
           "image_id": 66112448954710
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575668566,
+          "product_id": 9778310676822,
           "title": "Gold / 3 Style",
           "price": "109.45",
           "position": 3,
@@ -45462,8 +45462,8 @@
           "image_id": 66112448987478
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575701334,
+          "product_id": 9778310676822,
           "title": "Gold / 4 Style",
           "price": "112.95",
           "position": 4,
@@ -45490,8 +45490,8 @@
           "image_id": 66112449020246
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575734102,
+          "product_id": 9778310676822,
           "title": "Gold / 5 Style",
           "price": "109.15",
           "position": 5,
@@ -45518,8 +45518,8 @@
           "image_id": 66112449053014
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575766870,
+          "product_id": 9778310676822,
           "title": "Gold / 6 Style",
           "price": "110.95",
           "position": 6,
@@ -45546,8 +45546,8 @@
           "image_id": 66112449085782
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575799638,
+          "product_id": 9778310676822,
           "title": "Gold / 7 Style",
           "price": "112.95",
           "position": 7,
@@ -45574,8 +45574,8 @@
           "image_id": 66112449118550
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575832406,
+          "product_id": 9778310676822,
           "title": "Silver / 1 Style",
           "price": "102.95",
           "position": 8,
@@ -45602,8 +45602,8 @@
           "image_id": 66112449151318
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575865174,
+          "product_id": 9778310676822,
           "title": "Silver / 2 Style",
           "price": "108.95",
           "position": 9,
@@ -45630,8 +45630,8 @@
           "image_id": 66112449184086
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575897942,
+          "product_id": 9778310676822,
           "title": "Silver / 3 Style",
           "price": "109.45",
           "position": 10,
@@ -45658,8 +45658,8 @@
           "image_id": 66112449216854
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575930710,
+          "product_id": 9778310676822,
           "title": "Silver / 4 Style",
           "price": "112.95",
           "position": 11,
@@ -45686,8 +45686,8 @@
           "image_id": 66112449249622
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575963478,
+          "product_id": 9778310676822,
           "title": "Silver / 5 Style",
           "price": "109.15",
           "position": 12,
@@ -45714,8 +45714,8 @@
           "image_id": 66112449282390
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575996246,
+          "product_id": 9778310676822,
           "title": "Silver / 6 Style",
           "price": "110.95",
           "position": 13,
@@ -45742,8 +45742,8 @@
           "image_id": 66112449315158
         },
         {
-          "product_id": 9778310676822,
           "id": 51136576029014,
+          "product_id": 9778310676822,
           "title": "Silver / 7 Style",
           "price": "112.95",
           "position": 14,
@@ -45772,8 +45772,8 @@
       ],
       "options": [
         {
-          "product_id": 9778310676822,
           "id": 12625133699414,
+          "product_id": 9778310676822,
           "name": "Color",
           "position": 1,
           "values": [
@@ -45782,8 +45782,8 @@
           ]
         },
         {
-          "product_id": 9778310676822,
           "id": 12625133732182,
+          "product_id": 9778310676822,
           "name": "style",
           "position": 2,
           "values": [
