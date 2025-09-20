@@ -5310,8 +5310,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791461359958",
       "variants": [
         {
-          "id": 51196531933526,
           "product_id": 9791461359958,
+          "id": 51196531933526,
           "title": "Mist blue",
           "price": "20.43",
           "position": 1,
@@ -5338,8 +5338,8 @@
           "image_id": 66242139455830
         },
         {
-          "id": 51196531966294,
           "product_id": 9791461359958,
+          "id": 51196531966294,
           "title": "Bean Paste Powder",
           "price": "20.43",
           "position": 2,
@@ -5366,8 +5366,8 @@
           "image_id": 66242139488598
         },
         {
-          "id": 51196531999062,
           "product_id": 9791461359958,
+          "id": 51196531999062,
           "title": "Turquoise",
           "price": "20.43",
           "position": 3,
@@ -5394,8 +5394,8 @@
           "image_id": 66242139521366
         },
         {
-          "id": 51196532031830,
           "product_id": 9791461359958,
+          "id": 51196532031830,
           "title": "Faint yellow",
           "price": "20.43",
           "position": 4,
@@ -5424,8 +5424,8 @@
       ],
       "options": [
         {
-          "id": 12640685588822,
           "product_id": 9791461359958,
+          "id": 12640685588822,
           "name": "Color",
           "position": 1,
           "values": [
