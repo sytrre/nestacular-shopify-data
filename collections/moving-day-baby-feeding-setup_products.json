@@ -12511,8 +12511,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765169824086",
       "variants": [
         {
-          "product_id": 9765169824086,
           "id": 51084377162070,
+          "product_id": 9765169824086,
           "title": "Burgundy",
           "price": "25.28",
           "position": 1,
@@ -12539,8 +12539,8 @@
           "image_id": 65932720177494
         },
         {
-          "product_id": 9765169824086,
           "id": 51084377194838,
+          "product_id": 9765169824086,
           "title": "Pink",
           "price": "25.85",
           "position": 2,
@@ -12567,8 +12567,8 @@
           "image_id": 65932720406870
         },
         {
-          "product_id": 9765169824086,
           "id": 51084377227606,
+          "product_id": 9765169824086,
           "title": "Blue",
           "price": "26.33",
           "position": 3,
@@ -12595,8 +12595,8 @@
           "image_id": 65932720439638
         },
         {
-          "product_id": 9765169824086,
           "id": 51084377260374,
+          "product_id": 9765169824086,
           "title": "Green",
           "price": "26.80",
           "position": 4,
@@ -12625,8 +12625,8 @@
       ],
       "options": [
         {
-          "product_id": 9765169824086,
           "id": 12609595572566,
+          "product_id": 9765169824086,
           "name": "Color",
           "position": 1,
           "values": [
