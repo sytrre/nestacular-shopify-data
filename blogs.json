@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "The Nestacular Journal",
-      "updated_at": "2025-09-21T09:33:23+01:00",
+      "updated_at": "2025-09-21T10:26:17+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -80,12 +80,19 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-09-18T21:24:06+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-21T10:26:17+01:00",
+          "summary_html": "<p>Transitioning from purees to baby-led weaning is a key milestone that builds independence, confidence, and healthy eating habits. This complete guide walks parents through the 2–4 week puree-to-finger food transition, including readiness signs, step-by-step strategies, texture progression, and common challenges. With expert safety tips, nutritional guidance, and essential BLW gear—from suction plates to silicone spoons—you’ll gain the tools and confidence to support your baby’s journey toward self-feeding and family meal participation.</p>",
           "template_suffix": "article",
           "handle": "how-to-transition-from-purees-to-baby-led-weaning",
           "tags": "",
-          "admin_graphql_api_id": "gid://shopify/Article/610562376022"
+          "admin_graphql_api_id": "gid://shopify/Article/610562376022",
+          "image": {
+            "created_at": "2025-09-21T10:26:16+01:00",
+            "alt": "baby readiness signs for BLW transition",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_47f9ae04-74c4-499f-bbb9-92c5aad971e7.jpg?v=1758446777"
+          }
         },
         {
           "id": 610562343254,
@@ -95,33 +102,40 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-09-18T20:48:09+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-21T10:13:04+01:00",
+          "summary_html": "<p>Baby-led weaning introduces your little one to independence, textures, and nutrition through safe finger foods. This guide features 100 age-appropriate BLW foods for 6–12 months, organized by developmental stage and motor skills progression. From soft vegetables and fruits to proteins, grains, and family meals, every food is chosen for safety, nutrition, and skill building. With expert safety reminders, preparation tips, and essential BLW gear recommendations, you’ll have everything you need to create enjoyable, stress-free mealtimes that support growth and confidence.</p>",
           "template_suffix": "article",
           "handle": "100-first-finger-foods-for-baby-led-weaning-6-12-months",
           "tags": "",
-          "admin_graphql_api_id": "gid://shopify/Article/610562343254"
+          "admin_graphql_api_id": "gid://shopify/Article/610562343254",
+          "image": {
+            "created_at": "2025-09-21T10:13:03+01:00",
+            "alt": "safe first finger foods for baby led weaning 6 months",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_0b2f1982-7edb-462f-babe-c2e31c114d9e.png?v=1758445984"
+          }
         },
         {
           "id": 610560115030,
           "title": "6 Month Old Baby Food Ideas: A Stage-by-Stage Guide with Smart Gear Picks",
           "created_at": "2025-09-18T14:03:18+01:00",
           "blog_id": 116861632854,
-          "author": "Content Team",
+          "author": "Tayla White",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-09-21T09:33:23+01:00",
+          "updated_at": "2025-09-21T09:49:10+01:00",
           "summary_html": "<p>Starting solids at 6 months is a milestone in your baby’s eating journey. This stage-by-stage guide explores 20+ food ideas—smooth purées, mashed textures, and beginner BLW finger foods—paired with expert safety tips and gear recommendations. From suction plates and soft-tipped spoons to ergonomic high chairs and smart storage sets, discover how to build confident eating habits while keeping nutrition, texture progression, and safe allergen introduction at the center of every meal.</p>",
           "template_suffix": "article",
           "handle": "6-month-old-baby-food-ideas-a-stage-by-stage-guide-with-smart-gear-picks",
           "tags": "Baby-Led Weaning & First Foods, Guide, Tips",
           "admin_graphql_api_id": "gid://shopify/Article/610560115030",
           "image": {
-            "created_at": "2025-09-21T09:33:21+01:00",
+            "created_at": "2025-09-21T09:48:29+01:00",
             "alt": "first finger foods for baby led weaning 6 months",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_be972ebc-0cfa-4b34-b1eb-f53d2d2a4b6b.png?v=1758443603"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_e726320c-f2bd-452d-b4fc-99ea468be9f1.png?v=1758444510"
           }
         },
         {
