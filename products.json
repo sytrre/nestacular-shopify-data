@@ -24134,8 +24134,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9409650884950",
       "variants": [
         {
-          "product_id": 9409650884950,
           "id": 50151593247062,
+          "product_id": 9409650884950,
           "title": "White / 4 Bands & 15 Adhesive Tabs",
           "price": "29.95",
           "position": 1,
@@ -24162,8 +24162,8 @@
           "image_id": 60514146255190
         },
         {
-          "product_id": 9409650884950,
           "id": 50217638789462,
+          "product_id": 9409650884950,
           "title": "White / 4 Bands & 30 Adhesive Tabs",
           "price": "39.95",
           "position": 2,
@@ -24190,8 +24190,8 @@
           "image_id": 60514146255190
         },
         {
-          "product_id": 9409650884950,
           "id": 50474567336278,
+          "product_id": 9409650884950,
           "title": "White / Refill Tabs (Adhesive Tabs ONLY - 30 Pcs)",
           "price": "19.95",
           "position": 3,
@@ -24218,8 +24218,8 @@
           "image_id": 62488224432470
         },
         {
-          "product_id": 9409650884950,
           "id": 50474567369046,
+          "product_id": 9409650884950,
           "title": "White / Refill Tabs (Adhesive Tabs ONLY - 15 Pcs)",
           "price": "14.95",
           "position": 4,
@@ -24246,8 +24246,8 @@
           "image_id": 62488224432470
         },
         {
-          "product_id": 9409650884950,
           "id": 50481142301014,
+          "product_id": 9409650884950,
           "title": "White / BUNDLE: Main Product + Refill Tabs (30 Pcs)",
           "price": "44.95",
           "position": 5,
@@ -24274,8 +24274,8 @@
           "image_id": 62502097322326
         },
         {
-          "product_id": 9409650884950,
           "id": 50151593214294,
+          "product_id": 9409650884950,
           "title": "Black / 4 Bands & 15 Adhesive Tabs",
           "price": "29.95",
           "position": 6,
@@ -24302,8 +24302,8 @@
           "image_id": 61060241654102
         },
         {
-          "product_id": 9409650884950,
           "id": 50217638822230,
+          "product_id": 9409650884950,
           "title": "Black / 4 Bands & 30 Adhesive Tabs",
           "price": "39.95",
           "position": 7,
@@ -24330,8 +24330,8 @@
           "image_id": 61341058728278
         },
         {
-          "product_id": 9409650884950,
           "id": 50474567401814,
+          "product_id": 9409650884950,
           "title": "Black / Refill Tabs (Adhesive Tabs ONLY - 30 Pcs)",
           "price": "19.95",
           "position": 8,
@@ -24358,8 +24358,8 @@
           "image_id": 62488224432470
         },
         {
-          "product_id": 9409650884950,
           "id": 50474567434582,
+          "product_id": 9409650884950,
           "title": "Black / Refill Tabs (Adhesive Tabs ONLY - 15 Pcs)",
           "price": "14.95",
           "position": 9,
@@ -24386,8 +24386,8 @@
           "image_id": 62488224432470
         },
         {
-          "product_id": 9409650884950,
           "id": 50481142268246,
+          "product_id": 9409650884950,
           "title": "Black / BUNDLE: Main Product + Refill Tabs (30 Pcs)",
           "price": "44.95",
           "position": 10,
@@ -24416,8 +24416,8 @@
       ],
       "options": [
         {
-          "product_id": 9409650884950,
           "id": 12179573342550,
+          "product_id": 9409650884950,
           "name": "Color",
           "position": 1,
           "values": [
@@ -24426,8 +24426,8 @@
           ]
         },
         {
-          "product_id": 9409650884950,
           "id": 12179573375318,
+          "product_id": 9409650884950,
           "name": "Option",
           "position": 2,
           "values": [
