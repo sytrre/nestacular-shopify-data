@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-09-22T11:43:18.657528Z
+Generated: 2025-09-22T13:38:16.635230Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -15,7 +15,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (73 collections) ===
+=== COLLECTION PRODUCT FILES (75 collections) ===
 
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
@@ -63,7 +63,9 @@ BLOGS (1 pages):
 • modern-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/modern-high-chairs_products.json
 • moving-day-baby-feeding-setup: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/moving-day-baby-feeding-setup_products.json
 • new-parent-gift-sets: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/new-parent-gift-sets_products.json
+• new-sibling-preparation-feeding-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/new-sibling-preparation-feeding-kit_products.json
 • newborn-bottle-sets: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/newborn-bottle-sets_products.json
+• nursery-furniture: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/nursery-furniture_products.json
 • on-the-go-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/on-the-go-feeding_products.json
 • placemats: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/placemats_products.json
 • plates-and-bowls: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/plates-and-bowls_products.json

@@ -4,7 +4,7 @@
     "handle": "newborn-bottle-sets",
     "title": "Newborn Bottle Sets",
     "body_html": "<p>Get everything you need to start your bottle-feeding journey with confidence. Our newborn bottle sets are the perfect starter kits, often including multiple bottle sizes, slow-flow teats, and cleaning accessories. A beautiful and practical gift for any parent-to-be, curated for the earliest stages of feeding.</p>",
-    "products_count": 4
+    "products_count": 5
   },
   "products": [
     {
@@ -15,11 +15,11 @@
       "product_type": "Baby Gift Box Set",
       "created_at": "2025-09-02T05:34:53+01:00",
       "handle": "bubcloud-leakproof-newborn-baby-gift-box-set",
-      "updated_at": "2025-09-21T01:04:17+01:00",
+      "updated_at": "2025-09-22T13:27:48+01:00",
       "published_at": "2025-09-02T05:35:10+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby essentials box, baby shower gift, baby-bottle-starter-kit, baby-care-bundle, baby-hygiene-accessories, bubcloud-baby-products, bubcloud-gift-box, complete-feeding-kit, durable-newborn-items, feeding-accessories-set, feeding-bottle-set, leakproof baby kit, life-event-baby-shower-host-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, newborn care set, newborn gift set, non-toxic-baby-items, organized-baby-storage, portable-baby-care, silicone-nipples, soft-baby-bibs, travel-baby-essentials",
+      "tags": "baby essentials box, baby shower gift, baby-bottle-starter-kit, baby-care-bundle, baby-hygiene-accessories, bubcloud-baby-products, bubcloud-gift-box, complete-feeding-kit, durable-newborn-items, feeding-accessories-set, feeding-bottle-set, leakproof baby kit, life-event-baby-shower-host-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, newborn care set, newborn gift set, non-toxic-baby-items, organized-baby-storage, portable-baby-care, silicone-nipples, soft-baby-bibs, travel-baby-essentials",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9792651854166",
       "variants": [
@@ -217,6 +217,207 @@
       }
     },
     {
+      "id": 9791457427798,
+      "title": "ChubbyCheeks BPA-Free Silicone Baby Suction Bowl Set - Feeding",
+      "body_html": "<h2>ChubbyCheeks Baby Suction Bowl Set – Safe Silicone Feeding Bowls</h2>\n\n<p>Make mealtime safe and fun with the <strong>ChubbyCheeks Baby Suction Bowl Set</strong>. Designed for infants and toddlers, these bowls feature <strong>strong suction bases</strong> that keep them firmly in place, preventing spills and messes during feeding.</p>\n\n<p>Crafted from <strong>BPA-free, food-grade silicone</strong>, the set is safe, soft, and gentle on your baby's gums. Perfect for <strong>complementary foods, purees, cereals, or snacks</strong>, the bowls are easy to clean and dishwasher-safe. Lightweight and portable, they are ideal for home use or on-the-go feeding.</p>\n\n<h3>Key Features:</h3>\n<ul>\n<li>\n<strong>Strong Suction Base:</strong> Prevents spills and keeps bowls in place.</li>\n<li>\n<strong>Safe &amp; BPA-Free:</strong> Food-grade silicone for baby-safe feeding.</li>\n<li>\n<strong>Perfect for Complementary Foods:</strong> Ideal for cereals, purees, and snacks.</li>\n<li>\n<strong>Easy to Clean &amp; Dishwasher Safe:</strong> Convenient for busy parents.</li>\n<li>\n<strong>Portable &amp; Lightweight:</strong> Perfect for home or travel use.</li>\n</ul>\n\n<p>Ensure mess-free, safe, and enjoyable feeding times with the <strong>ChubbyCheeks Baby Suction Bowl Set.</strong></p>\n\n<img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1631544946773331968.jpg?v=1756904565\" alt=\"ChubbyCheeks Baby Suction Bowl Set with strong suction base\">\n<img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1631544948388139008.jpg?v=1756904564\" alt=\"BPA-free silicone baby feeding bowls\">\n<img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1631544950497873920.jpg?v=1756904565\" alt=\"Dishwasher safe baby suction bowls\">\n<img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1631544948388139008.jpg?v=1756904564\" alt=\"Portable baby feeding bowl set\">",
+      "vendor": "Nestacular",
+      "product_type": "Baby Suction Bowl Set",
+      "created_at": "2025-09-01T13:18:27+01:00",
+      "handle": "chubbycheeks-baby-suction-bowl-set",
+      "updated_at": "2025-09-22T13:33:07+01:00",
+      "published_at": "2025-09-01T13:18:38+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Bowl Set, Baby Suction Bowl, Baby Weaning Tableware, Baby-Led Weaning Bowl, BPA-Free Baby Bowl, ChubbyCheeks, ChubbyCheeks Baby Bowls, Complementary Feeding Bowl, Dishwasher Safe Baby Bowl, Feeding Tableware, Food-Grade Silicone Bowl, Infant Feeding Set, Infant Food Bowl, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-family-gathering-toddler-setup, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, Mess-Free Feeding, Non-Slip Baby Bowl, Portable Baby Feeding Bowl, Self-Feeding Bowl, Silicone Baby Bowl, Spill-Proof Baby Bowl, Toddler Suction Bowl",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9791457427798",
+      "variants": [
+        {
+          "id": 51196520202582,
+          "product_id": 9791457427798,
+          "title": "Pink",
+          "price": "20.79",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "27.03",
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T13:18:36+01:00",
+          "updated_at": "2025-09-01T15:12:18+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 162,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJCJ118523901AZ",
+          "weight": 162.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53402029162838,
+          "inventory_quantity": 31776,
+          "old_inventory_quantity": 31776,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196520202582",
+          "image_id": 66242096496982
+        },
+        {
+          "id": 51196520235350,
+          "product_id": 9791457427798,
+          "title": "Green",
+          "price": "20.79",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "27.03",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T13:18:36+01:00",
+          "updated_at": "2025-09-01T15:12:18+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 162,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJCJ118523902BY",
+          "weight": 162.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53402029195606,
+          "inventory_quantity": 28393,
+          "old_inventory_quantity": 28393,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196520235350",
+          "image_id": 66242096529750
+        },
+        {
+          "id": 51196520268118,
+          "product_id": 9791457427798,
+          "title": "Blue",
+          "price": "20.79",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "27.03",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T13:18:36+01:00",
+          "updated_at": "2025-09-01T15:12:18+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 162,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJCJ118523903CX",
+          "weight": 162.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53402029228374,
+          "inventory_quantity": 33903,
+          "old_inventory_quantity": 33903,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196520268118",
+          "image_id": 66242096562518
+        }
+      ],
+      "options": [
+        {
+          "id": 12640681460054,
+          "product_id": 9791457427798,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Pink",
+            "Green",
+            "Blue"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66242094858582,
+          "alt": "ChubbyCheeks Baby Suction Bowl Set ",
+          "position": 1,
+          "product_id": 9791457427798,
+          "created_at": "2025-09-01T13:18:29+01:00",
+          "updated_at": "2025-09-01T15:12:28+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242094858582",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/e4beada1-f16d-4569-8e12-c4b25da1104b.jpg?v=1756729111",
+          "variant_ids": []
+        },
+        {
+          "id": 66242095677782,
+          "alt": "ChubbyCheeks Baby Suction Bowl Set ",
+          "position": 2,
+          "product_id": 9791457427798,
+          "created_at": "2025-09-01T13:18:31+01:00",
+          "updated_at": "2025-09-01T15:12:35+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242095677782",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c2519e5c-0ca8-46f0-9f17-083c1ace3ad9.jpg?v=1756729113",
+          "variant_ids": []
+        },
+        {
+          "id": 66242096496982,
+          "alt": "ChubbyCheeks Baby Suction Bowl Set ",
+          "position": 3,
+          "product_id": 9791457427798,
+          "created_at": "2025-09-01T13:18:36+01:00",
+          "updated_at": "2025-09-01T15:12:40+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242096496982",
+          "width": 1920,
+          "height": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c1a6bc75-67d5-4b6f-99c0-2335cfee21c8.jpg?v=1756729120",
+          "variant_ids": [
+            51196520202582
+          ]
+        },
+        {
+          "id": 66242096529750,
+          "alt": "ChubbyCheeks Baby Suction Bowl Set ",
+          "position": 4,
+          "product_id": 9791457427798,
+          "created_at": "2025-09-01T13:18:36+01:00",
+          "updated_at": "2025-09-01T15:12:45+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242096529750",
+          "width": 1920,
+          "height": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/de7cb46a-7523-4ad7-b50d-4a22a685138a.jpg?v=1756729120",
+          "variant_ids": [
+            51196520235350
+          ]
+        },
+        {
+          "id": 66242096562518,
+          "alt": "ChubbyCheeks Baby Suction Bowl Set ",
+          "position": 5,
+          "product_id": 9791457427798,
+          "created_at": "2025-09-01T13:18:36+01:00",
+          "updated_at": "2025-09-01T15:12:50+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66242096562518",
+          "width": 1920,
+          "height": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/fe28a3bd-e3a8-4e1d-a764-7d5d07f67e74.jpg?v=1756729120",
+          "variant_ids": [
+            51196520268118
+          ]
+        }
+      ],
+      "image": {
+        "id": 66242094858582,
+        "alt": "ChubbyCheeks Baby Suction Bowl Set ",
+        "position": 1,
+        "product_id": 9791457427798,
+        "created_at": "2025-09-01T13:18:29+01:00",
+        "updated_at": "2025-09-01T15:12:28+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66242094858582",
+        "width": 750,
+        "height": 750,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/e4beada1-f16d-4569-8e12-c4b25da1104b.jpg?v=1756729111",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9808067101014,
       "title": "Martenaa Baby & Toddler Milk Bottle Set – 4-Piece Maternal and Baby Feeding Products | Durable, Safe & Easy-to-Clean Essentials for Everyday Use",
       "body_html": "<p><br></p>\n<p>Martenaa Baby &amp; Toddler Milk Bottle Set – 4-Piece Maternal and Baby Feeding Products combines safe materials, durable craftsmanship, and easy-to-clean design to provide the perfect solution for everyday feeding. This thoughtfully created set is designed to support both parents and little ones through every stage of early development while making feeding simpler, safer, and more enjoyable.</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Martenaa Baby &amp; Toddler Milk Bottle Set – 4-Piece Maternal and Baby Feeding Products | Durable, Safe &amp; Easy-to-Clean Essentials for Everyday Use\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/ed95409c-cfcf-4dc9-98a0-f69270267495.jpg?v=1757425753\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Durable BPA-Free Construction ensures long-lasting and safe daily use</li>\n<li>4-Piece Complete Set offers essential bottles for growing infants and toddlers</li>\n<li>Ergonomic Standard Neck Design supports comfortable feeding and easy grip for parents</li>\n<li>280mL Capacity sized for newborns through toddlers’ feeding needs</li>\n<li>Easy-to-Clean Material supports sterilization, rinsing, and dishwasher use</li>\n<li>Leak-Resistant Cap &amp; Secure Seal prevent spills during travel and storage</li>\n</ul>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Martenaa Baby &amp; Toddler Milk Bottle Set – 4-Piece Maternal and Baby Feeding Products | Durable, Safe &amp; Easy-to-Clean Essentials for Everyday Use\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/d5f84f16-e2db-4821-9de1-0bab51c6bfd7.jpg?v=1757425755\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Sterilize all bottles and nipples before first use</li>\n<li>Fill with breastmilk, formula, or liquids as needed</li>\n<li>Securely attach nipple and cap to prevent leaks</li>\n<li>Clean thoroughly after each feeding with warm water and mild soap</li>\n<li>Store bottles in a clean, dry space until next use</li>\n</ol>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Premium BPA-Free Polypropylene (PP)</li>\n<li>Bottle Capacity: 280mL each</li>\n<li>Set Includes: 4 bottles with nipples and secure caps</li>\n<li>Style: Standard mouth with ergonomic grip</li>\n<li>Suitable for: Infants and toddlers, newborn to weaning stage</li>\n<li>Package: 1 complete 4-piece feeding bottle set</li>\n</ul>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Martenaa Baby &amp; Toddler Milk Bottle Set – 4-Piece Maternal and Baby Feeding Products | Durable, Safe &amp; Easy-to-Clean Essentials for Everyday Use\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/6e13b668-de6a-472e-b8b5-75dba9fde362_67021241-f46c-416d-83e2-a8c3f53f7998.jpg?v=1757425755\"></div>\n<h3>Why Choose This Bottle Set</h3>\n<p> </p>\n<ul>\n<li> Safe and BPA-free construction protects your baby’s health</li>\n<li>Durable bottles built to withstand daily use and repeated cleaning</li>\n<li>Complete set provides great value for busy parents</li>\n<li>Easy-to-clean, dishwasher-safe design saves time and effort</li>\n<li>Leak-resistant seal makes it perfect for both home and travel use</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong><span style=\"color: black;\">A Nestacular Promise</span></strong></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong>At <span style=\"color: black;\">Nestacular</span>, we believe in the quality of our products, so we offer a <span style=\"color: black;\">30-day Money-Back</span> <span style=\"color: black;\">Guarantee,</span> <span style=\"color: #404040;\">no questions asked! When you purchase from us, there is</span> <span style=\"color: black;\">ZERO Risk</span> <span style=\"color: #404040;\">for you!</span></strong></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong>Congratulations!</strong></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong><span style=\"color: black;\">Customer Support:</span></strong></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><strong>Email: support@nestacular.com</strong></p>",
@@ -224,11 +425,11 @@
       "product_type": "0",
       "created_at": "2025-09-09T14:49:04+01:00",
       "handle": "martenaa-baby-toddler-milk-bottle-set-4-piece-maternal-and-baby-feeding-products-durable-safe-easy-to-clean-essentials-for-everyday-use",
-      "updated_at": "2025-09-20T13:31:39+01:00",
+      "updated_at": "2025-09-22T13:36:40+01:00",
       "published_at": "2025-09-09T14:52:36+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Bottles, Baby-Led Weaning Set, CJ, life-event-maternity-leave-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-weekend-camping-baby-feeding-gear",
+      "tags": "Baby Bottles, Baby-Led Weaning Set, CJ, life-event-maternity-leave-feeding-station, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-weekend-camping-baby-feeding-gear",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9808067101014",
       "variants": [
@@ -1232,8 +1433,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 4,
-    "products_in_page": 4,
+    "total_products": 5,
+    "products_in_page": 5,
     "has_next_page": false,
     "has_previous_page": false
   }
