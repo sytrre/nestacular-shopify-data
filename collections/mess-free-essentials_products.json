@@ -4,7 +4,7 @@
     "handle": "mess-free-essentials",
     "title": "Mess-Free Essentials",
     "body_html": "<p>While a truly mess-free meal is a parent's dream, this collection of clever products comes close! Discover our best suction tableware, full-coverage bibs, and spill-proof cups designed to contain the chaos.</p>",
-    "products_count": 98
+    "products_count": 99
   },
   "products": [
     {
@@ -9844,6 +9844,158 @@
         "width": 750,
         "height": 750,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/e4beada1-f16d-4569-8e12-c4b25da1104b.jpg?v=1756729111",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9837616169302,
+      "title": "Climbound Children’s Desk and Chair Set – Sturdy Construction, Ergonomic Design in Blue | Essential Study & Learning Furniture for Kids",
+      "body_html": "<div style=\"text-align: start;\">\n<p>Climbound Children’s Desk and Chair Set combines ergonomic design with sturdy construction to provide the perfect study and learning environment for kids. This thoughtfully crafted set supports proper posture while creating a dedicated space for homework, drawing, and creative play.</p>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a579bae8-5291-441d-b6f9-f5d83ea7cd7c.jpg?v=1758554675\" alt=\"Climbound Children’s Desk and Chair Set – Sturdy Construction, Ergonomic Design in Blue | Essential Study &amp; Learning Furniture for Kids\" style=\"float: none;\"></p>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Ergonomic Design promotes healthy posture and comfort during study sessions</li>\n<li>Sturdy Construction ensures long-lasting durability for daily use</li>\n<li>Spacious Desk Surface provides ample room for books, notebooks, and art supplies</li>\n<li>Matching Chair in Blue designed for comfort and stability</li>\n<li>Easy-to-Clean Surfaces keep the set looking fresh and tidy</li>\n<li>Compact Design fits seamlessly into bedrooms, playrooms, or study corners</li>\n</ul>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/31042294-73f5-4611-9850-70e802f7e357.jpg?v=1758554679\" alt=\"Climbound Children’s Desk and Chair Set – Sturdy Construction, Ergonomic Design in Blue | Essential Study &amp; Learning Furniture for Kids\" style=\"float: none;\"></p>\n<h3>Setup and Usage</h3>\n<ul>\n<li>Assemble desk and chair following included instructions</li>\n<li>Adjust placement in a well-lit area for effective studying</li>\n<li>Wipe surfaces clean after use to maintain durability and hygiene</li>\n<li>Use as a study desk, art station, or multipurpose activity center</li>\n</ul>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/eb23e532-b2ef-4a84-93b4-a86d89e8a891.jpg?v=1758554673\" alt=\"Climbound Children’s Desk and Chair Set – Sturdy Construction, Ergonomic Design in Blue | Essential Study &amp; Learning Furniture for Kids\" style=\"float: none;\"></p>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: High-quality, durable wood &amp; plastic construction</li>\n<li>Dimensions: Desk 80x50x70cm | Chair 40x35x75cm</li>\n<li>Style: Ergonomic study set with matching desk and chair</li>\n<li>Color: Blue</li>\n<li>Suitable for: Children aged 3 years and above</li>\n<li>Package Includes: 1 desk and 1 chair set</li>\n</ul>\n<h3>Why Choose This Desk and Chair Set</h3>\n<ul>\n<li>Provides a dedicated learning environment that encourages focus and productivity</li>\n<li>Ergonomic seating supports healthy posture during growth years</li>\n<li>Sturdy materials ensure long-lasting use for study, play, and creative activities</li>\n<li>Compact design is perfect for small bedrooms and playrooms</li>\n<li>Attractive blue finish makes study time more inviting and enjoyable</li>\n</ul>\n<p> </p>\n</div>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-22T16:24:28+01:00",
+      "handle": "climbound-children-s-desk-and-chair-set-sturdy-construction-ergonomic-design-in-blue-essential-study-learning-furniture-for-kids",
+      "updated_at": "2025-09-22T16:28:27+01:00",
+      "published_at": "2025-09-22T16:28:24+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "CJ, Kids Chair and Desk",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9837616169302",
+      "variants": [
+        {
+          "id": 51383361601878,
+          "product_id": 9837616169302,
+          "title": "Blue",
+          "price": "196.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "246.95",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-22T16:24:36+01:00",
+          "updated_at": "2025-09-22T16:28:13+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 14501,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJFU244827401AZ",
+          "weight": 14501.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53615582642518,
+          "inventory_quantity": 7321,
+          "old_inventory_quantity": 7321,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51383361601878",
+          "image_id": 67055291269462
+        }
+      ],
+      "options": [
+        {
+          "id": 12695408542038,
+          "product_id": 9837616169302,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67055289565526,
+          "alt": "Children's study desk and chair set with adjustable height in a room setting.",
+          "position": 1,
+          "product_id": 9837616169302,
+          "created_at": "2025-09-22T16:24:30+01:00",
+          "updated_at": "2025-09-22T16:26:44+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67055289565526",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/402dbb8f-79ee-4c84-87c1-f8f34686b457.jpg?v=1758554674",
+          "variant_ids": []
+        },
+        {
+          "id": 67055289827670,
+          "alt": "Blue and white adjustable chair on a white background",
+          "position": 2,
+          "product_id": 9837616169302,
+          "created_at": "2025-09-22T16:24:31+01:00",
+          "updated_at": "2025-09-22T16:26:51+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67055289827670",
+          "width": 639,
+          "height": 645,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/eb23e532-b2ef-4a84-93b4-a86d89e8a891.jpg?v=1758554673",
+          "variant_ids": []
+        },
+        {
+          "id": 67055290286422,
+          "alt": "Children's desk and chair set with a lamp on a white background",
+          "position": 3,
+          "product_id": 9837616169302,
+          "created_at": "2025-09-22T16:24:33+01:00",
+          "updated_at": "2025-09-22T16:26:58+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67055290286422",
+          "width": 646,
+          "height": 651,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a579bae8-5291-441d-b6f9-f5d83ea7cd7c.jpg?v=1758554675",
+          "variant_ids": []
+        },
+        {
+          "id": 67055290515798,
+          "alt": "Children's desk and chair set with blue frame and white surface on a white background",
+          "position": 4,
+          "product_id": 9837616169302,
+          "created_at": "2025-09-22T16:24:34+01:00",
+          "updated_at": "2025-09-22T16:27:05+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67055290515798",
+          "width": 644,
+          "height": 656,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5122759f-f729-451c-b859-562819f48c79.jpg?v=1758554676",
+          "variant_ids": []
+        },
+        {
+          "id": 67055291203926,
+          "alt": "Children's desk and chair set with adjustable height on a white background",
+          "position": 5,
+          "product_id": 9837616169302,
+          "created_at": "2025-09-22T16:24:36+01:00",
+          "updated_at": "2025-09-22T16:27:12+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67055291203926",
+          "width": 644,
+          "height": 655,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3c0b3c7b-d58c-4b1e-9728-09866efd6863.jpg?v=1758554679",
+          "variant_ids": []
+        },
+        {
+          "id": 67055291269462,
+          "alt": "Children's desk and chair set with a lamp on a white background",
+          "position": 6,
+          "product_id": 9837616169302,
+          "created_at": "2025-09-22T16:24:36+01:00",
+          "updated_at": "2025-09-22T16:27:17+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67055291269462",
+          "width": 636,
+          "height": 657,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/31042294-73f5-4611-9850-70e802f7e357.jpg?v=1758554679",
+          "variant_ids": [
+            51383361601878
+          ]
+        }
+      ],
+      "image": {
+        "id": 67055289565526,
+        "alt": "Children's study desk and chair set with adjustable height in a room setting.",
+        "position": 1,
+        "product_id": 9837616169302,
+        "created_at": "2025-09-22T16:24:30+01:00",
+        "updated_at": "2025-09-22T16:26:44+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67055289565526",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/402dbb8f-79ee-4c84-87c1-f8f34686b457.jpg?v=1758554674",
         "variant_ids": []
       }
     },
@@ -36689,8 +36841,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793334280534",
       "variants": [
         {
-          "id": 51204703355222,
           "product_id": 9793334280534,
+          "id": 51204703355222,
           "title": "Dark Red",
           "price": "47.37",
           "position": 1,
@@ -36717,8 +36869,8 @@
           "image_id": 66259649397078
         },
         {
-          "id": 51204703387990,
           "product_id": 9793334280534,
+          "id": 51204703387990,
           "title": "Grey blue",
           "price": "47.37",
           "position": 2,
@@ -36745,8 +36897,8 @@
           "image_id": 66259649429846
         },
         {
-          "id": 51204703420758,
           "product_id": 9793334280534,
+          "id": 51204703420758,
           "title": "Olive green",
           "price": "47.37",
           "position": 3,
@@ -36773,8 +36925,8 @@
           "image_id": 66259649462614
         },
         {
-          "id": 51204703453526,
           "product_id": 9793334280534,
+          "id": 51204703453526,
           "title": "Mango",
           "price": "47.37",
           "position": 4,
@@ -36801,8 +36953,8 @@
           "image_id": 66259649495382
         },
         {
-          "id": 51204703486294,
           "product_id": 9793334280534,
+          "id": 51204703486294,
           "title": "Light pink",
           "price": "47.37",
           "position": 5,
@@ -36829,8 +36981,8 @@
           "image_id": 66259649528150
         },
         {
-          "id": 51204703519062,
           "product_id": 9793334280534,
+          "id": 51204703519062,
           "title": "Grey",
           "price": "47.37",
           "position": 6,
@@ -36859,8 +37011,8 @@
       ],
       "options": [
         {
-          "id": 12642924527958,
           "product_id": 9793334280534,
+          "id": 12642924527958,
           "name": "Color",
           "position": 1,
           "values": [
@@ -49191,8 +49343,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 98,
-    "products_in_page": 98,
+    "total_products": 99,
+    "products_in_page": 99,
     "has_next_page": false,
     "has_previous_page": false
   }

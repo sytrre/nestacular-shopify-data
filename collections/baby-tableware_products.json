@@ -245,8 +245,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214519638",
       "variants": [
         {
-          "product_id": 9765214519638,
           "id": 51084619055446,
+          "product_id": 9765214519638,
           "title": "Blue",
           "price": "26.42",
           "position": 1,
@@ -273,8 +273,8 @@
           "image_id": 66259654803798
         },
         {
-          "product_id": 9765214519638,
           "id": 51084619088214,
+          "product_id": 9765214519638,
           "title": "Pink",
           "price": "29.08",
           "position": 2,
@@ -301,8 +301,8 @@
           "image_id": 66259479920982
         },
         {
-          "product_id": 9765214519638,
           "id": 51084619120982,
+          "product_id": 9765214519638,
           "title": "Green",
           "price": "28.56",
           "position": 3,
@@ -331,8 +331,8 @@
       ],
       "options": [
         {
-          "product_id": 9765214519638,
           "id": 12609650065750,
+          "product_id": 9765214519638,
           "name": "Color",
           "position": 1,
           "values": [
@@ -50679,8 +50679,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793334280534",
       "variants": [
         {
-          "id": 51204703355222,
           "product_id": 9793334280534,
+          "id": 51204703355222,
           "title": "Dark Red",
           "price": "47.37",
           "position": 1,
@@ -50707,8 +50707,8 @@
           "image_id": 66259649397078
         },
         {
-          "id": 51204703387990,
           "product_id": 9793334280534,
+          "id": 51204703387990,
           "title": "Grey blue",
           "price": "47.37",
           "position": 2,
@@ -50735,8 +50735,8 @@
           "image_id": 66259649429846
         },
         {
-          "id": 51204703420758,
           "product_id": 9793334280534,
+          "id": 51204703420758,
           "title": "Olive green",
           "price": "47.37",
           "position": 3,
@@ -50763,8 +50763,8 @@
           "image_id": 66259649462614
         },
         {
-          "id": 51204703453526,
           "product_id": 9793334280534,
+          "id": 51204703453526,
           "title": "Mango",
           "price": "47.37",
           "position": 4,
@@ -50791,8 +50791,8 @@
           "image_id": 66259649495382
         },
         {
-          "id": 51204703486294,
           "product_id": 9793334280534,
+          "id": 51204703486294,
           "title": "Light pink",
           "price": "47.37",
           "position": 5,
@@ -50819,8 +50819,8 @@
           "image_id": 66259649528150
         },
         {
-          "id": 51204703519062,
           "product_id": 9793334280534,
+          "id": 51204703519062,
           "title": "Grey",
           "price": "47.37",
           "position": 6,
@@ -50849,8 +50849,8 @@
       ],
       "options": [
         {
-          "id": 12642924527958,
           "product_id": 9793334280534,
+          "id": 12642924527958,
           "name": "Color",
           "position": 1,
           "values": [
