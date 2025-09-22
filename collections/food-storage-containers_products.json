@@ -176,8 +176,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791345459542",
       "variants": [
         {
-          "id": 51196003680598,
           "product_id": 9791345459542,
+          "id": 51196003680598,
           "title": "Blue / 180ml / USB",
           "price": "56.31",
           "position": 1,
@@ -204,8 +204,8 @@
           "image_id": 66240199164246
         },
         {
-          "id": 51196003713366,
           "product_id": 9791345459542,
+          "id": 51196003713366,
           "title": "Blue / 240ml / USB",
           "price": "58.28",
           "position": 2,
@@ -232,8 +232,8 @@
           "image_id": 66240199164246
         },
         {
-          "id": 51196003746134,
           "product_id": 9791345459542,
+          "id": 51196003746134,
           "title": "Pink / 180ml / USB",
           "price": "56.31",
           "position": 3,
@@ -260,8 +260,8 @@
           "image_id": 66240199197014
         },
         {
-          "id": 51196003778902,
           "product_id": 9791345459542,
+          "id": 51196003778902,
           "title": "Pink / 240ml / USB",
           "price": "57.54",
           "position": 4,
@@ -290,8 +290,8 @@
       ],
       "options": [
         {
-          "id": 12640549405014,
           "product_id": 9791345459542,
+          "id": 12640549405014,
           "name": "Color",
           "position": 1,
           "values": [
@@ -300,8 +300,8 @@
           ]
         },
         {
-          "id": 12640549437782,
           "product_id": 9791345459542,
+          "id": 12640549437782,
           "name": "Capacity size",
           "position": 2,
           "values": [
@@ -310,8 +310,8 @@
           ]
         },
         {
-          "id": 12640549470550,
           "product_id": 9791345459542,
+          "id": 12640549470550,
           "name": "power",
           "position": 3,
           "values": [

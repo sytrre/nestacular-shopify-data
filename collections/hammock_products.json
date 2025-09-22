@@ -4,7 +4,7 @@
     "handle": "hammock",
     "title": "Hammock",
     "body_html": "",
-    "products_count": 3
+    "products_count": 5
   },
   "products": [
     {
@@ -288,6 +288,323 @@
         "width": 1600,
         "height": 1600,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/79b53c1b-a1eb-4fe6-b4c0-677e7b058a69_fine.jpg?v=1758182408",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9837465895254,
+      "title": "Bovi Infant Hanging Chair – Folding Canvas Baby Swing Seat, Durable & Space-Saving Design | Essential Indoor & Outdoor Relaxation for Children",
+      "body_html": "<p>Bovi Infant Hanging Chair combines durable canvas craftsmanship with a smart folding design to create the perfect swing solution for modern families. This thoughtfully engineered chair provides a safe, cozy, and space-saving seat that keeps your little one relaxed both indoors and outdoors.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/20122758330690.jpg?v=1758550088\" alt=\"Bovi Infant Hanging Chair – Folding Canvas Baby Swing Seat, Durable &amp; Space-Saving Design | Essential Indoor &amp; Outdoor Relaxation for Children\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Durable canvas construction ensures strength, comfort, and breathability for infants and toddlers.</li>\n<li>Folding, space-saving design allows easy storage when not in use.</li>\n<li>Secure hanging straps provide reliable support for safe swinging.</li>\n<li>Lightweight and portable build makes it ideal for both indoor and outdoor relaxation.</li>\n<li>Soft cushioned seat enhances comfort during playtime or nap time.</li>\n<li>Stylish, minimalist design complements modern homes and play areas.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2506308387159.jpg?v=1758550093\" alt=\"Bovi Infant Hanging Chair – Folding Canvas Baby Swing Seat, Durable &amp; Space-Saving Design | Essential Indoor &amp; Outdoor Relaxation for Children\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Choose a secure beam, doorway frame, or hook suitable for hanging.</li>\n<li>Attach the hanging straps and ensure all fastenings are tightly secured.</li>\n<li>Place your baby gently into the seat and adjust the straps for comfort and safety.</li>\n<li>Supervise your child at all times while swinging.</li>\n<li>Fold the canvas seat flat when not in use for convenient storage.</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1546633366418.jpg?v=1758550089\" alt=\"Bovi Infant Hanging Chair – Folding Canvas Baby Swing Seat, Durable &amp; Space-Saving Design | Essential Indoor &amp; Outdoor Relaxation for Children\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: High-quality canvas seat with reinforced straps</li>\n<li>Dimensions: 95x60x45cm (fully expanded)</li>\n<li>Style: Folding hanging swing seat</li>\n<li>Colors: Classic Beige, Sky Blue, Forest Green</li>\n<li>Suitable for: Infants and toddlers for indoor/outdoor relaxation</li>\n<li>Package: 1 complete infant hanging chair with straps</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4262763499318.jpg?v=1758550094\" alt=\"Bovi Infant Hanging Chair – Folding Canvas Baby Swing Seat, Durable &amp; Space-Saving Design | Essential Indoor &amp; Outdoor Relaxation for Children\" style=\"float: none;\"></div>\n<h3>Why Choose This Chair</h3>\n<p> </p>\n<ul>\n<li> Space-efficient folding design ideal for small apartments and family homes.</li>\n<li>Durable canvas seat offers superior strength and comfort compared to plastic alternatives.</li>\n<li>Portable and lightweight, making it easy to move between rooms or outdoor spaces.</li>\n<li>Secure hanging straps ensure your baby’s safety while enjoying gentle swinging.</li>\n<li>Stylish color options blend effortlessly into any home environment.</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-22T15:07:59+01:00",
+      "handle": "bovi-infant-hanging-chair-folding-canvas-baby-swing-seat-durable-space-saving-design-essential-indoor-outdoor-relaxation-for-children",
+      "updated_at": "2025-09-22T15:12:28+01:00",
+      "published_at": "2025-09-22T15:12:26+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Hanging Chair, CJ",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9837465895254",
+      "variants": [
+        {
+          "id": 51382952821078,
+          "product_id": 9837465895254,
+          "title": "Blue and white waves",
+          "price": "72.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "102.95",
+          "option1": "Blue and white waves",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-22T15:08:10+01:00",
+          "updated_at": "2025-09-22T15:12:12+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 1420,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE05209-Blue and white waves",
+          "weight": 1420.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53615038660950,
+          "inventory_quantity": 20000,
+          "old_inventory_quantity": 20000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51382952821078",
+          "image_id": 67054597833046
+        }
+      ],
+      "options": [
+        {
+          "id": 12695241687382,
+          "product_id": 9837465895254,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue and white waves"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67054597177686,
+          "alt": "Child on a swing set with a grassy background",
+          "position": 1,
+          "product_id": 9837465895254,
+          "created_at": "2025-09-22T15:08:01+01:00",
+          "updated_at": "2025-09-22T15:10:38+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054597177686",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1455388923988.jpg?v=1758550086",
+          "variant_ids": []
+        },
+        {
+          "id": 67054597439830,
+          "alt": "Two pillows, one white and one with a blue and white chevron pattern, on a light blue background with water droplet graphics.",
+          "position": 2,
+          "product_id": 9837465895254,
+          "created_at": "2025-09-22T15:08:03+01:00",
+          "updated_at": "2025-09-22T15:10:46+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054597439830",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/757400450439.jpg?v=1758550086",
+          "variant_ids": []
+        },
+        {
+          "id": 67054597833046,
+          "alt": "Child in a blue and white striped hammock with accessories on a white background",
+          "position": 3,
+          "product_id": 9837465895254,
+          "created_at": "2025-09-22T15:08:05+01:00",
+          "updated_at": "2025-09-22T15:10:53+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054597833046",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/20122758330690.jpg?v=1758550088",
+          "variant_ids": [
+            51382952821078
+          ]
+        },
+        {
+          "id": 67054598127958,
+          "alt": "Close-up of a green plastic clip on a white rope against a light blue background.",
+          "position": 4,
+          "product_id": 9837465895254,
+          "created_at": "2025-09-22T15:08:07+01:00",
+          "updated_at": "2025-09-22T15:11:00+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054598127958",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1546633366418.jpg?v=1758550089",
+          "variant_ids": []
+        },
+        {
+          "id": 67054599405910,
+          "alt": "Pink children's swing chair in a room with plants and shelves.",
+          "position": 5,
+          "product_id": 9837465895254,
+          "created_at": "2025-09-22T15:08:09+01:00",
+          "updated_at": "2025-09-22T15:11:07+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054599405910",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2506308387159.jpg?v=1758550093",
+          "variant_ids": []
+        },
+        {
+          "id": 67054599668054,
+          "alt": "Blue and white zigzag patterned swing with wooden handle on a white background",
+          "position": 6,
+          "product_id": 9837465895254,
+          "created_at": "2025-09-22T15:08:10+01:00",
+          "updated_at": "2025-09-22T15:11:14+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054599668054",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4262763499318.jpg?v=1758550094",
+          "variant_ids": []
+        },
+        {
+          "id": 67054599700822,
+          "alt": "Blue and white zigzag patterned swing with wooden handle on a white background",
+          "position": 7,
+          "product_id": 9837465895254,
+          "created_at": "2025-09-22T15:08:11+01:00",
+          "updated_at": "2025-09-22T15:11:21+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054599700822",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1629729208386.jpg?v=1758550094",
+          "variant_ids": []
+        }
+      ],
+      "image": {
+        "id": 67054597177686,
+        "alt": "Child on a swing set with a grassy background",
+        "position": 1,
+        "product_id": 9837465895254,
+        "created_at": "2025-09-22T15:08:01+01:00",
+        "updated_at": "2025-09-22T15:10:38+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67054597177686",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1455388923988.jpg?v=1758550086",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9837501841750,
+      "title": "Dinoga Outdoor Cotton & Linen Children’s Hanging Chair – Durable Infant Swing, Comfortable & Portable Design | Essential Indoor & Outdoor Relaxation Seat for Toddlers",
+      "body_html": "<p>Dinoga Outdoor Cotton &amp; Linen Children’s Hanging Chair combines cozy comfort with durable craftsmanship to create the perfect relaxation seat for little ones. Designed for both indoor and outdoor use, this versatile swing chair provides a safe, soothing, and enjoyable experience for toddlers while enhancing any space with its timeless cotton and linen design.</p>\n<div style=\"text-align: left;\"><img style=\"margin-bottom: 14px; float: none;\" alt=\"Dinoga Outdoor Cotton &amp; Linen Children’s Hanging Chair – Durable Infant Swing, Comfortable &amp; Portable Design | Essential Indoor &amp; Outdoor Relaxation Seat for Toddlers\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/adbadd55-2256-4eef-afb8-c92405895b54.jpg?v=1758551146\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Durable Cotton &amp; Linen Construction – breathable fabric offers comfort and long-lasting use.</li>\n<li>Indoor &amp; Outdoor Versatility – ideal for bedrooms, playrooms, patios, or gardens.</li>\n<li>Portable &amp; Space-Saving Design – folds compactly for effortless storage and travel.</li>\n<li>Secure Hanging System – sturdy straps and reinforced stitching ensure child safety.</li>\n<li>Gentle Swinging Motion – provides a calming effect for relaxation or playtime.</li>\n<li>Stylish Aesthetic – neutral cotton and linen tones complement any home or outdoor décor.</li>\n</ul>\n<div style=\"text-align: left;\"><img style=\"margin-bottom: 14px; float: none;\" alt=\"Dinoga Outdoor Cotton &amp; Linen Children’s Hanging Chair – Durable Infant Swing, Comfortable &amp; Portable Design | Essential Indoor &amp; Outdoor Relaxation Seat for Toddlers\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3a1962df-b0ea-4321-b31a-3c6461d186c7.jpg?v=1758551144\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Attach swing securely to a strong beam, hook, or stand using provided straps.</li>\n<li>Adjust height for your child’s comfort and safety.</li>\n<li>Ensure all knots and fastenings are secure before seating your child.</li>\n<li>Use indoors for quiet play or outdoors for fresh-air relaxation.</li>\n<li>Fold and store after use to maintain fabric quality.</li>\n</ol>\n<div style=\"text-align: left;\"><img style=\"margin-bottom: 14px; float: none;\" alt=\"Dinoga Outdoor Cotton &amp; Linen Children’s Hanging Chair – Durable Infant Swing, Comfortable &amp; Portable Design | Essential Indoor &amp; Outdoor Relaxation Seat for Toddlers\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/68bd210c-5109-4482-a280-ca5953424d96.jpg?v=1758551145\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Premium cotton &amp; linen blend with reinforced stitching</li>\n<li>Dimensions: 120x80x60cm (when fully extended)</li>\n<li>Style: Hanging swing chair with foldable design</li>\n<li>Colors: Classic Beige, Sky Blue, Forest Green</li>\n<li>Suitable for: Toddlers and young children (6 months – 4 years)</li>\n<li>Package: 1 complete hanging swing chair with straps</li>\n</ul>\n<div style=\"text-align: left;\"><img style=\"margin-bottom: 14px; float: none;\" alt=\"Dinoga Outdoor Cotton &amp; Linen Children’s Hanging Chair – Durable Infant Swing, Comfortable &amp; Portable Design | Essential Indoor &amp; Outdoor Relaxation Seat for Toddlers\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c5f727f0-793e-4093-8d7f-bbb44248c94b.jpg?v=1758551140\"></div>\n<h3>Why Choose This Chair</h3>\n<p> </p>\n<ul>\n<li> Dual-use design makes it perfect for both indoor comfort and outdoor fun.</li>\n<li>Cotton &amp; linen fabric provides superior breathability compared to synthetic alternatives.</li>\n<li>Safe, secure construction with reinforced seams ensures long-term reliability.</li>\n<li>Lightweight and portable design makes it easy to transport between spaces.</li>\n<li>A beautiful, cozy addition to any child’s environment, blending function with style.</li>\n</ul>\n<p><br></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-22T15:25:36+01:00",
+      "handle": "dinoga-outdoor-cotton-linen-children-s-hanging-chair-durable-infant-swing-comfortable-portable-design-essential-indoor-outdoor-relaxation-seat-for-toddlers",
+      "updated_at": "2025-09-22T15:33:49+01:00",
+      "published_at": "2025-09-22T15:31:08+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "CJ, Kid Hanging Chair",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9837501841750",
+      "variants": [
+        {
+          "id": 51383040999766,
+          "product_id": 9837501841750,
+          "title": "Blue",
+          "price": "89.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "139.95",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-22T15:25:44+01:00",
+          "updated_at": "2025-09-22T15:30:54+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 1800,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT253390001AZ",
+          "weight": 1800.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53615130968406,
+          "inventory_quantity": 8896,
+          "old_inventory_quantity": 8896,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51383040999766",
+          "image_id": 67054777925974
+        }
+      ],
+      "options": [
+        {
+          "id": 12695279534422,
+          "product_id": 9837501841750,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67054776975702,
+          "alt": "Children's swing with dinosaur pattern on a white background",
+          "position": 1,
+          "product_id": 9837501841750,
+          "created_at": "2025-09-22T15:25:38+01:00",
+          "updated_at": "2025-09-22T15:29:23+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054776975702",
+          "width": 563,
+          "height": 563,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c5f727f0-793e-4093-8d7f-bbb44248c94b.jpg?v=1758551140",
+          "variant_ids": []
+        },
+        {
+          "id": 67054777336150,
+          "alt": "Children's bag with dinosaur design on a blue background",
+          "position": 2,
+          "product_id": 9837501841750,
+          "created_at": "2025-09-22T15:25:40+01:00",
+          "updated_at": "2025-09-22T15:29:29+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054777336150",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a1e8657b-a150-4575-8c47-eed83619b2c4.jpg?v=1758551143",
+          "variant_ids": []
+        },
+        {
+          "id": 67054777434454,
+          "alt": "Children's swing with dinosaur patterned seat on a white background",
+          "position": 3,
+          "product_id": 9837501841750,
+          "created_at": "2025-09-22T15:25:41+01:00",
+          "updated_at": "2025-09-22T15:29:36+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054777434454",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3a1962df-b0ea-4321-b31a-3c6461d186c7.jpg?v=1758551144",
+          "variant_ids": []
+        },
+        {
+          "id": 67054777565526,
+          "alt": "Children's swing with dinosaur pattern and dimensions displayed",
+          "position": 4,
+          "product_id": 9837501841750,
+          "created_at": "2025-09-22T15:25:42+01:00",
+          "updated_at": "2025-09-22T15:29:45+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054777565526",
+          "width": 800,
+          "height": 1094,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/68bd210c-5109-4482-a280-ca5953424d96.jpg?v=1758551145",
+          "variant_ids": []
+        },
+        {
+          "id": 67054777925974,
+          "alt": "Child sitting in a colorful baby swing with a white background",
+          "position": 5,
+          "product_id": 9837501841750,
+          "created_at": "2025-09-22T15:25:44+01:00",
+          "updated_at": "2025-09-22T15:29:51+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054777925974",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/adbadd55-2256-4eef-afb8-c92405895b54.jpg?v=1758551146",
+          "variant_ids": [
+            51383040999766
+          ]
+        },
+        {
+          "id": 67054777958742,
+          "alt": "Children's swing with dinosaur pattern on a white background",
+          "position": 6,
+          "product_id": 9837501841750,
+          "created_at": "2025-09-22T15:25:44+01:00",
+          "updated_at": "2025-09-22T15:29:58+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67054777958742",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/573b25f4-cca6-4acb-9d1d-b26520cd85c3.jpg?v=1758551148",
+          "variant_ids": []
+        }
+      ],
+      "image": {
+        "id": 67054776975702,
+        "alt": "Children's swing with dinosaur pattern on a white background",
+        "position": 1,
+        "product_id": 9837501841750,
+        "created_at": "2025-09-22T15:25:38+01:00",
+        "updated_at": "2025-09-22T15:29:23+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67054776975702",
+        "width": 563,
+        "height": 563,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c5f727f0-793e-4093-8d7f-bbb44248c94b.jpg?v=1758551140",
         "variant_ids": []
       }
     },
@@ -890,8 +1207,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 3,
-    "products_in_page": 3,
+    "total_products": 5,
+    "products_in_page": 5,
     "has_next_page": false,
     "has_previous_page": false
   }
