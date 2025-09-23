@@ -9855,7 +9855,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T16:24:28+01:00",
       "handle": "climbound-children-s-desk-and-chair-set-sturdy-construction-ergonomic-design-in-blue-essential-study-learning-furniture-for-kids",
-      "updated_at": "2025-09-22T17:11:40+01:00",
+      "updated_at": "2025-09-23T04:24:39+01:00",
       "published_at": "2025-09-22T16:28:24+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -16549,8 +16549,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776206840150",
       "variants": [
         {
-          "id": 51128332321110,
           "product_id": 9776206840150,
+          "id": 51128332321110,
           "title": "Blue",
           "price": "15.95",
           "position": 1,
@@ -16577,8 +16577,8 @@
           "image_id": 66088024441174
         },
         {
-          "id": 51128332353878,
           "product_id": 9776206840150,
+          "id": 51128332353878,
           "title": "Green",
           "price": "15.95",
           "position": 2,
@@ -16605,8 +16605,8 @@
           "image_id": 66088024473942
         },
         {
-          "id": 51128332386646,
           "product_id": 9776206840150,
+          "id": 51128332386646,
           "title": "Orange",
           "price": "15.95",
           "position": 3,
@@ -16633,8 +16633,8 @@
           "image_id": 66088024506710
         },
         {
-          "id": 51128332419414,
           "product_id": 9776206840150,
+          "id": 51128332419414,
           "title": "Purple",
           "price": "15.95",
           "position": 4,
@@ -16661,8 +16661,8 @@
           "image_id": 66088024539478
         },
         {
-          "id": 51128332452182,
           "product_id": 9776206840150,
+          "id": 51128332452182,
           "title": "Red",
           "price": "15.95",
           "position": 5,
@@ -16689,8 +16689,8 @@
           "image_id": 66088024572246
         },
         {
-          "id": 51128332484950,
           "product_id": 9776206840150,
+          "id": 51128332484950,
           "title": "Yellow",
           "price": "15.95",
           "position": 6,
@@ -16719,8 +16719,8 @@
       ],
       "options": [
         {
-          "id": 12622646051158,
           "product_id": 9776206840150,
+          "id": 12622646051158,
           "name": "Color",
           "position": 1,
           "values": [
@@ -36841,8 +36841,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793334280534",
       "variants": [
         {
-          "product_id": 9793334280534,
           "id": 51204703355222,
+          "product_id": 9793334280534,
           "title": "Dark Red",
           "price": "47.37",
           "position": 1,
@@ -36869,8 +36869,8 @@
           "image_id": 66259649397078
         },
         {
-          "product_id": 9793334280534,
           "id": 51204703387990,
+          "product_id": 9793334280534,
           "title": "Grey blue",
           "price": "47.37",
           "position": 2,
@@ -36897,8 +36897,8 @@
           "image_id": 66259649429846
         },
         {
-          "product_id": 9793334280534,
           "id": 51204703420758,
+          "product_id": 9793334280534,
           "title": "Olive green",
           "price": "47.37",
           "position": 3,
@@ -36925,8 +36925,8 @@
           "image_id": 66259649462614
         },
         {
-          "product_id": 9793334280534,
           "id": 51204703453526,
+          "product_id": 9793334280534,
           "title": "Mango",
           "price": "47.37",
           "position": 4,
@@ -36953,8 +36953,8 @@
           "image_id": 66259649495382
         },
         {
-          "product_id": 9793334280534,
           "id": 51204703486294,
+          "product_id": 9793334280534,
           "title": "Light pink",
           "price": "47.37",
           "position": 5,
@@ -36981,8 +36981,8 @@
           "image_id": 66259649528150
         },
         {
-          "product_id": 9793334280534,
           "id": 51204703519062,
+          "product_id": 9793334280534,
           "title": "Grey",
           "price": "47.37",
           "position": 6,
@@ -37011,8 +37011,8 @@
       ],
       "options": [
         {
-          "product_id": 9793334280534,
           "id": 12642924527958,
+          "product_id": 9793334280534,
           "name": "Color",
           "position": 1,
           "values": [

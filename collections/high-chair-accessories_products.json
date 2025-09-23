@@ -3031,8 +3031,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9837192249686",
       "variants": [
         {
-          "id": 51381799158102,
           "product_id": 9837192249686,
+          "id": 51381799158102,
           "title": "Cloe orange / Style1",
           "price": "122.95",
           "position": 1,
@@ -3059,8 +3059,8 @@
           "image_id": 67052958024022
         },
         {
-          "id": 51381799190870,
           "product_id": 9837192249686,
+          "id": 51381799190870,
           "title": "Cloe orange / Style2",
           "price": "123.95",
           "position": 2,
@@ -3087,8 +3087,8 @@
           "image_id": 67052958056790
         },
         {
-          "id": 51381799223638,
           "product_id": 9837192249686,
+          "id": 51381799223638,
           "title": "Cloe orange / Style3",
           "price": "124.95",
           "position": 3,
@@ -3115,8 +3115,8 @@
           "image_id": 67052958089558
         },
         {
-          "id": 51381799256406,
           "product_id": 9837192249686,
+          "id": 51381799256406,
           "title": "Cloe orange / Style4",
           "price": "125.95",
           "position": 4,
@@ -3143,8 +3143,8 @@
           "image_id": 67052958122326
         },
         {
-          "id": 51381799289174,
           "product_id": 9837192249686,
+          "id": 51381799289174,
           "title": "Cloe orange / Style5",
           "price": "121.95",
           "position": 5,
@@ -3171,8 +3171,8 @@
           "image_id": 67052958155094
         },
         {
-          "id": 51381799321942,
           "product_id": 9837192249686,
+          "id": 51381799321942,
           "title": "Cloe orange / Style6",
           "price": "123.45",
           "position": 6,
@@ -3199,8 +3199,8 @@
           "image_id": 67052958187862
         },
         {
-          "id": 51381799354710,
           "product_id": 9837192249686,
+          "id": 51381799354710,
           "title": "Cloe orange / Style7",
           "price": "123.65",
           "position": 7,
@@ -3227,8 +3227,8 @@
           "image_id": 67052958220630
         },
         {
-          "id": 51381799387478,
           "product_id": 9837192249686,
+          "id": 51381799387478,
           "title": "Cloe orange / Style8",
           "price": "124.45",
           "position": 8,
@@ -3255,8 +3255,8 @@
           "image_id": 67052958253398
         },
         {
-          "id": 51381799420246,
           "product_id": 9837192249686,
+          "id": 51381799420246,
           "title": "Glacier blue / Style1",
           "price": "122.95",
           "position": 9,
@@ -3283,8 +3283,8 @@
           "image_id": 67052958286166
         },
         {
-          "id": 51381799453014,
           "product_id": 9837192249686,
+          "id": 51381799453014,
           "title": "Glacier blue / Style2",
           "price": "123.95",
           "position": 10,
@@ -3311,8 +3311,8 @@
           "image_id": 67052958318934
         },
         {
-          "id": 51381799485782,
           "product_id": 9837192249686,
+          "id": 51381799485782,
           "title": "Glacier blue / Style3",
           "price": "124.95",
           "position": 11,
@@ -3339,8 +3339,8 @@
           "image_id": 67052958351702
         },
         {
-          "id": 51381799518550,
           "product_id": 9837192249686,
+          "id": 51381799518550,
           "title": "Glacier blue / Style4",
           "price": "125.95",
           "position": 12,
@@ -3367,8 +3367,8 @@
           "image_id": 67052958384470
         },
         {
-          "id": 51381799551318,
           "product_id": 9837192249686,
+          "id": 51381799551318,
           "title": "Glacier blue / Style5",
           "price": "121.95",
           "position": 13,
@@ -3395,8 +3395,8 @@
           "image_id": 67052958417238
         },
         {
-          "id": 51381799584086,
           "product_id": 9837192249686,
+          "id": 51381799584086,
           "title": "Glacier blue / Style6",
           "price": "123.45",
           "position": 14,
@@ -3423,8 +3423,8 @@
           "image_id": 67052958450006
         },
         {
-          "id": 51381799616854,
           "product_id": 9837192249686,
+          "id": 51381799616854,
           "title": "Glacier blue / Style7",
           "price": "123.65",
           "position": 15,
@@ -3451,8 +3451,8 @@
           "image_id": 67052958482774
         },
         {
-          "id": 51381799649622,
           "product_id": 9837192249686,
+          "id": 51381799649622,
           "title": "Glacier blue / Style8",
           "price": "124.45",
           "position": 16,
@@ -3479,8 +3479,8 @@
           "image_id": 67052958515542
         },
         {
-          "id": 51381799682390,
           "product_id": 9837192249686,
+          "id": 51381799682390,
           "title": "Verde powder / Style1",
           "price": "122.95",
           "position": 17,
@@ -3507,8 +3507,8 @@
           "image_id": 67052958548310
         },
         {
-          "id": 51381799715158,
           "product_id": 9837192249686,
+          "id": 51381799715158,
           "title": "Verde powder / Style2",
           "price": "123.95",
           "position": 18,
@@ -3535,8 +3535,8 @@
           "image_id": 67052958581078
         },
         {
-          "id": 51381799747926,
           "product_id": 9837192249686,
+          "id": 51381799747926,
           "title": "Verde powder / Style3",
           "price": "124.95",
           "position": 19,
@@ -3563,8 +3563,8 @@
           "image_id": 67052958613846
         },
         {
-          "id": 51381799780694,
           "product_id": 9837192249686,
+          "id": 51381799780694,
           "title": "Verde powder / Style4",
           "price": "125.95",
           "position": 20,
@@ -3591,8 +3591,8 @@
           "image_id": 67052958646614
         },
         {
-          "id": 51381799813462,
           "product_id": 9837192249686,
+          "id": 51381799813462,
           "title": "Verde powder / Style5",
           "price": "121.95",
           "position": 21,
@@ -3619,8 +3619,8 @@
           "image_id": 67052958679382
         },
         {
-          "id": 51381799846230,
           "product_id": 9837192249686,
+          "id": 51381799846230,
           "title": "Verde powder / Style6",
           "price": "123.45",
           "position": 22,
@@ -3647,8 +3647,8 @@
           "image_id": 67052958712150
         },
         {
-          "id": 51381799878998,
           "product_id": 9837192249686,
+          "id": 51381799878998,
           "title": "Verde powder / Style7",
           "price": "123.65",
           "position": 23,
@@ -3675,8 +3675,8 @@
           "image_id": 67052958744918
         },
         {
-          "id": 51381799911766,
           "product_id": 9837192249686,
+          "id": 51381799911766,
           "title": "Verde powder / Style8",
           "price": "124.45",
           "position": 24,
@@ -3705,8 +3705,8 @@
       ],
       "options": [
         {
-          "id": 12694947823958,
           "product_id": 9837192249686,
+          "id": 12694947823958,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3716,8 +3716,8 @@
           ]
         },
         {
-          "id": 12694947856726,
           "product_id": 9837192249686,
+          "id": 12694947856726,
           "name": "style",
           "position": 2,
           "values": [
