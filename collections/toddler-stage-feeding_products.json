@@ -1240,8 +1240,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791835373910",
       "variants": [
         {
-          "id": 51197690741078,
           "product_id": 9791835373910,
+          "id": 51197690741078,
           "title": "Brown / Brown Nipple Cover",
           "price": "30.19",
           "position": 1,
@@ -1268,8 +1268,8 @@
           "image_id": 66245917540694
         },
         {
-          "id": 51197690773846,
           "product_id": 9791835373910,
+          "id": 51197690773846,
           "title": "Brown / Brown Straw Cover",
           "price": "30.19",
           "position": 2,
@@ -1296,8 +1296,8 @@
           "image_id": 66245917573462
         },
         {
-          "id": 51197690806614,
           "product_id": 9791835373910,
+          "id": 51197690806614,
           "title": "Brown / Brown Nipple Cover Straw Cover",
           "price": "30.64",
           "position": 3,
@@ -1326,8 +1326,8 @@
       ],
       "options": [
         {
-          "id": 12641114259798,
           "product_id": 9791835373910,
+          "id": 12641114259798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1335,8 +1335,8 @@
           ]
         },
         {
-          "id": 12641114292566,
           "product_id": 9791835373910,
+          "id": 12641114292566,
           "name": "Capacity",
           "position": 2,
           "values": [
