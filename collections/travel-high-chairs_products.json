@@ -10813,8 +10813,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9732319674710",
       "variants": [
         {
-          "product_id": 9732319674710,
           "id": 50948372169046,
+          "product_id": 9732319674710,
           "title": "Green / 110V",
           "price": "120.95",
           "position": 1,
@@ -10843,8 +10843,8 @@
       ],
       "options": [
         {
-          "product_id": 9732319674710,
           "id": 12570572915030,
+          "product_id": 9732319674710,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10852,8 +10852,8 @@
           ]
         },
         {
-          "product_id": 9732319674710,
           "id": 12570572947798,
+          "product_id": 9732319674710,
           "name": "Voltage",
           "position": 2,
           "values": [
@@ -14434,8 +14434,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825417265494",
       "variants": [
         {
-          "product_id": 9825417265494,
           "id": 51338380411222,
+          "product_id": 9825417265494,
           "title": "Green",
           "price": "339.95",
           "position": 1,
@@ -14462,8 +14462,8 @@
           "image_id": 66895684960598
         },
         {
-          "product_id": 9825417265494,
           "id": 51338380443990,
+          "product_id": 9825417265494,
           "title": "Grey",
           "price": "339.95",
           "position": 2,
@@ -14490,8 +14490,8 @@
           "image_id": 66895466627414
         },
         {
-          "product_id": 9825417265494,
           "id": 51338380476758,
+          "product_id": 9825417265494,
           "title": "Orange",
           "price": "339.95",
           "position": 3,
@@ -14518,8 +14518,8 @@
           "image_id": 66895466660182
         },
         {
-          "product_id": 9825417265494,
           "id": 51338380509526,
+          "product_id": 9825417265494,
           "title": "Purple",
           "price": "339.95",
           "position": 4,
@@ -14548,8 +14548,8 @@
       ],
       "options": [
         {
-          "product_id": 9825417265494,
           "id": 12681177596246,
+          "product_id": 9825417265494,
           "name": "Color",
           "position": 1,
           "values": [
