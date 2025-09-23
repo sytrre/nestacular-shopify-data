@@ -6857,7 +6857,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T13:30:41+01:00",
       "handle": "awpolo-baby-electric-smart-rocking-chair-multifunctional-cradle-with-soothing-sleep-mode-essential-coaxing-comfort-seat-for-infants",
-      "updated_at": "2025-09-22T14:09:30+01:00",
+      "updated_at": "2025-09-23T01:31:58+01:00",
       "published_at": "2025-09-22T13:39:05+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -27618,7 +27618,7 @@
       "product_type": "Baby Tableware Set",
       "created_at": "2025-09-01T16:36:55+01:00",
       "handle": "bubira-silicone-baby-tableware-set",
-      "updated_at": "2025-09-22T13:32:39+01:00",
+      "updated_at": "2025-09-23T01:14:33+01:00",
       "published_at": "2025-09-01T16:37:34+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -28554,7 +28554,7 @@
       "product_type": "Baby Bottle Warmer",
       "created_at": "2025-09-01T06:59:05+01:00",
       "handle": "bubsy-portable-baby-bottle-warmer",
-      "updated_at": "2025-09-22T13:27:53+01:00",
+      "updated_at": "2025-09-23T00:51:05+01:00",
       "published_at": "2025-09-01T06:59:19+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -29410,7 +29410,7 @@
       "product_type": "0",
       "created_at": "2025-09-10T12:40:36+01:00",
       "handle": "buhubaby-baby-tableware-3-piece-set-solid-food-bowl-silicone-bib-wooden-spoon-safe-durable-feeding-essentials-for-infants-toddlers",
-      "updated_at": "2025-09-22T13:32:46+01:00",
+      "updated_at": "2025-09-23T00:43:57+01:00",
       "published_at": "2025-09-10T12:55:49+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -30183,7 +30183,7 @@
       "product_type": "Baby Feeding Plates",
       "created_at": "2025-08-28T14:43:38+01:00",
       "handle": "bumubaby-luxury-baby-dinnerware-silicone-plates-for-little-gourmets",
-      "updated_at": "2025-09-22T13:32:49+01:00",
+      "updated_at": "2025-09-23T01:32:47+01:00",
       "published_at": "2025-08-28T14:55:54+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -30591,7 +30591,7 @@
       "product_type": "0",
       "created_at": "2025-09-16T16:11:58+01:00",
       "handle": "campitots-baby-camping-folding-dining-chair-portable-lightweight-space-saving-design-essential-feeding-chair-for-babies-toddlers-on-the-go",
-      "updated_at": "2025-09-22T13:32:51+01:00",
+      "updated_at": "2025-09-23T00:46:08+01:00",
       "published_at": "2025-09-16T16:20:19+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -32020,7 +32020,7 @@
       "product_type": "Baby Bottle Warmer",
       "created_at": "2025-09-01T13:16:22+01:00",
       "handle": "celesta-baby-bottle-warmer",
-      "updated_at": "2025-09-22T13:28:07+01:00",
+      "updated_at": "2025-09-23T00:47:02+01:00",
       "published_at": "2025-09-01T13:16:40+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -32758,7 +32758,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T12:49:11+01:00",
       "handle": "chaeld-children-s-sofa-cartoon-girl-design-comfortable-lazy-baby-sofa-chair-essential-seating-relaxation-for-toddlers",
-      "updated_at": "2025-09-22T13:12:23+01:00",
+      "updated_at": "2025-09-23T00:49:32+01:00",
       "published_at": "2025-09-22T13:10:44+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -34890,7 +34890,7 @@
       "product_type": "Baby Feeding Nursing Towel",
       "created_at": "2025-09-02T05:33:27+01:00",
       "handle": "cherubi-baby-feeding-nursing-towel",
-      "updated_at": "2025-09-22T13:28:14+01:00",
+      "updated_at": "2025-09-23T01:26:26+01:00",
       "published_at": "2025-09-02T05:33:48+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -35094,7 +35094,7 @@
       "product_type": "Baby Suction Bowl Set",
       "created_at": "2025-09-01T13:18:27+01:00",
       "handle": "chubbycheeks-baby-suction-bowl-set",
-      "updated_at": "2025-09-22T13:33:07+01:00",
+      "updated_at": "2025-09-23T01:45:00+01:00",
       "published_at": "2025-09-01T13:18:38+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -58935,11 +58935,11 @@
       "images": [
         {
           "id": 59210174759254,
-          "alt": null,
+          "alt": "Digital music display featuring Taylor Swift's 'Love Story' on a black frame",
           "position": 1,
           "product_id": 9408746553686,
           "created_at": "2025-01-13T18:07:56+00:00",
-          "updated_at": "2025-01-13T18:07:56+00:00",
+          "updated_at": "2025-09-22T12:57:50+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/59210174759254",
           "width": 974,
           "height": 974,
@@ -59044,11 +59044,11 @@
       ],
       "image": {
         "id": 59210174759254,
-        "alt": null,
+        "alt": "Digital music display featuring Taylor Swift's 'Love Story' on a black frame",
         "position": 1,
         "product_id": 9408746553686,
         "created_at": "2025-01-13T18:07:56+00:00",
-        "updated_at": "2025-01-13T18:07:56+00:00",
+        "updated_at": "2025-09-22T12:57:50+01:00",
         "admin_graphql_api_id": "gid://shopify/ProductImage/59210174759254",
         "width": 974,
         "height": 974,
@@ -81121,8 +81121,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214749014",
       "variants": [
         {
-          "product_id": 9765214749014,
           "id": 51084623741270,
+          "product_id": 9765214749014,
           "title": "Aeb0002-A",
           "price": "26.66",
           "position": 1,
@@ -81149,8 +81149,8 @@
           "image_id": 65933328810326
         },
         {
-          "product_id": 9765214749014,
           "id": 51084623774038,
+          "product_id": 9765214749014,
           "title": "Aeb0001-09",
           "price": "15.57",
           "position": 2,
@@ -81177,8 +81177,8 @@
           "image_id": 65933329039702
         },
         {
-          "product_id": 9765214749014,
           "id": 51084623806806,
+          "product_id": 9765214749014,
           "title": "Aeb0001-33",
           "price": "29.51",
           "position": 3,
@@ -81205,8 +81205,8 @@
           "image_id": 65933329072470
         },
         {
-          "product_id": 9765214749014,
           "id": 51084623839574,
+          "product_id": 9765214749014,
           "title": "Aeb0001-15",
           "price": "29.41",
           "position": 4,
@@ -81233,8 +81233,8 @@
           "image_id": 65933329105238
         },
         {
-          "product_id": 9765214749014,
           "id": 51084623872342,
+          "product_id": 9765214749014,
           "title": "Aeb0001-26",
           "price": "15.57",
           "position": 5,
@@ -81261,8 +81261,8 @@
           "image_id": 65933329138006
         },
         {
-          "product_id": 9765214749014,
           "id": 51084623905110,
+          "product_id": 9765214749014,
           "title": "Aeb0001-40",
           "price": "29.41",
           "position": 6,
@@ -81289,8 +81289,8 @@
           "image_id": 65933329170774
         },
         {
-          "product_id": 9765214749014,
           "id": 51084623937878,
+          "product_id": 9765214749014,
           "title": "Aeb0001-10",
           "price": "15.57",
           "position": 7,
@@ -81317,8 +81317,8 @@
           "image_id": 65933329203542
         },
         {
-          "product_id": 9765214749014,
           "id": 51084623970646,
+          "product_id": 9765214749014,
           "title": "Aeb0002-J",
           "price": "26.99",
           "position": 8,
@@ -81345,8 +81345,8 @@
           "image_id": 65933329236310
         },
         {
-          "product_id": 9765214749014,
           "id": 51084624003414,
+          "product_id": 9765214749014,
           "title": "Aeb0002-F",
           "price": "26.99",
           "position": 9,
@@ -81373,8 +81373,8 @@
           "image_id": 65933329269078
         },
         {
-          "product_id": 9765214749014,
           "id": 51084624036182,
+          "product_id": 9765214749014,
           "title": "Aeb0002-H",
           "price": "27.09",
           "position": 10,
@@ -81401,8 +81401,8 @@
           "image_id": 65933329301846
         },
         {
-          "product_id": 9765214749014,
           "id": 51084624068950,
+          "product_id": 9765214749014,
           "title": "Aeb0002-O",
           "price": "15.95",
           "position": 11,
@@ -81431,8 +81431,8 @@
       ],
       "options": [
         {
-          "product_id": 9765214749014,
           "id": 12609650295126,
+          "product_id": 9765214749014,
           "name": "Color",
           "position": 1,
           "values": [
