@@ -3533,8 +3533,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214683478",
       "variants": [
         {
-          "product_id": 9765214683478,
           "id": 51084622430550,
+          "product_id": 9765214683478,
           "title": "Blue",
           "price": "25.71",
           "position": 1,
@@ -3561,8 +3561,8 @@
           "image_id": 65933314589014
         },
         {
-          "product_id": 9765214683478,
           "id": 51084622463318,
+          "product_id": 9765214683478,
           "title": "Pink",
           "price": "28.22",
           "position": 2,
@@ -3589,8 +3589,8 @@
           "image_id": 66259479920982
         },
         {
-          "product_id": 9765214683478,
           "id": 51084622496086,
+          "product_id": 9765214683478,
           "title": "Green",
           "price": "27.80",
           "position": 3,
@@ -3619,8 +3619,8 @@
       ],
       "options": [
         {
-          "product_id": 9765214683478,
           "id": 12609650229590,
+          "product_id": 9765214683478,
           "name": "Color",
           "position": 1,
           "values": [

@@ -9045,8 +9045,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791835373910",
       "variants": [
         {
-          "id": 51197690741078,
           "product_id": 9791835373910,
+          "id": 51197690741078,
           "title": "Brown / Brown Nipple Cover",
           "price": "30.19",
           "position": 1,
@@ -9073,8 +9073,8 @@
           "image_id": 66245917540694
         },
         {
-          "id": 51197690773846,
           "product_id": 9791835373910,
+          "id": 51197690773846,
           "title": "Brown / Brown Straw Cover",
           "price": "30.19",
           "position": 2,
@@ -9101,8 +9101,8 @@
           "image_id": 66245917573462
         },
         {
-          "id": 51197690806614,
           "product_id": 9791835373910,
+          "id": 51197690806614,
           "title": "Brown / Brown Nipple Cover Straw Cover",
           "price": "30.64",
           "position": 3,
@@ -9131,8 +9131,8 @@
       ],
       "options": [
         {
-          "id": 12641114259798,
           "product_id": 9791835373910,
+          "id": 12641114259798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9140,8 +9140,8 @@
           ]
         },
         {
-          "id": 12641114292566,
           "product_id": 9791835373910,
+          "id": 12641114292566,
           "name": "Capacity",
           "position": 2,
           "values": [
@@ -48195,8 +48195,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791460180310",
       "variants": [
         {
-          "id": 51196529803606,
           "product_id": 9791460180310,
+          "id": 51196529803606,
           "title": "Green whale",
           "price": "20.68",
           "position": 1,
@@ -48223,8 +48223,8 @@
           "image_id": 66242134376790
         },
         {
-          "id": 51196529836374,
           "product_id": 9791460180310,
+          "id": 51196529836374,
           "title": "Pink swan",
           "price": "20.68",
           "position": 2,
@@ -48251,8 +48251,8 @@
           "image_id": 66242134409558
         },
         {
-          "id": 51196529869142,
           "product_id": 9791460180310,
+          "id": 51196529869142,
           "title": "Purple owl",
           "price": "20.68",
           "position": 3,
@@ -48279,8 +48279,8 @@
           "image_id": 66242134442326
         },
         {
-          "id": 51196529901910,
           "product_id": 9791460180310,
+          "id": 51196529901910,
           "title": "Yellow puppy",
           "price": "20.68",
           "position": 4,
@@ -48307,8 +48307,8 @@
           "image_id": 66242134475094
         },
         {
-          "id": 51196529934678,
           "product_id": 9791460180310,
+          "id": 51196529934678,
           "title": "Green dinosaur",
           "price": "20.68",
           "position": 5,
@@ -48335,8 +48335,8 @@
           "image_id": 66242134507862
         },
         {
-          "id": 51196529967446,
           "product_id": 9791460180310,
+          "id": 51196529967446,
           "title": "Pink Rabbit",
           "price": "20.59",
           "position": 6,
@@ -48363,8 +48363,8 @@
           "image_id": 66242134540630
         },
         {
-          "id": 51196530000214,
           "product_id": 9791460180310,
+          "id": 51196530000214,
           "title": "Orange cow",
           "price": "20.59",
           "position": 7,
@@ -48391,8 +48391,8 @@
           "image_id": 66242134573398
         },
         {
-          "id": 51196530032982,
           "product_id": 9791460180310,
+          "id": 51196530032982,
           "title": "Orange pig",
           "price": "20.59",
           "position": 8,
@@ -48419,8 +48419,8 @@
           "image_id": 66242134606166
         },
         {
-          "id": 51196530065750,
           "product_id": 9791460180310,
+          "id": 51196530065750,
           "title": "Grey elephant",
           "price": "20.52",
           "position": 9,
@@ -48447,8 +48447,8 @@
           "image_id": 66242134638934
         },
         {
-          "id": 51196530098518,
           "product_id": 9791460180310,
+          "id": 51196530098518,
           "title": "Pink pig",
           "price": "20.59",
           "position": 10,
@@ -48475,8 +48475,8 @@
           "image_id": 66242134671702
         },
         {
-          "id": 51196530131286,
           "product_id": 9791460180310,
+          "id": 51196530131286,
           "title": "Hippo",
           "price": "20.59",
           "position": 11,
@@ -48503,8 +48503,8 @@
           "image_id": 66242134704470
         },
         {
-          "id": 51196530164054,
           "product_id": 9791460180310,
+          "id": 51196530164054,
           "title": "Red monkey",
           "price": "20.59",
           "position": 12,
@@ -48531,8 +48531,8 @@
           "image_id": 66242134737238
         },
         {
-          "id": 51196530196822,
           "product_id": 9791460180310,
+          "id": 51196530196822,
           "title": "Watermelon pig",
           "price": "20.59",
           "position": 13,
@@ -48559,8 +48559,8 @@
           "image_id": 66242134770006
         },
         {
-          "id": 51196530229590,
           "product_id": 9791460180310,
+          "id": 51196530229590,
           "title": "Cat",
           "price": "20.59",
           "position": 14,
@@ -48587,8 +48587,8 @@
           "image_id": 66242134802774
         },
         {
-          "id": 51196530262358,
           "product_id": 9791460180310,
+          "id": 51196530262358,
           "title": "Panda",
           "price": "20.59",
           "position": 15,
@@ -48617,8 +48617,8 @@
       ],
       "options": [
         {
-          "id": 12640684409174,
           "product_id": 9791460180310,
+          "id": 12640684409174,
           "name": "Color",
           "position": 1,
           "values": [
@@ -73503,6 +73503,377 @@
       }
     },
     {
+      "id": 9840868557142,
+      "title": "KidFlight Baby Portable Car Seat Cushion – Child Safety Seat with Seat Belt, Simple Dining Chair Conversion | Essential Travel & Feeding Solution for Toddlers",
+      "body_html": "<p>KidFlight Baby Portable Car Seat Cushion combines versatile safety features with a lightweight, adaptable design to create the perfect seating solution for families on the go. This innovative seat functions both as a reliable child car safety cushion and as a simple dining chair conversion, making it a multifunctional essential for travel, meals, and everyday convenience.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623987583246.jpg?v=1758631448\" alt=\"KidFlight Baby Portable Car Seat Cushion – Child Safety Seat with Seat Belt, Simple Dining Chair Conversion | Essential Travel &amp; Feeding Solution for Toddlers\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Dual-Purpose Functionality – Works seamlessly as both a car seat cushion and a dining chair seat.</li>\n<li>Secure Safety Belt System – Keeps your toddler safely strapped during car rides or mealtimes.</li>\n<li>Lightweight &amp; Portable – Easy to carry, ideal for travel and quick setup anywhere.</li>\n<li>Comfortable Cushion Design – Provides proper support and comfort for growing toddlers.</li>\n<li>Simple Conversion – Quickly transforms from a car seat to a dining chair booster.</li>\n<li>Durable Construction – Built from strong yet lightweight materials for long-term daily use.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623987583237_e789593c-e37e-42ee-87dd-19c3df8561ea.jpg?v=1758631448\" alt=\"KidFlight Baby Portable Car Seat Cushion – Child Safety Seat with Seat Belt, Simple Dining Chair Conversion | Essential Travel &amp; Feeding Solution for Toddlers\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Place the cushion securely on your car seat or dining chair.</li>\n<li>Fasten and adjust the safety seat belt straps to ensure your child is comfortably secured.</li>\n<li>Double-check that the cushion is firmly in place before travel or mealtime.</li>\n<li>After use, detach and fold for easy portability and storage.</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623987583234.jpg?v=1758631448\" alt=\"KidFlight Baby Portable Car Seat Cushion – Child Safety Seat with Seat Belt, Simple Dining Chair Conversion | Essential Travel &amp; Feeding Solution for Toddlers\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: High-quality, durable cushion with reinforced safety straps</li>\n<li>Style: Portable multifunctional seat (car safety + dining chair)</li>\n<li>Colors: Classic Grey, Baby Blue, Soft Pink</li>\n<li>Suitable for: Toddlers (traveling, feeding, or everyday use)</li>\n<li>Package Includes: 1 portable baby car seat cushion with safety straps</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623987590687.jpg?v=1758631448\" alt=\"KidFlight Baby Portable Car Seat Cushion – Child Safety Seat with Seat Belt, Simple Dining Chair Conversion | Essential Travel &amp; Feeding Solution for Toddlers\" style=\"float: none;\"></div>\n<h3>Why Choose This Seat</h3>\n<p> </p>\n<ul>\n<li> Provides all-in-one convenience for parents who travel or dine out frequently.</li>\n<li>Safer alternative to frameless boosters with a secure built-in safety belt.</li>\n<li>Compact and portable, making it ideal for small cars, apartments, or trips.</li>\n<li>Comfort-first design ensures your child remains cozy whether eating or traveling.</li>\n<li>Stylish color options fit seamlessly into both home and car interiors.</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-23T13:43:57+01:00",
+      "handle": "kidflight-baby-portable-car-seat-cushion-child-safety-seat-with-seat-belt-simple-dining-chair-conversion-essential-travel-feeding-solution-for-toddlers",
+      "updated_at": "2025-09-23T13:52:56+01:00",
+      "published_at": "2025-09-23T13:52:53+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Car Seat, CJ, Portable Car Seat",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9840868557142",
+      "variants": [
+        {
+          "id": 51392139002198,
+          "product_id": 9840868557142,
+          "title": "A / Big",
+          "price": "49.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "79.95",
+          "option1": "A",
+          "option2": "Big",
+          "option3": null,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:47:51+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 550,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT117975201AZ",
+          "weight": 550.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625484018006,
+          "inventory_quantity": 32438,
+          "old_inventory_quantity": 32438,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392139002198",
+          "image_id": 67076648206678
+        },
+        {
+          "id": 51392139034966,
+          "product_id": 9840868557142,
+          "title": "A / Small",
+          "price": "48.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "78.95",
+          "option1": "A",
+          "option2": "Small",
+          "option3": null,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:48:36+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 520,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT117975202BY",
+          "weight": 520.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625484050774,
+          "inventory_quantity": 32438,
+          "old_inventory_quantity": 32438,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392139034966",
+          "image_id": 67076648206678
+        },
+        {
+          "id": 51392139067734,
+          "product_id": 9840868557142,
+          "title": "C / Big",
+          "price": "49.95",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "79.95",
+          "option1": "C",
+          "option2": "Big",
+          "option3": null,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:49:15+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 550,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT117975203CX",
+          "weight": 550.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625484083542,
+          "inventory_quantity": 32438,
+          "old_inventory_quantity": 32438,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392139067734",
+          "image_id": 67076648239446
+        },
+        {
+          "id": 51392139100502,
+          "product_id": 9840868557142,
+          "title": "C / Small",
+          "price": "48.95",
+          "position": 4,
+          "inventory_policy": "deny",
+          "compare_at_price": "78.95",
+          "option1": "C",
+          "option2": "Small",
+          "option3": null,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:49:53+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 520,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT117975204DW",
+          "weight": 520.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625484116310,
+          "inventory_quantity": 32438,
+          "old_inventory_quantity": 32438,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392139100502",
+          "image_id": 67076648239446
+        },
+        {
+          "id": 51392139133270,
+          "product_id": 9840868557142,
+          "title": "D / Big",
+          "price": "49.95",
+          "position": 5,
+          "inventory_policy": "deny",
+          "compare_at_price": "79.95",
+          "option1": "D",
+          "option2": "Big",
+          "option3": null,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:50:31+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 550,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT117975205EV",
+          "weight": 550.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625484149078,
+          "inventory_quantity": 32438,
+          "old_inventory_quantity": 32438,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392139133270",
+          "image_id": 67076648272214
+        },
+        {
+          "id": 51392139166038,
+          "product_id": 9840868557142,
+          "title": "D / Small",
+          "price": "48.95",
+          "position": 6,
+          "inventory_policy": "deny",
+          "compare_at_price": "78.95",
+          "option1": "D",
+          "option2": "Small",
+          "option3": null,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:51:09+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 520,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT117975206FU",
+          "weight": 520.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625484181846,
+          "inventory_quantity": 32438,
+          "old_inventory_quantity": 32438,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392139166038",
+          "image_id": 67076648272214
+        },
+        {
+          "id": 51392139198806,
+          "product_id": 9840868557142,
+          "title": "E / Big",
+          "price": "49.95",
+          "position": 7,
+          "inventory_policy": "deny",
+          "compare_at_price": "79.95",
+          "option1": "E",
+          "option2": "Big",
+          "option3": null,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:51:46+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 550,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT117975207GT",
+          "weight": 550.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625484214614,
+          "inventory_quantity": 32438,
+          "old_inventory_quantity": 32438,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392139198806",
+          "image_id": 67076648304982
+        },
+        {
+          "id": 51392139231574,
+          "product_id": 9840868557142,
+          "title": "E / Small",
+          "price": "48.95",
+          "position": 8,
+          "inventory_policy": "deny",
+          "compare_at_price": "78.95",
+          "option1": "E",
+          "option2": "Small",
+          "option3": null,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:52:29+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 520,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT117975208HS",
+          "weight": 520.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625484247382,
+          "inventory_quantity": 32438,
+          "old_inventory_quantity": 32438,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392139231574",
+          "image_id": 67076648304982
+        }
+      ],
+      "options": [
+        {
+          "id": 12698924777814,
+          "product_id": 9840868557142,
+          "name": "style",
+          "position": 1,
+          "values": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ]
+        },
+        {
+          "id": 12698924810582,
+          "product_id": 9840868557142,
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "Big",
+            "Small"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67076642341206,
+          "alt": "Pink and black zebra-patterned child safety seat on a beige background",
+          "position": 1,
+          "product_id": 9840868557142,
+          "created_at": "2025-09-23T13:43:59+01:00",
+          "updated_at": "2025-09-23T13:46:27+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67076642341206",
+          "width": 640,
+          "height": 640,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623987583237.jpg?v=1758631442",
+          "variant_ids": []
+        },
+        {
+          "id": 67076644733270,
+          "alt": "Pink and black zebra-patterned child safety seat on a beige background",
+          "position": 2,
+          "product_id": 9840868557142,
+          "created_at": "2025-09-23T13:44:01+01:00",
+          "updated_at": "2025-09-23T13:46:35+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67076644733270",
+          "width": 640,
+          "height": 640,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623992263545.jpg?v=1758631445",
+          "variant_ids": []
+        },
+        {
+          "id": 67076648206678,
+          "alt": "Pink and black zebra-patterned child safety seat on a beige background",
+          "position": 3,
+          "product_id": 9840868557142,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:46:41+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67076648206678",
+          "width": 640,
+          "height": 640,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623987583237_e789593c-e37e-42ee-87dd-19c3df8561ea.jpg?v=1758631448",
+          "variant_ids": [
+            51392139002198,
+            51392139034966
+          ]
+        },
+        {
+          "id": 67076648239446,
+          "alt": "Camouflage-patterned child safety seat on a white background",
+          "position": 4,
+          "product_id": 9840868557142,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:46:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67076648239446",
+          "width": 640,
+          "height": 640,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623987583246.jpg?v=1758631448",
+          "variant_ids": [
+            51392139067734,
+            51392139100502
+          ]
+        },
+        {
+          "id": 67076648272214,
+          "alt": "Leopard print baby seat on a beige background",
+          "position": 5,
+          "product_id": 9840868557142,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:46:54+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67076648272214",
+          "width": 640,
+          "height": 640,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623987583234.jpg?v=1758631448",
+          "variant_ids": [
+            51392139133270,
+            51392139166038
+          ]
+        },
+        {
+          "id": 67076648304982,
+          "alt": "Baby carrier with black and white butterfly pattern on a beige background",
+          "position": 6,
+          "product_id": 9840868557142,
+          "created_at": "2025-09-23T13:44:05+01:00",
+          "updated_at": "2025-09-23T13:47:00+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67076648304982",
+          "width": 640,
+          "height": 640,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623987590687.jpg?v=1758631448",
+          "variant_ids": [
+            51392139198806,
+            51392139231574
+          ]
+        }
+      ],
+      "image": {
+        "id": 67076642341206,
+        "alt": "Pink and black zebra-patterned child safety seat on a beige background",
+        "position": 1,
+        "product_id": 9840868557142,
+        "created_at": "2025-09-23T13:43:59+01:00",
+        "updated_at": "2025-09-23T13:46:27+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67076642341206",
+        "width": 640,
+        "height": 640,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623987583237.jpg?v=1758631442",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9791834849622,
       "title": "Kidora PPSU Newborn Feeding Bottle – Temperature-Sensing, Anti-Colic & Choke-Proof",
       "body_html": "<p data-end=\"427\" data-start=\"135\">The <strong data-end=\"208\" data-start=\"170\">Kidora PPSU Newborn Feeding Bottle</strong> is crafted to deliver a safe, comfortable, and intelligent feeding experience for infants. Made from <strong data-end=\"345\" data-start=\"310\">durable, BPA-free PPSU material</strong>, this bottle is lightweight, heat-resistant, and designed for long-lasting use.</p>\n<p data-end=\"769\" data-start=\"429\">Equipped with a <strong data-end=\"476\" data-start=\"445\">temperature-sensing feature</strong>, the bottle changes color to help parents ensure milk is at the ideal feeding temperature. Its <strong data-end=\"598\" data-start=\"572\">anti-colic vent system</strong> minimizes air intake, reducing gas, spit-up, and discomfort for babies. The <strong data-end=\"697\" data-start=\"675\">choke-proof nipple</strong> provides a steady, natural milk flow, making feeding safe and smooth.</p>\n<p data-end=\"873\" data-start=\"771\">Perfect for newborns, the <strong data-end=\"822\" data-start=\"797\">Kidora Feeding Bottle</strong> combines safety, innovation, and comfort in one.</p>\n<p data-end=\"894\" data-start=\"875\"><strong data-end=\"892\" data-start=\"875\">Key Features:</strong></p>\n<ul data-end=\"1203\" data-start=\"895\">\n<li data-end=\"959\" data-start=\"895\">\n<p data-end=\"959\" data-start=\"897\"><strong data-end=\"915\" data-start=\"897\">PPSU Material:</strong> Lightweight, durable, and heat-resistant.</p>\n</li>\n<li data-end=\"1031\" data-start=\"960\">\n<p data-end=\"1031\" data-start=\"962\"><strong data-end=\"993\" data-start=\"962\">Temperature-Sensing Design:</strong> Helps detect safe milk temperature.</p>\n</li>\n<li data-end=\"1084\" data-start=\"1032\">\n<p data-end=\"1084\" data-start=\"1034\"><strong data-end=\"1056\" data-start=\"1034\">Anti-Colic System:</strong> Reduces gas &amp; discomfort.</p>\n</li>\n<li data-end=\"1148\" data-start=\"1085\">\n<p data-end=\"1148\" data-start=\"1087\"><strong data-end=\"1110\" data-start=\"1087\">Choke-Proof Nipple:</strong> Ensures safe milk flow for infants.</p>\n</li>\n<li data-end=\"1203\" data-start=\"1149\">\n<p data-end=\"1203\" data-start=\"1151\"><strong data-end=\"1171\" data-start=\"1151\">BPA-Free &amp; Safe:</strong> Perfect for everyday feeding.</p>\n</li>\n</ul>\n<p><b>Product Image:</b></p>\n<div style=\"text-align: start;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5039c773-136e-4381-be62-32a4ddf76e55_trans.jpg?v=1756907760\" alt=\"Kidora PPSU Newborn Feeding Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: start;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4c009a6d-866d-4247-bde1-26df690f1001_trans.jpg?v=1756907761\" alt=\"Kidora PPSU Newborn Feeding Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: start;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/406b1367-46e5-454b-8594-5913bcd2bfc9_trans.jpg?v=1756907761\" alt=\"Kidora PPSU Newborn Feeding Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: start;\">\n<b> <br></b> <img style=\"margin-bottom: 16px; float: none;\" alt=\"Kidora PPSU Newborn Feeding Bottle\" src=\"https://oss-cf.cjdropshipping.com/product/2025/05/27/09/406b1367-46e5-454b-8594-5913bcd2bfc9_trans.jpeg\"> <img style=\"margin-bottom: 16px; float: none;\" alt=\"Kidora PPSU Newborn Feeding Bottle\" src=\"https://oss-cf.cjdropshipping.com/product/2025/05/27/09/4c009a6d-866d-4247-bde1-26df690f1001_trans.jpeg\"> <img style=\"margin-bottom: 16px; float: none;\" alt=\"Kidora PPSU Newborn Feeding Bottle\" src=\"https://oss-cf.cjdropshipping.com/product/2025/05/27/09/5039c773-136e-4381-be62-32a4ddf76e55_trans.jpeg\"> <img style=\"margin-bottom: 16px; float: none;\" alt=\"Kidora PPSU Newborn Feeding Bottle\" src=\"https://oss-cf.cjdropshipping.com/product/2025/05/27/09/c90c131e-c6af-4bb1-aad8-e0b8c8f86de7_trans.jpeg\"> <img style=\"margin-bottom: 16px; float: none;\" alt=\"Kidora PPSU Newborn Feeding Bottle\" src=\"https://oss-cf.cjdropshipping.com/product/2025/05/27/09/d0cd01c8-73cb-4e90-bea0-d3255979ec5a_trans.jpeg\"> <img src=\"https://oss-cf.cjdropshipping.com/product/2025/05/27/09/d34018af-6081-4306-8ea4-71695c91ebdf_trans.jpeg\"> <img src=\"https://oss-cf.cjdropshipping.com/product/2025/05/27/09/77d63c4b-52ba-414b-a52c-3c0c23387c70_trans.jpeg\"> <img src=\"https://oss-cf.cjdropshipping.com/product/2025/05/27/09/0ed4078e-a0ea-432e-9229-03f8bffe9e26_trans.jpeg\"> <img src=\"https://oss-cf.cjdropshipping.com/product/2025/05/27/09/1c702ef2-6e54-499a-a8cc-f5ea75ec1144_trans.jpeg\">\n</div>",
@@ -74863,8 +75234,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791461359958",
       "variants": [
         {
-          "product_id": 9791461359958,
           "id": 51196531933526,
+          "product_id": 9791461359958,
           "title": "Mist blue",
           "price": "20.43",
           "position": 1,
@@ -74891,8 +75262,8 @@
           "image_id": 66242139455830
         },
         {
-          "product_id": 9791461359958,
           "id": 51196531966294,
+          "product_id": 9791461359958,
           "title": "Bean Paste Powder",
           "price": "20.43",
           "position": 2,
@@ -74919,8 +75290,8 @@
           "image_id": 66242139488598
         },
         {
-          "product_id": 9791461359958,
           "id": 51196531999062,
+          "product_id": 9791461359958,
           "title": "Turquoise",
           "price": "20.43",
           "position": 3,
@@ -74947,8 +75318,8 @@
           "image_id": 66242139521366
         },
         {
-          "product_id": 9791461359958,
           "id": 51196532031830,
+          "product_id": 9791461359958,
           "title": "Faint yellow",
           "price": "20.43",
           "position": 4,
@@ -74977,8 +75348,8 @@
       ],
       "options": [
         {
-          "product_id": 9791461359958,
           "id": 12640685588822,
+          "product_id": 9791461359958,
           "name": "Color",
           "position": 1,
           "values": [
@@ -92629,8 +93000,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649036118",
       "variants": [
         {
-          "product_id": 9792649036118,
           "id": 51201111064918,
+          "product_id": 9792649036118,
           "title": "Blue",
           "price": "16.91",
           "position": 1,
@@ -92657,8 +93028,8 @@
           "image_id": 66252993954134
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111097686,
+          "product_id": 9792649036118,
           "title": "Pink",
           "price": "16.91",
           "position": 2,
@@ -92685,8 +93056,8 @@
           "image_id": 66252993986902
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111130454,
+          "product_id": 9792649036118,
           "title": "Antique Silver",
           "price": "16.91",
           "position": 3,
@@ -92713,8 +93084,8 @@
           "image_id": 66252994019670
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111163222,
+          "product_id": 9792649036118,
           "title": "Green",
           "price": "16.91",
           "position": 4,
@@ -92741,8 +93112,8 @@
           "image_id": 66252994052438
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111195990,
+          "product_id": 9792649036118,
           "title": "Antique Silver 3 net pockets",
           "price": "17.10",
           "position": 5,
@@ -92769,8 +93140,8 @@
           "image_id": 66252994085206
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111228758,
+          "product_id": 9792649036118,
           "title": "Blue 3 net pockets",
           "price": "17.10",
           "position": 6,
@@ -92797,8 +93168,8 @@
           "image_id": 66252994117974
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111261526,
+          "product_id": 9792649036118,
           "title": "Green 3 net pockets",
           "price": "17.10",
           "position": 7,
@@ -92825,8 +93196,8 @@
           "image_id": 66252994150742
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111294294,
+          "product_id": 9792649036118,
           "title": "Pink 3 net pockets",
           "price": "17.10",
           "position": 8,
@@ -92855,8 +93226,8 @@
       ],
       "options": [
         {
-          "product_id": 9792649036118,
           "id": 12642096054614,
+          "product_id": 9792649036118,
           "name": "Color",
           "position": 1,
           "values": [
@@ -93050,8 +93421,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214683478",
       "variants": [
         {
-          "product_id": 9765214683478,
           "id": 51084622430550,
+          "product_id": 9765214683478,
           "title": "Blue",
           "price": "25.71",
           "position": 1,
@@ -93078,8 +93449,8 @@
           "image_id": 65933314589014
         },
         {
-          "product_id": 9765214683478,
           "id": 51084622463318,
+          "product_id": 9765214683478,
           "title": "Pink",
           "price": "28.22",
           "position": 2,
@@ -93106,8 +93477,8 @@
           "image_id": 66259479920982
         },
         {
-          "product_id": 9765214683478,
           "id": 51084622496086,
+          "product_id": 9765214683478,
           "title": "Green",
           "price": "27.80",
           "position": 3,
@@ -93136,8 +93507,8 @@
       ],
       "options": [
         {
-          "product_id": 9765214683478,
           "id": 12609650229590,
+          "product_id": 9765214683478,
           "name": "Color",
           "position": 1,
           "values": [
@@ -104067,165 +104438,13 @@
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/db497c77-751b-4432-8fef-b62d836305fe.jpg?v=1756711897",
         "variant_ids": []
       }
-    },
-    {
-      "id": 9763843604822,
-      "title": "MoyoBaby Ergonomic Baby Bath Chair | Comfortable Infant Safety Seat",
-      "body_html": "<p><br>The persistent problem of keeping a baby safe and secure in the bathtub can be a source of daily<span style=\"text-decoration: underline;\"> stress</span> and <span style=\"text-decoration: underline;\">anxiety</span>. Without a proper support solution, a parent may face daily<span style=\"text-decoration: underline;\"> struggles</span> with a baby slipping, a lack of hands to wash, and a general feeling of being<span style=\"text-decoration: underline;\"> overwhelmed</span> during bath time. The constant battle with these issues can result in <span style=\"text-decoration: underline;\">fatigue</span>, fear, and unpreparedness, highlighting the critical need for an effective and reliable solution like a dedicated Baby Bath Chair. <br><br></p>\n<p>A proper Baby Bath Chair features a strong <strong>suction bas</strong>e, a secure <strong>backres</strong>t, and a <strong>contoured</strong> shape for optimal <strong>convenience</strong> and safety. These items are designed to make bath time easier, reduce the risk of slips, and ensure a baby is comfortably and securely seated. This proactive approach to bathing ensures a<strong> smoother,</strong> more enjoyable family experience. <br><br></p>\n<div style=\"text-align: center;\"><img src=\"https://cf.cjdropshipping.com/a8448280-2e49-4804-b29a-81ac4d45a3fb.jpg\" alt=\"Ergonomic Baby Bath Chair\" style=\"margin-bottom: 14px; float: none;\"></div>\n<h2 style=\"text-align: center;\">\n<b style=\"color: inherit;\"> <br></b><strong><span style=\"color: inherit;\">REASONS WHY A BABY BATH CHAIR WILL CHANGE BATH TIME EXPERIENCES</span></strong>\n</h2>\n<div style=\"text-align: center;\"><b style=\"color: inherit;\"></b></div>\n<p>✅ <strong>ENHANCED SAFETY &amp; SUPPORT</strong>: A sturdy Baby Bath Chair is crucial for keeping a baby safe and upright in the tub. This enhanced<strong> support</strong> makes it indispensable for preventing slips and falls and ensuring a secure and stable bathing experience.</p>\n<p>✅ <strong>HANDS-FREE CONVENIENCE</strong>: The chair's design allows a person to have both hands free to wash a baby, which is a significant<strong> relief.</strong> This feature makes it effortless to manage bath time, saving a person considerable time and effort. <br><br></p>\n<div style=\"text-align: center;\"><img src=\"https://cf.cjdropshipping.com/eb77afb7-8898-41ac-bcea-79117357851d.jpg\" alt=\"Baby Birth Chair\" style=\"margin-bottom: 14px; float: none;\"></div>\n<p><br>✅ <strong>IMPROVED COMFORT FOR A BABY</strong>: A contoured seat and a secure backrest provide extra <strong>comfort</strong> for a baby. This added support ensures a baby is happy and settled, making bath time a more pleasant experience for them and the person.</p>\n<p>✅ <strong>VERSATILE &amp; ADAPTABLE</strong>: A Baby Bath Chair can be used in various tubs and showers. Its simple design and strong suction cups allow<strong> easy placement</strong> and removal, accommodating a baby's changing needs as they grow. <br><br></p>\n<div style=\"text-align: center;\"><img src=\"https://cf.cjdropshipping.com/034d8986-75bf-41eb-b295-1c42d517522a.jpg\" alt=\"Infant Baby Bath Chair\" style=\"margin-bottom: 14px; float: none;\"></div>\n<p><br>✅ <strong>EASY-TO-CLEAN DESIGN</strong>: The chair is crafted from materials that are simple to clean. Its smooth surfaces and drainage holes make it <strong>effortless</strong> to manage soap residue and water, saving a person time and effort after each bath. <br><br></p>\n<h2 style=\"text-align: center;\"><b style=\"color: inherit;\">HOW TO USE A BABY BATH CHAIR</b></h2>\n<p>1. <strong>Place in Tub</strong>: Place the Baby Bath Chair in an empty bathtub or a large sink, ensuring the surface is clean and dry.</p>\n<p>2. <strong>Secure the Suction Cups</strong>: Press firmly on the chair's base to engage the suction cups, creating a strong seal with the tub's surface.</p>\n<p>3. <strong>Fill with Water</strong>: Fill the tub with a shallow amount of warm water, ensuring the temperature is safe for a baby.</p>\n<p>4.<strong> Position the Baby</strong>: Gently place the baby in the chair, ensuring it is securely seated with its back against the support. <br><br><br></p>\n<p>The persistent problem of a slippery baby, the<span style=\"text-decoration: underline;\"> frustration</span> of back strain, and the difficulty of finding an effective, on-demand solution often trigger <span style=\"text-decoration: underline;\">stress</span>, a lack of cleanliness, and <span style=\"text-decoration: underline;\">disappointment</span>. Relying on an <span style=\"text-decoration: underline;\">inadequate</span> setup or a <span style=\"text-decoration: underline;\">non-specialized</span> solution can increase a person's effort and reduce the quality of much-needed family time. <br><br></p>\n<p>A proper Baby Bath Chair combines enhanced safety with hands-free<strong> convenience</strong> and <strong>easy-to-clean</strong> designs. Built-in <strong>versatilit</strong>y actively addresses a baby's changing needs, while its simplicity ensures a<strong> seamless</strong> experience. Each feature enhances a parent's peace of mind, reduces bathing stress, and<strong> improves</strong> overall comfort, making this product an indispensable tool for anyone seeking a convenient and effective way to manage a baby's bath time.</p>\n<p><br></p>\n<h2 style=\"text-align: center;\">\n<strong> PRODUCT SPECIFICATIONS</strong> <br><br>\n</h2>\n<p style=\"text-align: center;\">Material: Non-toxic TPR + PP plastic</p>\n<p style=\"text-align: center;\"><b> <button> </button> Dimensions: </b> 12.8\" W x 12.8\" D x 8.46\" H</p>\n<p style=\"text-align: center;\"><b> <button> </button> Safety: </b> Smooth, stable, and strong suction cups</p>\n<p style=\"text-align: center;\"><b>Support:</b> Armrests and a high backrest for full 360° support</p>\n<p style=\"text-align: center;\"><b> <button> </button> Convenience: </b> Easy to set up, remove, and store</p>\n<p style=\"text-align: center;\"><b> <button> </button> Package Size: </b> 325 x 325 x 215 mm</p>\n<p style=\"text-align: center;\"> </p>\n<p><!-- [if !supportLineBreakNewLine]--></p>\n<div style=\"text-align: center;\"><br></div>\n<p><!--[endif]--></p>\n<p> </p>\n<p style=\"text-align: center;\"><strong>A Nestacular Promise</strong></p>\n<p style=\"text-align: center;\">At <strong>Nestacular</strong>, we believe in the quality of our products, so we offer a  <strong>30-day Money-Back Guarantee, </strong> no questions asked! When you purchase from us, there is <strong> ZERO Risk</strong><span style=\"box-sizing: border-box; margin: 0; padding: 0; text-align: left;\"><strong> </strong></span>for you!</p>\n<p style=\"text-align: center;\">Congratulations!</p>\n<p style=\"text-align: center;\">You've found a hidden discount code! Use code \"TTD\" at checkout to claim an additional 10% OFF your ENTIRE order!</p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\"><strong>Customer Support:</strong></p>\n<p style=\"text-align: center;\">Email: support@nestacular.com</p>",
-      "vendor": "Nestacular",
-      "product_type": "Baby Products",
-      "created_at": "2025-08-17T16:20:45+01:00",
-      "handle": "nestacular-ergonomic-baby-bath-chair-comfortable-infant-safety-seat",
-      "updated_at": "2025-08-18T12:08:21+01:00",
-      "published_at": null,
-      "template_suffix": null,
-      "published_scope": "web",
-      "tags": "Baby Bath Chair, Toddler Bath Chair",
-      "status": "archived",
-      "admin_graphql_api_id": "gid://shopify/Product/9763843604822",
-      "variants": [
-        {
-          "id": 51075750723926,
-          "product_id": 9763843604822,
-          "title": "Blue",
-          "price": "67.95",
-          "position": 1,
-          "inventory_policy": "deny",
-          "compare_at_price": "97.95",
-          "option1": "Blue",
-          "option2": null,
-          "option3": null,
-          "created_at": "2025-08-17T16:20:52+01:00",
-          "updated_at": "2025-08-17T16:32:19+01:00",
-          "taxable": false,
-          "barcode": "",
-          "fulfillment_service": "manual",
-          "grams": 938,
-          "inventory_management": "shopify",
-          "requires_shipping": true,
-          "sku": "CJYE227384301AZ",
-          "weight": 938.0,
-          "weight_unit": "g",
-          "inventory_item_id": 53260390105430,
-          "inventory_quantity": 280,
-          "old_inventory_quantity": 280,
-          "admin_graphql_api_id": "gid://shopify/ProductVariant/51075750723926",
-          "image_id": 65882108920150
-        }
-      ],
-      "options": [
-        {
-          "id": 12607886688598,
-          "product_id": 9763843604822,
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Blue"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "id": 65882107969878,
-          "alt": null,
-          "position": 1,
-          "product_id": 9763843604822,
-          "created_at": "2025-08-17T16:20:46+01:00",
-          "updated_at": "2025-08-17T16:20:49+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/65882107969878",
-          "width": 600,
-          "height": 600,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/0d8f3bac-18f4-48b9-9d57-c962a14e9785.jpg?v=1755444049",
-          "variant_ids": []
-        },
-        {
-          "id": 65882108526934,
-          "alt": null,
-          "position": 2,
-          "product_id": 9763843604822,
-          "created_at": "2025-08-17T16:20:47+01:00",
-          "updated_at": "2025-08-17T16:20:50+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/65882108526934",
-          "width": 600,
-          "height": 600,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3caf37a9-e024-460a-bb5b-2fdaca136396.jpg?v=1755444051",
-          "variant_ids": []
-        },
-        {
-          "id": 65882108592470,
-          "alt": null,
-          "position": 3,
-          "product_id": 9763843604822,
-          "created_at": "2025-08-17T16:20:49+01:00",
-          "updated_at": "2025-08-17T16:20:51+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/65882108592470",
-          "width": 600,
-          "height": 600,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/df5eb45a-2492-4fbe-bd6a-47a0319ce157.jpg?v=1755444052",
-          "variant_ids": []
-        },
-        {
-          "id": 65882108723542,
-          "alt": null,
-          "position": 4,
-          "product_id": 9763843604822,
-          "created_at": "2025-08-17T16:20:50+01:00",
-          "updated_at": "2025-08-17T16:20:53+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/65882108723542",
-          "width": 600,
-          "height": 600,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/53807f4a-e0a2-4c63-8996-ecfffc2539eb.jpg?v=1755444054",
-          "variant_ids": []
-        },
-        {
-          "id": 65882108887382,
-          "alt": null,
-          "position": 5,
-          "product_id": 9763843604822,
-          "created_at": "2025-08-17T16:20:51+01:00",
-          "updated_at": "2025-08-17T16:20:54+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/65882108887382",
-          "width": 600,
-          "height": 600,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/58133d19-74b1-403e-b697-1fc2f19d761a.jpg?v=1755444054",
-          "variant_ids": []
-        },
-        {
-          "id": 65882108920150,
-          "alt": null,
-          "position": 6,
-          "product_id": 9763843604822,
-          "created_at": "2025-08-17T16:20:52+01:00",
-          "updated_at": "2025-08-17T16:20:54+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/65882108920150",
-          "width": 600,
-          "height": 600,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/0d8f3bac-18f4-48b9-9d57-c962a14e9785_143479e8-b774-475d-965e-d4824036bb37.jpg?v=1755444055",
-          "variant_ids": [
-            51075750723926
-          ]
-        }
-      ],
-      "image": {
-        "id": 65882107969878,
-        "alt": null,
-        "position": 1,
-        "product_id": 9763843604822,
-        "created_at": "2025-08-17T16:20:46+01:00",
-        "updated_at": "2025-08-17T16:20:49+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/65882107969878",
-        "width": 600,
-        "height": 600,
-        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/0d8f3bac-18f4-48b9-9d57-c962a14e9785.jpg?v=1755444049",
-        "variant_ids": []
-      }
     }
   ],
   "pagination": {
     "current_page": 1,
     "total_pages": 2,
     "items_per_page": 250,
-    "total_items": 401,
+    "total_items": 402,
     "items_in_page": 250,
     "has_next_page": true,
     "has_previous_page": false,
