@@ -25305,8 +25305,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791182471510",
       "variants": [
         {
-          "id": 51195243561302,
           "product_id": 9791182471510,
+          "id": 51195243561302,
           "title": "Orange 250ml / 250ml",
           "price": "33.93",
           "position": 1,
@@ -25333,8 +25333,8 @@
           "image_id": 66238670700886
         },
         {
-          "id": 51195243594070,
           "product_id": 9791182471510,
+          "id": 51195243594070,
           "title": "Emerald Green 250ml / 250ml",
           "price": "33.93",
           "position": 2,
@@ -25363,8 +25363,8 @@
       ],
       "options": [
         {
-          "id": 12640359579990,
           "product_id": 9791182471510,
+          "id": 12640359579990,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25373,8 +25373,8 @@
           ]
         },
         {
-          "id": 12640359612758,
           "product_id": 9791182471510,
+          "id": 12640359612758,
           "name": "Capacity",
           "position": 2,
           "values": [

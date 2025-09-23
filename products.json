@@ -5818,8 +5818,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791387566422",
       "variants": [
         {
-          "id": 51196299313494,
           "product_id": 9791387566422,
+          "id": 51196299313494,
           "title": "Brown",
           "price": "17.56",
           "position": 1,
@@ -5846,8 +5846,8 @@
           "image_id": 66241145766230
         },
         {
-          "id": 51196299346262,
           "product_id": 9791387566422,
+          "id": 51196299346262,
           "title": "Yellow",
           "price": "17.56",
           "position": 2,
@@ -5874,8 +5874,8 @@
           "image_id": 66241145798998
         },
         {
-          "id": 51196299379030,
           "product_id": 9791387566422,
+          "id": 51196299379030,
           "title": "Orange",
           "price": "17.56",
           "position": 3,
@@ -5902,8 +5902,8 @@
           "image_id": 66241145831766
         },
         {
-          "id": 51196299411798,
           "product_id": 9791387566422,
+          "id": 51196299411798,
           "title": "Red",
           "price": "17.56",
           "position": 4,
@@ -5930,8 +5930,8 @@
           "image_id": 66241145864534
         },
         {
-          "id": 51196299444566,
           "product_id": 9791387566422,
+          "id": 51196299444566,
           "title": "Green",
           "price": "17.56",
           "position": 5,
@@ -5960,8 +5960,8 @@
       ],
       "options": [
         {
-          "id": 12640604160342,
           "product_id": 9791387566422,
+          "id": 12640604160342,
           "name": "Color",
           "position": 1,
           "values": [
@@ -35304,8 +35304,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9837616169302",
       "variants": [
         {
-          "id": 51383361601878,
           "product_id": 9837616169302,
+          "id": 51383361601878,
           "title": "Blue",
           "price": "196.95",
           "position": 1,
@@ -35334,8 +35334,8 @@
       ],
       "options": [
         {
-          "id": 12695408542038,
           "product_id": 9837616169302,
+          "id": 12695408542038,
           "name": "Color",
           "position": 1,
           "values": [
@@ -50633,8 +50633,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9409666810198",
       "variants": [
         {
-          "id": 49664722698582,
           "product_id": 9409666810198,
+          "id": 49664722698582,
           "title": "Black",
           "price": "53.93",
           "position": 1,
@@ -50661,8 +50661,8 @@
           "image_id": 59210096116054
         },
         {
-          "id": 49664722731350,
           "product_id": 9409666810198,
+          "id": 49664722731350,
           "title": "Clear Blue",
           "price": "53.93",
           "position": 2,
@@ -50689,8 +50689,8 @@
           "image_id": 59210096148822
         },
         {
-          "id": 49664722764118,
           "product_id": 9409666810198,
+          "id": 49664722764118,
           "title": "Purple",
           "price": "53.93",
           "position": 4,
@@ -50717,8 +50717,8 @@
           "image_id": 59210095984982
         },
         {
-          "id": 49664722796886,
           "product_id": 9409666810198,
+          "id": 49664722796886,
           "title": "Pink",
           "price": "53.93",
           "position": 5,
@@ -50747,8 +50747,8 @@
       ],
       "options": [
         {
-          "id": 12179592708438,
           "product_id": 9409666810198,
+          "id": 12179592708438,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52883,8 +52883,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776206840150",
       "variants": [
         {
-          "product_id": 9776206840150,
           "id": 51128332321110,
+          "product_id": 9776206840150,
           "title": "Blue",
           "price": "15.95",
           "position": 1,
@@ -52911,8 +52911,8 @@
           "image_id": 66088024441174
         },
         {
-          "product_id": 9776206840150,
           "id": 51128332353878,
+          "product_id": 9776206840150,
           "title": "Green",
           "price": "15.95",
           "position": 2,
@@ -52939,8 +52939,8 @@
           "image_id": 66088024473942
         },
         {
-          "product_id": 9776206840150,
           "id": 51128332386646,
+          "product_id": 9776206840150,
           "title": "Orange",
           "price": "15.95",
           "position": 3,
@@ -52967,8 +52967,8 @@
           "image_id": 66088024506710
         },
         {
-          "product_id": 9776206840150,
           "id": 51128332419414,
+          "product_id": 9776206840150,
           "title": "Purple",
           "price": "15.95",
           "position": 4,
@@ -52995,8 +52995,8 @@
           "image_id": 66088024539478
         },
         {
-          "product_id": 9776206840150,
           "id": 51128332452182,
+          "product_id": 9776206840150,
           "title": "Red",
           "price": "15.95",
           "position": 5,
@@ -53023,8 +53023,8 @@
           "image_id": 66088024572246
         },
         {
-          "product_id": 9776206840150,
           "id": 51128332484950,
+          "product_id": 9776206840150,
           "title": "Yellow",
           "price": "15.95",
           "position": 6,
@@ -53053,8 +53053,8 @@
       ],
       "options": [
         {
-          "product_id": 9776206840150,
           "id": 12622646051158,
+          "product_id": 9776206840150,
           "name": "Color",
           "position": 1,
           "values": [
@@ -69836,8 +69836,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791156584790",
       "variants": [
         {
-          "id": 51195123269974,
           "product_id": 9791156584790,
+          "id": 51195123269974,
           "title": "A4 S",
           "price": "15.26",
           "position": 1,
@@ -69864,8 +69864,8 @@
           "image_id": 66237563339094
         },
         {
-          "id": 51195123302742,
           "product_id": 9791156584790,
+          "id": 51195123302742,
           "title": "A4 M",
           "price": "15.26",
           "position": 2,
@@ -69892,8 +69892,8 @@
           "image_id": 66237563339094
         },
         {
-          "id": 51195123335510,
           "product_id": 9791156584790,
+          "id": 51195123335510,
           "title": "A4 L",
           "price": "15.26",
           "position": 3,
@@ -69920,8 +69920,8 @@
           "image_id": 66237563339094
         },
         {
-          "id": 51195123368278,
           "product_id": 9791156584790,
+          "id": 51195123368278,
           "title": "A4 Cross Hole",
           "price": "15.26",
           "position": 4,
@@ -69950,8 +69950,8 @@
       ],
       "options": [
         {
-          "id": 12640329924950,
           "product_id": 9791156584790,
+          "id": 12640329924950,
           "name": "Size",
           "position": 1,
           "values": [
@@ -73870,6 +73870,326 @@
         "width": 640,
         "height": 640,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1623987583237.jpg?v=1758631442",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9841019486550,
+      "title": "KidLoom Children’s Shampoo Recliner & Dining Stool – Foldable Baby Shampoo Chair with Sit & Lie Design | Essential Multi-Use Seating & Washing Artifact for Toddlers",
+      "body_html": "<p>KidLoom Children’s Shampoo Recliner &amp; Dining Stool combines multifunctional convenience with a foldable, space-saving design to provide the perfect solution for both daily mealtime and gentle hair-washing care. This thoughtfully designed chair allows children to sit or lie comfortably while ensuring safety, comfort, and versatility for parents managing multiple tasks at home.</p>\n<h3>Smart Design Features</h3>\n<ul>\n <li> Sit &amp; Lie Adjustable Design provides flexibility for dining, relaxing, or shampoo time </li>\n <li> Foldable structure allows for easy storage and portability when not in use </li>\n <li> Sturdy frame ensures stability during mealtime or bathing use </li>\n <li> Multi-purpose functionality doubles as a dining stool, recliner, and shampoo chair </li>\n <li> Ergonomic recline supports toddlers during hair-washing sessions without discomfort </li>\n <li> Compact design saves household space and is easy to transport </li>\n</ul>\n<h3>Setup and Usage</h3>\n<ul>\n <li> Unfold the chair and secure all joints before use </li>\n <li> Adjust recline mode for shampoo time or upright mode for dining </li>\n <li> Ensure straps and safety mechanisms are properly engaged </li>\n <li> Clean surface with a damp cloth after each use </li>\n <li> Fold flat after mealtime or shampoo sessions for easy storage </li>\n</ul>\n<h3>Product Specifications</h3>\n<ul>\n <li> Material: Durable child-safe frame with water-resistant cushioning </li>\n <li> Dimensions: Optimized for toddlers and small children </li>\n <li> Style: Foldable sit &amp; lie recliner with multifunctional design </li>\n <li> Colors: Available in playful child-friendly shades </li>\n <li> Suitable for: Toddlers during dining, relaxing, or bathing time </li>\n <li> Package Includes: 1 complete foldable shampoo recliner &amp; dining stool </li>\n</ul>\n<h3>Why Choose This Chair</h3>\n<p></p>\n<ul>\n <li> Multi-functional design eliminates the need for separate chairs or shampoo stools </li>\n <li> Foldable and portable – perfect for apartments and families with limited space </li>\n <li> Provides both comfort and safety during mealtime or shampooing </li>\n <li> Durable structure ensures long-term daily use </li>\n <li> Easy-to-clean surface keeps hygiene at the forefront </li>\n <li> Ergonomic sit &amp; lie design reduces stress for both child and parent</li>\n</ul>\n<p>\n <br>\n</p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-23T14:34:53+01:00",
+      "handle": "kidloom-children-s-shampoo-recliner-dining-stool-foldable-baby-shampoo-chair-with-sit-lie-design-essential-multi-use-seating-washing-artifact-for-toddlers",
+      "updated_at": "2025-09-23T14:35:06+01:00",
+      "published_at": "2025-09-23T14:35:04+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "CJ, Kid Dining Chair, Recylining Kid Seat",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9841019486550",
+      "variants": [
+        {
+          "id": 51392566100310,
+          "product_id": 9841019486550,
+          "title": "Blue Ordinary",
+          "price": "80.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Blue Ordinary",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:00+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 820,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT109913601AZ",
+          "weight": 820.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625966592342,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392566100310",
+          "image_id": 67077865177430
+        },
+        {
+          "id": 51392566133078,
+          "product_id": 9841019486550,
+          "title": "Blue flagship",
+          "price": "82.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Blue flagship",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:00+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 820,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT109913605EV",
+          "weight": 820.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625966625110,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392566133078",
+          "image_id": 67077865210198
+        },
+        {
+          "id": 51392566165846,
+          "product_id": 9841019486550,
+          "title": "Blue upgrade",
+          "price": "81.95",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Blue upgrade",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:00+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 820,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT109913603CX",
+          "weight": 820.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625966657878,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392566165846",
+          "image_id": 67077865242966
+        },
+        {
+          "id": 51392566198614,
+          "product_id": 9841019486550,
+          "title": "Pink Ordinary",
+          "price": "80.95",
+          "position": 4,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Pink Ordinary",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:00+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 820,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT109913602BY",
+          "weight": 820.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625966690646,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392566198614",
+          "image_id": 67077865275734
+        },
+        {
+          "id": 51392566231382,
+          "product_id": 9841019486550,
+          "title": "Pink flagship",
+          "price": "82.95",
+          "position": 5,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Pink flagship",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:00+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 820,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT109913606FU",
+          "weight": 820.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625966723414,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392566231382",
+          "image_id": 67077865308502
+        },
+        {
+          "id": 51392566264150,
+          "product_id": 9841019486550,
+          "title": "Pink upgrade",
+          "price": "81.95",
+          "position": 6,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Pink upgrade",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:00+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 820,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT109913604DW",
+          "weight": 820.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53625966756182,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392566264150",
+          "image_id": 67077865341270
+        }
+      ],
+      "options": [
+        {
+          "id": 12699103330646,
+          "product_id": 9841019486550,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue Ordinary",
+            "Blue flagship",
+            "Blue upgrade",
+            "Pink Ordinary",
+            "Pink flagship",
+            "Pink upgrade"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67077864259926,
+          "alt": null,
+          "position": 1,
+          "product_id": 9841019486550,
+          "created_at": "2025-09-23T14:34:54+01:00",
+          "updated_at": "2025-09-23T14:34:56+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67077864259926",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421642.jpg?v=1758634497",
+          "variant_ids": []
+        },
+        {
+          "id": 67077865177430,
+          "alt": null,
+          "position": 2,
+          "product_id": 9841019486550,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:03+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67077865177430",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421655.jpg?v=1758634504",
+          "variant_ids": [
+            51392566100310
+          ]
+        },
+        {
+          "id": 67077865210198,
+          "alt": null,
+          "position": 3,
+          "product_id": 9841019486550,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:03+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67077865210198",
+          "width": 750,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421625.jpg?v=1758634504",
+          "variant_ids": [
+            51392566133078
+          ]
+        },
+        {
+          "id": 67077865242966,
+          "alt": null,
+          "position": 4,
+          "product_id": 9841019486550,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:03+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67077865242966",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421640.jpg?v=1758634504",
+          "variant_ids": [
+            51392566165846
+          ]
+        },
+        {
+          "id": 67077865275734,
+          "alt": null,
+          "position": 5,
+          "product_id": 9841019486550,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:02+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67077865275734",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421642_7ae5613e-3981-4245-9330-46cc95219981.jpg?v=1758634505",
+          "variant_ids": [
+            51392566198614
+          ]
+        },
+        {
+          "id": 67077865308502,
+          "alt": null,
+          "position": 6,
+          "product_id": 9841019486550,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:03+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67077865308502",
+          "width": 750,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421623.jpg?v=1758634504",
+          "variant_ids": [
+            51392566231382
+          ]
+        },
+        {
+          "id": 67077865341270,
+          "alt": null,
+          "position": 7,
+          "product_id": 9841019486550,
+          "created_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:35:03+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67077865341270",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421652.jpg?v=1758634503",
+          "variant_ids": [
+            51392566264150
+          ]
+        }
+      ],
+      "image": {
+        "id": 67077864259926,
+        "alt": null,
+        "position": 1,
+        "product_id": 9841019486550,
+        "created_at": "2025-09-23T14:34:54+01:00",
+        "updated_at": "2025-09-23T14:34:56+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67077864259926",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421642.jpg?v=1758634497",
         "variant_ids": []
       }
     },
@@ -104216,235 +104536,13 @@
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/289aec64-4d33-489b-90d9-cf961ef8b118.jpg?v=1757432874",
         "variant_ids": []
       }
-    },
-    {
-      "id": 9791182864726,
-      "title": "MoonBud Little Bear Bow Baby Bottle – Full Moon Small Feeder for Infants",
-      "body_html": "<p data-start=\"129\" data-end=\"406\">Make feeding time adorable and safe with the <strong data-start=\"205\" data-end=\"244\">MoonBud Little Bear Bow Baby Bottle</strong>. Designed for infants, this <strong data-start=\"273\" data-end=\"299\">full moon small feeder</strong> combines a cute bear-themed design with practical functionality, making every feeding session enjoyable.</p>\n<p data-start=\"408\" data-end=\"767\">Crafted from <strong data-start=\"421\" data-end=\"455\">BPA-free, food-grade materials</strong>, the bottle is safe, durable, and gentle on babies’ delicate gums. Its <strong data-start=\"527\" data-end=\"543\">compact size</strong> is perfect for small hands and easy to handle, while the secure cap prevents spills. Ideal for home or travel, the MoonBud Little Bear Bow Baby Bottle helps parents provide a safe, comfortable, and fun feeding experience.</p>\n<p data-start=\"769\" data-end=\"788\"><strong data-start=\"769\" data-end=\"786\">Key Features:</strong></p>\n<ul data-start=\"789\" data-end=\"1117\">\n<li data-start=\"789\" data-end=\"865\">\n<p data-start=\"791\" data-end=\"865\"><strong data-start=\"791\" data-end=\"816\">Cute Bear Bow Design:</strong> Engages and entertains infants during feeding.</p>\n</li>\n<li data-start=\"866\" data-end=\"933\">\n<p data-start=\"868\" data-end=\"933\"><strong data-start=\"868\" data-end=\"888\">BPA-Free &amp; Safe:</strong> Made from non-toxic, food-grade materials.</p>\n</li>\n<li data-start=\"934\" data-end=\"1004\">\n<p data-start=\"936\" data-end=\"1004\"><strong data-start=\"936\" data-end=\"961\">Compact Small Feeder:</strong> Easy for infants to hold and drink from.</p>\n</li>\n<li data-start=\"1005\" data-end=\"1055\">\n<p data-start=\"1007\" data-end=\"1055\"><strong data-start=\"1007\" data-end=\"1025\">Leakproof Cap:</strong> Prevents spills and messes.</p>\n</li>\n<li data-start=\"1056\" data-end=\"1117\">\n<p data-start=\"1058\" data-end=\"1117\"><strong data-start=\"1058\" data-end=\"1083\">Durable &amp; Convenient:</strong> Perfect for home use or travel.</p>\n</li>\n</ul>\n<p data-start=\"1119\" data-end=\"1220\">Make every feeding moment safe, fun, and adorable with the <strong data-start=\"1178\" data-end=\"1217\">MoonBud Little Bear Bow Baby Bottle</strong>.</p>\n<p data-start=\"1119\" data-end=\"1220\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/db497c77-751b-4432-8fef-b62d836305fe.jpg?v=1756711897\" alt=\"MoonBud Little Bear Bow Baby Bottle\"></p>\n<p data-start=\"1119\" data-end=\"1220\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4f4fab47-bc65-4dfd-ade2-fcd735247166.jpg?v=1756711901\" alt=\"MoonBud Little Bear Bow Baby Bottle\"></p>\n<p data-start=\"1119\" data-end=\"1220\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/9056eabc-e0b4-489e-8f76-65fc65b98e00.jpg?v=1756711911\" alt=\"MoonBud Little Bear Bow Baby Bottle\"></p>",
-      "vendor": "Nestacular",
-      "product_type": "Baby Bottle",
-      "created_at": "2025-09-01T08:31:32+01:00",
-      "handle": "moonbud-little-bear-bow-baby-bottle",
-      "updated_at": "2025-09-22T13:32:20+01:00",
-      "published_at": "2025-09-01T08:31:49+01:00",
-      "template_suffix": null,
-      "published_scope": "global",
-      "tags": "Bear Baby Bottle, BPA-Free Baby Bottle, Cute Baby Bottle, Leakproof Infant Feeder, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, Small Infant Feeder",
-      "status": "active",
-      "admin_graphql_api_id": "gid://shopify/Product/9791182864726",
-      "variants": [
-        {
-          "id": 51195245953366,
-          "product_id": 9791182864726,
-          "title": "Blue",
-          "price": "15.24",
-          "position": 1,
-          "inventory_policy": "deny",
-          "compare_at_price": "19.81",
-          "option1": "Blue",
-          "option2": null,
-          "option3": null,
-          "created_at": "2025-09-01T08:31:47+01:00",
-          "updated_at": "2025-09-01T09:09:39+01:00",
-          "taxable": false,
-          "barcode": null,
-          "fulfillment_service": "manual",
-          "grams": 35,
-          "inventory_management": "shopify",
-          "requires_shipping": true,
-          "sku": "CJYE133938401AZ",
-          "weight": 35.0,
-          "weight_unit": "g",
-          "inventory_item_id": 53399894032726,
-          "inventory_quantity": 43350,
-          "old_inventory_quantity": 43350,
-          "admin_graphql_api_id": "gid://shopify/ProductVariant/51195245953366",
-          "image_id": 66238681743702
-        },
-        {
-          "id": 51195245986134,
-          "product_id": 9791182864726,
-          "title": "Pink",
-          "price": "15.24",
-          "position": 2,
-          "inventory_policy": "deny",
-          "compare_at_price": "19.81",
-          "option1": "Pink",
-          "option2": null,
-          "option3": null,
-          "created_at": "2025-09-01T08:31:47+01:00",
-          "updated_at": "2025-09-01T09:09:39+01:00",
-          "taxable": false,
-          "barcode": null,
-          "fulfillment_service": "manual",
-          "grams": 35,
-          "inventory_management": "shopify",
-          "requires_shipping": true,
-          "sku": "CJYE133938402BY",
-          "weight": 35.0,
-          "weight_unit": "g",
-          "inventory_item_id": 53399894065494,
-          "inventory_quantity": 49488,
-          "old_inventory_quantity": 49488,
-          "admin_graphql_api_id": "gid://shopify/ProductVariant/51195245986134",
-          "image_id": 66238681776470
-        }
-      ],
-      "options": [
-        {
-          "id": 12640360005974,
-          "product_id": 9791182864726,
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Blue",
-            "Pink"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "id": 66238676533590,
-          "alt": "MoonBud Little Bear Bow Baby Bottle",
-          "position": 1,
-          "product_id": 9791182864726,
-          "created_at": "2025-09-01T08:31:34+01:00",
-          "updated_at": "2025-09-01T08:52:51+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66238676533590",
-          "width": 800,
-          "height": 800,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/db497c77-751b-4432-8fef-b62d836305fe.jpg?v=1756711897",
-          "variant_ids": []
-        },
-        {
-          "id": 66238677287254,
-          "alt": "MoonBud Little Bear Bow Baby Bottle",
-          "position": 2,
-          "product_id": 9791182864726,
-          "created_at": "2025-09-01T08:31:36+01:00",
-          "updated_at": "2025-09-01T08:52:55+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66238677287254",
-          "width": 800,
-          "height": 800,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/ac49ca23-e2f6-4176-b4b0-039556a57f53.jpg?v=1756711899",
-          "variant_ids": []
-        },
-        {
-          "id": 66238678860118,
-          "alt": "MoonBud Little Bear Bow Baby Bottle",
-          "position": 3,
-          "product_id": 9791182864726,
-          "created_at": "2025-09-01T08:31:38+01:00",
-          "updated_at": "2025-09-01T08:52:59+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66238678860118",
-          "width": 750,
-          "height": 575,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4f4fab47-bc65-4dfd-ade2-fcd735247166.jpg?v=1756711901",
-          "variant_ids": []
-        },
-        {
-          "id": 66238680236374,
-          "alt": "MoonBud Little Bear Bow Baby Bottle",
-          "position": 4,
-          "product_id": 9791182864726,
-          "created_at": "2025-09-01T08:31:42+01:00",
-          "updated_at": "2025-09-01T08:53:03+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66238680236374",
-          "width": 750,
-          "height": 479,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/717ed342-d4b6-4a83-8ecc-1b49f8706198.jpg?v=1756711905",
-          "variant_ids": []
-        },
-        {
-          "id": 66238680432982,
-          "alt": "MoonBud Little Bear Bow Baby Bottle",
-          "position": 5,
-          "product_id": 9791182864726,
-          "created_at": "2025-09-01T08:31:43+01:00",
-          "updated_at": "2025-09-01T08:53:07+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66238680432982",
-          "width": 750,
-          "height": 480,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5cdb90a6-8586-4f0e-9740-5febd7374218.jpg?v=1756711906",
-          "variant_ids": []
-        },
-        {
-          "id": 66238680793430,
-          "alt": "MoonBud Little Bear Bow Baby Bottle",
-          "position": 6,
-          "product_id": 9791182864726,
-          "created_at": "2025-09-01T08:31:45+01:00",
-          "updated_at": "2025-09-01T08:53:11+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66238680793430",
-          "width": 750,
-          "height": 479,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f614df96-0bfc-49be-8305-b7dcc702004b.jpg?v=1756711908",
-          "variant_ids": []
-        },
-        {
-          "id": 66238681612630,
-          "alt": "MoonBud Little Bear Bow Baby Bottle",
-          "position": 7,
-          "product_id": 9791182864726,
-          "created_at": "2025-09-01T08:31:47+01:00",
-          "updated_at": "2025-09-01T08:53:15+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66238681612630",
-          "width": 800,
-          "height": 800,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a25a2233-58b4-4b98-aed3-0e005407c8aa.jpg?v=1756711909",
-          "variant_ids": []
-        },
-        {
-          "id": 66238681743702,
-          "alt": "MoonBud Little Bear Bow Baby Bottle",
-          "position": 8,
-          "product_id": 9791182864726,
-          "created_at": "2025-09-01T08:31:47+01:00",
-          "updated_at": "2025-09-01T08:53:19+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66238681743702",
-          "width": 800,
-          "height": 800,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/20039fd2-0e5c-4a89-9a51-05504daa7a30.jpg?v=1756711910",
-          "variant_ids": [
-            51195245953366
-          ]
-        },
-        {
-          "id": 66238681776470,
-          "alt": "MoonBud Little Bear Bow Baby Bottle",
-          "position": 9,
-          "product_id": 9791182864726,
-          "created_at": "2025-09-01T08:31:47+01:00",
-          "updated_at": "2025-09-01T08:53:23+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66238681776470",
-          "width": 800,
-          "height": 800,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/9056eabc-e0b4-489e-8f76-65fc65b98e00.jpg?v=1756711911",
-          "variant_ids": [
-            51195245986134
-          ]
-        }
-      ],
-      "image": {
-        "id": 66238676533590,
-        "alt": "MoonBud Little Bear Bow Baby Bottle",
-        "position": 1,
-        "product_id": 9791182864726,
-        "created_at": "2025-09-01T08:31:34+01:00",
-        "updated_at": "2025-09-01T08:52:51+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/66238676533590",
-        "width": 800,
-        "height": 800,
-        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/db497c77-751b-4432-8fef-b62d836305fe.jpg?v=1756711897",
-        "variant_ids": []
-      }
     }
   ],
   "pagination": {
     "current_page": 1,
     "total_pages": 2,
     "items_per_page": 250,
-    "total_items": 402,
+    "total_items": 404,
     "items_in_page": 250,
     "has_next_page": true,
     "has_previous_page": false,
