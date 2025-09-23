@@ -19079,8 +19079,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791840420182",
       "variants": [
         {
-          "product_id": 9791840420182,
           "id": 51197707157846,
+          "product_id": 9791840420182,
           "title": "330ml / Green",
           "price": "30.98",
           "position": 1,
@@ -19107,8 +19107,8 @@
           "image_id": 66245982454102
         },
         {
-          "product_id": 9791840420182,
           "id": 51197707190614,
+          "product_id": 9791840420182,
           "title": "270ml / Pink",
           "price": "30.84",
           "position": 2,
@@ -19135,8 +19135,8 @@
           "image_id": 66245982486870
         },
         {
-          "product_id": 9791840420182,
           "id": 51197707223382,
+          "product_id": 9791840420182,
           "title": "270ml / Yellow",
           "price": "30.84",
           "position": 3,
@@ -19163,8 +19163,8 @@
           "image_id": 66245982519638
         },
         {
-          "product_id": 9791840420182,
           "id": 51197707256150,
+          "product_id": 9791840420182,
           "title": "270ml / Green",
           "price": "30.84",
           "position": 4,
@@ -19191,8 +19191,8 @@
           "image_id": 66245982552406
         },
         {
-          "product_id": 9791840420182,
           "id": 51197707288918,
+          "product_id": 9791840420182,
           "title": "330ml / Pink",
           "price": "30.98",
           "position": 5,
@@ -19219,8 +19219,8 @@
           "image_id": 66245982585174
         },
         {
-          "product_id": 9791840420182,
           "id": 51197707321686,
+          "product_id": 9791840420182,
           "title": "330ml / Yellow",
           "price": "30.98",
           "position": 6,
@@ -19249,8 +19249,8 @@
       ],
       "options": [
         {
-          "product_id": 9791840420182,
           "id": 12641119830358,
+          "product_id": 9791840420182,
           "name": "Size",
           "position": 1,
           "values": [
@@ -19259,8 +19259,8 @@
           ]
         },
         {
-          "product_id": 9791840420182,
           "id": 12641119863126,
+          "product_id": 9791840420182,
           "name": "Color",
           "position": 2,
           "values": [
@@ -26037,8 +26037,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793807941974",
       "variants": [
         {
-          "product_id": 9793807941974,
           "id": 51206553534806,
+          "product_id": 9793807941974,
           "title": "Pink",
           "price": "19.47",
           "position": 1,
@@ -26065,8 +26065,8 @@
           "image_id": 66262980526422
         },
         {
-          "product_id": 9793807941974,
           "id": 51206553567574,
+          "product_id": 9793807941974,
           "title": "Green",
           "price": "19.47",
           "position": 2,
@@ -26093,8 +26093,8 @@
           "image_id": 66262980559190
         },
         {
-          "product_id": 9793807941974,
           "id": 51206553600342,
+          "product_id": 9793807941974,
           "title": "Blue",
           "price": "19.47",
           "position": 3,
@@ -26123,8 +26123,8 @@
       ],
       "options": [
         {
-          "product_id": 9793807941974,
           "id": 12643541483862,
+          "product_id": 9793807941974,
           "name": "Color",
           "position": 1,
           "values": [

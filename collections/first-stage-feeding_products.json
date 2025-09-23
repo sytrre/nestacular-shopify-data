@@ -14075,8 +14075,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791156584790",
       "variants": [
         {
-          "id": 51195123269974,
           "product_id": 9791156584790,
+          "id": 51195123269974,
           "title": "A4 S",
           "price": "15.26",
           "position": 1,
@@ -14103,8 +14103,8 @@
           "image_id": 66237563339094
         },
         {
-          "id": 51195123302742,
           "product_id": 9791156584790,
+          "id": 51195123302742,
           "title": "A4 M",
           "price": "15.26",
           "position": 2,
@@ -14131,8 +14131,8 @@
           "image_id": 66237563339094
         },
         {
-          "id": 51195123335510,
           "product_id": 9791156584790,
+          "id": 51195123335510,
           "title": "A4 L",
           "price": "15.26",
           "position": 3,
@@ -14159,8 +14159,8 @@
           "image_id": 66237563339094
         },
         {
-          "id": 51195123368278,
           "product_id": 9791156584790,
+          "id": 51195123368278,
           "title": "A4 Cross Hole",
           "price": "15.26",
           "position": 4,
@@ -14189,8 +14189,8 @@
       ],
       "options": [
         {
-          "id": 12640329924950,
           "product_id": 9791156584790,
+          "id": 12640329924950,
           "name": "Size",
           "position": 1,
           "values": [
@@ -33898,8 +33898,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793807941974",
       "variants": [
         {
-          "product_id": 9793807941974,
           "id": 51206553534806,
+          "product_id": 9793807941974,
           "title": "Pink",
           "price": "19.47",
           "position": 1,
@@ -33926,8 +33926,8 @@
           "image_id": 66262980526422
         },
         {
-          "product_id": 9793807941974,
           "id": 51206553567574,
+          "product_id": 9793807941974,
           "title": "Green",
           "price": "19.47",
           "position": 2,
@@ -33954,8 +33954,8 @@
           "image_id": 66262980559190
         },
         {
-          "product_id": 9793807941974,
           "id": 51206553600342,
+          "product_id": 9793807941974,
           "title": "Blue",
           "price": "19.47",
           "position": 3,
@@ -33984,8 +33984,8 @@
       ],
       "options": [
         {
-          "product_id": 9793807941974,
           "id": 12643541483862,
+          "product_id": 9793807941974,
           "name": "Color",
           "position": 1,
           "values": [
