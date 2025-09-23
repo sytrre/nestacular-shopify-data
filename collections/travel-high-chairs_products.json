@@ -6377,8 +6377,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790202052950",
       "variants": [
         {
-          "product_id": 9790202052950,
           "id": 51191417930070,
+          "product_id": 9790202052950,
           "title": "1Sky Blue / USB",
           "price": "46.48",
           "position": 1,
@@ -6405,8 +6405,8 @@
           "image_id": 66229309243734
         },
         {
-          "product_id": 9790202052950,
           "id": 51191417962838,
+          "product_id": 9790202052950,
           "title": "Blue / USB",
           "price": "56.18",
           "position": 2,
@@ -6433,8 +6433,8 @@
           "image_id": 66229309276502
         },
         {
-          "product_id": 9790202052950,
           "id": 51191417995606,
+          "product_id": 9790202052950,
           "title": "Dark green / USB",
           "price": "52.02",
           "position": 3,
@@ -6461,8 +6461,8 @@
           "image_id": 66229309309270
         },
         {
-          "product_id": 9790202052950,
           "id": 51191418028374,
+          "product_id": 9790202052950,
           "title": "Light green / USB",
           "price": "49.25",
           "position": 4,
@@ -6489,8 +6489,8 @@
           "image_id": 66229309342038
         },
         {
-          "product_id": 9790202052950,
           "id": 51191418061142,
+          "product_id": 9790202052950,
           "title": "Pink / USB",
           "price": "56.18",
           "position": 5,
@@ -6519,8 +6519,8 @@
       ],
       "options": [
         {
-          "product_id": 9790202052950,
           "id": 12639150571862,
+          "product_id": 9790202052950,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6532,8 +6532,8 @@
           ]
         },
         {
-          "product_id": 9790202052950,
           "id": 12639150604630,
+          "product_id": 9790202052950,
           "name": "style",
           "position": 2,
           "values": [
@@ -24716,8 +24716,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9841066639702",
       "variants": [
         {
-          "id": 51392645792086,
           "product_id": 9841066639702,
+          "id": 51392645792086,
           "title": "Green",
           "price": "75.95",
           "position": 1,
@@ -24744,8 +24744,8 @@
           "image_id": 67078265471318
         },
         {
-          "id": 51392645824854,
           "product_id": 9841066639702,
+          "id": 51392645824854,
           "title": "Rose Red",
           "price": "75.95",
           "position": 2,
@@ -24774,8 +24774,8 @@
       ],
       "options": [
         {
-          "id": 12699152679254,
           "product_id": 9841066639702,
+          "id": 12699152679254,
           "name": "Color",
           "position": 1,
           "values": [

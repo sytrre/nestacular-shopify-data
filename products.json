@@ -9045,8 +9045,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791835373910",
       "variants": [
         {
-          "product_id": 9791835373910,
           "id": 51197690741078,
+          "product_id": 9791835373910,
           "title": "Brown / Brown Nipple Cover",
           "price": "30.19",
           "position": 1,
@@ -9073,8 +9073,8 @@
           "image_id": 66245917540694
         },
         {
-          "product_id": 9791835373910,
           "id": 51197690773846,
+          "product_id": 9791835373910,
           "title": "Brown / Brown Straw Cover",
           "price": "30.19",
           "position": 2,
@@ -9101,8 +9101,8 @@
           "image_id": 66245917573462
         },
         {
-          "product_id": 9791835373910,
           "id": 51197690806614,
+          "product_id": 9791835373910,
           "title": "Brown / Brown Nipple Cover Straw Cover",
           "price": "30.64",
           "position": 3,
@@ -9131,8 +9131,8 @@
       ],
       "options": [
         {
-          "product_id": 9791835373910,
           "id": 12641114259798,
+          "product_id": 9791835373910,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9140,8 +9140,8 @@
           ]
         },
         {
-          "product_id": 9791835373910,
           "id": 12641114292566,
+          "product_id": 9791835373910,
           "name": "Capacity",
           "position": 2,
           "values": [
@@ -49442,8 +49442,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790202052950",
       "variants": [
         {
-          "product_id": 9790202052950,
           "id": 51191417930070,
+          "product_id": 9790202052950,
           "title": "1Sky Blue / USB",
           "price": "46.48",
           "position": 1,
@@ -49470,8 +49470,8 @@
           "image_id": 66229309243734
         },
         {
-          "product_id": 9790202052950,
           "id": 51191417962838,
+          "product_id": 9790202052950,
           "title": "Blue / USB",
           "price": "56.18",
           "position": 2,
@@ -49498,8 +49498,8 @@
           "image_id": 66229309276502
         },
         {
-          "product_id": 9790202052950,
           "id": 51191417995606,
+          "product_id": 9790202052950,
           "title": "Dark green / USB",
           "price": "52.02",
           "position": 3,
@@ -49526,8 +49526,8 @@
           "image_id": 66229309309270
         },
         {
-          "product_id": 9790202052950,
           "id": 51191418028374,
+          "product_id": 9790202052950,
           "title": "Light green / USB",
           "price": "49.25",
           "position": 4,
@@ -49554,8 +49554,8 @@
           "image_id": 66229309342038
         },
         {
-          "product_id": 9790202052950,
           "id": 51191418061142,
+          "product_id": 9790202052950,
           "title": "Pink / USB",
           "price": "56.18",
           "position": 5,
@@ -49584,8 +49584,8 @@
       ],
       "options": [
         {
-          "product_id": 9790202052950,
           "id": 12639150571862,
+          "product_id": 9790202052950,
           "name": "Color",
           "position": 1,
           "values": [
@@ -49597,8 +49597,8 @@
           ]
         },
         {
-          "product_id": 9790202052950,
           "id": 12639150604630,
+          "product_id": 9790202052950,
           "name": "style",
           "position": 2,
           "values": [
