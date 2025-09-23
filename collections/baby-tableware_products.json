@@ -15687,8 +15687,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791384715606",
       "variants": [
         {
-          "id": 51196290564438,
           "product_id": 9791384715606,
+          "id": 51196290564438,
           "title": "Banana",
           "price": "15.14",
           "position": 1,
@@ -15715,8 +15715,8 @@
           "image_id": 66241077281110
         },
         {
-          "id": 51196290597206,
           "product_id": 9791384715606,
+          "id": 51196290597206,
           "title": "White bear",
           "price": "15.14",
           "position": 2,
@@ -15743,8 +15743,8 @@
           "image_id": 66241077313878
         },
         {
-          "id": 51196290629974,
           "product_id": 9791384715606,
+          "id": 51196290629974,
           "title": "Green bear",
           "price": "15.14",
           "position": 3,
@@ -15771,8 +15771,8 @@
           "image_id": 66241077346646
         },
         {
-          "id": 51196290662742,
           "product_id": 9791384715606,
+          "id": 51196290662742,
           "title": "Pink flower",
           "price": "15.14",
           "position": 4,
@@ -15801,8 +15801,8 @@
       ],
       "options": [
         {
-          "id": 12640600359254,
           "product_id": 9791384715606,
+          "id": 12640600359254,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21409,8 +21409,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791460180310",
       "variants": [
         {
-          "product_id": 9791460180310,
           "id": 51196529803606,
+          "product_id": 9791460180310,
           "title": "Green whale",
           "price": "20.68",
           "position": 1,
@@ -21437,8 +21437,8 @@
           "image_id": 66242134376790
         },
         {
-          "product_id": 9791460180310,
           "id": 51196529836374,
+          "product_id": 9791460180310,
           "title": "Pink swan",
           "price": "20.68",
           "position": 2,
@@ -21465,8 +21465,8 @@
           "image_id": 66242134409558
         },
         {
-          "product_id": 9791460180310,
           "id": 51196529869142,
+          "product_id": 9791460180310,
           "title": "Purple owl",
           "price": "20.68",
           "position": 3,
@@ -21493,8 +21493,8 @@
           "image_id": 66242134442326
         },
         {
-          "product_id": 9791460180310,
           "id": 51196529901910,
+          "product_id": 9791460180310,
           "title": "Yellow puppy",
           "price": "20.68",
           "position": 4,
@@ -21521,8 +21521,8 @@
           "image_id": 66242134475094
         },
         {
-          "product_id": 9791460180310,
           "id": 51196529934678,
+          "product_id": 9791460180310,
           "title": "Green dinosaur",
           "price": "20.68",
           "position": 5,
@@ -21549,8 +21549,8 @@
           "image_id": 66242134507862
         },
         {
-          "product_id": 9791460180310,
           "id": 51196529967446,
+          "product_id": 9791460180310,
           "title": "Pink Rabbit",
           "price": "20.59",
           "position": 6,
@@ -21577,8 +21577,8 @@
           "image_id": 66242134540630
         },
         {
-          "product_id": 9791460180310,
           "id": 51196530000214,
+          "product_id": 9791460180310,
           "title": "Orange cow",
           "price": "20.59",
           "position": 7,
@@ -21605,8 +21605,8 @@
           "image_id": 66242134573398
         },
         {
-          "product_id": 9791460180310,
           "id": 51196530032982,
+          "product_id": 9791460180310,
           "title": "Orange pig",
           "price": "20.59",
           "position": 8,
@@ -21633,8 +21633,8 @@
           "image_id": 66242134606166
         },
         {
-          "product_id": 9791460180310,
           "id": 51196530065750,
+          "product_id": 9791460180310,
           "title": "Grey elephant",
           "price": "20.52",
           "position": 9,
@@ -21661,8 +21661,8 @@
           "image_id": 66242134638934
         },
         {
-          "product_id": 9791460180310,
           "id": 51196530098518,
+          "product_id": 9791460180310,
           "title": "Pink pig",
           "price": "20.59",
           "position": 10,
@@ -21689,8 +21689,8 @@
           "image_id": 66242134671702
         },
         {
-          "product_id": 9791460180310,
           "id": 51196530131286,
+          "product_id": 9791460180310,
           "title": "Hippo",
           "price": "20.59",
           "position": 11,
@@ -21717,8 +21717,8 @@
           "image_id": 66242134704470
         },
         {
-          "product_id": 9791460180310,
           "id": 51196530164054,
+          "product_id": 9791460180310,
           "title": "Red monkey",
           "price": "20.59",
           "position": 12,
@@ -21745,8 +21745,8 @@
           "image_id": 66242134737238
         },
         {
-          "product_id": 9791460180310,
           "id": 51196530196822,
+          "product_id": 9791460180310,
           "title": "Watermelon pig",
           "price": "20.59",
           "position": 13,
@@ -21773,8 +21773,8 @@
           "image_id": 66242134770006
         },
         {
-          "product_id": 9791460180310,
           "id": 51196530229590,
+          "product_id": 9791460180310,
           "title": "Cat",
           "price": "20.59",
           "position": 14,
@@ -21801,8 +21801,8 @@
           "image_id": 66242134802774
         },
         {
-          "product_id": 9791460180310,
           "id": 51196530262358,
+          "product_id": 9791460180310,
           "title": "Panda",
           "price": "20.59",
           "position": 15,
@@ -21831,8 +21831,8 @@
       ],
       "options": [
         {
-          "product_id": 9791460180310,
           "id": 12640684409174,
+          "product_id": 9791460180310,
           "name": "Color",
           "position": 1,
           "values": [

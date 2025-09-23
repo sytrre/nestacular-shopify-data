@@ -43886,7 +43886,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T14:51:15+01:00",
       "handle": "todlernest-hammock-pod-swing-chair-portable-indoor-outdoor-hanging-seat-cocoon-design-for-children-essential-garden-furniture-relaxation-swing-for-kids",
-      "updated_at": "2025-09-23T15:08:21+01:00",
+      "updated_at": "2025-09-23T16:11:16+01:00",
       "published_at": "2025-09-23T14:56:53+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -43895,8 +43895,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9841066639702",
       "variants": [
         {
-          "product_id": 9841066639702,
           "id": 51392645792086,
+          "product_id": 9841066639702,
           "title": "Green",
           "price": "75.95",
           "position": 1,
@@ -43923,8 +43923,8 @@
           "image_id": 67078265471318
         },
         {
-          "product_id": 9841066639702,
           "id": 51392645824854,
+          "product_id": 9841066639702,
           "title": "Rose Red",
           "price": "75.95",
           "position": 2,
@@ -43953,8 +43953,8 @@
       ],
       "options": [
         {
-          "product_id": 9841066639702,
           "id": 12699152679254,
+          "product_id": 9841066639702,
           "name": "Color",
           "position": 1,
           "values": [
@@ -57343,7 +57343,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T15:04:15+01:00",
       "handle": "walknest-baby-dining-chair-cushion-soft-autumn-winter-padding-comfortable-warm-design-essential-seating-accessory-to-keep-babies-cozy",
-      "updated_at": "2025-09-23T15:10:35+01:00",
+      "updated_at": "2025-09-23T16:14:58+01:00",
       "published_at": "2025-09-23T15:10:32+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -57352,8 +57352,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9841111073110",
       "variants": [
         {
-          "product_id": 9841111073110,
           "id": 51392714998102,
+          "product_id": 9841111073110,
           "title": "Blue Elephant",
           "price": "41.95",
           "position": 1,
@@ -57380,8 +57380,8 @@
           "image_id": 67078643908950
         },
         {
-          "product_id": 9841111073110,
           "id": 51392715030870,
+          "product_id": 9841111073110,
           "title": "Pink Rainbow",
           "price": "41.95",
           "position": 2,
@@ -57410,8 +57410,8 @@
       ],
       "options": [
         {
-          "product_id": 9841111073110,
           "id": 12699199635798,
+          "product_id": 9841111073110,
           "name": "Color",
           "position": 1,
           "values": [

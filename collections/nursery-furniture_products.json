@@ -525,8 +525,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825499971926",
       "variants": [
         {
-          "product_id": 9825499971926,
           "id": 51338589897046,
+          "product_id": 9825499971926,
           "title": "Basic Style Cute Baby Pink",
           "price": "156.95",
           "position": 1,
@@ -553,8 +553,8 @@
           "image_id": 66896040132950
         },
         {
-          "product_id": 9825499971926,
           "id": 51338589929814,
+          "product_id": 9825499971926,
           "title": "Basic Style Gray Meal Body",
           "price": "156.95",
           "position": 2,
@@ -581,8 +581,8 @@
           "image_id": 66896040165718
         },
         {
-          "product_id": 9825499971926,
           "id": 51338589962582,
+          "product_id": 9825499971926,
           "title": "Basic Style Light Beige",
           "price": "156.95",
           "position": 3,
@@ -609,8 +609,8 @@
           "image_id": 66896040198486
         },
         {
-          "product_id": 9825499971926,
           "id": 51338589995350,
+          "product_id": 9825499971926,
           "title": "Basic Style Snow Blue",
           "price": "156.95",
           "position": 4,
@@ -637,8 +637,8 @@
           "image_id": 66896040231254
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590028118,
+          "product_id": 9825499971926,
           "title": "Basic Style Vanilla Green",
           "price": "153.95",
           "position": 5,
@@ -665,8 +665,8 @@
           "image_id": 66896040264022
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590060886,
+          "product_id": 9825499971926,
           "title": "Elite Cute Baby Pink",
           "price": "163.95",
           "position": 6,
@@ -693,8 +693,8 @@
           "image_id": 66896040296790
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590093654,
+          "product_id": 9825499971926,
           "title": "Elite High Grade Gray",
           "price": "163.95",
           "position": 7,
@@ -721,8 +721,8 @@
           "image_id": 66896040329558
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590126422,
+          "product_id": 9825499971926,
           "title": "Elite Light Beige",
           "price": "163.95",
           "position": 8,
@@ -749,8 +749,8 @@
           "image_id": 66896040362326
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590159190,
+          "product_id": 9825499971926,
           "title": "Elite Snow Blue",
           "price": "163.95",
           "position": 9,
@@ -777,8 +777,8 @@
           "image_id": 66896040395094
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590191958,
+          "product_id": 9825499971926,
           "title": "Elite Vanilla Green",
           "price": "163.95",
           "position": 10,
@@ -805,8 +805,8 @@
           "image_id": 66896040427862
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590224726,
+          "product_id": 9825499971926,
           "title": "Flagship Cute Baby Pink",
           "price": "173.95",
           "position": 11,
@@ -833,8 +833,8 @@
           "image_id": 66896040460630
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590257494,
+          "product_id": 9825499971926,
           "title": "Flagship High Grade Gray",
           "price": "173.95",
           "position": 12,
@@ -861,8 +861,8 @@
           "image_id": 66896040493398
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590290262,
+          "product_id": 9825499971926,
           "title": "Flagship Light Beige",
           "price": "173.95",
           "position": 13,
@@ -889,8 +889,8 @@
           "image_id": 66896040526166
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590323030,
+          "product_id": 9825499971926,
           "title": "Flagship Snow Blue",
           "price": "173.95",
           "position": 14,
@@ -917,8 +917,8 @@
           "image_id": 66896040558934
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590355798,
+          "product_id": 9825499971926,
           "title": "Flagship Vanilla Green",
           "price": "173.95",
           "position": 15,
@@ -945,8 +945,8 @@
           "image_id": 66896040591702
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590388566,
+          "product_id": 9825499971926,
           "title": "Intelligent Style Light Beige",
           "price": "168.95",
           "position": 16,
@@ -973,8 +973,8 @@
           "image_id": 66896040624470
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590421334,
+          "product_id": 9825499971926,
           "title": "Smart Cute Baby Pink",
           "price": "168.95",
           "position": 17,
@@ -1001,8 +1001,8 @@
           "image_id": 66896040657238
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590454102,
+          "product_id": 9825499971926,
           "title": "Smart High Grade Gray",
           "price": "168.95",
           "position": 18,
@@ -1029,8 +1029,8 @@
           "image_id": 66896040690006
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590486870,
+          "product_id": 9825499971926,
           "title": "Smart Snow Blue",
           "price": "168.95",
           "position": 19,
@@ -1057,8 +1057,8 @@
           "image_id": 66896040722774
         },
         {
-          "product_id": 9825499971926,
           "id": 51338590519638,
+          "product_id": 9825499971926,
           "title": "Smart Vanilla Green",
           "price": "168.95",
           "position": 20,
@@ -1087,8 +1087,8 @@
       ],
       "options": [
         {
-          "product_id": 9825499971926,
           "id": 12681270296918,
+          "product_id": 9825499971926,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1665,8 +1665,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821652255062",
       "variants": [
         {
-          "id": 51323336819030,
           "product_id": 9821652255062,
+          "id": 51323336819030,
           "title": "Mica Gray / US adapter",
           "price": "219.95",
           "position": 1,
@@ -1693,8 +1693,8 @@
           "image_id": 66791802503510
         },
         {
-          "id": 51323336851798,
           "product_id": 9821652255062,
+          "id": 51323336851798,
           "title": "Mica White / US adapter",
           "price": "219.95",
           "position": 2,
@@ -1723,8 +1723,8 @@
       ],
       "options": [
         {
-          "id": 12676613341526,
           "product_id": 9821652255062,
+          "id": 12676613341526,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1733,8 +1733,8 @@
           ]
         },
         {
-          "id": 12676613374294,
           "product_id": 9821652255062,
+          "id": 12676613374294,
           "name": "Power specification",
           "position": 2,
           "values": [
