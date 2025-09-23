@@ -5818,8 +5818,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791387566422",
       "variants": [
         {
-          "product_id": 9791387566422,
           "id": 51196299313494,
+          "product_id": 9791387566422,
           "title": "Brown",
           "price": "17.56",
           "position": 1,
@@ -5846,8 +5846,8 @@
           "image_id": 66241145766230
         },
         {
-          "product_id": 9791387566422,
           "id": 51196299346262,
+          "product_id": 9791387566422,
           "title": "Yellow",
           "price": "17.56",
           "position": 2,
@@ -5874,8 +5874,8 @@
           "image_id": 66241145798998
         },
         {
-          "product_id": 9791387566422,
           "id": 51196299379030,
+          "product_id": 9791387566422,
           "title": "Orange",
           "price": "17.56",
           "position": 3,
@@ -5902,8 +5902,8 @@
           "image_id": 66241145831766
         },
         {
-          "product_id": 9791387566422,
           "id": 51196299411798,
+          "product_id": 9791387566422,
           "title": "Red",
           "price": "17.56",
           "position": 4,
@@ -5930,8 +5930,8 @@
           "image_id": 66241145864534
         },
         {
-          "product_id": 9791387566422,
           "id": 51196299444566,
+          "product_id": 9791387566422,
           "title": "Green",
           "price": "17.56",
           "position": 5,
@@ -5960,8 +5960,8 @@
       ],
       "options": [
         {
-          "product_id": 9791387566422,
           "id": 12640604160342,
+          "product_id": 9791387566422,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16269,8 +16269,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793804271958",
       "variants": [
         {
-          "id": 51206543311190,
           "product_id": 9793804271958,
+          "id": 51206543311190,
           "title": "Blue",
           "price": "16.81",
           "position": 1,
@@ -16297,8 +16297,8 @@
           "image_id": 66262955491670
         },
         {
-          "id": 51206543343958,
           "product_id": 9793804271958,
+          "id": 51206543343958,
           "title": "Pink",
           "price": "16.81",
           "position": 2,
@@ -16325,8 +16325,8 @@
           "image_id": 66262955524438
         },
         {
-          "id": 51206543376726,
           "product_id": 9793804271958,
+          "id": 51206543376726,
           "title": "Green",
           "price": "16.81",
           "position": 3,
@@ -16355,8 +16355,8 @@
       ],
       "options": [
         {
-          "id": 12643536765270,
           "product_id": 9793804271958,
+          "id": 12643536765270,
           "name": "Color",
           "position": 1,
           "values": [
@@ -53434,8 +53434,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821436936534",
       "variants": [
         {
-          "id": 51322620084566,
           "product_id": 9821436936534,
+          "id": 51322620084566,
           "title": "Cherry blossom powder",
           "price": "178.95",
           "position": 1,
@@ -53462,8 +53462,8 @@
           "image_id": 66785353204054
         },
         {
-          "id": 51322620117334,
           "product_id": 9821436936534,
+          "id": 51322620117334,
           "title": "Icelandic blue",
           "price": "178.95",
           "position": 2,
@@ -53490,8 +53490,8 @@
           "image_id": 66785353236822
         },
         {
-          "id": 51322620150102,
           "product_id": 9821436936534,
+          "id": 51322620150102,
           "title": "Koala",
           "price": "170.95",
           "position": 3,
@@ -53518,8 +53518,8 @@
           "image_id": 66785353269590
         },
         {
-          "id": 51322620182870,
           "product_id": 9821436936534,
+          "id": 51322620182870,
           "title": "Pony",
           "price": "208.95",
           "position": 4,
@@ -53546,8 +53546,8 @@
           "image_id": 66785353302358
         },
         {
-          "id": 51322620215638,
           "product_id": 9821436936534,
+          "id": 51322620215638,
           "title": "Sky grey",
           "price": "178.95",
           "position": 5,
@@ -53574,8 +53574,8 @@
           "image_id": 66785353335126
         },
         {
-          "id": 51322620248406,
           "product_id": 9821436936534,
+          "id": 51322620248406,
           "title": "Snail",
           "price": "170.95",
           "position": 6,
@@ -53604,8 +53604,8 @@
       ],
       "options": [
         {
-          "id": 12676317118806,
           "product_id": 9821436936534,
+          "id": 12676317118806,
           "name": "Color",
           "position": 1,
           "values": [
@@ -63684,8 +63684,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9785224429910",
       "variants": [
         {
-          "product_id": 9785224429910,
           "id": 51169211187542,
+          "product_id": 9785224429910,
           "title": "Black",
           "price": "74.95",
           "position": 1,
@@ -63712,8 +63712,8 @@
           "image_id": 66185454911830
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211220310,
+          "product_id": 9785224429910,
           "title": "Dark brown",
           "price": "74.95",
           "position": 2,
@@ -63740,8 +63740,8 @@
           "image_id": 66185454944598
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211253078,
+          "product_id": 9785224429910,
           "title": "Grey",
           "price": "74.95",
           "position": 3,
@@ -63768,8 +63768,8 @@
           "image_id": 66185454977366
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211285846,
+          "product_id": 9785224429910,
           "title": "Grey blue",
           "price": "74.95",
           "position": 4,
@@ -63796,8 +63796,8 @@
           "image_id": 66185455010134
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211318614,
+          "product_id": 9785224429910,
           "title": "Matcha Green",
           "price": "74.95",
           "position": 5,
@@ -63824,8 +63824,8 @@
           "image_id": 66185455042902
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211351382,
+          "product_id": 9785224429910,
           "title": "Red",
           "price": "74.95",
           "position": 6,
@@ -63852,8 +63852,8 @@
           "image_id": 66185455075670
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211384150,
+          "product_id": 9785224429910,
           "title": "Retro Grey",
           "price": "74.95",
           "position": 7,
@@ -63880,8 +63880,8 @@
           "image_id": 66185455108438
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211416918,
+          "product_id": 9785224429910,
           "title": "Sakura pink",
           "price": "74.95",
           "position": 8,
@@ -63908,8 +63908,8 @@
           "image_id": 66185455141206
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211449686,
+          "product_id": 9785224429910,
           "title": "Spring Moss Green",
           "price": "74.95",
           "position": 9,
@@ -63936,8 +63936,8 @@
           "image_id": 66185455173974
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211482454,
+          "product_id": 9785224429910,
           "title": "Sunflower yellow",
           "price": "74.95",
           "position": 10,
@@ -63964,8 +63964,8 @@
           "image_id": 66185455206742
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211515222,
+          "product_id": 9785224429910,
           "title": "White",
           "price": "74.95",
           "position": 11,
@@ -63992,8 +63992,8 @@
           "image_id": 66185455239510
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211547990,
+          "product_id": 9785224429910,
           "title": "Wood color",
           "price": "74.95",
           "position": 12,
@@ -64022,8 +64022,8 @@
       ],
       "options": [
         {
-          "product_id": 9785224429910,
           "id": 12633433899350,
+          "product_id": 9785224429910,
           "name": "Color",
           "position": 1,
           "values": [
@@ -73876,13 +73876,13 @@
     {
       "id": 9841019486550,
       "title": "KidLoom Children’s Shampoo Recliner & Dining Stool – Foldable Baby Shampoo Chair with Sit & Lie Design | Essential Multi-Use Seating & Washing Artifact for Toddlers",
-      "body_html": "<p>KidLoom Children’s Shampoo Recliner &amp; Dining Stool combines multifunctional convenience with a foldable, space-saving design to provide the perfect solution for both daily mealtime and gentle hair-washing care. This thoughtfully designed chair allows children to sit or lie comfortably while ensuring safety, comfort, and versatility for parents managing multiple tasks at home.</p>\n<h3>Smart Design Features</h3>\n<ul>\n <li> Sit &amp; Lie Adjustable Design provides flexibility for dining, relaxing, or shampoo time </li>\n <li> Foldable structure allows for easy storage and portability when not in use </li>\n <li> Sturdy frame ensures stability during mealtime or bathing use </li>\n <li> Multi-purpose functionality doubles as a dining stool, recliner, and shampoo chair </li>\n <li> Ergonomic recline supports toddlers during hair-washing sessions without discomfort </li>\n <li> Compact design saves household space and is easy to transport </li>\n</ul>\n<h3>Setup and Usage</h3>\n<ul>\n <li> Unfold the chair and secure all joints before use </li>\n <li> Adjust recline mode for shampoo time or upright mode for dining </li>\n <li> Ensure straps and safety mechanisms are properly engaged </li>\n <li> Clean surface with a damp cloth after each use </li>\n <li> Fold flat after mealtime or shampoo sessions for easy storage </li>\n</ul>\n<h3>Product Specifications</h3>\n<ul>\n <li> Material: Durable child-safe frame with water-resistant cushioning </li>\n <li> Dimensions: Optimized for toddlers and small children </li>\n <li> Style: Foldable sit &amp; lie recliner with multifunctional design </li>\n <li> Colors: Available in playful child-friendly shades </li>\n <li> Suitable for: Toddlers during dining, relaxing, or bathing time </li>\n <li> Package Includes: 1 complete foldable shampoo recliner &amp; dining stool </li>\n</ul>\n<h3>Why Choose This Chair</h3>\n<p></p>\n<ul>\n <li> Multi-functional design eliminates the need for separate chairs or shampoo stools </li>\n <li> Foldable and portable – perfect for apartments and families with limited space </li>\n <li> Provides both comfort and safety during mealtime or shampooing </li>\n <li> Durable structure ensures long-term daily use </li>\n <li> Easy-to-clean surface keeps hygiene at the forefront </li>\n <li> Ergonomic sit &amp; lie design reduces stress for both child and parent</li>\n</ul>\n<p>\n <br>\n</p>",
+      "body_html": "<p>KidLoom Children’s Shampoo Recliner &amp; Dining Stool combines multifunctional convenience with a foldable, space-saving design to provide the perfect solution for both daily mealtime and gentle hair-washing care. This thoughtfully designed chair allows children to sit or lie comfortably while ensuring safety, comfort, and versatility for parents managing multiple tasks at home.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421640.jpg?v=1758634504\" alt=\"KidLoom Children’s Shampoo Recliner &amp; Dining Stool – Foldable Baby Shampoo Chair with Sit &amp; Lie Design | Essential Multi-Use Seating &amp; Washing Artifact for Toddlers\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Sit &amp; Lie Adjustable Design provides flexibility for dining, relaxing, or shampoo time</li>\n<li>Foldable structure allows for easy storage and portability when not in use</li>\n<li>Sturdy frame ensures stability during mealtime or bathing use</li>\n<li>Multi-purpose functionality doubles as a dining stool, recliner, and shampoo chair</li>\n<li>Ergonomic recline supports toddlers during hair-washing sessions without discomfort</li>\n<li>Compact design saves household space and is easy to transport</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421623.jpg?v=1758634504\" alt=\"KidLoom Children’s Shampoo Recliner &amp; Dining Stool – Foldable Baby Shampoo Chair with Sit &amp; Lie Design | Essential Multi-Use Seating &amp; Washing Artifact for Toddlers\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ul>\n<li>Unfold the chair and secure all joints before use</li>\n<li>Adjust recline mode for shampoo time or upright mode for dining</li>\n<li>Ensure straps and safety mechanisms are properly engaged</li>\n<li>Clean surface with a damp cloth after each use</li>\n<li>Fold flat after mealtime or shampoo sessions for easy storage</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421655.jpg?v=1758634504\" alt=\"KidLoom Children’s Shampoo Recliner &amp; Dining Stool – Foldable Baby Shampoo Chair with Sit &amp; Lie Design | Essential Multi-Use Seating &amp; Washing Artifact for Toddlers\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Durable child-safe frame with water-resistant cushioning</li>\n<li>Dimensions: Optimized for toddlers and small children</li>\n<li>Style: Foldable sit &amp; lie recliner with multifunctional design</li>\n<li>Colors: Available in playful child-friendly shades</li>\n<li>Suitable for: Toddlers during dining, relaxing, or bathing time</li>\n<li>Package Includes: 1 complete foldable shampoo recliner &amp; dining stool</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1619404421642.jpg?v=1758634497\" alt=\"KidLoom Children’s Shampoo Recliner &amp; Dining Stool – Foldable Baby Shampoo Chair with Sit &amp; Lie Design | Essential Multi-Use Seating &amp; Washing Artifact for Toddlers\" style=\"float: none;\"></div>\n<h3>Why Choose This Chair</h3>\n<p> </p>\n<ul>\n<li> Multi-functional design eliminates the need for separate chairs or shampoo stools</li>\n<li>Foldable and portable – perfect for apartments and families with limited space</li>\n<li>Provides both comfort and safety during mealtime or shampooing</li>\n<li>Durable structure ensures long-term daily use</li>\n<li>Easy-to-clean surface keeps hygiene at the forefront</li>\n<li>Ergonomic sit &amp; lie design reduces stress for both child and parent</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
       "vendor": "Nestacular",
       "product_type": "0",
       "created_at": "2025-09-23T14:34:53+01:00",
       "handle": "kidloom-children-s-shampoo-recliner-dining-stool-foldable-baby-shampoo-chair-with-sit-lie-design-essential-multi-use-seating-washing-artifact-for-toddlers",
-      "updated_at": "2025-09-23T14:35:06+01:00",
-      "published_at": "2025-09-23T14:35:04+01:00",
+      "updated_at": "2025-09-23T14:42:47+01:00",
+      "published_at": "2025-09-23T14:42:44+01:00",
       "template_suffix": null,
       "published_scope": "global",
       "tags": "CJ, Kid Dining Chair, Recylining Kid Seat",
@@ -73896,14 +73896,14 @@
           "price": "80.95",
           "position": 1,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "110.95",
           "option1": "Blue Ordinary",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:39:16+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 820,
           "inventory_management": "shopify",
@@ -73924,14 +73924,14 @@
           "price": "82.95",
           "position": 2,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "112.95",
           "option1": "Blue flagship",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:39:59+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 820,
           "inventory_management": "shopify",
@@ -73952,14 +73952,14 @@
           "price": "81.95",
           "position": 3,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "111.95",
           "option1": "Blue upgrade",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:40:39+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 820,
           "inventory_management": "shopify",
@@ -73980,14 +73980,14 @@
           "price": "80.95",
           "position": 4,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "110.95",
           "option1": "Pink Ordinary",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:41:18+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 820,
           "inventory_management": "shopify",
@@ -74008,14 +74008,14 @@
           "price": "82.95",
           "position": 5,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "112.95",
           "option1": "Pink flagship",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:41:55+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 820,
           "inventory_management": "shopify",
@@ -74036,14 +74036,14 @@
           "price": "81.95",
           "position": 6,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "11.95",
           "option1": "Pink upgrade",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:00+01:00",
+          "updated_at": "2025-09-23T14:42:32+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 820,
           "inventory_management": "shopify",
@@ -74077,11 +74077,11 @@
       "images": [
         {
           "id": 67077864259926,
-          "alt": null,
+          "alt": "Children's chair with a pink bear design on a pink background",
           "position": 1,
           "product_id": 9841019486550,
           "created_at": "2025-09-23T14:34:54+01:00",
-          "updated_at": "2025-09-23T14:34:56+01:00",
+          "updated_at": "2025-09-23T14:37:41+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67077864259926",
           "width": 800,
           "height": 800,
@@ -74090,11 +74090,11 @@
         },
         {
           "id": 67077865177430,
-          "alt": null,
+          "alt": "Children's chair with bear design on a blue background",
           "position": 2,
           "product_id": 9841019486550,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:03+01:00",
+          "updated_at": "2025-09-23T14:37:48+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67077865177430",
           "width": 800,
           "height": 800,
@@ -74105,11 +74105,11 @@
         },
         {
           "id": 67077865210198,
-          "alt": null,
+          "alt": "Children playing on colorful plastic chairs with cartoon character design in a playful setting.",
           "position": 3,
           "product_id": 9841019486550,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:03+01:00",
+          "updated_at": "2025-09-23T14:37:54+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67077865210198",
           "width": 750,
           "height": 1000,
@@ -74120,11 +74120,11 @@
         },
         {
           "id": 67077865242966,
-          "alt": null,
+          "alt": "Child sitting on a colorful chair with cartoon face design against a blue background",
           "position": 4,
           "product_id": 9841019486550,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:03+01:00",
+          "updated_at": "2025-09-23T14:38:01+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67077865242966",
           "width": 800,
           "height": 800,
@@ -74135,11 +74135,11 @@
         },
         {
           "id": 67077865275734,
-          "alt": null,
+          "alt": "Children's chair with a pink bear design on a pink background",
           "position": 5,
           "product_id": 9841019486550,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:02+01:00",
+          "updated_at": "2025-09-23T14:38:07+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67077865275734",
           "width": 800,
           "height": 800,
@@ -74150,11 +74150,11 @@
         },
         {
           "id": 67077865308502,
-          "alt": null,
+          "alt": "Children sitting on small chairs with pink and green backgrounds",
           "position": 6,
           "product_id": 9841019486550,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:03+01:00",
+          "updated_at": "2025-09-23T14:38:14+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67077865308502",
           "width": 750,
           "height": 1000,
@@ -74165,11 +74165,11 @@
         },
         {
           "id": 67077865341270,
-          "alt": null,
+          "alt": "Child sitting on a pink chair with a bear design against a pink background",
           "position": 7,
           "product_id": 9841019486550,
           "created_at": "2025-09-23T14:35:00+01:00",
-          "updated_at": "2025-09-23T14:35:03+01:00",
+          "updated_at": "2025-09-23T14:38:20+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67077865341270",
           "width": 800,
           "height": 800,
@@ -74181,11 +74181,11 @@
       ],
       "image": {
         "id": 67077864259926,
-        "alt": null,
+        "alt": "Children's chair with a pink bear design on a pink background",
         "position": 1,
         "product_id": 9841019486550,
         "created_at": "2025-09-23T14:34:54+01:00",
-        "updated_at": "2025-09-23T14:34:56+01:00",
+        "updated_at": "2025-09-23T14:37:41+01:00",
         "admin_graphql_api_id": "gid://shopify/ProductImage/67077864259926",
         "width": 800,
         "height": 800,
@@ -104542,7 +104542,7 @@
     "current_page": 1,
     "total_pages": 2,
     "items_per_page": 250,
-    "total_items": 404,
+    "total_items": 406,
     "items_in_page": 250,
     "has_next_page": true,
     "has_previous_page": false,

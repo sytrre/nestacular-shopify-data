@@ -4,7 +4,7 @@
     "handle": "high-chairs-and-accessories",
     "title": "High Chairs & Accessories",
     "body_html": "<p>Discover the centrepiece of your baby's mealtime experience. Our curated collection of high chairs and accessories is chosen for superior safety, ergonomic design, and a modern aesthetic that complements your home.</p>",
-    "products_count": 76
+    "products_count": 77
   },
   "products": [
     {
@@ -7855,8 +7855,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9785224429910",
       "variants": [
         {
-          "product_id": 9785224429910,
           "id": 51169211187542,
+          "product_id": 9785224429910,
           "title": "Black",
           "price": "74.95",
           "position": 1,
@@ -7883,8 +7883,8 @@
           "image_id": 66185454911830
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211220310,
+          "product_id": 9785224429910,
           "title": "Dark brown",
           "price": "74.95",
           "position": 2,
@@ -7911,8 +7911,8 @@
           "image_id": 66185454944598
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211253078,
+          "product_id": 9785224429910,
           "title": "Grey",
           "price": "74.95",
           "position": 3,
@@ -7939,8 +7939,8 @@
           "image_id": 66185454977366
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211285846,
+          "product_id": 9785224429910,
           "title": "Grey blue",
           "price": "74.95",
           "position": 4,
@@ -7967,8 +7967,8 @@
           "image_id": 66185455010134
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211318614,
+          "product_id": 9785224429910,
           "title": "Matcha Green",
           "price": "74.95",
           "position": 5,
@@ -7995,8 +7995,8 @@
           "image_id": 66185455042902
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211351382,
+          "product_id": 9785224429910,
           "title": "Red",
           "price": "74.95",
           "position": 6,
@@ -8023,8 +8023,8 @@
           "image_id": 66185455075670
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211384150,
+          "product_id": 9785224429910,
           "title": "Retro Grey",
           "price": "74.95",
           "position": 7,
@@ -8051,8 +8051,8 @@
           "image_id": 66185455108438
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211416918,
+          "product_id": 9785224429910,
           "title": "Sakura pink",
           "price": "74.95",
           "position": 8,
@@ -8079,8 +8079,8 @@
           "image_id": 66185455141206
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211449686,
+          "product_id": 9785224429910,
           "title": "Spring Moss Green",
           "price": "74.95",
           "position": 9,
@@ -8107,8 +8107,8 @@
           "image_id": 66185455173974
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211482454,
+          "product_id": 9785224429910,
           "title": "Sunflower yellow",
           "price": "74.95",
           "position": 10,
@@ -8135,8 +8135,8 @@
           "image_id": 66185455206742
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211515222,
+          "product_id": 9785224429910,
           "title": "White",
           "price": "74.95",
           "position": 11,
@@ -8163,8 +8163,8 @@
           "image_id": 66185455239510
         },
         {
-          "product_id": 9785224429910,
           "id": 51169211547990,
+          "product_id": 9785224429910,
           "title": "Wood color",
           "price": "74.95",
           "position": 12,
@@ -8193,8 +8193,8 @@
       ],
       "options": [
         {
-          "product_id": 9785224429910,
           "id": 12633433899350,
+          "product_id": 9785224429910,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15960,8 +15960,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9779868041558",
       "variants": [
         {
-          "id": 51144188002646,
           "product_id": 9779868041558,
+          "id": 51144188002646,
           "title": "Light Pink",
           "price": "50.95",
           "position": 1,
@@ -15988,8 +15988,8 @@
           "image_id": 66130627133782
         },
         {
-          "id": 51144188035414,
           "product_id": 9779868041558,
+          "id": 51144188035414,
           "title": "Navy",
           "price": "50.95",
           "position": 2,
@@ -16018,8 +16018,8 @@
       ],
       "options": [
         {
-          "id": 12626959565142,
           "product_id": 9779868041558,
+          "id": 12626959565142,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25367,6 +25367,241 @@
       }
     },
     {
+      "id": 9841111073110,
+      "title": "WalkNest Baby Dining Chair Cushion – Soft Autumn & Winter Padding, Comfortable & Warm Design | Essential Seating Accessory to Keep Babies Cozy",
+      "body_html": "<p>WalkNest Baby Dining Chair Cushion brings seasonal comfort and thoughtful design to your child’s mealtime experience. With soft, insulated padding made for autumn and winter, this cushion ensures babies stay cozy, warm, and comfortable while seated. Designed as an essential accessory, it fits seamlessly on most dining chairs to support safe and happy feeding moments.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8edc40e3-9e70-47cb-ae2e-197dd2725156.jpg?v=1758636277\" alt=\"WalkNest Baby Dining Chair Cushion – Soft Autumn &amp; Winter Padding, Comfortable &amp; Warm Design | Essential Seating Accessory to Keep Babies Cozy\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Soft insulated cotton padding keeps babies warm during autumn and winter meals</li>\n<li>Universal fit attaches securely to most baby dining chairs</li>\n<li>Breathable fabric lining prevents overheating while ensuring comfort</li>\n<li>Lightweight and portable design makes it easy to move between home and travel use</li>\n<li>Removable and washable cover ensures quick cleaning and long-lasting freshness</li>\n<li>Stylish patterns and colors blend beautifully with dining room or nursery décor</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3d285e33-15bb-408e-85cb-2f2bc2dec4a0.jpg?v=1758636274\" alt=\"WalkNest Baby Dining Chair Cushion – Soft Autumn &amp; Winter Padding, Comfortable &amp; Warm Design | Essential Seating Accessory to Keep Babies Cozy\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Place the cushion on your child’s dining chair.</li>\n<li>Secure using the adjustable straps for a snug and safe fit.</li>\n<li>Ensure your child is seated comfortably before mealtime.</li>\n<li>Remove the cover as needed for washing and reattach for daily use.</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/9fa1e4a3-0028-4e68-8509-f44034bebaa5.jpg?v=1758636266\" alt=\"WalkNest Baby Dining Chair Cushion – Soft Autumn &amp; Winter Padding, Comfortable &amp; Warm Design | Essential Seating Accessory to Keep Babies Cozy\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Premium soft cotton with insulated padding</li>\n<li>Dimensions: Universal fit for most standard baby dining chairs</li>\n<li>Style: Autumn &amp; winter cushion accessory</li>\n<li>Colors/Patterns: Multiple cozy seasonal designs available</li>\n<li>Suitable for: Infants and toddlers during mealtime</li>\n<li>Package: 1 complete baby dining chair cushion</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/96a6dafa-2447-429a-a28f-a086ddc23a19.jpg?v=1758636278\" alt=\"WalkNest Baby Dining Chair Cushion – Soft Autumn &amp; Winter Padding, Comfortable &amp; Warm Design | Essential Seating Accessory to Keep Babies Cozy\" style=\"float: none;\"></div>\n<h3>Why Choose This Cushion</h3>\n<ul>\n<li>Keeps your baby warm and comfortable in colder seasons</li>\n<li>Universal design fits a wide range of dining chairs</li>\n<li>Machine-washable cover makes cleaning effortless</li>\n<li>Lightweight and portable, ideal for both home and travel use</li>\n<li>Cozy designs enhance mealtime while keeping babies safe and snug</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-23T15:04:15+01:00",
+      "handle": "walknest-baby-dining-chair-cushion-soft-autumn-winter-padding-comfortable-warm-design-essential-seating-accessory-to-keep-babies-cozy",
+      "updated_at": "2025-09-23T15:10:35+01:00",
+      "published_at": "2025-09-23T15:10:32+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "CJ, Warm Dining Chair",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9841111073110",
+      "variants": [
+        {
+          "id": 51392714998102,
+          "product_id": 9841111073110,
+          "title": "Blue Elephant",
+          "price": "41.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "71.95",
+          "option1": "Blue Elephant",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-23T15:04:35+01:00",
+          "updated_at": "2025-09-23T15:09:29+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 352,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD200127902BY",
+          "weight": 352.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53626290569558,
+          "inventory_quantity": 10342,
+          "old_inventory_quantity": 10342,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392714998102",
+          "image_id": 67078643908950
+        },
+        {
+          "id": 51392715030870,
+          "product_id": 9841111073110,
+          "title": "Pink Rainbow",
+          "price": "41.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "71.95",
+          "option1": "Pink Rainbow",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-23T15:04:35+01:00",
+          "updated_at": "2025-09-23T15:10:10+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 352,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD200127901AZ",
+          "weight": 352.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53626290602326,
+          "inventory_quantity": 10890,
+          "old_inventory_quantity": 10890,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51392715030870",
+          "image_id": 67078643941718
+        }
+      ],
+      "options": [
+        {
+          "id": 12699199635798,
+          "product_id": 9841111073110,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue Elephant",
+            "Pink Rainbow"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67078634635606,
+          "alt": "Baby car seat with pink and white cushion on a light gray background",
+          "position": 1,
+          "product_id": 9841111073110,
+          "created_at": "2025-09-23T15:04:17+01:00",
+          "updated_at": "2025-09-23T15:07:29+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67078634635606",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/33d34c4b-096f-4123-9818-dfc163689237.jpg?v=1758636261",
+          "variant_ids": []
+        },
+        {
+          "id": 67078635880790,
+          "alt": "Baby head support pillow with pink top and rainbow pattern on white background",
+          "position": 2,
+          "product_id": 9841111073110,
+          "created_at": "2025-09-23T15:04:18+01:00",
+          "updated_at": "2025-09-23T15:07:37+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67078635880790",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/742c1b28-2364-4f63-bf92-5c11cae7980e.jpg?v=1758636261",
+          "variant_ids": []
+        },
+        {
+          "id": 67078637060438,
+          "alt": "Baby neck pillow and blanket with elephant pattern on a light gray background",
+          "position": 3,
+          "product_id": 9841111073110,
+          "created_at": "2025-09-23T15:04:20+01:00",
+          "updated_at": "2025-09-23T15:07:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67078637060438",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/50016439-22c0-48da-8ccc-8673e06801fe.jpg?v=1758636264",
+          "variant_ids": []
+        },
+        {
+          "id": 67078637617494,
+          "alt": "Set of baby pillows with elephant and rainbow patterns on a light gray background",
+          "position": 4,
+          "product_id": 9841111073110,
+          "created_at": "2025-09-23T15:04:22+01:00",
+          "updated_at": "2025-09-23T15:07:55+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67078637617494",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/16d8848c-d2c3-4b67-a37e-530446f3c5a4.jpg?v=1758636265",
+          "variant_ids": []
+        },
+        {
+          "id": 67078638272854,
+          "alt": "Baby car seat with pink and white cushion on a light gray background",
+          "position": 5,
+          "product_id": 9841111073110,
+          "created_at": "2025-09-23T15:04:23+01:00",
+          "updated_at": "2025-09-23T15:08:02+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67078638272854",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/9fa1e4a3-0028-4e68-8509-f44034bebaa5.jpg?v=1758636266",
+          "variant_ids": []
+        },
+        {
+          "id": 67078641418582,
+          "alt": "Pink neck pillow on a white blanket with rainbow patterns, text about neck guard benefits.",
+          "position": 6,
+          "product_id": 9841111073110,
+          "created_at": "2025-09-23T15:04:29+01:00",
+          "updated_at": "2025-09-23T15:08:09+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67078641418582",
+          "width": 750,
+          "height": 1051,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/e4010349-8207-4cfb-90ca-bc1ecc392b79.jpg?v=1758636272",
+          "variant_ids": []
+        },
+        {
+          "id": 67078642270550,
+          "alt": "Baby car seat with gray and white patterned cover on a white background",
+          "position": 7,
+          "product_id": 9841111073110,
+          "created_at": "2025-09-23T15:04:30+01:00",
+          "updated_at": "2025-09-23T15:08:15+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67078642270550",
+          "width": 750,
+          "height": 649,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3d285e33-15bb-408e-85cb-2f2bc2dec4a0.jpg?v=1758636274",
+          "variant_ids": []
+        },
+        {
+          "id": 67078643286358,
+          "alt": "Two baby pillows with pink and gray covers on a light gray background",
+          "position": 8,
+          "product_id": 9841111073110,
+          "created_at": "2025-09-23T15:04:33+01:00",
+          "updated_at": "2025-09-23T15:08:23+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67078643286358",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8edc40e3-9e70-47cb-ae2e-197dd2725156.jpg?v=1758636277",
+          "variant_ids": []
+        },
+        {
+          "id": 67078643908950,
+          "alt": "Baby neck pillow and blanket with elephant pattern on a light gray background",
+          "position": 9,
+          "product_id": 9841111073110,
+          "created_at": "2025-09-23T15:04:35+01:00",
+          "updated_at": "2025-09-23T15:08:31+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67078643908950",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/96a6dafa-2447-429a-a28f-a086ddc23a19.jpg?v=1758636278",
+          "variant_ids": [
+            51392714998102
+          ]
+        },
+        {
+          "id": 67078643941718,
+          "alt": "Baby support pillow with pink cushion and rainbow patterned cover on a light gray background",
+          "position": 10,
+          "product_id": 9841111073110,
+          "created_at": "2025-09-23T15:04:35+01:00",
+          "updated_at": "2025-09-23T15:08:37+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67078643941718",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/17e19d17-25e4-4102-aea3-cb37ddeddf41.jpg?v=1758636278",
+          "variant_ids": [
+            51392715030870
+          ]
+        }
+      ],
+      "image": {
+        "id": 67078634635606,
+        "alt": "Baby car seat with pink and white cushion on a light gray background",
+        "position": 1,
+        "product_id": 9841111073110,
+        "created_at": "2025-09-23T15:04:17+01:00",
+        "updated_at": "2025-09-23T15:07:29+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67078634635606",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/33d34c4b-096f-4123-9818-dfc163689237.jpg?v=1758636261",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9840662905174,
       "title": "WeeBam Child Safety Seat Car & Dining Chair – Convenient, Removable & Washable Design | Essential Baby Safety & Feeding Equipment for Toddlers",
       "body_html": "<p>WeeBam Child Safety Seat Car &amp; Dining Chair combines versatile functionality with a convenient washable design to provide the ultimate safety and comfort solution for modern families. Thoughtfully engineered for both car rides and mealtimes, this dual-purpose seat ensures your toddler is secure, comfortable, and cared for at home or on the go.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/9a34b476-96de-456d-80bd-4c8d748ed803.jpg?v=1758627167\" alt=\"WeeBam Child Safety Seat Car &amp; Dining Chair – Convenient, Removable &amp; Washable Design | Essential Baby Safety &amp; Feeding Equipment for Toddlers\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Dual-Purpose Functionality – Serves as both a reliable child car safety seat and a convenient dining chair.</li>\n<li>Removable &amp; Washable Cover – Easy-to-clean fabric keeps the seat fresh and hygienic after daily use.</li>\n<li>Secure Safety Harness – Ensures your child stays safely in place during car rides or mealtimes.</li>\n<li>Compact &amp; Lightweight – Easy to move, install, and carry for busy parents on the go.</li>\n<li>Durable Construction – Sturdy frame supports everyday use while maintaining comfort.</li>\n<li>Stylish Options – Modern color choices designed to blend seamlessly with car interiors and home décor.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/d4a3017b-5f73-4c9c-9257-57481135bcf4.jpg?v=1758627168\" alt=\"WeeBam Child Safety Seat Car &amp; Dining Chair – Convenient, Removable &amp; Washable Design | Essential Baby Safety &amp; Feeding Equipment for Toddlers\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ul>\n<li>Install securely in your car seat or dining chair using the integrated safety straps.</li>\n<li>Adjust harness to fit your child snugly and comfortably.</li>\n<li>Ensure all buckles and safety mechanisms are properly locked before use.</li>\n<li>Remove the cover when needed and machine wash for effortless maintenance.</li>\n<li>Transition easily between car and dining settings for maximum convenience.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a47495c3-11bc-4743-bcc8-1a691edfa79b.jpg?v=1758627165\" alt=\"WeeBam Child Safety Seat Car &amp; Dining Chair – Convenient, Removable &amp; Washable Design | Essential Baby Safety &amp; Feeding Equipment for Toddlers\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: High-quality, durable frame with soft, removable fabric cover</li>\n<li>Style: Dual-purpose car seat and dining chair</li>\n<li>Colors: Classic Gray, Ocean Blue, Blush Pink</li>\n<li>Suitable for: Babies and toddlers (approx. 6 months – 3 years)</li>\n<li>Package: 1 complete child safety seat with removable washable cover</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/93c21c90-e4b9-4c29-a889-1e44c1bb4067.jpg?v=1758627168\" alt=\"WeeBam Child Safety Seat Car &amp; Dining Chair – Convenient, Removable &amp; Washable Design | Essential Baby Safety &amp; Feeding Equipment for Toddlers\" style=\"float: none;\"></div>\n<h3>Why Choose This Seat</h3>\n<p> </p>\n<ul>\n<li> Convenient dual-use design saves space and reduces the need for multiple products.</li>\n<li>Removable washable cover keeps the seat fresh and parent-friendly.</li>\n<li>Secure safety harness ensures peace of mind during meals and travel.</li>\n<li>Lightweight and portable—perfect for families who are always on the move.</li>\n<li>Stylish design enhances both your car interior and dining space without compromise.</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
@@ -26096,8 +26331,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 76,
-    "products_in_page": 76,
+    "total_products": 77,
+    "products_in_page": 77,
     "has_next_page": false,
     "has_previous_page": false
   }

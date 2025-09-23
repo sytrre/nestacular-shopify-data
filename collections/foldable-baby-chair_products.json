@@ -2263,8 +2263,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821436936534",
       "variants": [
         {
-          "id": 51322620084566,
           "product_id": 9821436936534,
+          "id": 51322620084566,
           "title": "Cherry blossom powder",
           "price": "178.95",
           "position": 1,
@@ -2291,8 +2291,8 @@
           "image_id": 66785353204054
         },
         {
-          "id": 51322620117334,
           "product_id": 9821436936534,
+          "id": 51322620117334,
           "title": "Icelandic blue",
           "price": "178.95",
           "position": 2,
@@ -2319,8 +2319,8 @@
           "image_id": 66785353236822
         },
         {
-          "id": 51322620150102,
           "product_id": 9821436936534,
+          "id": 51322620150102,
           "title": "Koala",
           "price": "170.95",
           "position": 3,
@@ -2347,8 +2347,8 @@
           "image_id": 66785353269590
         },
         {
-          "id": 51322620182870,
           "product_id": 9821436936534,
+          "id": 51322620182870,
           "title": "Pony",
           "price": "208.95",
           "position": 4,
@@ -2375,8 +2375,8 @@
           "image_id": 66785353302358
         },
         {
-          "id": 51322620215638,
           "product_id": 9821436936534,
+          "id": 51322620215638,
           "title": "Sky grey",
           "price": "178.95",
           "position": 5,
@@ -2403,8 +2403,8 @@
           "image_id": 66785353335126
         },
         {
-          "id": 51322620248406,
           "product_id": 9821436936534,
+          "id": 51322620248406,
           "title": "Snail",
           "price": "170.95",
           "position": 6,
@@ -2433,8 +2433,8 @@
       ],
       "options": [
         {
-          "id": 12676317118806,
           "product_id": 9821436936534,
+          "id": 12676317118806,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2797,8 +2797,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9779868041558",
       "variants": [
         {
-          "id": 51144188002646,
           "product_id": 9779868041558,
+          "id": 51144188002646,
           "title": "Light Pink",
           "price": "50.95",
           "position": 1,
@@ -2825,8 +2825,8 @@
           "image_id": 66130627133782
         },
         {
-          "id": 51144188035414,
           "product_id": 9779868041558,
+          "id": 51144188035414,
           "title": "Navy",
           "price": "50.95",
           "position": 2,
@@ -2855,8 +2855,8 @@
       ],
       "options": [
         {
-          "id": 12626959565142,
           "product_id": 9779868041558,
+          "id": 12626959565142,
           "name": "Color",
           "position": 1,
           "values": [
