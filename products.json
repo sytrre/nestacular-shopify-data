@@ -67106,8 +67106,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649920854",
       "variants": [
         {
-          "product_id": 9792649920854,
           "id": 51201115160918,
+          "product_id": 9792649920854,
           "title": "Color",
           "price": "16.18",
           "position": 1,
@@ -67136,8 +67136,8 @@
       ],
       "options": [
         {
-          "product_id": 9792649920854,
           "id": 12642097070422,
+          "product_id": 9792649920854,
           "name": "Color",
           "position": 1,
           "values": [
@@ -104408,7 +104408,7 @@
     "current_page": 1,
     "total_pages": 2,
     "items_per_page": 250,
-    "total_items": 396,
+    "total_items": 398,
     "items_in_page": 250,
     "has_next_page": true,
     "has_previous_page": false,
