@@ -5740,7 +5740,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T15:25:36+01:00",
       "handle": "dinoga-outdoor-cotton-linen-children-s-hanging-chair-durable-infant-swing-comfortable-portable-design-essential-indoor-outdoor-relaxation-seat-for-toddlers",
-      "updated_at": "2025-09-22T15:33:49+01:00",
+      "updated_at": "2025-09-23T05:12:56+01:00",
       "published_at": "2025-09-22T15:31:08+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -12624,8 +12624,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9623932731734",
       "variants": [
         {
-          "product_id": 9623932731734,
           "id": 50460606038358,
+          "product_id": 9623932731734,
           "title": "Black",
           "price": "94.95",
           "position": 1,
@@ -12652,8 +12652,8 @@
           "image_id": 62474702291286
         },
         {
-          "product_id": 9623932731734,
           "id": 50460606071126,
+          "product_id": 9623932731734,
           "title": "Grey",
           "price": "94.95",
           "position": 2,
@@ -12680,8 +12680,8 @@
           "image_id": 62376447803734
         },
         {
-          "product_id": 9623932731734,
           "id": 50460606103894,
+          "product_id": 9623932731734,
           "title": "Silver",
           "price": "94.95",
           "position": 3,
@@ -12708,8 +12708,8 @@
           "image_id": 62376445706582
         },
         {
-          "product_id": 9623932731734,
           "id": 50460606136662,
+          "product_id": 9623932731734,
           "title": "Green",
           "price": "94.95",
           "position": 4,
@@ -12738,8 +12738,8 @@
       ],
       "options": [
         {
-          "product_id": 9623932731734,
           "id": 12435607224662,
+          "product_id": 9623932731734,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19943,7 +19943,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T16:13:37+01:00",
       "handle": "rhobbe-portable-child-seat-with-straps-foldable-frameless-chair-cover-lightweight-secure-design-essential-travel-friendly-feeding-seat-for-toddlers",
-      "updated_at": "2025-09-22T16:18:49+01:00",
+      "updated_at": "2025-09-23T05:31:34+01:00",
       "published_at": "2025-09-22T16:18:46+01:00",
       "template_suffix": null,
       "published_scope": "global",
