@@ -53434,8 +53434,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821436936534",
       "variants": [
         {
-          "product_id": 9821436936534,
           "id": 51322620084566,
+          "product_id": 9821436936534,
           "title": "Cherry blossom powder",
           "price": "178.95",
           "position": 1,
@@ -53462,8 +53462,8 @@
           "image_id": 66785353204054
         },
         {
-          "product_id": 9821436936534,
           "id": 51322620117334,
+          "product_id": 9821436936534,
           "title": "Icelandic blue",
           "price": "178.95",
           "position": 2,
@@ -53490,8 +53490,8 @@
           "image_id": 66785353236822
         },
         {
-          "product_id": 9821436936534,
           "id": 51322620150102,
+          "product_id": 9821436936534,
           "title": "Koala",
           "price": "170.95",
           "position": 3,
@@ -53518,8 +53518,8 @@
           "image_id": 66785353269590
         },
         {
-          "product_id": 9821436936534,
           "id": 51322620182870,
+          "product_id": 9821436936534,
           "title": "Pony",
           "price": "208.95",
           "position": 4,
@@ -53546,8 +53546,8 @@
           "image_id": 66785353302358
         },
         {
-          "product_id": 9821436936534,
           "id": 51322620215638,
+          "product_id": 9821436936534,
           "title": "Sky grey",
           "price": "178.95",
           "position": 5,
@@ -53574,8 +53574,8 @@
           "image_id": 66785353335126
         },
         {
-          "product_id": 9821436936534,
           "id": 51322620248406,
+          "product_id": 9821436936534,
           "title": "Snail",
           "price": "170.95",
           "position": 6,
@@ -53604,8 +53604,8 @@
       ],
       "options": [
         {
-          "product_id": 9821436936534,
           "id": 12676317118806,
+          "product_id": 9821436936534,
           "name": "Color",
           "position": 1,
           "values": [
