@@ -9880,7 +9880,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T13:43:57+01:00",
       "handle": "kidflight-baby-portable-car-seat-cushion-child-safety-seat-with-seat-belt-simple-dining-chair-conversion-essential-travel-feeding-solution-for-toddlers",
-      "updated_at": "2025-09-23T13:52:56+01:00",
+      "updated_at": "2025-09-24T01:44:15+01:00",
       "published_at": "2025-09-23T13:52:53+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -13178,8 +13178,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9623932731734",
       "variants": [
         {
-          "product_id": 9623932731734,
           "id": 50460606038358,
+          "product_id": 9623932731734,
           "title": "Black",
           "price": "94.95",
           "position": 1,
@@ -13206,8 +13206,8 @@
           "image_id": 62474702291286
         },
         {
-          "product_id": 9623932731734,
           "id": 50460606071126,
+          "product_id": 9623932731734,
           "title": "Grey",
           "price": "94.95",
           "position": 2,
@@ -13234,8 +13234,8 @@
           "image_id": 62376447803734
         },
         {
-          "product_id": 9623932731734,
           "id": 50460606103894,
+          "product_id": 9623932731734,
           "title": "Silver",
           "price": "94.95",
           "position": 3,
@@ -13262,8 +13262,8 @@
           "image_id": 62376445706582
         },
         {
-          "product_id": 9623932731734,
           "id": 50460606136662,
+          "product_id": 9623932731734,
           "title": "Green",
           "price": "94.95",
           "position": 4,
@@ -13292,8 +13292,8 @@
       ],
       "options": [
         {
-          "product_id": 9623932731734,
           "id": 12435607224662,
+          "product_id": 9623932731734,
           "name": "Color",
           "position": 1,
           "values": [
@@ -24707,7 +24707,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T14:51:15+01:00",
       "handle": "todlernest-hammock-pod-swing-chair-portable-indoor-outdoor-hanging-seat-cocoon-design-for-children-essential-garden-furniture-relaxation-swing-for-kids",
-      "updated_at": "2025-09-23T16:11:16+01:00",
+      "updated_at": "2025-09-24T02:52:34+01:00",
       "published_at": "2025-09-23T14:56:53+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -24929,7 +24929,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T12:48:39+01:00",
       "handle": "todnest-baby-dining-chair-multifunctional-foldable-portable-outdoor-beach-seat-space-saving-design-essential-baby-furniture-feeding-supplies-for-toddlers",
-      "updated_at": "2025-09-23T13:11:22+01:00",
+      "updated_at": "2025-09-24T00:48:54+01:00",
       "published_at": "2025-09-23T12:57:07+01:00",
       "template_suffix": null,
       "published_scope": "global",
