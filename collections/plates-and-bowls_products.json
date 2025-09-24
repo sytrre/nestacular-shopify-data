@@ -15555,8 +15555,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765169856854",
       "variants": [
         {
-          "product_id": 9765169856854,
           "id": 51084377293142,
+          "product_id": 9765169856854,
           "title": "Seat Belt",
           "price": "17.83",
           "position": 1,
@@ -15583,8 +15583,8 @@
           "image_id": 65932721750358
         },
         {
-          "product_id": 9765169856854,
           "id": 51084377325910,
+          "product_id": 9765169856854,
           "title": "Fence Gray",
           "price": "31.19",
           "position": 2,
@@ -15611,8 +15611,8 @@
           "image_id": 65932721979734
         },
         {
-          "product_id": 9765169856854,
           "id": 51084377358678,
+          "product_id": 9765169856854,
           "title": "Fence Black",
           "price": "31.41",
           "position": 3,
@@ -15639,8 +15639,8 @@
           "image_id": 65932722012502
         },
         {
-          "product_id": 9765169856854,
           "id": 51084377391446,
+          "product_id": 9765169856854,
           "title": "Black",
           "price": "36.10",
           "position": 4,
@@ -15667,8 +15667,8 @@
           "image_id": 65932722045270
         },
         {
-          "product_id": 9765169856854,
           "id": 51084377424214,
+          "product_id": 9765169856854,
           "title": "White (366)",
           "price": "36.29",
           "position": 5,
@@ -15695,8 +15695,8 @@
           "image_id": 65932722078038
         },
         {
-          "product_id": 9765169856854,
           "id": 51084377456982,
+          "product_id": 9765169856854,
           "title": "Fence White",
           "price": "31.22",
           "position": 6,
@@ -15723,8 +15723,8 @@
           "image_id": 65932722110806
         },
         {
-          "product_id": 9765169856854,
           "id": 51084377489750,
+          "product_id": 9765169856854,
           "title": "Gray (193)",
           "price": "47.83",
           "position": 7,
@@ -15751,8 +15751,8 @@
           "image_id": 65932722143574
         },
         {
-          "product_id": 9765169856854,
           "id": 51084377522518,
+          "product_id": 9765169856854,
           "title": "Gray (691)",
           "price": "35.98",
           "position": 8,
@@ -15779,8 +15779,8 @@
           "image_id": 65932722143574
         },
         {
-          "product_id": 9765169856854,
           "id": 51084377555286,
+          "product_id": 9765169856854,
           "title": "White (175)",
           "price": "51.01",
           "position": 9,
@@ -15809,8 +15809,8 @@
       ],
       "options": [
         {
-          "product_id": 9765169856854,
           "id": 12609595605334,
+          "product_id": 9765169856854,
           "name": "Color",
           "position": 1,
           "values": [
