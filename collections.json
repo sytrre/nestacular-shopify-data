@@ -277,12 +277,12 @@
       "id": 659151978838,
       "handle": "baby-rocking-chair-1",
       "title": "Baby Rocking Chair",
-      "updated_at": "2025-09-19T09:22:55+01:00",
+      "updated_at": "2025-09-24T17:13:08+01:00",
       "body_html": "",
       "published_at": "2025-09-19T09:22:55+01:00",
       "sort_order": "best-selling",
       "template_suffix": "",
-      "disjunctive": false,
+      "disjunctive": true,
       "rules": [
         {
           "column": "tag",
@@ -293,6 +293,81 @@
           "column": "tag",
           "relation": "equals",
           "condition": "Dual-purpose Rocking Carriage"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Rocking Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Babby Rocking Chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Baby Rocking Chair"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "Rocking Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Rocking Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Electric Baby Rocking Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Adjustable Recline"
+        },
+        {
+          "column": "type",
+          "relation": "equals",
+          "condition": "Baby Rocking Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby rocker"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Rocker with Safety Harness"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Rocking Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Electric Baby Rocker"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Electric Baby Rocking Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Rockers"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Toddler Rocking Seat"
         }
       ],
       "published_scope": "global",

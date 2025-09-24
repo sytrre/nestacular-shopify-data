@@ -8604,8 +8604,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821652255062",
       "variants": [
         {
-          "product_id": 9821652255062,
           "id": 51323336819030,
+          "product_id": 9821652255062,
           "title": "Mica Gray / US adapter",
           "price": "219.95",
           "position": 1,
@@ -8632,8 +8632,8 @@
           "image_id": 66791802503510
         },
         {
-          "product_id": 9821652255062,
           "id": 51323336851798,
+          "product_id": 9821652255062,
           "title": "Mica White / US adapter",
           "price": "219.95",
           "position": 2,
@@ -8662,8 +8662,8 @@
       ],
       "options": [
         {
-          "product_id": 9821652255062,
           "id": 12676613341526,
+          "product_id": 9821652255062,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8672,8 +8672,8 @@
           ]
         },
         {
-          "product_id": 9821652255062,
           "id": 12676613374294,
+          "product_id": 9821652255062,
           "name": "Power specification",
           "position": 2,
           "values": [
@@ -40599,8 +40599,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791384715606",
       "variants": [
         {
-          "product_id": 9791384715606,
           "id": 51196290564438,
+          "product_id": 9791384715606,
           "title": "Banana",
           "price": "15.14",
           "position": 1,
@@ -40627,8 +40627,8 @@
           "image_id": 66241077281110
         },
         {
-          "product_id": 9791384715606,
           "id": 51196290597206,
+          "product_id": 9791384715606,
           "title": "White bear",
           "price": "15.14",
           "position": 2,
@@ -40655,8 +40655,8 @@
           "image_id": 66241077313878
         },
         {
-          "product_id": 9791384715606,
           "id": 51196290629974,
+          "product_id": 9791384715606,
           "title": "Green bear",
           "price": "15.14",
           "position": 3,
@@ -40683,8 +40683,8 @@
           "image_id": 66241077346646
         },
         {
-          "product_id": 9791384715606,
           "id": 51196290662742,
+          "product_id": 9791384715606,
           "title": "Pink flower",
           "price": "15.14",
           "position": 4,
@@ -40713,8 +40713,8 @@
       ],
       "options": [
         {
-          "product_id": 9791384715606,
           "id": 12640600359254,
+          "product_id": 9791384715606,
           "name": "Color",
           "position": 1,
           "values": [
