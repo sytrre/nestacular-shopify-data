@@ -3642,8 +3642,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791069421910",
       "variants": [
         {
-          "id": 51194352599382,
           "product_id": 9791069421910,
+          "id": 51194352599382,
           "title": "Pink red",
           "price": "49.64",
           "position": 1,
@@ -3670,8 +3670,8 @@
           "image_id": null
         },
         {
-          "id": 51194352632150,
           "product_id": 9791069421910,
+          "id": 51194352632150,
           "title": "Yellow glass",
           "price": "49.64",
           "position": 2,
@@ -3700,8 +3700,8 @@
       ],
       "options": [
         {
-          "id": 12640220152150,
           "product_id": 9791069421910,
+          "id": 12640220152150,
           "name": "Color",
           "position": 1,
           "values": [
