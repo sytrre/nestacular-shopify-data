@@ -5572,8 +5572,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844768538966",
       "variants": [
         {
-          "id": 51409416290646,
           "product_id": 9844768538966,
+          "id": 51409416290646,
           "title": "Deer",
           "price": "55.95",
           "position": 1,
@@ -5600,8 +5600,8 @@
           "image_id": 67125789917526
         },
         {
-          "id": 51409416323414,
           "product_id": 9844768538966,
+          "id": 51409416323414,
           "title": "Dog",
           "price": "55.95",
           "position": 2,
@@ -5628,8 +5628,8 @@
           "image_id": 67125789950294
         },
         {
-          "id": 51409416356182,
           "product_id": 9844768538966,
+          "id": 51409416356182,
           "title": "Elephant",
           "price": "55.95",
           "position": 3,
@@ -5656,8 +5656,8 @@
           "image_id": 67125789983062
         },
         {
-          "id": 51409416388950,
           "product_id": 9844768538966,
+          "id": 51409416388950,
           "title": "Lion",
           "price": "55.95",
           "position": 4,
@@ -5684,8 +5684,8 @@
           "image_id": 67125790015830
         },
         {
-          "id": 51409416421718,
           "product_id": 9844768538966,
+          "id": 51409416421718,
           "title": "Zebra",
           "price": "55.95",
           "position": 5,
@@ -5714,8 +5714,8 @@
       ],
       "options": [
         {
-          "id": 12703714607446,
           "product_id": 9844768538966,
+          "id": 12703714607446,
           "name": "Style",
           "position": 1,
           "values": [
@@ -24997,8 +24997,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9778310676822",
       "variants": [
         {
-          "product_id": 9778310676822,
           "id": 51136575603030,
+          "product_id": 9778310676822,
           "title": "Gold / 1 Style",
           "price": "102.95",
           "position": 1,
@@ -25025,8 +25025,8 @@
           "image_id": 66112448921942
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575635798,
+          "product_id": 9778310676822,
           "title": "Gold / 2 Style",
           "price": "108.95",
           "position": 2,
@@ -25053,8 +25053,8 @@
           "image_id": 66112448954710
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575668566,
+          "product_id": 9778310676822,
           "title": "Gold / 3 Style",
           "price": "109.45",
           "position": 3,
@@ -25081,8 +25081,8 @@
           "image_id": 66112448987478
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575701334,
+          "product_id": 9778310676822,
           "title": "Gold / 4 Style",
           "price": "112.95",
           "position": 4,
@@ -25109,8 +25109,8 @@
           "image_id": 66112449020246
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575734102,
+          "product_id": 9778310676822,
           "title": "Gold / 5 Style",
           "price": "109.15",
           "position": 5,
@@ -25137,8 +25137,8 @@
           "image_id": 66112449053014
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575766870,
+          "product_id": 9778310676822,
           "title": "Gold / 6 Style",
           "price": "110.95",
           "position": 6,
@@ -25165,8 +25165,8 @@
           "image_id": 66112449085782
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575799638,
+          "product_id": 9778310676822,
           "title": "Gold / 7 Style",
           "price": "112.95",
           "position": 7,
@@ -25193,8 +25193,8 @@
           "image_id": 66112449118550
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575832406,
+          "product_id": 9778310676822,
           "title": "Silver / 1 Style",
           "price": "102.95",
           "position": 8,
@@ -25221,8 +25221,8 @@
           "image_id": 66112449151318
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575865174,
+          "product_id": 9778310676822,
           "title": "Silver / 2 Style",
           "price": "108.95",
           "position": 9,
@@ -25249,8 +25249,8 @@
           "image_id": 66112449184086
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575897942,
+          "product_id": 9778310676822,
           "title": "Silver / 3 Style",
           "price": "109.45",
           "position": 10,
@@ -25277,8 +25277,8 @@
           "image_id": 66112449216854
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575930710,
+          "product_id": 9778310676822,
           "title": "Silver / 4 Style",
           "price": "112.95",
           "position": 11,
@@ -25305,8 +25305,8 @@
           "image_id": 66112449249622
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575963478,
+          "product_id": 9778310676822,
           "title": "Silver / 5 Style",
           "price": "109.15",
           "position": 12,
@@ -25333,8 +25333,8 @@
           "image_id": 66112449282390
         },
         {
-          "product_id": 9778310676822,
           "id": 51136575996246,
+          "product_id": 9778310676822,
           "title": "Silver / 6 Style",
           "price": "110.95",
           "position": 13,
@@ -25361,8 +25361,8 @@
           "image_id": 66112449315158
         },
         {
-          "product_id": 9778310676822,
           "id": 51136576029014,
+          "product_id": 9778310676822,
           "title": "Silver / 7 Style",
           "price": "112.95",
           "position": 14,
@@ -25391,8 +25391,8 @@
       ],
       "options": [
         {
-          "product_id": 9778310676822,
           "id": 12625133699414,
+          "product_id": 9778310676822,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25401,8 +25401,8 @@
           ]
         },
         {
-          "product_id": 9778310676822,
           "id": 12625133732182,
+          "product_id": 9778310676822,
           "name": "style",
           "position": 2,
           "values": [
