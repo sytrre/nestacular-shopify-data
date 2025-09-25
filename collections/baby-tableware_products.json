@@ -4,7 +4,7 @@
     "handle": "baby-tableware",
     "title": "Baby Tableware",
     "body_html": "<p>Discover the complete collection of Nestacular's baby tableware. From their first spoons to toddler plates, every item is beautifully designed, non-toxic, and made to make mealtimes simpler. Shop by product, solution, material, or age to find the perfect essentials.</p>",
-    "products_count": 135
+    "products_count": 136
   },
   "products": [
     {
@@ -6957,7 +6957,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T13:02:08+01:00",
       "handle": "bebeybaby-eating-silicone-waterproof-bib-soft-durable-easy-to-clean-design-essential-mess-free-feeding-accessory-for-toddlers",
-      "updated_at": "2025-09-25T13:17:38+01:00",
+      "updated_at": "2025-09-25T13:54:29+01:00",
       "published_at": "2025-09-25T13:16:19+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -6966,8 +6966,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844355891542",
       "variants": [
         {
-          "product_id": 9844355891542,
           "id": 51408157802838,
+          "product_id": 9844355891542,
           "title": "3D Jelly Apple Rabbit",
           "price": "20.95",
           "position": 1,
@@ -6994,8 +6994,8 @@
           "image_id": 67123290440022
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157835606,
+          "product_id": 9844355891542,
           "title": "3D Jelly Blueberry Style",
           "price": "20.95",
           "position": 2,
@@ -7022,8 +7022,8 @@
           "image_id": 67123290472790
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157868374,
+          "product_id": 9844355891542,
           "title": "3D Jelly Conner Dragon",
           "price": "20.95",
           "position": 3,
@@ -7050,8 +7050,8 @@
           "image_id": 67123290505558
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157901142,
+          "product_id": 9844355891542,
           "title": "3D Jelly Orange Style",
           "price": "20.95",
           "position": 4,
@@ -7078,8 +7078,8 @@
           "image_id": 67123290538326
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157933910,
+          "product_id": 9844355891542,
           "title": "3D Jelly Peach",
           "price": "20.95",
           "position": 5,
@@ -7106,8 +7106,8 @@
           "image_id": 67123290571094
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157966678,
+          "product_id": 9844355891542,
           "title": "3D Jelly Space Bear",
           "price": "20.95",
           "position": 6,
@@ -7134,8 +7134,8 @@
           "image_id": 67123290603862
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157999446,
+          "product_id": 9844355891542,
           "title": "3D Jelly Watermelon",
           "price": "20.95",
           "position": 7,
@@ -7162,8 +7162,8 @@
           "image_id": 67123290636630
         },
         {
-          "product_id": 9844355891542,
           "id": 51408158032214,
+          "product_id": 9844355891542,
           "title": "Ultra Thin Cute Tooth Rabbit",
           "price": "20.95",
           "position": 8,
@@ -7190,8 +7190,8 @@
           "image_id": 67123290669398
         },
         {
-          "product_id": 9844355891542,
           "id": 51408158064982,
+          "product_id": 9844355891542,
           "title": "Ultra Thin Gray Panda",
           "price": "20.95",
           "position": 9,
@@ -7218,8 +7218,8 @@
           "image_id": 67123290702166
         },
         {
-          "product_id": 9844355891542,
           "id": 51408158097750,
+          "product_id": 9844355891542,
           "title": "Ultra Thin Happy Tiger",
           "price": "20.95",
           "position": 10,
@@ -7246,8 +7246,8 @@
           "image_id": 67123290734934
         },
         {
-          "product_id": 9844355891542,
           "id": 51408158130518,
+          "product_id": 9844355891542,
           "title": "Ultra Thin Simple Dragon",
           "price": "20.95",
           "position": 11,
@@ -7276,8 +7276,8 @@
       ],
       "options": [
         {
-          "product_id": 9844355891542,
           "id": 12703263621462,
+          "product_id": 9844355891542,
           "name": "Color",
           "position": 1,
           "values": [
@@ -44410,8 +44410,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791006507350",
       "variants": [
         {
-          "id": 51194134495574,
           "product_id": 9791006507350,
+          "id": 51194134495574,
           "title": "B Blue",
           "price": "15.95",
           "position": 1,
@@ -44438,8 +44438,8 @@
           "image_id": 66235254309206
         },
         {
-          "id": 51194134528342,
           "product_id": 9791006507350,
+          "id": 51194134528342,
           "title": "B Green",
           "price": "15.95",
           "position": 2,
@@ -44466,8 +44466,8 @@
           "image_id": 66235254341974
         },
         {
-          "id": 51194134561110,
           "product_id": 9791006507350,
+          "id": 51194134561110,
           "title": "B Pink",
           "price": "15.95",
           "position": 3,
@@ -44494,8 +44494,8 @@
           "image_id": 66235254374742
         },
         {
-          "id": 51194134593878,
           "product_id": 9791006507350,
+          "id": 51194134593878,
           "title": "B White",
           "price": "15.95",
           "position": 4,
@@ -44522,8 +44522,8 @@
           "image_id": 66235254407510
         },
         {
-          "id": 51194134626646,
           "product_id": 9791006507350,
+          "id": 51194134626646,
           "title": "B Yellow",
           "price": "15.95",
           "position": 5,
@@ -44550,8 +44550,8 @@
           "image_id": 66235254440278
         },
         {
-          "id": 51194134659414,
           "product_id": 9791006507350,
+          "id": 51194134659414,
           "title": "Blue",
           "price": "15.45",
           "position": 6,
@@ -44578,8 +44578,8 @@
           "image_id": 66235254473046
         },
         {
-          "id": 51194134692182,
           "product_id": 9791006507350,
+          "id": 51194134692182,
           "title": "Blue c",
           "price": "15.40",
           "position": 7,
@@ -44606,8 +44606,8 @@
           "image_id": 66235254505814
         },
         {
-          "id": 51194134724950,
           "product_id": 9791006507350,
+          "id": 51194134724950,
           "title": "Green",
           "price": "15.45",
           "position": 8,
@@ -44634,8 +44634,8 @@
           "image_id": 66235254538582
         },
         {
-          "id": 51194134757718,
           "product_id": 9791006507350,
+          "id": 51194134757718,
           "title": "Pink",
           "price": "16.15",
           "position": 9,
@@ -44662,8 +44662,8 @@
           "image_id": 66235254571350
         },
         {
-          "id": 51194134790486,
           "product_id": 9791006507350,
+          "id": 51194134790486,
           "title": "Pink C",
           "price": "15.40",
           "position": 10,
@@ -44690,8 +44690,8 @@
           "image_id": 66235254604118
         },
         {
-          "id": 51194134823254,
           "product_id": 9791006507350,
+          "id": 51194134823254,
           "title": "White",
           "price": "15.65",
           "position": 11,
@@ -44718,8 +44718,8 @@
           "image_id": 66235254636886
         },
         {
-          "id": 51194134856022,
           "product_id": 9791006507350,
+          "id": 51194134856022,
           "title": "Yellow",
           "price": "15.45",
           "position": 12,
@@ -44748,8 +44748,8 @@
       ],
       "options": [
         {
-          "id": 12640148095318,
           "product_id": 9791006507350,
+          "id": 12640148095318,
           "name": "Color",
           "position": 1,
           "values": [
@@ -53799,6 +53799,678 @@
       }
     },
     {
+      "id": 9844669808982,
+      "title": "Shorok Silicone Baby Eating Bib – Stereo Waterproof & Easy-Clean Design | Essential Mess-Free Feeding Accessory for Toddlers",
+      "body_html": "<p>Shorok Silicone Baby Eating Bib combines durable waterproof protection with a smart, stereo design to keep mealtimes mess-free and stress-free. Crafted with parents in mind, this essential feeding accessory ensures your toddler stays comfortable while you spend less time cleaning up.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945556105_c4168974-fa39-4b74-9ffc-5a8bdcb3b3a7.jpg?v=1758809787\" alt=\"Shorok Silicone Baby Eating Bib – Stereo Waterproof &amp; Easy-Clean Design | Essential Mess-Free Feeding Accessory for Toddlers\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Stereo Waterproof Protection keeps spills, drool, and food particles from soaking through.</li>\n<li>Soft Silicone Material provides gentle comfort against your baby’s skin.</li>\n<li>Easy-to-Clean Design rinses off quickly or wipes clean for instant reuse.</li>\n<li>Adjustable Neck Fastening grows with your child for long-lasting use.</li>\n<li>Lightweight &amp; Flexible Build makes it easy to fold and carry when dining out.</li>\n<li>Food-Catcher Pocket effectively traps crumbs and liquids to minimize mess.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945624180.jpg?v=1758809787\" alt=\"Shorok Silicone Baby Eating Bib – Stereo Waterproof &amp; Easy-Clean Design | Essential Mess-Free Feeding Accessory for Toddlers\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ul>\n<li>Secure bib around your baby’s neck using the adjustable fastener.</li>\n<li>Ensure the front pocket is positioned outward to catch falling food.</li>\n<li>After mealtime, wipe clean with a damp cloth or rinse under running water.</li>\n<li>Dry completely before folding or storing for next use.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945589252.jpg?v=1758809787\" alt=\"Shorok Silicone Baby Eating Bib – Stereo Waterproof &amp; Easy-Clean Design | Essential Mess-Free Feeding Accessory for Toddlers\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Food-grade silicone (BPA-free, safe for infants and toddlers)</li>\n<li>Style: Stereo waterproof design with deep food-catching pocket</li>\n<li>Colors: Available in classic pastels and vibrant tones</li>\n<li>Suitable for: Babies and toddlers during feeding time</li>\n<li>Package: 1 silicone waterproof eating bib</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945569694.jpg?v=1758809787\" alt=\"Shorok Silicone Baby Eating Bib – Stereo Waterproof &amp; Easy-Clean Design | Essential Mess-Free Feeding Accessory for Toddlers\" style=\"float: none;\"></div>\n<h3>Why Choose This Bib</h3>\n<p> </p>\n<ul>\n<li> Saves time with effortless cleaning after messy meals.</li>\n<li>Adjustable design grows with your child, offering lasting value.</li>\n<li>Durable silicone ensures long-term use over cloth alternatives.</li>\n<li>Portable and foldable, making it ideal for travel and on-the-go feeding.</li>\n<li>Keeps your baby clean and comfortable while protecting clothes from stains.</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-25T15:16:07+01:00",
+      "handle": "shorok-silicone-baby-eating-bib-stereo-waterproof-easy-clean-design-essential-mess-free-feeding-accessory-for-toddlers",
+      "updated_at": "2025-09-25T15:31:14+01:00",
+      "published_at": "2025-09-25T15:30:10+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Eating Bib, CJ",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9844669808982",
+      "variants": [
+        {
+          "id": 51409131995478,
+          "product_id": 9844669808982,
+          "title": "Light green expression",
+          "price": "20.85",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.85",
+          "option1": "Light green expression",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:31:13+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467101AZ",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057505110,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409131995478",
+          "image_id": 67125226996054
+        },
+        {
+          "id": 51409131897174,
+          "product_id": 9844669808982,
+          "title": "Azure White Bear",
+          "price": "20.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.95",
+          "option1": "Azure White Bear",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:31:13+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467110JQ",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057406806,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409131897174",
+          "image_id": 67125226897750
+        },
+        {
+          "id": 51409131929942,
+          "product_id": 9844669808982,
+          "title": "Blue dinosaur",
+          "price": "20.90",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.90",
+          "option1": "Blue dinosaur",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:31:13+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467106FU",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057439574,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409131929942",
+          "image_id": 67125226930518
+        },
+        {
+          "id": 51409131962710,
+          "product_id": 9844669808982,
+          "title": "Blue unicorn",
+          "price": "20.90",
+          "position": 4,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.90",
+          "option1": "Blue unicorn",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:31:13+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467112LO",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057472342,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409131962710",
+          "image_id": 67125226963286
+        },
+        {
+          "id": 51409132028246,
+          "product_id": 9844669808982,
+          "title": "Light pink unicorn",
+          "price": "20.90",
+          "position": 5,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.90",
+          "option1": "Light pink unicorn",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:23:53+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467105EV",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057537878,
+          "inventory_quantity": 40001,
+          "old_inventory_quantity": 40001,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409132028246",
+          "image_id": 67125227028822
+        },
+        {
+          "id": 51409132061014,
+          "product_id": 9844669808982,
+          "title": "Milk coffee white bear",
+          "price": "20.90",
+          "position": 6,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.90",
+          "option1": "Milk coffee white bear",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:24:31+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467109IR",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057570646,
+          "inventory_quantity": 20000,
+          "old_inventory_quantity": 20000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409132061014",
+          "image_id": 67125227061590
+        },
+        {
+          "id": 51409132093782,
+          "product_id": 9844669808982,
+          "title": "Navy blue unicorn",
+          "price": "20.96",
+          "position": 7,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.96",
+          "option1": "Navy blue unicorn",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:25:14+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467113MN",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057603414,
+          "inventory_quantity": 40001,
+          "old_inventory_quantity": 40001,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409132093782",
+          "image_id": 67125227094358
+        },
+        {
+          "id": 51409132126550,
+          "product_id": 9844669808982,
+          "title": "Orange beard",
+          "price": "20.85",
+          "position": 8,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.85",
+          "option1": "Orange beard",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:25:56+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467103CX",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057636182,
+          "inventory_quantity": 40001,
+          "old_inventory_quantity": 40001,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409132126550",
+          "image_id": 67125227127126
+        },
+        {
+          "id": 51409132159318,
+          "product_id": 9844669808982,
+          "title": "Pink Orange Emoji",
+          "price": "20.85",
+          "position": 9,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.85",
+          "option1": "Pink Orange Emoji",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:26:37+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467102BY",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057668950,
+          "inventory_quantity": 40001,
+          "old_inventory_quantity": 40001,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409132159318",
+          "image_id": 67125227159894
+        },
+        {
+          "id": 51409132192086,
+          "product_id": 9844669808982,
+          "title": "Pink long",
+          "price": "20.99",
+          "position": 10,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.99",
+          "option1": "Pink long",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:27:16+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467114NM",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057701718,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409132192086",
+          "image_id": 67125227192662
+        },
+        {
+          "id": 51409132224854,
+          "product_id": 9844669808982,
+          "title": "Pink orange beard",
+          "price": "20.85",
+          "position": 11,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.85",
+          "option1": "Pink orange beard",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:27:54+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467104DW",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057734486,
+          "inventory_quantity": 6192,
+          "old_inventory_quantity": 6192,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409132224854",
+          "image_id": 67125227225430
+        },
+        {
+          "id": 51409132257622,
+          "product_id": 9844669808982,
+          "title": "Pink white cat",
+          "price": "20.87",
+          "position": 12,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.87",
+          "option1": "Pink white cat",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:28:32+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467111KP",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057767254,
+          "inventory_quantity": 40001,
+          "old_inventory_quantity": 40001,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409132257622",
+          "image_id": 67125227258198
+        },
+        {
+          "id": 51409132290390,
+          "product_id": 9844669808982,
+          "title": "White emoji",
+          "price": "20.85",
+          "position": 13,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.85",
+          "option1": "White emoji",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:29:09+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 102,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467108HS",
+          "weight": 102.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057800022,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409132290390",
+          "image_id": 67125227290966
+        },
+        {
+          "id": 51409132323158,
+          "product_id": 9844669808982,
+          "title": "White panda",
+          "price": "21.05",
+          "position": 14,
+          "inventory_policy": "deny",
+          "compare_at_price": "41.05",
+          "option1": "White panda",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:29:47+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 96,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE104467107GT",
+          "weight": 96.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646057832790,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409132323158",
+          "image_id": 67125227323734
+        }
+      ],
+      "options": [
+        {
+          "id": 12703606112598,
+          "product_id": 9844669808982,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Light green expression",
+            "Azure White Bear",
+            "Blue dinosaur",
+            "Blue unicorn",
+            "Light pink unicorn",
+            "Milk coffee white bear",
+            "Navy blue unicorn",
+            "Orange beard",
+            "Pink Orange Emoji",
+            "Pink long",
+            "Pink orange beard",
+            "Pink white cat",
+            "White emoji",
+            "White panda"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67125224145238,
+          "alt": "Light blue bib with a cartoon face on a white background",
+          "position": 1,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:09+01:00",
+          "updated_at": "2025-09-25T15:18:51+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125224145238",
+          "width": 447,
+          "height": 465,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945556105.jpg?v=1758809771",
+          "variant_ids": []
+        },
+        {
+          "id": 67125226897750,
+          "alt": "Blue bib with a polar bear design and 'Special Birthday' text on a white background",
+          "position": 2,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:18:57+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125226897750",
+          "width": 445,
+          "height": 429,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945602428.jpg?v=1758809786",
+          "variant_ids": [
+            51409131897174
+          ]
+        },
+        {
+          "id": 67125226930518,
+          "alt": "Blue silicone bib with dinosaur design on a white background",
+          "position": 3,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:19:04+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125226930518",
+          "width": 484,
+          "height": 464,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945582026.jpg?v=1758809786",
+          "variant_ids": [
+            51409131929942
+          ]
+        },
+        {
+          "id": 67125226963286,
+          "alt": "Blue children's bib with dinosaur design and 'Cute Dino!' text on a white background",
+          "position": 4,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:19:10+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125226963286",
+          "width": 450,
+          "height": 411,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945612105.jpg?v=1758809787",
+          "variant_ids": [
+            51409131962710
+          ]
+        },
+        {
+          "id": 67125226996054,
+          "alt": "Light blue bib with a cartoon face on a white background",
+          "position": 5,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:19:17+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125226996054",
+          "width": 447,
+          "height": 465,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945556105_c4168974-fa39-4b74-9ffc-5a8bdcb3b3a7.jpg?v=1758809787",
+          "variant_ids": [
+            51409131995478
+          ]
+        },
+        {
+          "id": 67125227028822,
+          "alt": "Pink silicone bib with dinosaur design on a white background",
+          "position": 6,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:19:23+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125227028822",
+          "width": 520,
+          "height": 446,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945577249.jpg?v=1758809788",
+          "variant_ids": [
+            51409132028246
+          ]
+        },
+        {
+          "id": 67125227061590,
+          "alt": "Beige bib with a polar bear design and 'Special Birthday' text on a white background",
+          "position": 7,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:19:29+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125227061590",
+          "width": 467,
+          "height": 469,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945597690.jpg?v=1758809788",
+          "variant_ids": [
+            51409132061014
+          ]
+        },
+        {
+          "id": 67125227094358,
+          "alt": "Blue silicone bib with dinosaur design on a white background",
+          "position": 8,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:19:34+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125227094358",
+          "width": 470,
+          "height": 448,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945619660.jpg?v=1758809787",
+          "variant_ids": [
+            51409132093782
+          ]
+        },
+        {
+          "id": 67125227127126,
+          "alt": "Orange silicone bib with cat face design on a white background",
+          "position": 9,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:19:41+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125227127126",
+          "width": 492,
+          "height": 461,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945569694.jpg?v=1758809787",
+          "variant_ids": [
+            51409132126550
+          ]
+        },
+        {
+          "id": 67125227159894,
+          "alt": "Children's silicone bib with animal face design on a white background",
+          "position": 10,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:19:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125227159894",
+          "width": 460,
+          "height": 470,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945565374.jpg?v=1758809786",
+          "variant_ids": [
+            51409132159318
+          ]
+        },
+        {
+          "id": 67125227192662,
+          "alt": "Pink silicone bib with dinosaur design and text on a white background",
+          "position": 11,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:19:54+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125227192662",
+          "width": 468,
+          "height": 453,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945624180.jpg?v=1758809787",
+          "variant_ids": [
+            51409132192086
+          ]
+        },
+        {
+          "id": 67125227225430,
+          "alt": "Orange silicone bib with cat face design on a white background",
+          "position": 12,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:19:59+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125227225430",
+          "width": 473,
+          "height": 469,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945573854.jpg?v=1758809787",
+          "variant_ids": [
+            51409132224854
+          ]
+        },
+        {
+          "id": 67125227258198,
+          "alt": "Pink silicone bib with cat design and 'Special Birthday' text on a white background",
+          "position": 13,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:20:05+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125227258198",
+          "width": 467,
+          "height": 462,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945605761.jpg?v=1758809787",
+          "variant_ids": [
+            51409132257622
+          ]
+        },
+        {
+          "id": 67125227290966,
+          "alt": "White silicone bib with a cartoon face design on a white background",
+          "position": 14,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:20:11+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125227290966",
+          "width": 461,
+          "height": 451,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945593303.jpg?v=1758809787",
+          "variant_ids": [
+            51409132290390
+          ]
+        },
+        {
+          "id": 67125227323734,
+          "alt": "Silicone product with panda design on a light gray background",
+          "position": 15,
+          "product_id": 9844669808982,
+          "created_at": "2025-09-25T15:16:23+01:00",
+          "updated_at": "2025-09-25T15:20:17+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125227323734",
+          "width": 299,
+          "height": 352,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945589252.jpg?v=1758809787",
+          "variant_ids": [
+            51409132323158
+          ]
+        }
+      ],
+      "image": {
+        "id": 67125224145238,
+        "alt": "Light blue bib with a cartoon face on a white background",
+        "position": 1,
+        "product_id": 9844669808982,
+        "created_at": "2025-09-25T15:16:09+01:00",
+        "updated_at": "2025-09-25T15:18:51+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67125224145238",
+        "width": 447,
+        "height": 465,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1615945556105.jpg?v=1758809771",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9789088235862,
       "title": "Silicone Baby Bib with Crumb Catcher - BPA-Free Waterproof",
       "body_html": "<h2>Silicone Baby Bib with Built-in Crumb Catcher</h2>\n\n<p>Make mealtime fun and mess-free with the <strong>Bibby Cartoon Silicone Baby Bib</strong>. Crafted from <strong>food-grade, BPA-free silicone</strong>, this bib is safe for your baby while providing excellent protection against spills, drool, and stains.</p>\n\n<p>The <strong>cute cartoon design</strong> adds a playful touch, making your little one excited for every meal. Its <strong>adjustable neck strap</strong> ensures a comfortable fit for babies of all sizes, while the built-in crumb catcher keeps food from falling on clothes or floors.</p>\n\n<p>Easy to clean, lightweight, and durable, this silicone bib is <strong>perfect for home, daycare, or travel</strong>, making feeding time hassle-free for parents.</p>\n\n<p><strong>Key Features:</strong></p>\n<ul>\n<li><p>Made from <strong>BPA-free, food-grade silicone</strong></p></li>\n<li><p><strong>Waterproof &amp; easy to wipe clean</strong></p></li>\n<li><p>Adjustable neck strap for a perfect fit</p></li>\n<li><p>Built-in <strong>crumb catcher</strong> for mess-free meals</p></li>\n<li><p>Cute <strong>cartoon design</strong> to engage babies</p></li>\n</ul>\n\n<p>Ensure every meal is <strong>fun, clean, and stress-free</strong> with the Bibby Cartoon Silicone Baby Bib.</p>\n\n<p><img alt=\"Bibby Cartoon Silicone Baby Bib\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Bibby_Cartoon_Silicone_Baby_Bib32.jpg?v=1756627012\"></p>\n<p><img alt=\"Bibby Cartoon Silicone Baby Bib\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Bibby_Cartoon_Silicone_Baby_Bib6.jpg?v=1756627022\"></p>\n<p><img alt=\"Bibby Cartoon Silicone Baby Bib\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Bibby_Cartoon_Silicone_Baby_Bib75.jpg?v=1756627056\"></p>\n<p><img alt=\"Bibby Cartoon Silicone Baby Bib\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Bibby_Cartoon_Silicone_Baby_Bib7.jpg?v=1756627034\"></p>\n<p><img alt=\"Bibby Cartoon Silicone Baby Bib\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Bibby_Cartoon_Silicone_Baby_Bib61.jpg?v=1756627066\"></p>",
@@ -62779,8 +63451,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649232726",
       "variants": [
         {
-          "id": 51201111458134,
           "product_id": 9792649232726,
+          "id": 51201111458134,
           "title": "Yellow",
           "price": "15.99",
           "position": 1,
@@ -62807,8 +63479,8 @@
           "image_id": 66252996182358
         },
         {
-          "id": 51201111490902,
           "product_id": 9792649232726,
+          "id": 51201111490902,
           "title": "Blue",
           "price": "15.99",
           "position": 2,
@@ -62835,8 +63507,8 @@
           "image_id": 66252996215126
         },
         {
-          "id": 51201111523670,
           "product_id": 9792649232726,
+          "id": 51201111523670,
           "title": "Apricot",
           "price": "15.99",
           "position": 3,
@@ -62863,8 +63535,8 @@
           "image_id": 66252996247894
         },
         {
-          "id": 51201111556438,
           "product_id": 9792649232726,
+          "id": 51201111556438,
           "title": "Coffee",
           "price": "15.99",
           "position": 4,
@@ -62891,8 +63563,8 @@
           "image_id": 66252996280662
         },
         {
-          "id": 51201111589206,
           "product_id": 9792649232726,
+          "id": 51201111589206,
           "title": "Dark Gray",
           "price": "15.99",
           "position": 5,
@@ -62919,8 +63591,8 @@
           "image_id": 66252996313430
         },
         {
-          "id": 51201111621974,
           "product_id": 9792649232726,
+          "id": 51201111621974,
           "title": "Light Pink Muted",
           "price": "15.99",
           "position": 6,
@@ -62949,8 +63621,8 @@
       ],
       "options": [
         {
-          "id": 12642096316758,
           "product_id": 9792649232726,
+          "id": 12642096316758,
           "name": "Color",
           "position": 1,
           "values": [
@@ -72040,8 +72712,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 135,
-    "products_in_page": 135,
+    "total_products": 136,
+    "products_in_page": 136,
     "has_next_page": false,
     "has_previous_page": false
   }

@@ -4,7 +4,7 @@
     "handle": "travel-high-chairs",
     "title": "Travel & Portable High Chairs",
     "body_html": "<p><meta charset=\"utf-8\">Ensure your little one always has a safe seat at the table, wherever you go. Our travel high chairs are compact, lightweight, and easy to set up for meals on the move.</p>",
-    "products_count": 82
+    "products_count": 83
   },
   "products": [
     {
@@ -4481,8 +4481,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821309731158",
       "variants": [
         {
-          "product_id": 9821309731158,
           "id": 51322442744150,
+          "product_id": 9821309731158,
           "title": "Blue",
           "price": "94.95",
           "position": 1,
@@ -4509,8 +4509,8 @@
           "image_id": 66784996655446
         },
         {
-          "product_id": 9821309731158,
           "id": 51322442776918,
+          "product_id": 9821309731158,
           "title": "Grey",
           "price": "94.95",
           "position": 2,
@@ -4537,8 +4537,8 @@
           "image_id": 66784996688214
         },
         {
-          "product_id": 9821309731158,
           "id": 51322442809686,
+          "product_id": 9821309731158,
           "title": "Pink",
           "price": "94.95",
           "position": 3,
@@ -4567,8 +4567,8 @@
       ],
       "options": [
         {
-          "product_id": 9821309731158,
           "id": 12676185948502,
+          "product_id": 9821309731158,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15600,8 +15600,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830225707350",
       "variants": [
         {
-          "product_id": 9830225707350,
           "id": 51355112538454,
+          "product_id": 9830225707350,
           "title": "Brown",
           "price": "154.95",
           "position": 1,
@@ -15628,8 +15628,8 @@
           "image_id": 66965930934614
         },
         {
-          "product_id": 9830225707350,
           "id": 51355112571222,
+          "product_id": 9830225707350,
           "title": "Green",
           "price": "154.95",
           "position": 2,
@@ -15656,8 +15656,8 @@
           "image_id": 66965930967382
         },
         {
-          "product_id": 9830225707350,
           "id": 51355112603990,
+          "product_id": 9830225707350,
           "title": "Pink",
           "price": "154.95",
           "position": 3,
@@ -15686,8 +15686,8 @@
       ],
       "options": [
         {
-          "product_id": 9830225707350,
           "id": 12686886109526,
+          "product_id": 9830225707350,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21087,8 +21087,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828460069206",
       "variants": [
         {
-          "id": 51346769346902,
           "product_id": 9828460069206,
+          "id": 51346769346902,
           "title": "Blackred / 45x45",
           "price": "42.95",
           "position": 1,
@@ -21115,8 +21115,8 @@
           "image_id": 66938398376278
         },
         {
-          "id": 51346769379670,
           "product_id": 9828460069206,
+          "id": 51346769379670,
           "title": "Blue / 45x45",
           "price": "43.25",
           "position": 2,
@@ -21143,8 +21143,8 @@
           "image_id": 66938398409046
         },
         {
-          "id": 51346769412438,
           "product_id": 9828460069206,
+          "id": 51346769412438,
           "title": "Chocolate / 45x45",
           "price": "41.55",
           "position": 3,
@@ -21171,8 +21171,8 @@
           "image_id": 66938398441814
         },
         {
-          "id": 51346769445206,
           "product_id": 9828460069206,
+          "id": 51346769445206,
           "title": "Greenyellow / 45x45",
           "price": "39.55",
           "position": 4,
@@ -21199,8 +21199,8 @@
           "image_id": 66938398474582
         },
         {
-          "id": 51346769477974,
           "product_id": 9828460069206,
+          "id": 51346769477974,
           "title": "Leopard powder / 45x45",
           "price": "41.55",
           "position": 5,
@@ -21227,8 +21227,8 @@
           "image_id": 66938398507350
         },
         {
-          "id": 51346769510742,
           "product_id": 9828460069206,
+          "id": 51346769510742,
           "title": "Leopard print / 45x45",
           "price": "40.55",
           "position": 6,
@@ -21255,8 +21255,8 @@
           "image_id": 66938398540118
         },
         {
-          "id": 51346769543510,
           "product_id": 9828460069206,
+          "id": 51346769543510,
           "title": "Orange / 45x45",
           "price": "41.75",
           "position": 7,
@@ -21283,8 +21283,8 @@
           "image_id": 66938398572886
         },
         {
-          "id": 51346769576278,
           "product_id": 9828460069206,
+          "id": 51346769576278,
           "title": "Pink / 45x45",
           "price": "41.75",
           "position": 8,
@@ -21311,8 +21311,8 @@
           "image_id": 66938398605654
         },
         {
-          "id": 51346769609046,
           "product_id": 9828460069206,
+          "id": 51346769609046,
           "title": "PinkBrown / 45x45",
           "price": "41.95",
           "position": 9,
@@ -21339,8 +21339,8 @@
           "image_id": 66938398638422
         },
         {
-          "id": 51346769641814,
           "product_id": 9828460069206,
+          "id": 51346769641814,
           "title": "Purple / 45x45",
           "price": "43.65",
           "position": 10,
@@ -21367,8 +21367,8 @@
           "image_id": 66938398671190
         },
         {
-          "id": 51346769674582,
           "product_id": 9828460069206,
+          "id": 51346769674582,
           "title": "Spot / 45x45",
           "price": "39.75",
           "position": 11,
@@ -21395,8 +21395,8 @@
           "image_id": 66938398703958
         },
         {
-          "id": 51346769707350,
           "product_id": 9828460069206,
+          "id": 51346769707350,
           "title": "Wave / 45x45",
           "price": "41.75",
           "position": 12,
@@ -21423,8 +21423,8 @@
           "image_id": 66938398736726
         },
         {
-          "id": 51346769740118,
           "product_id": 9828460069206,
+          "id": 51346769740118,
           "title": "Whitegreen / 45x45",
           "price": "46.95",
           "position": 13,
@@ -21453,8 +21453,8 @@
       ],
       "options": [
         {
-          "id": 12684689441110,
           "product_id": 9828460069206,
+          "id": 12684689441110,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21474,8 +21474,8 @@
           ]
         },
         {
-          "id": 12684689473878,
           "product_id": 9828460069206,
+          "id": 12684689473878,
           "name": "Size",
           "position": 2,
           "values": [
@@ -24160,6 +24160,189 @@
       }
     },
     {
+      "id": 9844717453654,
+      "title": "Tentea Baby Eating Seat – Comfortable, Portable & Easy-to-Clean Design | Essential Feeding Chair for Infants & Toddlers",
+      "body_html": "<p>Tentea Baby Eating Seat combines comfort, portability, and an easy-to-clean design to create the perfect feeding solution for modern families. This thoughtfully crafted seat provides a safe and cozy dining experience for infants and toddlers while fitting seamlessly into any home or travel routine.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3778661820729.jpg?v=1758811046\" alt=\"Tentea Baby Eating Seat – Comfortable, Portable &amp; Easy-to-Clean Design | Essential Feeding Chair for Infants &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Comfortable seating design ensures babies remain cozy during feeding times</li>\n<li>Portable and lightweight construction makes it easy to carry and use anywhere</li>\n<li>Easy-to-clean materials save time and maintain hygiene after every meal</li>\n<li>Stable structure with secure straps keeps your child safe and supported</li>\n<li>Compact size allows effortless use in kitchens, dining rooms, or while traveling</li>\n<li>Neutral, stylish colors blend beautifully with any home decor</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2279607202810.jpg?v=1758811043\" alt=\"Tentea Baby Eating Seat – Comfortable, Portable &amp; Easy-to-Clean Design | Essential Feeding Chair for Infants &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Place the seat on a stable chair or dining surface</li>\n<li>Secure straps tightly to ensure stability and safety</li>\n<li>Adjust harness to fit your baby comfortably</li>\n<li>Wipe clean with a damp cloth after meals</li>\n<li>Store easily at home or carry along for travel convenience</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/927270585220129.jpg?v=1758811048\" alt=\"Tentea Baby Eating Seat – Comfortable, Portable &amp; Easy-to-Clean Design | Essential Feeding Chair for Infants &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Soft, durable, and wipe-clean fabric with stable support frame</li>\n<li>Dimensions: Designed to comfortably fit infants and toddlers</li>\n<li>Style: Portable baby eating seat with safety straps</li>\n<li>Colors: Neutral modern tones for any home style</li>\n<li>Suitable for: Infants and toddlers during feeding time</li>\n<li>Package: 1 complete portable baby eating seat</li>\n</ul>\n<h3>Why Choose This Seat</h3>\n<p> </p>\n<ul>\n<li> Space-efficient solution perfect for both home and travel</li>\n<li>Portable design makes dining outside or visiting family stress-free</li>\n<li>Easy-to-clean surfaces save time and ensure hygiene</li>\n<li>Secure straps and stable build keep your child safe while eating</li>\n<li>Comfortable, supportive design encourages happy mealtimes</li>\n<li>Stylish, modern look complements your dining space</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-25T15:37:17+01:00",
+      "handle": "tentea-baby-eating-seat-comfortable-portable-easy-to-clean-design-essential-feeding-chair-for-infants-toddlers",
+      "updated_at": "2025-09-25T15:42:21+01:00",
+      "published_at": "2025-09-25T15:42:17+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Eating Seat, CJ",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9844717453654",
+      "variants": [
+        {
+          "id": 51409298850134,
+          "product_id": 9844717453654,
+          "title": "Coffee",
+          "price": "114.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "174.95",
+          "option1": "Coffee",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:37:25+01:00",
+          "updated_at": "2025-09-25T15:41:27+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 1620,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJJJTCF01233-Coffee",
+          "weight": 1620.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646231011670,
+          "inventory_quantity": 7002,
+          "old_inventory_quantity": 7002,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409298850134",
+          "image_id": 67125506572630
+        },
+        {
+          "id": 51409298882902,
+          "product_id": 9844717453654,
+          "title": "Grey",
+          "price": "114.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "174.95",
+          "option1": "Grey",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-25T15:37:25+01:00",
+          "updated_at": "2025-09-25T15:42:06+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 1620,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJJJTCF01233-Grey",
+          "weight": 1620.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53646231044438,
+          "inventory_quantity": 7901,
+          "old_inventory_quantity": 7901,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51409298882902",
+          "image_id": 67125506605398
+        }
+      ],
+      "options": [
+        {
+          "id": 12703658344790,
+          "product_id": 9844717453654,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Coffee",
+            "Grey"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67125503951190,
+          "alt": "Child safety seat with straps and storage pouch, featuring a brand logo.",
+          "position": 1,
+          "product_id": 9844717453654,
+          "created_at": "2025-09-25T15:37:19+01:00",
+          "updated_at": "2025-09-25T15:40:07+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125503951190",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2279607202810.jpg?v=1758811043",
+          "variant_ids": []
+        },
+        {
+          "id": 67125504704854,
+          "alt": "Camouflage-patterned child safety seat and bag with car seat attachment on a car's back seat.",
+          "position": 2,
+          "product_id": 9844717453654,
+          "created_at": "2025-09-25T15:37:20+01:00",
+          "updated_at": "2025-09-25T15:40:15+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125504704854",
+          "width": 811,
+          "height": 811,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3242256416372.jpg?v=1758811044",
+          "variant_ids": []
+        },
+        {
+          "id": 67125504999766,
+          "alt": "Child safety seat and close-up shots of zippers and buckles on fabric.",
+          "position": 3,
+          "product_id": 9844717453654,
+          "created_at": "2025-09-25T15:37:22+01:00",
+          "updated_at": "2025-09-25T15:40:22+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125504999766",
+          "width": 803,
+          "height": 804,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/543012225016.jpg?v=1758811046",
+          "variant_ids": []
+        },
+        {
+          "id": 67125505360214,
+          "alt": "Black and red backpack with cartoon character design on a white background",
+          "position": 4,
+          "product_id": 9844717453654,
+          "created_at": "2025-09-25T15:37:23+01:00",
+          "updated_at": "2025-09-25T15:40:28+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125505360214",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3778661820729.jpg?v=1758811046",
+          "variant_ids": []
+        },
+        {
+          "id": 67125506572630,
+          "alt": "Child car seat with safety straps on a vehicle seat, showing close-up insets of different designs.",
+          "position": 5,
+          "product_id": 9844717453654,
+          "created_at": "2025-09-25T15:37:25+01:00",
+          "updated_at": "2025-09-25T15:40:35+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125506572630",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1973797291393.jpg?v=1758811049",
+          "variant_ids": [
+            51409298850134
+          ]
+        },
+        {
+          "id": 67125506605398,
+          "alt": "Child car seat with gray and yellow design, attached to a car seat in a vehicle.",
+          "position": 6,
+          "product_id": 9844717453654,
+          "created_at": "2025-09-25T15:37:25+01:00",
+          "updated_at": "2025-09-25T15:40:41+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67125506605398",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/927270585220129.jpg?v=1758811048",
+          "variant_ids": [
+            51409298882902
+          ]
+        }
+      ],
+      "image": {
+        "id": 67125503951190,
+        "alt": "Child safety seat with straps and storage pouch, featuring a brand logo.",
+        "position": 1,
+        "product_id": 9844717453654,
+        "created_at": "2025-09-25T15:37:19+01:00",
+        "updated_at": "2025-09-25T15:40:07+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67125503951190",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2279607202810.jpg?v=1758811043",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9791102681430,
       "title": "TinyAura Portable Baby Bottle Warmer – Outdoor Milk Heater for Travel & On-the-Go Feeding",
       "body_html": "<p data-end=\"421\" data-start=\"146\">Keep your baby’s milk warm anytime, anywhere with the <strong data-end=\"271\" data-start=\"231\">TinyAura Portable Baby Bottle Warmer</strong>. Designed for parents on the move, this <strong data-end=\"335\" data-start=\"312\">outdoor milk heater</strong> ensures safe, consistent, and convenient feeding while traveling or during outings.</p>\n<p data-end=\"687\" data-start=\"423\">Made from <strong data-end=\"475\" data-start=\"433\">high-quality, heat-retaining materials</strong>, it is lightweight, portable, and compatible with most standard baby bottles. The <strong data-end=\"580\" data-start=\"558\">easy-to-use design</strong> allows quick warming without electricity, making it ideal for <strong data-end=\"684\" data-start=\"643\">travel, picnics, or on-the-go feeding</strong>.</p>\n<p data-end=\"708\" data-start=\"689\"><strong data-end=\"706\" data-start=\"689\">Key Features:</strong></p>\n<ul data-end=\"1045\" data-start=\"709\">\n<li data-end=\"784\" data-start=\"709\">\n<p data-end=\"784\" data-start=\"711\"><strong data-end=\"738\" data-start=\"711\">Portable &amp; Lightweight:</strong> Perfect for travel, outings, and daily use.</p>\n</li>\n<li data-end=\"859\" data-start=\"785\">\n<p data-end=\"859\" data-start=\"787\"><strong data-end=\"816\" data-start=\"787\">Safe &amp; Efficient Heating:</strong> Maintains milk at the ideal temperature.</p>\n</li>\n<li data-end=\"923\" data-start=\"860\">\n<p data-end=\"923\" data-start=\"862\"><strong data-end=\"880\" data-start=\"862\">Universal Fit:</strong> Compatible with most baby bottle brands.</p>\n</li>\n<li data-end=\"985\" data-start=\"924\">\n<p data-end=\"985\" data-start=\"926\"><strong data-end=\"954\" data-start=\"926\">Outdoor-Friendly Design:</strong> Ideal for feeding on-the-go.</p>\n</li>\n<li data-end=\"1045\" data-start=\"986\">\n<p data-end=\"1045\" data-start=\"988\"><strong data-end=\"1011\" data-start=\"988\">Parent Convenience:</strong> Quick and easy to use anywhere.</p>\n</li>\n</ul>\n<p data-end=\"1183\" data-start=\"1047\">Ensure your baby always enjoys warm milk with the <strong data-end=\"1137\" data-start=\"1097\">TinyAura Portable Baby Bottle Warmer</strong> – the ultimate solution for modern parents.</p>\n<p data-end=\"1183\" data-start=\"1047\"><img alt=\"TinyAura Portable Baby Bottle Warmer\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1169128118667.jpg?v=1756705648\"></p>\n<p data-end=\"1183\" data-start=\"1047\"><img alt=\"TinyAura Portable Baby Bottle Warmer\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/597658617696.jpg?v=1756705653\"></p>\n<p data-end=\"1183\" data-start=\"1047\"><img alt=\"TinyAura Portable Baby Bottle Warmer\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4799298962645.jpg?v=1756705645\"></p>",
@@ -24716,8 +24899,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9841066639702",
       "variants": [
         {
-          "id": 51392645792086,
           "product_id": 9841066639702,
+          "id": 51392645792086,
           "title": "Green",
           "price": "75.95",
           "position": 1,
@@ -24744,8 +24927,8 @@
           "image_id": 67078265471318
         },
         {
-          "id": 51392645824854,
           "product_id": 9841066639702,
+          "id": 51392645824854,
           "title": "Rose Red",
           "price": "75.95",
           "position": 2,
@@ -24774,8 +24957,8 @@
       ],
       "options": [
         {
-          "id": 12699152679254,
           "product_id": 9841066639702,
+          "id": 12699152679254,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25292,8 +25475,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791245877590",
       "variants": [
         {
-          "id": 51195418509654,
           "product_id": 9791245877590,
+          "id": 51195418509654,
           "title": "Pink",
           "price": "36.18",
           "position": 1,
@@ -25320,8 +25503,8 @@
           "image_id": 66239095996758
         },
         {
-          "id": 51195418542422,
           "product_id": 9791245877590,
+          "id": 51195418542422,
           "title": "Blue",
           "price": "36.18",
           "position": 2,
@@ -25348,8 +25531,8 @@
           "image_id": 66239096029526
         },
         {
-          "id": 51195418575190,
           "product_id": 9791245877590,
+          "id": 51195418575190,
           "title": "Yellow",
           "price": "36.18",
           "position": 3,
@@ -25378,8 +25561,8 @@
       ],
       "options": [
         {
-          "id": 12640430686550,
           "product_id": 9791245877590,
+          "id": 12640430686550,
           "name": "Color",
           "position": 1,
           "values": [
@@ -26980,8 +27163,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 82,
-    "products_in_page": 82,
+    "total_products": 83,
+    "products_in_page": 83,
     "has_next_page": false,
     "has_previous_page": false
   }

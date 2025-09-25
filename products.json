@@ -16492,7 +16492,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T13:02:08+01:00",
       "handle": "bebeybaby-eating-silicone-waterproof-bib-soft-durable-easy-to-clean-design-essential-mess-free-feeding-accessory-for-toddlers",
-      "updated_at": "2025-09-25T13:17:38+01:00",
+      "updated_at": "2025-09-25T13:54:29+01:00",
       "published_at": "2025-09-25T13:16:19+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -16501,8 +16501,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844355891542",
       "variants": [
         {
-          "product_id": 9844355891542,
           "id": 51408157802838,
+          "product_id": 9844355891542,
           "title": "3D Jelly Apple Rabbit",
           "price": "20.95",
           "position": 1,
@@ -16529,8 +16529,8 @@
           "image_id": 67123290440022
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157835606,
+          "product_id": 9844355891542,
           "title": "3D Jelly Blueberry Style",
           "price": "20.95",
           "position": 2,
@@ -16557,8 +16557,8 @@
           "image_id": 67123290472790
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157868374,
+          "product_id": 9844355891542,
           "title": "3D Jelly Conner Dragon",
           "price": "20.95",
           "position": 3,
@@ -16585,8 +16585,8 @@
           "image_id": 67123290505558
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157901142,
+          "product_id": 9844355891542,
           "title": "3D Jelly Orange Style",
           "price": "20.95",
           "position": 4,
@@ -16613,8 +16613,8 @@
           "image_id": 67123290538326
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157933910,
+          "product_id": 9844355891542,
           "title": "3D Jelly Peach",
           "price": "20.95",
           "position": 5,
@@ -16641,8 +16641,8 @@
           "image_id": 67123290571094
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157966678,
+          "product_id": 9844355891542,
           "title": "3D Jelly Space Bear",
           "price": "20.95",
           "position": 6,
@@ -16669,8 +16669,8 @@
           "image_id": 67123290603862
         },
         {
-          "product_id": 9844355891542,
           "id": 51408157999446,
+          "product_id": 9844355891542,
           "title": "3D Jelly Watermelon",
           "price": "20.95",
           "position": 7,
@@ -16697,8 +16697,8 @@
           "image_id": 67123290636630
         },
         {
-          "product_id": 9844355891542,
           "id": 51408158032214,
+          "product_id": 9844355891542,
           "title": "Ultra Thin Cute Tooth Rabbit",
           "price": "20.95",
           "position": 8,
@@ -16725,8 +16725,8 @@
           "image_id": 67123290669398
         },
         {
-          "product_id": 9844355891542,
           "id": 51408158064982,
+          "product_id": 9844355891542,
           "title": "Ultra Thin Gray Panda",
           "price": "20.95",
           "position": 9,
@@ -16753,8 +16753,8 @@
           "image_id": 67123290702166
         },
         {
-          "product_id": 9844355891542,
           "id": 51408158097750,
+          "product_id": 9844355891542,
           "title": "Ultra Thin Happy Tiger",
           "price": "20.95",
           "position": 10,
@@ -16781,8 +16781,8 @@
           "image_id": 67123290734934
         },
         {
-          "product_id": 9844355891542,
           "id": 51408158130518,
+          "product_id": 9844355891542,
           "title": "Ultra Thin Simple Dragon",
           "price": "20.95",
           "position": 11,
@@ -16811,8 +16811,8 @@
       ],
       "options": [
         {
-          "product_id": 9844355891542,
           "id": 12703263621462,
+          "product_id": 9844355891542,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34848,8 +34848,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821309731158",
       "variants": [
         {
-          "product_id": 9821309731158,
           "id": 51322442744150,
+          "product_id": 9821309731158,
           "title": "Blue",
           "price": "94.95",
           "position": 1,
@@ -34876,8 +34876,8 @@
           "image_id": 66784996655446
         },
         {
-          "product_id": 9821309731158,
           "id": 51322442776918,
+          "product_id": 9821309731158,
           "title": "Grey",
           "price": "94.95",
           "position": 2,
@@ -34904,8 +34904,8 @@
           "image_id": 66784996688214
         },
         {
-          "product_id": 9821309731158,
           "id": 51322442809686,
+          "product_id": 9821309731158,
           "title": "Pink",
           "price": "94.95",
           "position": 3,
@@ -34934,8 +34934,8 @@
       ],
       "options": [
         {
-          "product_id": 9821309731158,
           "id": 12676185948502,
+          "product_id": 9821309731158,
           "name": "Color",
           "position": 1,
           "values": [
@@ -36992,8 +36992,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844469432662",
       "variants": [
         {
-          "id": 51408487547222,
           "product_id": 9844469432662,
+          "id": 51408487547222,
           "title": "Blue Tiger / 0to2 years old",
           "price": "20.95",
           "position": 1,
@@ -37020,8 +37020,8 @@
           "image_id": 67123815186774
         },
         {
-          "id": 51408487579990,
           "product_id": 9844469432662,
+          "id": 51408487579990,
           "title": "Blue Tiger / 2to4 years old",
           "price": "21.95",
           "position": 2,
@@ -37048,8 +37048,8 @@
           "image_id": 67123815186774
         },
         {
-          "id": 51408487612758,
           "product_id": 9844469432662,
+          "id": 51408487612758,
           "title": "Green Tiger / 0to2 years old",
           "price": "20.95",
           "position": 3,
@@ -37076,8 +37076,8 @@
           "image_id": 67123815219542
         },
         {
-          "id": 51408487645526,
           "product_id": 9844469432662,
+          "id": 51408487645526,
           "title": "Green Tiger / 2to4 years old",
           "price": "21.95",
           "position": 4,
@@ -37104,8 +37104,8 @@
           "image_id": 67123815219542
         },
         {
-          "id": 51408487678294,
           "product_id": 9844469432662,
+          "id": 51408487678294,
           "title": "Little green monster / 0to2 years old",
           "price": "20.95",
           "position": 5,
@@ -37132,8 +37132,8 @@
           "image_id": 67123815252310
         },
         {
-          "id": 51408487711062,
           "product_id": 9844469432662,
+          "id": 51408487711062,
           "title": "Little green monster / 2to4 years old",
           "price": "21.95",
           "position": 6,
@@ -37160,8 +37160,8 @@
           "image_id": 67123815252310
         },
         {
-          "id": 51408487743830,
           "product_id": 9844469432662,
+          "id": 51408487743830,
           "title": "Little yellow monster / 0to2 years old",
           "price": "20.95",
           "position": 7,
@@ -37188,8 +37188,8 @@
           "image_id": 67123815285078
         },
         {
-          "id": 51408487776598,
           "product_id": 9844469432662,
+          "id": 51408487776598,
           "title": "Little yellow monster / 2to4 years old",
           "price": "21.95",
           "position": 8,
@@ -37216,8 +37216,8 @@
           "image_id": 67123815285078
         },
         {
-          "id": 51408487809366,
           "product_id": 9844469432662,
+          "id": 51408487809366,
           "title": "Orange pink radish rabbit / 0to2 years old",
           "price": "20.95",
           "position": 9,
@@ -37244,8 +37244,8 @@
           "image_id": 67123815317846
         },
         {
-          "id": 51408487842134,
           "product_id": 9844469432662,
+          "id": 51408487842134,
           "title": "Orange pink radish rabbit / 2to4 years old",
           "price": "21.95",
           "position": 10,
@@ -37272,8 +37272,8 @@
           "image_id": 67123815317846
         },
         {
-          "id": 51408487874902,
           "product_id": 9844469432662,
+          "id": 51408487874902,
           "title": "Pink radish rabbit / 0to2 years old",
           "price": "20.95",
           "position": 11,
@@ -37300,8 +37300,8 @@
           "image_id": 67123815350614
         },
         {
-          "id": 51408487907670,
           "product_id": 9844469432662,
+          "id": 51408487907670,
           "title": "Pink radish rabbit / 2to4 years old",
           "price": "21.95",
           "position": 12,
@@ -37328,8 +37328,8 @@
           "image_id": 67123815350614
         },
         {
-          "id": 51408487940438,
           "product_id": 9844469432662,
+          "id": 51408487940438,
           "title": "Pink squirrel / 0to2 years old",
           "price": "20.95",
           "position": 13,
@@ -37356,8 +37356,8 @@
           "image_id": 67123815383382
         },
         {
-          "id": 51408487973206,
           "product_id": 9844469432662,
+          "id": 51408487973206,
           "title": "Pink squirrel / 2to4 years old",
           "price": "21.95",
           "position": 14,
@@ -37384,8 +37384,8 @@
           "image_id": 67123815383382
         },
         {
-          "id": 51408488005974,
           "product_id": 9844469432662,
+          "id": 51408488005974,
           "title": "Yellow squirrel / 0to2 years old",
           "price": "20.95",
           "position": 15,
@@ -37412,8 +37412,8 @@
           "image_id": 67123815416150
         },
         {
-          "id": 51408488038742,
           "product_id": 9844469432662,
+          "id": 51408488038742,
           "title": "Yellow squirrel / 2to4 years old",
           "price": "21.95",
           "position": 16,
@@ -37442,8 +37442,8 @@
       ],
       "options": [
         {
-          "id": 12703386534230,
           "product_id": 9844469432662,
+          "id": 12703386534230,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37458,8 +37458,8 @@
           ]
         },
         {
-          "id": 12703386566998,
           "product_id": 9844469432662,
+          "id": 12703386566998,
           "name": "Size",
           "position": 2,
           "values": [
@@ -92956,8 +92956,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9608155398486",
       "variants": [
         {
-          "id": 50393012765014,
           "product_id": 9608155398486,
+          "id": 50393012765014,
           "title": "8",
           "price": "60.95",
           "position": 1,
@@ -92984,8 +92984,8 @@
           "image_id": 62001014964566
         },
         {
-          "id": 50393012797782,
           "product_id": 9608155398486,
+          "id": 50393012797782,
           "title": "7",
           "price": "60.95",
           "position": 2,
@@ -93012,8 +93012,8 @@
           "image_id": 62001765515606
         },
         {
-          "id": 50393012830550,
           "product_id": 9608155398486,
+          "id": 50393012830550,
           "title": "14",
           "price": "60.95",
           "position": 3,
@@ -93040,8 +93040,8 @@
           "image_id": 62002144608598
         },
         {
-          "id": 50393012863318,
           "product_id": 9608155398486,
+          "id": 50393012863318,
           "title": "13",
           "price": "60.95",
           "position": 4,
@@ -93068,8 +93068,8 @@
           "image_id": 62001840226646
         },
         {
-          "id": 50393012896086,
           "product_id": 9608155398486,
+          "id": 50393012896086,
           "title": "12",
           "price": "60.95",
           "position": 5,
@@ -93096,8 +93096,8 @@
           "image_id": 62001930994006
         },
         {
-          "id": 50393012928854,
           "product_id": 9608155398486,
+          "id": 50393012928854,
           "title": "11",
           "price": "60.95",
           "position": 6,
@@ -93124,8 +93124,8 @@
           "image_id": 62001980014934
         },
         {
-          "id": 50393012961622,
           "product_id": 9608155398486,
+          "id": 50393012961622,
           "title": "15",
           "price": "60.95",
           "position": 7,
@@ -93152,8 +93152,8 @@
           "image_id": 62002118852950
         },
         {
-          "id": 50393012994390,
           "product_id": 9608155398486,
+          "id": 50393012994390,
           "title": "6",
           "price": "60.95",
           "position": 8,
@@ -93180,8 +93180,8 @@
           "image_id": 62001889083734
         },
         {
-          "id": 50393013027158,
           "product_id": 9608155398486,
+          "id": 50393013027158,
           "title": "9",
           "price": "60.95",
           "position": 9,
@@ -93208,8 +93208,8 @@
           "image_id": 62002166006102
         },
         {
-          "id": 50393013059926,
           "product_id": 9608155398486,
+          "id": 50393013059926,
           "title": "10",
           "price": "60.95",
           "position": 10,
@@ -93236,8 +93236,8 @@
           "image_id": 62001954586966
         },
         {
-          "id": 50393013092694,
           "product_id": 9608155398486,
+          "id": 50393013092694,
           "title": "5",
           "price": "60.95",
           "position": 11,
@@ -93266,8 +93266,8 @@
       ],
       "options": [
         {
-          "id": 12417321337174,
           "product_id": 9608155398486,
+          "id": 12417321337174,
           "name": "Color",
           "position": 1,
           "values": [
@@ -104528,7 +104528,7 @@
     "current_page": 1,
     "total_pages": 2,
     "items_per_page": 250,
-    "total_items": 411,
+    "total_items": 413,
     "items_in_page": 250,
     "has_next_page": true,
     "has_previous_page": false,
