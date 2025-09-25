@@ -6469,8 +6469,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9741923615062",
       "variants": [
         {
-          "id": 50992090317142,
           "product_id": 9741923615062,
+          "id": 50992090317142,
           "title": "4g",
           "price": "24.95",
           "position": 1,
@@ -6499,8 +6499,8 @@
       ],
       "options": [
         {
-          "id": 12582249824598,
           "product_id": 9741923615062,
+          "id": 12582249824598,
           "name": "Color",
           "position": 1,
           "values": [
