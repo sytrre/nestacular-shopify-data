@@ -528,8 +528,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830119506262",
       "variants": [
         {
-          "product_id": 9830119506262,
           "id": 51354923270486,
+          "product_id": 9830119506262,
           "title": "Macaron A",
           "price": "52.95",
           "position": 1,
@@ -556,8 +556,8 @@
           "image_id": 66964478689622
         },
         {
-          "product_id": 9830119506262,
           "id": 51354923303254,
+          "product_id": 9830119506262,
           "title": "Macaron B",
           "price": "52.95",
           "position": 2,
@@ -584,8 +584,8 @@
           "image_id": 66964478722390
         },
         {
-          "product_id": 9830119506262,
           "id": 51354923336022,
+          "product_id": 9830119506262,
           "title": "Macaron C",
           "price": "52.95",
           "position": 3,
@@ -612,8 +612,8 @@
           "image_id": 66964478755158
         },
         {
-          "product_id": 9830119506262,
           "id": 51354923368790,
+          "product_id": 9830119506262,
           "title": "Yellow green",
           "price": "52.95",
           "position": 4,
@@ -642,8 +642,8 @@
       ],
       "options": [
         {
-          "product_id": 9830119506262,
           "id": 12686771421526,
+          "product_id": 9830119506262,
           "name": "Color",
           "position": 1,
           "values": [
