@@ -22668,8 +22668,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792648806742",
       "variants": [
         {
-          "product_id": 9792648806742,
           "id": 51201109492054,
+          "product_id": 9792648806742,
           "title": "Pink / 150ml",
           "price": "16.71",
           "position": 1,
@@ -22696,8 +22696,8 @@
           "image_id": 66252990087510
         },
         {
-          "product_id": 9792648806742,
           "id": 51201109524822,
+          "product_id": 9792648806742,
           "title": "Blue / 150ml",
           "price": "16.71",
           "position": 2,
@@ -22726,8 +22726,8 @@
       ],
       "options": [
         {
-          "product_id": 9792648806742,
           "id": 12642095759702,
+          "product_id": 9792648806742,
           "name": "Color",
           "position": 1,
           "values": [
@@ -22736,8 +22736,8 @@
           ]
         },
         {
-          "product_id": 9792648806742,
           "id": 12642095792470,
+          "product_id": 9792648806742,
           "name": "Capacity",
           "position": 2,
           "values": [
@@ -23069,8 +23069,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791840125270",
       "variants": [
         {
-          "product_id": 9791840125270,
           "id": 51197705355606,
+          "product_id": 9791840125270,
           "title": "Pink",
           "price": "25.77",
           "position": 1,
@@ -23097,8 +23097,8 @@
           "image_id": 66245975572822
         },
         {
-          "product_id": 9791840125270,
           "id": 51197705388374,
+          "product_id": 9791840125270,
           "title": "Blue",
           "price": "25.77",
           "position": 2,
@@ -23125,8 +23125,8 @@
           "image_id": 66245975605590
         },
         {
-          "product_id": 9791840125270,
           "id": 51197705421142,
+          "product_id": 9791840125270,
           "title": "Green",
           "price": "25.77",
           "position": 3,
@@ -23155,8 +23155,8 @@
       ],
       "options": [
         {
-          "product_id": 9791840125270,
           "id": 12641119535446,
+          "product_id": 9791840125270,
           "name": "Color",
           "position": 1,
           "values": [
