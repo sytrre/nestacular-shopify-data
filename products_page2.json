@@ -11473,8 +11473,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791138333014",
       "variants": [
         {
-          "product_id": 9791138333014,
           "id": 51194928038230,
+          "product_id": 9791138333014,
           "title": "Beige",
           "price": "16.95",
           "position": 1,
@@ -11501,8 +11501,8 @@
           "image_id": 66236903686486
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928070998,
+          "product_id": 9791138333014,
           "title": "Black",
           "price": "16.25",
           "position": 2,
@@ -11529,8 +11529,8 @@
           "image_id": 66236903719254
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928103766,
+          "product_id": 9791138333014,
           "title": "Blue",
           "price": "15.75",
           "position": 3,
@@ -11557,8 +11557,8 @@
           "image_id": 66236903752022
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928136534,
+          "product_id": 9791138333014,
           "title": "Brown",
           "price": "16.25",
           "position": 4,
@@ -11585,8 +11585,8 @@
           "image_id": 66236903784790
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928169302,
+          "product_id": 9791138333014,
           "title": "Green",
           "price": "16.55",
           "position": 5,
@@ -11613,8 +11613,8 @@
           "image_id": 66236903817558
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928202070,
+          "product_id": 9791138333014,
           "title": "Grey",
           "price": "16.55",
           "position": 6,
@@ -11641,8 +11641,8 @@
           "image_id": 66236903850326
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928234838,
+          "product_id": 9791138333014,
           "title": "Letter",
           "price": "16.25",
           "position": 7,
@@ -11669,8 +11669,8 @@
           "image_id": 66236903883094
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928267606,
+          "product_id": 9791138333014,
           "title": "Light blue",
           "price": "16.55",
           "position": 8,
@@ -11697,8 +11697,8 @@
           "image_id": 66236903915862
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928300374,
+          "product_id": 9791138333014,
           "title": "Linen Blue",
           "price": "16.25",
           "position": 9,
@@ -11725,8 +11725,8 @@
           "image_id": 66236903948630
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928333142,
+          "product_id": 9791138333014,
           "title": "Lotus root starch",
           "price": "16.25",
           "position": 10,
@@ -11753,8 +11753,8 @@
           "image_id": 66236903981398
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928365910,
+          "product_id": 9791138333014,
           "title": "Orange",
           "price": "16.25",
           "position": 11,
@@ -11781,8 +11781,8 @@
           "image_id": 66236904014166
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928398678,
+          "product_id": 9791138333014,
           "title": "Pink",
           "price": "16.25",
           "position": 12,
@@ -11809,8 +11809,8 @@
           "image_id": 66236904046934
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928431446,
+          "product_id": 9791138333014,
           "title": "Purple",
           "price": "16.25",
           "position": 13,
@@ -11837,8 +11837,8 @@
           "image_id": 66236904079702
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928464214,
+          "product_id": 9791138333014,
           "title": "Rose red",
           "price": "16.55",
           "position": 14,
@@ -11865,8 +11865,8 @@
           "image_id": 66236904112470
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928496982,
+          "product_id": 9791138333014,
           "title": "Scarlet",
           "price": "16.25",
           "position": 15,
@@ -11893,8 +11893,8 @@
           "image_id": 66236904145238
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928529750,
+          "product_id": 9791138333014,
           "title": "Shallow Khaki",
           "price": "16.55",
           "position": 16,
@@ -11921,8 +11921,8 @@
           "image_id": 66236904178006
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928562518,
+          "product_id": 9791138333014,
           "title": "Spot",
           "price": "16.25",
           "position": 17,
@@ -11949,8 +11949,8 @@
           "image_id": 66236904210774
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928595286,
+          "product_id": 9791138333014,
           "title": "Stripe",
           "price": "16.25",
           "position": 18,
@@ -11977,8 +11977,8 @@
           "image_id": 66236904243542
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928628054,
+          "product_id": 9791138333014,
           "title": "Wine red",
           "price": "16.25",
           "position": 19,
@@ -12005,8 +12005,8 @@
           "image_id": 66236904276310
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928660822,
+          "product_id": 9791138333014,
           "title": "Yellow",
           "price": "16.55",
           "position": 20,
@@ -12035,8 +12035,8 @@
       ],
       "options": [
         {
-          "product_id": 9791138333014,
           "id": 12640306856278,
+          "product_id": 9791138333014,
           "name": "Color",
           "position": 1,
           "values": [
@@ -26315,8 +26315,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9826202648918",
       "variants": [
         {
-          "product_id": 9826202648918,
           "id": 51340677579094,
+          "product_id": 9826202648918,
           "title": "Antie Pink Model 8",
           "price": "161.95",
           "position": 1,
@@ -26343,8 +26343,8 @@
           "image_id": 66907320811862
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677611862,
+          "product_id": 9826202648918,
           "title": "Antie Pink Style 1",
           "price": "159.75",
           "position": 2,
@@ -26371,8 +26371,8 @@
           "image_id": 66907320844630
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677644630,
+          "product_id": 9826202648918,
           "title": "Antie Pink Style 2",
           "price": "162.25",
           "position": 3,
@@ -26399,8 +26399,8 @@
           "image_id": 66907320877398
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677677398,
+          "product_id": 9826202648918,
           "title": "Antie Pink Style 3",
           "price": "162.25",
           "position": 4,
@@ -26427,8 +26427,8 @@
           "image_id": 66907320910166
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677710166,
+          "product_id": 9826202648918,
           "title": "Antie Pink Style 4",
           "price": "164.95",
           "position": 5,
@@ -26455,8 +26455,8 @@
           "image_id": 66907320942934
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677742934,
+          "product_id": 9826202648918,
           "title": "Antie Pink Style 5",
           "price": "159.95",
           "position": 6,
@@ -26483,8 +26483,8 @@
           "image_id": 66907320975702
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677775702,
+          "product_id": 9826202648918,
           "title": "Antie Pink Style 6",
           "price": "159.75",
           "position": 7,
@@ -26511,8 +26511,8 @@
           "image_id": 66907321008470
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677808470,
+          "product_id": 9826202648918,
           "title": "Antie Pink Style 7",
           "price": "159.75",
           "position": 8,
@@ -26539,8 +26539,8 @@
           "image_id": 66907321041238
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677841238,
+          "product_id": 9826202648918,
           "title": "Su Qingbei Model 8",
           "price": "161.95",
           "position": 9,
@@ -26567,8 +26567,8 @@
           "image_id": 66907321074006
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677874006,
+          "product_id": 9826202648918,
           "title": "Su Qingbei Style 1",
           "price": "159.75",
           "position": 10,
@@ -26595,8 +26595,8 @@
           "image_id": 66907321106774
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677906774,
+          "product_id": 9826202648918,
           "title": "Su Qingbei Style 2",
           "price": "162.25",
           "position": 11,
@@ -26623,8 +26623,8 @@
           "image_id": 66907321139542
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677939542,
+          "product_id": 9826202648918,
           "title": "Su Qingbei Style 3",
           "price": "162.25",
           "position": 12,
@@ -26651,8 +26651,8 @@
           "image_id": 66907321172310
         },
         {
-          "product_id": 9826202648918,
           "id": 51340677972310,
+          "product_id": 9826202648918,
           "title": "Su Qingbei Style 4",
           "price": "164.95",
           "position": 13,
@@ -26679,8 +26679,8 @@
           "image_id": 66907321205078
         },
         {
-          "product_id": 9826202648918,
           "id": 51340678005078,
+          "product_id": 9826202648918,
           "title": "Su Qingbei Style 5",
           "price": "159.95",
           "position": 14,
@@ -26707,8 +26707,8 @@
           "image_id": 66907321237846
         },
         {
-          "product_id": 9826202648918,
           "id": 51340678037846,
+          "product_id": 9826202648918,
           "title": "Su Qingbei Style 6",
           "price": "159.75",
           "position": 15,
@@ -26735,8 +26735,8 @@
           "image_id": 66907321270614
         },
         {
-          "product_id": 9826202648918,
           "id": 51340678070614,
+          "product_id": 9826202648918,
           "title": "Su Qingbei Style 7",
           "price": "159.75",
           "position": 16,
@@ -26765,8 +26765,8 @@
       ],
       "options": [
         {
-          "product_id": 9826202648918,
           "id": 12682089333078,
+          "product_id": 9826202648918,
           "name": "Color",
           "position": 1,
           "values": [
@@ -40465,8 +40465,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9735721812310",
       "variants": [
         {
-          "id": 50961086677334,
           "product_id": 9735721812310,
+          "id": 50961086677334,
           "title": "0.25mm",
           "price": "24.95",
           "position": 1,
@@ -40493,8 +40493,8 @@
           "image_id": 64765164552534
         },
         {
-          "id": 50961086710102,
           "product_id": 9735721812310,
+          "id": 50961086710102,
           "title": "0.2mm",
           "price": "24.95",
           "position": 2,
@@ -40521,8 +40521,8 @@
           "image_id": 64765164552534
         },
         {
-          "id": 50961086742870,
           "product_id": 9735721812310,
+          "id": 50961086742870,
           "title": "0.35mm",
           "price": "25.00",
           "position": 3,
@@ -40549,8 +40549,8 @@
           "image_id": 64765164552534
         },
         {
-          "id": 50961086775638,
           "product_id": 9735721812310,
+          "id": 50961086775638,
           "title": "0.3mm",
           "price": "24.95",
           "position": 4,
@@ -40577,8 +40577,8 @@
           "image_id": 64765164552534
         },
         {
-          "id": 50961086808406,
           "product_id": 9735721812310,
+          "id": 50961086808406,
           "title": "0.4mm",
           "price": "25.10",
           "position": 5,
@@ -40605,8 +40605,8 @@
           "image_id": 64765164552534
         },
         {
-          "id": 50961086841174,
           "product_id": 9735721812310,
+          "id": 50961086841174,
           "title": "0.5mm",
           "price": "25.30",
           "position": 6,
@@ -40633,8 +40633,8 @@
           "image_id": 64765164552534
         },
         {
-          "id": 50961086873942,
           "product_id": 9735721812310,
+          "id": 50961086873942,
           "title": "0.6mm",
           "price": "25.95",
           "position": 7,
@@ -40663,8 +40663,8 @@
       ],
       "options": [
         {
-          "id": 12574673699158,
           "product_id": 9735721812310,
+          "id": 12574673699158,
           "name": "Line number",
           "position": 1,
           "values": [
