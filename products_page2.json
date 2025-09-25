@@ -27814,8 +27814,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9408747012438",
       "variants": [
         {
-          "id": 49660660613462,
           "product_id": 9408747012438,
+          "id": 49660660613462,
           "title": "Gold / US",
           "price": "79.95",
           "position": 1,
@@ -27842,8 +27842,8 @@
           "image_id": 60513192509782
         },
         {
-          "id": 49660660646230,
           "product_id": 9408747012438,
+          "id": 49660660646230,
           "title": "Red / US",
           "price": "79.95",
           "position": 2,
@@ -27872,8 +27872,8 @@
       ],
       "options": [
         {
-          "id": 12178455757142,
           "product_id": 9408747012438,
+          "id": 12178455757142,
           "name": "Color",
           "position": 1,
           "values": [
@@ -27882,8 +27882,8 @@
           ]
         },
         {
-          "id": 12178455789910,
           "product_id": 9408747012438,
+          "id": 12178455789910,
           "name": "Plug",
           "position": 2,
           "values": [
@@ -32280,8 +32280,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792648806742",
       "variants": [
         {
-          "id": 51201109492054,
           "product_id": 9792648806742,
+          "id": 51201109492054,
           "title": "Pink / 150ml",
           "price": "16.71",
           "position": 1,
@@ -32308,8 +32308,8 @@
           "image_id": 66252990087510
         },
         {
-          "id": 51201109524822,
           "product_id": 9792648806742,
+          "id": 51201109524822,
           "title": "Blue / 150ml",
           "price": "16.71",
           "position": 2,
@@ -32338,8 +32338,8 @@
       ],
       "options": [
         {
-          "id": 12642095759702,
           "product_id": 9792648806742,
+          "id": 12642095759702,
           "name": "Color",
           "position": 1,
           "values": [
@@ -32348,8 +32348,8 @@
           ]
         },
         {
-          "id": 12642095792470,
           "product_id": 9792648806742,
+          "id": 12642095792470,
           "name": "Capacity",
           "position": 2,
           "values": [
