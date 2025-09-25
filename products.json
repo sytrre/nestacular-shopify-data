@@ -10518,8 +10518,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792650314070",
       "variants": [
         {
-          "product_id": 9792650314070,
           "id": 51201118339414,
+          "product_id": 9792650314070,
           "title": "Pink",
           "price": "26.22",
           "position": 1,
@@ -10546,8 +10546,8 @@
           "image_id": 66253019283798
         },
         {
-          "product_id": 9792650314070,
           "id": 51201118372182,
+          "product_id": 9792650314070,
           "title": "Blue",
           "price": "26.22",
           "position": 2,
@@ -10576,8 +10576,8 @@
       ],
       "options": [
         {
-          "product_id": 9792650314070,
           "id": 12642097496406,
+          "product_id": 9792650314070,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34342,8 +34342,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9725995909462",
       "variants": [
         {
-          "id": 50907383923030,
           "product_id": 9725995909462,
+          "id": 50907383923030,
           "title": "Black",
           "price": "17.95",
           "position": 1,
@@ -34370,8 +34370,8 @@
           "image_id": 64382837031254
         },
         {
-          "id": 50907383955798,
           "product_id": 9725995909462,
+          "id": 50907383955798,
           "title": "Light Blue",
           "price": "17.95",
           "position": 2,
@@ -34398,8 +34398,8 @@
           "image_id": 64382836932950
         },
         {
-          "id": 50907383988566,
           "product_id": 9725995909462,
+          "id": 50907383988566,
           "title": "Pink",
           "price": "17.95",
           "position": 3,
@@ -34426,8 +34426,8 @@
           "image_id": 64382837129558
         },
         {
-          "id": 50907384021334,
           "product_id": 9725995909462,
+          "id": 50907384021334,
           "title": "White",
           "price": "17.95",
           "position": 4,
@@ -34456,8 +34456,8 @@
       ],
       "options": [
         {
-          "id": 12561890214230,
           "product_id": 9725995909462,
+          "id": 12561890214230,
           "name": "Color",
           "position": 1,
           "values": [
@@ -104019,8 +104019,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9808501178710",
       "variants": [
         {
-          "product_id": 9808501178710,
           "id": 51267671163222,
+          "product_id": 9808501178710,
           "title": "Dark green",
           "price": "42.95",
           "position": 1,
@@ -104047,8 +104047,8 @@
           "image_id": 66398285332822
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671195990,
+          "product_id": 9808501178710,
           "title": "Khaki",
           "price": "42.95",
           "position": 2,
@@ -104075,8 +104075,8 @@
           "image_id": 66398285365590
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671228758,
+          "product_id": 9808501178710,
           "title": "Light green",
           "price": "42.95",
           "position": 3,
@@ -104103,8 +104103,8 @@
           "image_id": 66398285398358
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671261526,
+          "product_id": 9808501178710,
           "title": "Light pink",
           "price": "38.95",
           "position": 4,
@@ -104131,8 +104131,8 @@
           "image_id": 66398285431126
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671294294,
+          "product_id": 9808501178710,
           "title": "Little Bear Bowl",
           "price": "18.95",
           "position": 5,
@@ -104159,8 +104159,8 @@
           "image_id": 66398285463894
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671327062,
+          "product_id": 9808501178710,
           "title": "Little Bear Dinner Plate",
           "price": "21.95",
           "position": 6,
@@ -104187,8 +104187,8 @@
           "image_id": 66398285496662
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671359830,
+          "product_id": 9808501178710,
           "title": "Long handled fork spoon",
           "price": "18.25",
           "position": 7,
@@ -104215,8 +104215,8 @@
           "image_id": 66398285529430
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671392598,
+          "product_id": 9808501178710,
           "title": "Off white setoon",
           "price": "33.95",
           "position": 8,
@@ -104243,8 +104243,8 @@
           "image_id": 66398285562198
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671425366,
+          "product_id": 9808501178710,
           "title": "Pink",
           "price": "42.95",
           "position": 9,
@@ -104271,8 +104271,8 @@
           "image_id": 66398285594966
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671458134,
+          "product_id": 9808501178710,
           "title": "Yellow",
           "price": "42.95",
           "position": 10,
@@ -104301,8 +104301,8 @@
       ],
       "options": [
         {
-          "product_id": 9808501178710,
           "id": 12660959019350,
+          "product_id": 9808501178710,
           "name": "Color",
           "position": 1,
           "values": [

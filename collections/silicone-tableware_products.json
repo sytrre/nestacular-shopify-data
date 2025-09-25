@@ -2065,8 +2065,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792650314070",
       "variants": [
         {
-          "product_id": 9792650314070,
           "id": 51201118339414,
+          "product_id": 9792650314070,
           "title": "Pink",
           "price": "26.22",
           "position": 1,
@@ -2093,8 +2093,8 @@
           "image_id": 66253019283798
         },
         {
-          "product_id": 9792650314070,
           "id": 51201118372182,
+          "product_id": 9792650314070,
           "title": "Blue",
           "price": "26.22",
           "position": 2,
@@ -2123,8 +2123,8 @@
       ],
       "options": [
         {
-          "product_id": 9792650314070,
           "id": 12642097496406,
+          "product_id": 9792650314070,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14037,8 +14037,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791668453718",
       "variants": [
         {
-          "product_id": 9791668453718,
           "id": 51197244539222,
+          "product_id": 9791668453718,
           "title": "Crabblue fork and spoon",
           "price": "37.84",
           "position": 1,
@@ -14065,8 +14065,8 @@
           "image_id": 66244480434518
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244571990,
+          "product_id": 9791668453718,
           "title": "Crabpink fork and spoon",
           "price": "37.84",
           "position": 2,
@@ -14093,8 +14093,8 @@
           "image_id": 66244480467286
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244604758,
+          "product_id": 9791668453718,
           "title": "Small fish blue fork and sp",
           "price": "37.73",
           "position": 3,
@@ -14121,8 +14121,8 @@
           "image_id": 66244480500054
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244637526,
+          "product_id": 9791668453718,
           "title": "Small fish pink fork and sp",
           "price": "37.73",
           "position": 4,
@@ -14149,8 +14149,8 @@
           "image_id": 66244480532822
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244670294,
+          "product_id": 9791668453718,
           "title": "Fawn blue fork and spoon",
           "price": "37.28",
           "position": 5,
@@ -14177,8 +14177,8 @@
           "image_id": 66244480565590
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244703062,
+          "product_id": 9791668453718,
           "title": "Fawn Pink fork and spoon",
           "price": "37.28",
           "position": 6,
@@ -14205,8 +14205,8 @@
           "image_id": 66244480598358
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244735830,
+          "product_id": 9791668453718,
           "title": "Bear blue fork and spoon",
           "price": "37.28",
           "position": 7,
@@ -14233,8 +14233,8 @@
           "image_id": 66244480631126
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244768598,
+          "product_id": 9791668453718,
           "title": "Bear Pink Fork and Spoon",
           "price": "37.28",
           "position": 8,
@@ -14261,8 +14261,8 @@
           "image_id": 66244480663894
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244801366,
+          "product_id": 9791668453718,
           "title": "Orange silicone fork and spoon",
           "price": "35.20",
           "position": 9,
@@ -14289,8 +14289,8 @@
           "image_id": 66244480696662
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244834134,
+          "product_id": 9791668453718,
           "title": "Green silicone fork and spoon",
           "price": "35.20",
           "position": 10,
@@ -14317,8 +14317,8 @@
           "image_id": 66244480729430
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244866902,
+          "product_id": 9791668453718,
           "title": "Green set",
           "price": "38.03",
           "position": 11,
@@ -14345,8 +14345,8 @@
           "image_id": 66244480762198
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244899670,
+          "product_id": 9791668453718,
           "title": "Orange set",
           "price": "38.03",
           "position": 12,
@@ -14373,8 +14373,8 @@
           "image_id": 66244480794966
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244932438,
+          "product_id": 9791668453718,
           "title": "Blue set",
           "price": "38.79",
           "position": 13,
@@ -14401,8 +14401,8 @@
           "image_id": 66244480827734
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244965206,
+          "product_id": 9791668453718,
           "title": "Pink three piece set",
           "price": "37.11",
           "position": 14,
@@ -14429,8 +14429,8 @@
           "image_id": 66244480860502
         },
         {
-          "product_id": 9791668453718,
           "id": 51197244997974,
+          "product_id": 9791668453718,
           "title": "Green three piece set",
           "price": "37.11",
           "position": 15,
@@ -14457,8 +14457,8 @@
           "image_id": 66244480893270
         },
         {
-          "product_id": 9791668453718,
           "id": 51197245030742,
+          "product_id": 9791668453718,
           "title": "Brown three piece set",
           "price": "37.54",
           "position": 16,
@@ -14485,8 +14485,8 @@
           "image_id": 66244480926038
         },
         {
-          "product_id": 9791668453718,
           "id": 51197245063510,
+          "product_id": 9791668453718,
           "title": "Grey blue three piece set",
           "price": "37.11",
           "position": 17,
@@ -14513,8 +14513,8 @@
           "image_id": 66244480958806
         },
         {
-          "product_id": 9791668453718,
           "id": 51197245096278,
+          "product_id": 9791668453718,
           "title": "Set1",
           "price": "49.83",
           "position": 18,
@@ -14541,8 +14541,8 @@
           "image_id": 66244480991574
         },
         {
-          "product_id": 9791668453718,
           "id": 51197245129046,
+          "product_id": 9791668453718,
           "title": "Set2",
           "price": "49.83",
           "position": 19,
@@ -14569,8 +14569,8 @@
           "image_id": 66244481024342
         },
         {
-          "product_id": 9791668453718,
           "id": 51197245161814,
+          "product_id": 9791668453718,
           "title": "Set3",
           "price": "48.29",
           "position": 20,
@@ -14597,8 +14597,8 @@
           "image_id": 66244481057110
         },
         {
-          "product_id": 9791668453718,
           "id": 51197245194582,
+          "product_id": 9791668453718,
           "title": "Green 5piece set",
           "price": "39.19",
           "position": 21,
@@ -14625,8 +14625,8 @@
           "image_id": 66244481089878
         },
         {
-          "product_id": 9791668453718,
           "id": 51197245227350,
+          "product_id": 9791668453718,
           "title": "Green",
           "price": "36.69",
           "position": 22,
@@ -14653,8 +14653,8 @@
           "image_id": 66244481122646
         },
         {
-          "product_id": 9791668453718,
           "id": 51197245260118,
+          "product_id": 9791668453718,
           "title": "Blue",
           "price": "36.69",
           "position": 23,
@@ -14681,8 +14681,8 @@
           "image_id": 66244481155414
         },
         {
-          "product_id": 9791668453718,
           "id": 51197245292886,
+          "product_id": 9791668453718,
           "title": "Orange",
           "price": "36.69",
           "position": 24,
@@ -14709,8 +14709,8 @@
           "image_id": 66244481188182
         },
         {
-          "product_id": 9791668453718,
           "id": 51197245325654,
+          "product_id": 9791668453718,
           "title": "Pink",
           "price": "36.69",
           "position": 25,
@@ -14739,8 +14739,8 @@
       ],
       "options": [
         {
-          "product_id": 9791668453718,
           "id": 12640926597462,
+          "product_id": 9791668453718,
           "name": "Color",
           "position": 1,
           "values": [
@@ -27160,8 +27160,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9808501178710",
       "variants": [
         {
-          "product_id": 9808501178710,
           "id": 51267671163222,
+          "product_id": 9808501178710,
           "title": "Dark green",
           "price": "42.95",
           "position": 1,
@@ -27188,8 +27188,8 @@
           "image_id": 66398285332822
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671195990,
+          "product_id": 9808501178710,
           "title": "Khaki",
           "price": "42.95",
           "position": 2,
@@ -27216,8 +27216,8 @@
           "image_id": 66398285365590
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671228758,
+          "product_id": 9808501178710,
           "title": "Light green",
           "price": "42.95",
           "position": 3,
@@ -27244,8 +27244,8 @@
           "image_id": 66398285398358
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671261526,
+          "product_id": 9808501178710,
           "title": "Light pink",
           "price": "38.95",
           "position": 4,
@@ -27272,8 +27272,8 @@
           "image_id": 66398285431126
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671294294,
+          "product_id": 9808501178710,
           "title": "Little Bear Bowl",
           "price": "18.95",
           "position": 5,
@@ -27300,8 +27300,8 @@
           "image_id": 66398285463894
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671327062,
+          "product_id": 9808501178710,
           "title": "Little Bear Dinner Plate",
           "price": "21.95",
           "position": 6,
@@ -27328,8 +27328,8 @@
           "image_id": 66398285496662
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671359830,
+          "product_id": 9808501178710,
           "title": "Long handled fork spoon",
           "price": "18.25",
           "position": 7,
@@ -27356,8 +27356,8 @@
           "image_id": 66398285529430
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671392598,
+          "product_id": 9808501178710,
           "title": "Off white setoon",
           "price": "33.95",
           "position": 8,
@@ -27384,8 +27384,8 @@
           "image_id": 66398285562198
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671425366,
+          "product_id": 9808501178710,
           "title": "Pink",
           "price": "42.95",
           "position": 9,
@@ -27412,8 +27412,8 @@
           "image_id": 66398285594966
         },
         {
-          "product_id": 9808501178710,
           "id": 51267671458134,
+          "product_id": 9808501178710,
           "title": "Yellow",
           "price": "42.95",
           "position": 10,
@@ -27442,8 +27442,8 @@
       ],
       "options": [
         {
-          "product_id": 9808501178710,
           "id": 12660959019350,
+          "product_id": 9808501178710,
           "name": "Color",
           "position": 1,
           "values": [
