@@ -45795,8 +45795,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9735721812310",
       "variants": [
         {
-          "product_id": 9735721812310,
           "id": 50961086677334,
+          "product_id": 9735721812310,
           "title": "0.25mm",
           "price": "24.95",
           "position": 1,
@@ -45823,8 +45823,8 @@
           "image_id": 64765164552534
         },
         {
-          "product_id": 9735721812310,
           "id": 50961086710102,
+          "product_id": 9735721812310,
           "title": "0.2mm",
           "price": "24.95",
           "position": 2,
@@ -45851,8 +45851,8 @@
           "image_id": 64765164552534
         },
         {
-          "product_id": 9735721812310,
           "id": 50961086742870,
+          "product_id": 9735721812310,
           "title": "0.35mm",
           "price": "25.00",
           "position": 3,
@@ -45879,8 +45879,8 @@
           "image_id": 64765164552534
         },
         {
-          "product_id": 9735721812310,
           "id": 50961086775638,
+          "product_id": 9735721812310,
           "title": "0.3mm",
           "price": "24.95",
           "position": 4,
@@ -45907,8 +45907,8 @@
           "image_id": 64765164552534
         },
         {
-          "product_id": 9735721812310,
           "id": 50961086808406,
+          "product_id": 9735721812310,
           "title": "0.4mm",
           "price": "25.10",
           "position": 5,
@@ -45935,8 +45935,8 @@
           "image_id": 64765164552534
         },
         {
-          "product_id": 9735721812310,
           "id": 50961086841174,
+          "product_id": 9735721812310,
           "title": "0.5mm",
           "price": "25.30",
           "position": 6,
@@ -45963,8 +45963,8 @@
           "image_id": 64765164552534
         },
         {
-          "product_id": 9735721812310,
           "id": 50961086873942,
+          "product_id": 9735721812310,
           "title": "0.6mm",
           "price": "25.95",
           "position": 7,
@@ -45993,8 +45993,8 @@
       ],
       "options": [
         {
-          "product_id": 9735721812310,
           "id": 12574673699158,
+          "product_id": 9735721812310,
           "name": "Line number",
           "position": 1,
           "values": [

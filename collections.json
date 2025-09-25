@@ -2329,6 +2329,46 @@
       }
     },
     {
+      "id": 659624919382,
+      "handle": "holiday-hosting-toddler-prep-station",
+      "title": "Holiday Hosting Toddler Prep Station",
+      "updated_at": "2025-09-25T23:43:17+01:00",
+      "body_html": "Mess-free feeding solutions for hosting families with toddlers during holiday gatherings - portable chairs, easy-clean bibs, and spill-proof gear.",
+      "published_at": "2025-09-25T23:43:17+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "portable-high-chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "waterproof-baby-bib"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby-suction-bowl"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby-feeding-spoons"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby-plate"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/659624919382"
+    },
+    {
       "id": 657383260502,
       "handle": "luxury-baby-gifts",
       "title": "Luxury Baby Gifts",
@@ -4102,8 +4142,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 75,
-    "items_in_page": 75,
+    "total_items": 76,
+    "items_in_page": 76,
     "has_next_page": false,
     "has_previous_page": false
   }
