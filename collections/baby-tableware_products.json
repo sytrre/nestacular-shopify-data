@@ -11435,8 +11435,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9810549637462",
       "variants": [
         {
-          "id": 51275169300822,
           "product_id": 9810549637462,
+          "id": 51275169300822,
           "title": "Army Green",
           "price": "28.95",
           "position": 1,
@@ -11463,8 +11463,8 @@
           "image_id": 66462634410326
         },
         {
-          "id": 51275169333590,
           "product_id": 9810549637462,
+          "id": 51275169333590,
           "title": "Beige",
           "price": "28.95",
           "position": 2,
@@ -11491,8 +11491,8 @@
           "image_id": 66462634443094
         },
         {
-          "id": 51275169366358,
           "product_id": 9810549637462,
+          "id": 51275169366358,
           "title": "Dark Blue",
           "price": "28.95",
           "position": 3,
@@ -11519,8 +11519,8 @@
           "image_id": 66462634475862
         },
         {
-          "id": 51275169399126,
           "product_id": 9810549637462,
+          "id": 51275169399126,
           "title": "Deep Pink",
           "price": "28.95",
           "position": 4,
@@ -11547,8 +11547,8 @@
           "image_id": 66462634508630
         },
         {
-          "id": 51275169431894,
           "product_id": 9810549637462,
+          "id": 51275169431894,
           "title": "Deep Purple",
           "price": "28.95",
           "position": 5,
@@ -11575,8 +11575,8 @@
           "image_id": 66462634541398
         },
         {
-          "id": 51275169464662,
           "product_id": 9810549637462,
+          "id": 51275169464662,
           "title": "Gray And Blue",
           "price": "28.95",
           "position": 6,
@@ -11603,8 +11603,8 @@
           "image_id": 66462634574166
         },
         {
-          "id": 51275169497430,
           "product_id": 9810549637462,
+          "id": 51275169497430,
           "title": "Light Purple",
           "price": "28.95",
           "position": 7,
@@ -11631,8 +11631,8 @@
           "image_id": 66462634606934
         },
         {
-          "id": 51275169530198,
           "product_id": 9810549637462,
+          "id": 51275169530198,
           "title": "Lotus Root Starch",
           "price": "28.95",
           "position": 8,
@@ -11659,8 +11659,8 @@
           "image_id": 66462634639702
         },
         {
-          "id": 51275169562966,
           "product_id": 9810549637462,
+          "id": 51275169562966,
           "title": "Marble",
           "price": "28.95",
           "position": 9,
@@ -11687,8 +11687,8 @@
           "image_id": 66462634672470
         },
         {
-          "id": 51275169595734,
           "product_id": 9810549637462,
+          "id": 51275169595734,
           "title": "Mint Green",
           "price": "28.95",
           "position": 10,
@@ -11715,8 +11715,8 @@
           "image_id": 66462634705238
         },
         {
-          "id": 51275169628502,
           "product_id": 9810549637462,
+          "id": 51275169628502,
           "title": "Orange Red",
           "price": "28.95",
           "position": 11,
@@ -11743,8 +11743,8 @@
           "image_id": 66462634738006
         },
         {
-          "id": 51275169661270,
           "product_id": 9810549637462,
+          "id": 51275169661270,
           "title": "Pink",
           "price": "28.95",
           "position": 12,
@@ -11771,8 +11771,8 @@
           "image_id": 66462634770774
         },
         {
-          "id": 51275169694038,
           "product_id": 9810549637462,
+          "id": 51275169694038,
           "title": "Smoky Gray",
           "price": "28.95",
           "position": 13,
@@ -11799,8 +11799,8 @@
           "image_id": 66462634803542
         },
         {
-          "id": 51275169726806,
           "product_id": 9810549637462,
+          "id": 51275169726806,
           "title": "Turmeric",
           "price": "28.95",
           "position": 14,
@@ -11827,8 +11827,8 @@
           "image_id": 66462634836310
         },
         {
-          "id": 51275169759574,
           "product_id": 9810549637462,
+          "id": 51275169759574,
           "title": "Walnut",
           "price": "28.95",
           "position": 15,
@@ -11855,8 +11855,8 @@
           "image_id": 66462634869078
         },
         {
-          "id": 51275169792342,
           "product_id": 9810549637462,
+          "id": 51275169792342,
           "title": "Yellow",
           "price": "28.95",
           "position": 16,
@@ -11885,8 +11885,8 @@
       ],
       "options": [
         {
-          "id": 12663301505366,
           "product_id": 9810549637462,
+          "id": 12663301505366,
           "name": "Color",
           "position": 1,
           "values": [
@@ -22172,7 +22172,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T15:59:33+01:00",
       "handle": "divibabe-baby-divided-feeding-tray-food-grade-silicone-easy-clean-portable-design-essential-mealtime-plate-for-infants-toddlers",
-      "updated_at": "2025-09-25T16:08:39+01:00",
+      "updated_at": "2025-09-25T16:52:49+01:00",
       "published_at": "2025-09-25T16:06:33+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -22181,8 +22181,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844768538966",
       "variants": [
         {
-          "product_id": 9844768538966,
           "id": 51409416290646,
+          "product_id": 9844768538966,
           "title": "Deer",
           "price": "55.95",
           "position": 1,
@@ -22209,8 +22209,8 @@
           "image_id": 67125789917526
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416323414,
+          "product_id": 9844768538966,
           "title": "Dog",
           "price": "55.95",
           "position": 2,
@@ -22237,8 +22237,8 @@
           "image_id": 67125789950294
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416356182,
+          "product_id": 9844768538966,
           "title": "Elephant",
           "price": "55.95",
           "position": 3,
@@ -22265,8 +22265,8 @@
           "image_id": 67125789983062
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416388950,
+          "product_id": 9844768538966,
           "title": "Lion",
           "price": "55.95",
           "position": 4,
@@ -22293,8 +22293,8 @@
           "image_id": 67125790015830
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416421718,
+          "product_id": 9844768538966,
           "title": "Zebra",
           "price": "55.95",
           "position": 5,
@@ -22323,8 +22323,8 @@
       ],
       "options": [
         {
-          "product_id": 9844768538966,
           "id": 12703714607446,
+          "product_id": 9844768538966,
           "name": "Style",
           "position": 1,
           "values": [
@@ -60023,7 +60023,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T17:15:18+01:00",
       "handle": "tennei-baby-eating-bib-ins-wind-lightweight-super-soft-silicone-design-essential-waterproof-feeding-accessory-for-toddlers",
-      "updated_at": "2025-09-25T17:38:01+01:00",
+      "updated_at": "2025-09-25T18:11:45+01:00",
       "published_at": "2025-09-25T17:37:59+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -60043,7 +60043,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-25T17:15:43+01:00",
-          "updated_at": "2025-09-25T17:27:38+01:00",
+          "updated_at": "2025-09-25T18:11:39+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -60054,8 +60054,8 @@
           "weight": 143.0,
           "weight_unit": "g",
           "inventory_item_id": 53646947483990,
-          "inventory_quantity": 19786,
-          "old_inventory_quantity": 19786,
+          "inventory_quantity": 33554,
+          "old_inventory_quantity": 33554,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51409851351382",
           "image_id": 67126819258710
         },
@@ -60127,7 +60127,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-25T17:15:43+01:00",
-          "updated_at": "2025-09-25T17:30:22+01:00",
+          "updated_at": "2025-09-25T18:11:38+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -60138,8 +60138,8 @@
           "weight": 143.0,
           "weight_unit": "g",
           "inventory_item_id": 53646947582294,
-          "inventory_quantity": 17750,
-          "old_inventory_quantity": 17750,
+          "inventory_quantity": 30402,
+          "old_inventory_quantity": 30402,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51409851449686",
           "image_id": 67126819357014
         },
@@ -60155,7 +60155,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-25T17:15:43+01:00",
-          "updated_at": "2025-09-25T17:31:08+01:00",
+          "updated_at": "2025-09-25T18:11:40+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -60166,8 +60166,8 @@
           "weight": 143.0,
           "weight_unit": "g",
           "inventory_item_id": 53646947615062,
-          "inventory_quantity": 21263,
-          "old_inventory_quantity": 21263,
+          "inventory_quantity": 33690,
+          "old_inventory_quantity": 33690,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51409851482454",
           "image_id": 67126819389782
         },
@@ -60183,7 +60183,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-25T17:15:43+01:00",
-          "updated_at": "2025-09-25T17:31:47+01:00",
+          "updated_at": "2025-09-25T18:11:38+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -60194,8 +60194,8 @@
           "weight": 143.0,
           "weight_unit": "g",
           "inventory_item_id": 53646947647830,
-          "inventory_quantity": 16503,
-          "old_inventory_quantity": 16503,
+          "inventory_quantity": 30133,
+          "old_inventory_quantity": 30133,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51409851515222",
           "image_id": 67126819422550
         },
@@ -60267,7 +60267,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-25T17:15:43+01:00",
-          "updated_at": "2025-09-25T17:34:01+01:00",
+          "updated_at": "2025-09-25T18:11:37+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -60278,8 +60278,8 @@
           "weight": 143.0,
           "weight_unit": "g",
           "inventory_item_id": 53646947746134,
-          "inventory_quantity": 19529,
-          "old_inventory_quantity": 19529,
+          "inventory_quantity": 32041,
+          "old_inventory_quantity": 32041,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51409851613526",
           "image_id": 67126819520854
         },
@@ -60295,7 +60295,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-25T17:15:43+01:00",
-          "updated_at": "2025-09-25T17:34:52+01:00",
+          "updated_at": "2025-09-25T18:11:43+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -60306,8 +60306,8 @@
           "weight": 143.0,
           "weight_unit": "g",
           "inventory_item_id": 53646947778902,
-          "inventory_quantity": 18791,
-          "old_inventory_quantity": 18791,
+          "inventory_quantity": 31399,
+          "old_inventory_quantity": 31399,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51409851646294",
           "image_id": 67126819553622
         },
@@ -60379,7 +60379,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-25T17:15:43+01:00",
-          "updated_at": "2025-09-25T17:36:59+01:00",
+          "updated_at": "2025-09-25T18:11:45+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -60390,8 +60390,8 @@
           "weight": 143.0,
           "weight_unit": "g",
           "inventory_item_id": 53646947877206,
-          "inventory_quantity": 19108,
-          "old_inventory_quantity": 19108,
+          "inventory_quantity": 32921,
+          "old_inventory_quantity": 32921,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51409851744598",
           "image_id": 67126819651926
         },
@@ -60407,7 +60407,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-25T17:15:43+01:00",
-          "updated_at": "2025-09-25T17:37:43+01:00",
+          "updated_at": "2025-09-25T18:11:41+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -60418,8 +60418,8 @@
           "weight": 143.0,
           "weight_unit": "g",
           "inventory_item_id": 53646947909974,
-          "inventory_quantity": 19030,
-          "old_inventory_quantity": 19030,
+          "inventory_quantity": 32216,
+          "old_inventory_quantity": 32216,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51409851777366",
           "image_id": 67126819684694
         }

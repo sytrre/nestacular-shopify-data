@@ -5563,7 +5563,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T15:59:33+01:00",
       "handle": "divibabe-baby-divided-feeding-tray-food-grade-silicone-easy-clean-portable-design-essential-mealtime-plate-for-infants-toddlers",
-      "updated_at": "2025-09-25T16:08:39+01:00",
+      "updated_at": "2025-09-25T16:52:49+01:00",
       "published_at": "2025-09-25T16:06:33+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -5572,8 +5572,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844768538966",
       "variants": [
         {
-          "product_id": 9844768538966,
           "id": 51409416290646,
+          "product_id": 9844768538966,
           "title": "Deer",
           "price": "55.95",
           "position": 1,
@@ -5600,8 +5600,8 @@
           "image_id": 67125789917526
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416323414,
+          "product_id": 9844768538966,
           "title": "Dog",
           "price": "55.95",
           "position": 2,
@@ -5628,8 +5628,8 @@
           "image_id": 67125789950294
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416356182,
+          "product_id": 9844768538966,
           "title": "Elephant",
           "price": "55.95",
           "position": 3,
@@ -5656,8 +5656,8 @@
           "image_id": 67125789983062
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416388950,
+          "product_id": 9844768538966,
           "title": "Lion",
           "price": "55.95",
           "position": 4,
@@ -5684,8 +5684,8 @@
           "image_id": 67125790015830
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416421718,
+          "product_id": 9844768538966,
           "title": "Zebra",
           "price": "55.95",
           "position": 5,
@@ -5714,8 +5714,8 @@
       ],
       "options": [
         {
-          "product_id": 9844768538966,
           "id": 12703714607446,
+          "product_id": 9844768538966,
           "name": "Style",
           "position": 1,
           "values": [
