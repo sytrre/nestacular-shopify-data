@@ -13076,8 +13076,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9778432573782",
       "variants": [
         {
-          "id": 51137207796054,
           "product_id": 9778432573782,
+          "id": 51137207796054,
           "title": "Avocado Green",
           "price": "158.95",
           "position": 1,
@@ -13104,8 +13104,8 @@
           "image_id": 66114343010646
         },
         {
-          "id": 51137207828822,
           "product_id": 9778432573782,
+          "id": 51137207828822,
           "title": "Caramel Mocha",
           "price": "158.95",
           "position": 2,
@@ -13132,8 +13132,8 @@
           "image_id": 66114343043414
         },
         {
-          "id": 51137207861590,
           "product_id": 9778432573782,
+          "id": 51137207861590,
           "title": "Cherry Pink",
           "price": "158.95",
           "position": 3,
@@ -13160,8 +13160,8 @@
           "image_id": 66114343076182
         },
         {
-          "id": 51137207894358,
           "product_id": 9778432573782,
+          "id": 51137207894358,
           "title": "Graphite Gray",
           "price": "158.95",
           "position": 4,
@@ -13188,8 +13188,8 @@
           "image_id": 66114343108950
         },
         {
-          "id": 51137207927126,
           "product_id": 9778432573782,
+          "id": 51137207927126,
           "title": "Ink Green",
           "price": "158.95",
           "position": 5,
@@ -13216,8 +13216,8 @@
           "image_id": 66114343141718
         },
         {
-          "id": 51137207959894,
           "product_id": 9778432573782,
+          "id": 51137207959894,
           "title": "Light Luxury Black",
           "price": "158.95",
           "position": 6,
@@ -13244,8 +13244,8 @@
           "image_id": 66114343174486
         },
         {
-          "id": 51137207992662,
           "product_id": 9778432573782,
+          "id": 51137207992662,
           "title": "Mango Yellow",
           "price": "158.95",
           "position": 7,
@@ -13272,8 +13272,8 @@
           "image_id": 66114343207254
         },
         {
-          "id": 51137208025430,
           "product_id": 9778432573782,
+          "id": 51137208025430,
           "title": "Red Feather White",
           "price": "158.95",
           "position": 8,
@@ -13300,8 +13300,8 @@
           "image_id": 66114343240022
         },
         {
-          "id": 51137208058198,
           "product_id": 9778432573782,
+          "id": 51137208058198,
           "title": "Rouge Pink",
           "price": "158.95",
           "position": 9,
@@ -13328,8 +13328,8 @@
           "image_id": 66114343272790
         },
         {
-          "id": 51137208090966,
           "product_id": 9778432573782,
+          "id": 51137208090966,
           "title": "Sky Blue",
           "price": "158.95",
           "position": 10,
@@ -13358,8 +13358,8 @@
       ],
       "options": [
         {
-          "id": 12625292558678,
           "product_id": 9778432573782,
+          "id": 12625292558678,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19362,11 +19362,11 @@
       "product_type": "Feeding Bottle",
       "created_at": "2025-09-02T05:27:48+01:00",
       "handle": "luxora-baby-rice-cereal-feeding-bottle",
-      "updated_at": "2025-09-26T05:37:40+01:00",
+      "updated_at": "2025-09-26T05:41:14+01:00",
       "published_at": "2025-09-02T05:28:11+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Complementary Food Feeder, Baby Rice Cereal Bottle, Infant Feeding Bottle, life-event-babysitters-emergency-feeding-kit, life-event-grandparents-helper-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, Luxora Baby Bottle, Mess-Free Baby Feeder, Silicone Spoon Feeder",
+      "tags": "Baby Complementary Food Feeder, Baby Rice Cereal Bottle, Infant Feeding Bottle, life-event-grandparents-helper-feeding-station, life-event-holiday-hosting-toddler-prep-station, life-event-moving-day-baby-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, Luxora Baby Bottle, Mess-Free Baby Feeder, Silicone Spoon Feeder",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9792649036118",
       "variants": [
@@ -19783,11 +19783,11 @@
       "product_type": "0",
       "created_at": "2025-09-10T13:27:54+01:00",
       "handle": "mamapie-baby-solid-food-bowl-for-babies-non-slip-base-safe-silicone-material-easy-to-clean-essential-feeding-tableware-for-infants-toddlers",
-      "updated_at": "2025-09-26T05:37:52+01:00",
+      "updated_at": "2025-09-26T05:41:26+01:00",
       "published_at": "2025-09-10T13:35:57+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Weaning Set, CJ, life-event-babysitters-emergency-feeding-kit, life-event-maternity-leave-feeding-station, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-weekend-camping-baby-feeding-gear",
+      "tags": "Baby Weaning Set, CJ, life-event-holiday-hosting-toddler-prep-station, life-event-maternity-leave-feeding-station, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-weekend-camping-baby-feeding-gear",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9810615206230",
       "variants": [
@@ -20155,11 +20155,11 @@
       "product_type": "0",
       "created_at": "2025-09-09T17:54:30+01:00",
       "handle": "mesamis-food-grade-silicone-baby-bowl-spoon-set-of-3-safe-durable-easy-to-clean-design-essential-feeding-tableware-for-infants-toddlers",
-      "updated_at": "2025-09-26T05:38:44+01:00",
+      "updated_at": "2025-09-26T05:41:35+01:00",
       "published_at": "2025-09-09T18:01:44+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Weaning Set, CJ, life-event-babysitters-emergency-feeding-kit, life-event-maternity-leave-feeding-station, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep",
+      "tags": "Baby Weaning Set, CJ, life-event-holiday-hosting-toddler-prep-station, life-event-maternity-leave-feeding-station, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9808723509590",
       "variants": [
@@ -22312,11 +22312,11 @@
       "product_type": "0",
       "created_at": "2025-09-23T14:19:37+01:00",
       "handle": "mypuffii-baby-stroller-dining-chair-cushion-soft-cotton-autumn-winter-padding-warm-comfortable-design-essential-all-season-seat-cushion-for-infants-toddlers",
-      "updated_at": "2025-09-26T05:26:21+01:00",
+      "updated_at": "2025-09-26T05:41:55+01:00",
       "published_at": "2025-09-23T14:28:24+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "all-season, baby accessories, Baby Sroller Cushion, breathable padding, CJ, cotton cushion, high chair cushion, infant comfort, MyPuffii, Nestacular, seasonal baby gear, stroller padding, toddler seating",
+      "tags": "all-season, baby accessories, Baby Sroller Cushion, breathable padding, CJ, cotton cushion, high chair cushion, infant comfort, life-event-holiday-hosting-toddler-prep-station, MyPuffii, Nestacular, seasonal baby gear, stroller padding, toddler seating",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9840986128726",
       "variants": [
@@ -22728,11 +22728,11 @@
       "product_type": "0",
       "created_at": "2025-09-01T05:06:05+01:00",
       "handle": "nestaculars-mess-free-2-in-1-baby-feeder-puree-squeeze-spoon",
-      "updated_at": "2025-09-26T05:39:55+01:00",
+      "updated_at": "2025-09-26T05:41:59+01:00",
       "published_at": "2025-09-01T05:06:29+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Silicone Bottle, CJ, Glass Baby Bottles, life-event-babysitters-emergency-feeding-kit, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-new-baby-first-foods-starter-kit, life-event-returning-to-work-mom-feeding-prep",
+      "tags": "Baby Silicone Bottle, CJ, Glass Baby Bottles, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-maternity-leave-feeding-station, life-event-new-baby-first-foods-starter-kit, life-event-returning-to-work-mom-feeding-prep",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791006507350",
       "variants": [
@@ -24552,11 +24552,11 @@
       "product_type": "0",
       "created_at": "2025-09-22T14:49:49+01:00",
       "handle": "nomro-small-dining-chair-seat-household-children-s-bench-for-one-year-olds-sturdy-comfortable-design-essential-baby-seating-solution-for-early-mealtimes",
-      "updated_at": "2025-09-26T05:26:38+01:00",
+      "updated_at": "2025-09-26T05:42:15+01:00",
       "published_at": "2025-09-22T15:02:46+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "1 year old, baby chair, Baby Dining Chair, children's furniture, CJ, comfortable seating, early development, feeding chair, first birthday gift, household baby gear, mealtime seating, nursery furniture, sturdy baby seat, toddler furniture",
+      "tags": "1 year old, baby chair, Baby Dining Chair, children's furniture, CJ, comfortable seating, early development, feeding chair, first birthday gift, household baby gear, life-event-holiday-hosting-toddler-prep-station, mealtime seating, nursery furniture, sturdy baby seat, toddler furniture",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9837425197398",
       "variants": [
@@ -25352,11 +25352,11 @@
       "product_type": "Baby Spoon",
       "created_at": "2025-09-01T12:19:03+01:00",
       "handle": "novora-silicone-baby-spoon",
-      "updated_at": "2025-09-26T05:40:18+01:00",
+      "updated_at": "2025-09-26T05:42:22+01:00",
       "published_at": "2025-09-01T12:19:21+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Infant Feeding Spoon, life-event-babysitters-emergency-feeding-kit, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-new-baby-first-foods-starter-kit, life-event-new-sibling-preparation-feeding-kit, life-event-toddler-independence-milestone-kit, life-event-weekend-camping-baby-feeding-gear, Safe Baby Utensil, Silicone Baby Spoon, Soft Head Baby Feeder, Toddler Food Supplement",
+      "tags": "Infant Feeding Spoon, life-event-grandparents-helper-feeding-station, life-event-holiday-hosting-toddler-prep-station, life-event-maternity-leave-feeding-station, life-event-new-baby-first-foods-starter-kit, life-event-new-sibling-preparation-feeding-kit, life-event-toddler-independence-milestone-kit, life-event-weekend-camping-baby-feeding-gear, Safe Baby Utensil, Silicone Baby Spoon, Soft Head Baby Feeder, Toddler Food Supplement",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791386812758",
       "variants": [
@@ -25900,11 +25900,11 @@
       "product_type": "0",
       "created_at": "2025-09-22T13:16:13+01:00",
       "handle": "nudjin-baby-dining-chair-adjustable-plastic-feet-durable-design-for-3-36-month-olds-essential-feeding-equipment-for-infants-toddlers",
-      "updated_at": "2025-09-26T05:26:55+01:00",
+      "updated_at": "2025-09-26T05:42:26+01:00",
       "published_at": "2025-09-22T13:21:07+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "3-36 months, adjustable baby furniture, Baby Dining Chair, baby shower gift, CJ, durable baby gear, ergonomic baby chair, feeding chair, feeding equipment, high chair, infant feeding, life-event-new-sibling-preparation-feeding-kit, Nestacular brand, nursery furniture, toddler chair",
+      "tags": "3-36 months, adjustable baby furniture, Baby Dining Chair, baby shower gift, CJ, durable baby gear, ergonomic baby chair, feeding chair, feeding equipment, high chair, infant feeding, life-event-holiday-hosting-toddler-prep-station, life-event-new-sibling-preparation-feeding-kit, Nestacular brand, nursery furniture, toddler chair",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9837037060438",
       "variants": [
@@ -26083,11 +26083,11 @@
       "product_type": "Feeding and Medicine Bottle",
       "created_at": "2025-09-02T17:02:06+01:00",
       "handle": "nurio-newborn-feeding-medicine-bottle",
-      "updated_at": "2025-09-22T13:32:51+01:00",
+      "updated_at": "2025-09-26T05:41:15+01:00",
       "published_at": "2025-09-02T17:02:23+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "infant nursing tool, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-moving-day-baby-feeding-setup, life-event-weekend-camping-baby-feeding-gear, medicine bottle for infants, precision baby bottle, safe baby feeder",
+      "tags": "infant nursing tool, life-event-babysitters-emergency-feeding-kit, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-moving-day-baby-feeding-setup, life-event-weekend-camping-baby-feeding-gear, medicine bottle for infants, precision baby bottle, safe baby feeder",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9793800634710",
       "variants": [
@@ -26310,11 +26310,11 @@
       "product_type": "0",
       "created_at": "2025-09-25T16:31:25+01:00",
       "handle": "nutrinest-food-grade-silicone-baby-eating-training-tableware-safe-durable-easy-clean-design-essential-food-supplement-feeding-set-for-infants-toddlers",
-      "updated_at": "2025-09-26T05:27:08+01:00",
+      "updated_at": "2025-09-26T05:42:40+01:00",
       "published_at": "2025-09-25T16:45:12+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby feeding, baby safety, BPA free, CJ, easy clean, feeding transition, food grade silicone, infant feeding, mealtime essentials, mess-free feeding, self-feeding training, Silicon Food Bowl, toddler tableware",
+      "tags": "baby feeding, baby safety, BPA free, CJ, easy clean, feeding transition, food grade silicone, infant feeding, life-event-holiday-hosting-toddler-prep-station, mealtime essentials, mess-free feeding, self-feeding training, Silicon Food Bowl, toddler tableware",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9844880245078",
       "variants": [
@@ -27294,11 +27294,11 @@
       "product_type": "Baby Bottle",
       "created_at": "2025-09-01T13:16:03+01:00",
       "handle": "opalnest-wide-caliber-baby-bottle",
-      "updated_at": "2025-09-22T13:37:29+01:00",
+      "updated_at": "2025-09-26T05:41:51+01:00",
       "published_at": "2025-09-01T13:16:14+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Anti-Colic Infant Bottle, Anti-Fall Milk Feeder, BPA-Free Baby Bottle, Infant Feeding Bottle, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-weekend-camping-baby-feeding-gear, Wide-Caliber Baby Bottle",
+      "tags": "Anti-Colic Infant Bottle, Anti-Fall Milk Feeder, BPA-Free Baby Bottle, Infant Feeding Bottle, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-maternity-leave-feeding-station, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-weekend-camping-baby-feeding-gear, Wide-Caliber Baby Bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791453790550",
       "variants": [
@@ -27618,11 +27618,11 @@
       "product_type": "Baby Bib",
       "created_at": "2025-09-01T15:40:20+01:00",
       "handle": "petaltots-3d-waterproof-baby-bib",
-      "updated_at": "2025-09-22T13:37:41+01:00",
+      "updated_at": "2025-09-26T05:42:59+01:00",
       "published_at": "2025-09-01T15:40:31+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "3D Cartoon Bib, BPA-Free Baby Bib, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-toddler-independence-milestone-kit, life-event-weekend-camping-baby-feeding-gear, Newborn Feeding Apron, Soft Saliva Towel",
+      "tags": "3D Cartoon Bib, BPA-Free Baby Bib, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-holiday-hosting-toddler-prep-station, life-event-moving-day-baby-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-toddler-independence-milestone-kit, life-event-weekend-camping-baby-feeding-gear, Newborn Feeding Apron, Soft Saliva Towel",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791672254806",
       "variants": [
@@ -27889,11 +27889,11 @@
       "product_type": "Baby Bottle Nipple",
       "created_at": "2025-09-01T15:37:28+01:00",
       "handle": "poppibaby-silicone-baby-bottle-nipple",
-      "updated_at": "2025-09-22T13:33:23+01:00",
+      "updated_at": "2025-09-26T05:42:13+01:00",
       "published_at": "2025-09-01T15:37:41+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Bottle Accessory, Baby Teether, BPA-Free Baby Nipple, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-returning-to-work-mom-feeding-prep, Safe Infant Feeding, Silicone Baby Nipple",
+      "tags": "Baby Bottle Accessory, Baby Teether, BPA-Free Baby Nipple, life-event-babysitters-emergency-feeding-kit, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-returning-to-work-mom-feeding-prep, Safe Infant Feeding, Silicone Baby Nipple",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791667667286",
       "variants": [
