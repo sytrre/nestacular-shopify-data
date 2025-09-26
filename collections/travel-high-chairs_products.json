@@ -15454,8 +15454,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9612696256854",
       "variants": [
         {
-          "product_id": 9612696256854,
           "id": 50413878018390,
+          "product_id": 9612696256854,
           "title": "WHITE",
           "price": "77.95",
           "position": 1,
@@ -15482,8 +15482,8 @@
           "image_id": 62090826154326
         },
         {
-          "product_id": 9612696256854,
           "id": 50413878051158,
+          "product_id": 9612696256854,
           "title": "Black",
           "price": "77.95",
           "position": 2,
@@ -15512,8 +15512,8 @@
       ],
       "options": [
         {
-          "product_id": 9612696256854,
           "id": 12422488621398,
+          "product_id": 9612696256854,
           "name": "color",
           "position": 1,
           "values": [
@@ -17777,8 +17777,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9779868041558",
       "variants": [
         {
-          "id": 51144188002646,
           "product_id": 9779868041558,
+          "id": 51144188002646,
           "title": "Light Pink",
           "price": "50.95",
           "position": 1,
@@ -17805,8 +17805,8 @@
           "image_id": 66130627133782
         },
         {
-          "id": 51144188035414,
           "product_id": 9779868041558,
+          "id": 51144188035414,
           "title": "Navy",
           "price": "50.95",
           "position": 2,
@@ -17835,8 +17835,8 @@
       ],
       "options": [
         {
-          "id": 12626959565142,
           "product_id": 9779868041558,
+          "id": 12626959565142,
           "name": "Color",
           "position": 1,
           "values": [
