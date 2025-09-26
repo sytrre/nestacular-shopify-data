@@ -48853,7 +48853,7 @@
       "product_type": "0",
       "created_at": "2025-09-26T15:14:43+01:00",
       "handle": "tinywooden-baby-eating-spoon-natural-wooden-construction-safe-durable-design-essential-first-feeding-utensil-for-infants-toddlers",
-      "updated_at": "2025-09-26T15:25:00+01:00",
+      "updated_at": "2025-09-26T16:14:45+01:00",
       "published_at": "2025-09-26T15:24:54+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -48873,7 +48873,7 @@
           "option2": "12x2.5cm",
           "option3": null,
           "created_at": "2025-09-26T15:14:52+01:00",
-          "updated_at": "2025-09-26T15:20:56+01:00",
+          "updated_at": "2025-09-26T16:14:44+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -48884,8 +48884,8 @@
           "weight": 30.0,
           "weight_unit": "g",
           "inventory_item_id": 53656023957846,
-          "inventory_quantity": 19204,
-          "old_inventory_quantity": 19204,
+          "inventory_quantity": 12068,
+          "old_inventory_quantity": 12068,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51417504219478",
           "image_id": 67145371517270
         },
@@ -48901,7 +48901,7 @@
           "option2": "13x2.5cm",
           "option3": null,
           "created_at": "2025-09-26T15:14:52+01:00",
-          "updated_at": "2025-09-26T15:21:35+01:00",
+          "updated_at": "2025-09-26T16:14:35+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -48912,8 +48912,8 @@
           "weight": 30.0,
           "weight_unit": "g",
           "inventory_item_id": 53656023990614,
-          "inventory_quantity": 19339,
-          "old_inventory_quantity": 19339,
+          "inventory_quantity": 12098,
+          "old_inventory_quantity": 12098,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51417504252246",
           "image_id": 67145371550038
         },
@@ -48929,7 +48929,7 @@
           "option2": "12x2.5cm",
           "option3": null,
           "created_at": "2025-09-26T15:14:52+01:00",
-          "updated_at": "2025-09-26T15:22:13+01:00",
+          "updated_at": "2025-09-26T16:14:39+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -48940,8 +48940,8 @@
           "weight": 30.0,
           "weight_unit": "g",
           "inventory_item_id": 53656024023382,
-          "inventory_quantity": 19283,
-          "old_inventory_quantity": 19283,
+          "inventory_quantity": 12152,
+          "old_inventory_quantity": 12152,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51417504285014",
           "image_id": 67145371582806
         },
@@ -48957,7 +48957,7 @@
           "option2": "13x2.5cm",
           "option3": null,
           "created_at": "2025-09-26T15:14:52+01:00",
-          "updated_at": "2025-09-26T15:22:50+01:00",
+          "updated_at": "2025-09-26T16:14:38+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -48968,8 +48968,8 @@
           "weight": 30.0,
           "weight_unit": "g",
           "inventory_item_id": 53656024056150,
-          "inventory_quantity": 22649,
-          "old_inventory_quantity": 22649,
+          "inventory_quantity": 14928,
+          "old_inventory_quantity": 14928,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51417504317782",
           "image_id": 67145371615574
         },
@@ -48985,7 +48985,7 @@
           "option2": "12x2.5cm",
           "option3": null,
           "created_at": "2025-09-26T15:14:52+01:00",
-          "updated_at": "2025-09-26T15:23:26+01:00",
+          "updated_at": "2025-09-26T16:14:45+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -48996,8 +48996,8 @@
           "weight": 30.0,
           "weight_unit": "g",
           "inventory_item_id": 53656024088918,
-          "inventory_quantity": 18180,
-          "old_inventory_quantity": 18180,
+          "inventory_quantity": 11738,
+          "old_inventory_quantity": 11738,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51417504350550",
           "image_id": 67145371648342
         },
@@ -49013,7 +49013,7 @@
           "option2": "13x2.5cm",
           "option3": null,
           "created_at": "2025-09-26T15:14:52+01:00",
-          "updated_at": "2025-09-26T15:24:06+01:00",
+          "updated_at": "2025-09-26T16:14:45+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -49024,8 +49024,8 @@
           "weight": 30.0,
           "weight_unit": "g",
           "inventory_item_id": 53656024121686,
-          "inventory_quantity": 18719,
-          "old_inventory_quantity": 18719,
+          "inventory_quantity": 12313,
+          "old_inventory_quantity": 12313,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51417504383318",
           "image_id": 67145371681110
         },
@@ -50059,8 +50059,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649232726",
       "variants": [
         {
-          "product_id": 9792649232726,
           "id": 51201111458134,
+          "product_id": 9792649232726,
           "title": "Yellow",
           "price": "15.99",
           "position": 1,
@@ -50087,8 +50087,8 @@
           "image_id": 66252996182358
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111490902,
+          "product_id": 9792649232726,
           "title": "Blue",
           "price": "15.99",
           "position": 2,
@@ -50115,8 +50115,8 @@
           "image_id": 66252996215126
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111523670,
+          "product_id": 9792649232726,
           "title": "Apricot",
           "price": "15.99",
           "position": 3,
@@ -50143,8 +50143,8 @@
           "image_id": 66252996247894
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111556438,
+          "product_id": 9792649232726,
           "title": "Coffee",
           "price": "15.99",
           "position": 4,
@@ -50171,8 +50171,8 @@
           "image_id": 66252996280662
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111589206,
+          "product_id": 9792649232726,
           "title": "Dark Gray",
           "price": "15.99",
           "position": 5,
@@ -50199,8 +50199,8 @@
           "image_id": 66252996313430
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111621974,
+          "product_id": 9792649232726,
           "title": "Light Pink Muted",
           "price": "15.99",
           "position": 6,
@@ -50229,8 +50229,8 @@
       ],
       "options": [
         {
-          "product_id": 9792649232726,
           "id": 12642096316758,
+          "product_id": 9792649232726,
           "name": "Color",
           "position": 1,
           "values": [

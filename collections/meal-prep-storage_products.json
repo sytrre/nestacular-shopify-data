@@ -4,7 +4,7 @@
     "handle": "meal-prep-storage",
     "title": "Meal Prep & Storage",
     "body_html": "<p>Make healthy, homemade baby food with ease. Our curated collection of meal prep and food storage solutions has everything you need to prepare, portion, and preserve nutritious meals for your little one. From all-in-one blenders to freezer-safe trays, discover the tools that save you time and give you peace of mind.</p>",
-    "products_count": 16
+    "products_count": 17
   },
   "products": [
     {
@@ -3294,6 +3294,233 @@
       }
     },
     {
+      "id": 9847028875606,
+      "title": "SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children & Toddlers",
+      "body_html": "<p>SafeRide Car Baby Safety Seat Tray combines smart space-saving design with durable construction to create the perfect travel accessory for modern families. This thoughtfully engineered tray provides a secure and convenient surface for eating, playing, or storing essentials during car rides, ensuring comfort and organization for both parents and children.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317384036.jpg?v=1758899460\" alt=\"SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Durable construction ensures stability and long-lasting daily use during car travel</li>\n<li>Space-saving small table design fits seamlessly onto most child car safety seats</li>\n<li>Built-in storage compartments keep snacks, toys, and essentials within easy reach</li>\n<li>Smooth, easy-clean surface makes post-travel clean-up quick and effortless</li>\n<li>Lightweight and portable for convenient installation and removal</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317383997.jpg?v=1758899463\" alt=\"SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Securely attach tray to the child’s car safety seat using the provided straps or locking system</li>\n<li>Place snacks, toys, or bottles in the storage compartments for easy access</li>\n<li>Ensure tray is firmly locked and does not interfere with seatbelt or harness safety</li>\n<li>Wipe clean after use with a damp cloth or baby-safe wipes</li>\n<li>Detach and store compactly when not in use</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317384004.jpg?v=1758899457\" alt=\"SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Premium, durable plastic with reinforced edges</li>\n<li>Dimensions: 42x30x6cm (approximate)</li>\n<li>Style: Compact car tray with integrated storage design</li>\n<li>Colors: Classic Black, Sky Blue, and Rose Pink</li>\n<li>Suitable for: Toddlers and young children during car travel</li>\n<li>Package Includes: 1 complete car baby safety seat tray with storage compartments</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317384010.jpg?v=1758899455\" alt=\"SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children &amp; Toddlers\" style=\"float: none;\"></div>\n<h3>Why Choose This Tray</h3>\n<p> </p>\n<ul>\n<li> Keeps car organized by providing a dedicated eating and play surface for children</li>\n<li>Durable build withstands daily travel and long-distance trips</li>\n<li>Convenient storage eliminates clutter from toys, snacks, and accessories</li>\n<li>Travel-friendly design perfect for families on the go</li>\n<li>Comfort and safety combined, offering both entertainment and practicality for children</li>\n</ul>\n<p><br></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-09-26T16:10:51+01:00",
+      "handle": "saferide-car-baby-safety-seat-tray-durable-space-saving-small-table-with-storage-design-essential-travel-accessory-for-children-toddlers",
+      "updated_at": "2025-09-26T16:17:05+01:00",
+      "published_at": "2025-09-26T16:11:02+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Safety Seat, CJ",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9847028875606",
+      "variants": [
+        {
+          "id": 51418138378582,
+          "product_id": 9847028875606,
+          "title": "Blue",
+          "price": "63.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "103.95",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-26T16:11:00+01:00",
+          "updated_at": "2025-09-26T16:15:27+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 420,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE100461503CX",
+          "weight": 420.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53656697012566,
+          "inventory_quantity": 30000,
+          "old_inventory_quantity": 30000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51418138378582",
+          "image_id": 67146341613910
+        },
+        {
+          "id": 51418138411350,
+          "product_id": 9847028875606,
+          "title": "Grey",
+          "price": "63.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "103.95",
+          "option1": "Grey",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-26T16:11:00+01:00",
+          "updated_at": "2025-09-26T16:16:49+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 420,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE100461501AZ",
+          "weight": 420.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53656697045334,
+          "inventory_quantity": 30000,
+          "old_inventory_quantity": 30000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51418138411350",
+          "image_id": 67146341646678
+        },
+        {
+          "id": 51418138444118,
+          "product_id": 9847028875606,
+          "title": "Pink",
+          "price": "63.95",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "103.95",
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-26T16:11:00+01:00",
+          "updated_at": "2025-09-26T16:17:05+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 420,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE100461502BY",
+          "weight": 420.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53656697078102,
+          "inventory_quantity": 30000,
+          "old_inventory_quantity": 30000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51418138444118",
+          "image_id": 67146341679446
+        }
+      ],
+      "options": [
+        {
+          "id": 12706412396886,
+          "product_id": 9847028875606,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue",
+            "Grey",
+            "Pink"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67146340434262,
+          "alt": "SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children & Toddlers",
+          "position": 1,
+          "product_id": 9847028875606,
+          "created_at": "2025-09-26T16:10:53+01:00",
+          "updated_at": "2025-09-26T16:13:25+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67146340434262",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317384010.jpg?v=1758899455",
+          "variant_ids": []
+        },
+        {
+          "id": 67146340794710,
+          "alt": "SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children & Toddlers",
+          "position": 2,
+          "product_id": 9847028875606,
+          "created_at": "2025-09-26T16:10:54+01:00",
+          "updated_at": "2025-09-26T16:13:36+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67146340794710",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317384004.jpg?v=1758899457",
+          "variant_ids": []
+        },
+        {
+          "id": 67146341155158,
+          "alt": "SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children & Toddlers",
+          "position": 3,
+          "product_id": 9847028875606,
+          "created_at": "2025-09-26T16:10:56+01:00",
+          "updated_at": "2025-09-26T16:13:49+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67146341155158",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317384020.jpg?v=1758899459",
+          "variant_ids": []
+        },
+        {
+          "id": 67146341450070,
+          "alt": "SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children & Toddlers",
+          "position": 4,
+          "product_id": 9847028875606,
+          "created_at": "2025-09-26T16:10:58+01:00",
+          "updated_at": "2025-09-26T16:14:01+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67146341450070",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317384036.jpg?v=1758899460",
+          "variant_ids": []
+        },
+        {
+          "id": 67146341613910,
+          "alt": "SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children & Toddlers",
+          "position": 5,
+          "product_id": 9847028875606,
+          "created_at": "2025-09-26T16:11:00+01:00",
+          "updated_at": "2025-09-26T16:14:19+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67146341613910",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317384037.jpg?v=1758899463",
+          "variant_ids": [
+            51418138378582
+          ]
+        },
+        {
+          "id": 67146341646678,
+          "alt": "SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children & Toddlers",
+          "position": 6,
+          "product_id": 9847028875606,
+          "created_at": "2025-09-26T16:11:00+01:00",
+          "updated_at": "2025-09-26T16:14:29+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67146341646678",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317383997.jpg?v=1758899463",
+          "variant_ids": [
+            51418138411350
+          ]
+        },
+        {
+          "id": 67146341679446,
+          "alt": "SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children & Toddlers",
+          "position": 7,
+          "product_id": 9847028875606,
+          "created_at": "2025-09-26T16:11:00+01:00",
+          "updated_at": "2025-09-26T16:14:39+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67146341679446",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317384010_1be45339-d674-4d67-b491-9dc121db7f35.jpg?v=1758899463",
+          "variant_ids": [
+            51418138444118
+          ]
+        }
+      ],
+      "image": {
+        "id": 67146340434262,
+        "alt": "SafeRide Car Baby Safety Seat Tray – Durable, Space-Saving Small Table with Storage Design | Essential Travel Accessory for Children & Toddlers",
+        "position": 1,
+        "product_id": 9847028875606,
+        "created_at": "2025-09-26T16:10:53+01:00",
+        "updated_at": "2025-09-26T16:13:25+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67146340434262",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612317384010.jpg?v=1758899455",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9808213377366,
       "title": "Silicone Baby Bottle Brush Set with Storage Box - Food Grade Cleaning Kit",
       "body_html": "<p><br></p>\n<p>Bottol Silicone Baby Bottle Brush Set combines hygienic, durable design with a convenient storage box to create the perfect cleaning solution for modern families. This thoughtfully designed set ensures every bottle, nipple, and straw is thoroughly cleaned, keeping your baby's feeding essentials safe and ready for daily use.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/b2f31d92-dd0c-47a7-92d2-60cab3ae0518_trans.jpg?v=1757428239\" alt=\"Bottol Silicone Baby Bottle Brush Set – Special Washing Kit with Storage Box | Durable, Hygienic &amp; Space-Saving Cleaning Essentials for Infant Feeding Bottles\" style=\"float: none;\"></div>\n<h2>Complete Baby Bottle Cleaning Solution</h2>\n<p>This premium food-grade silicone brush set provides thorough cleaning for all baby feeding accessories. The soft silicone bristles effectively clean without scratching delicate bottle surfaces, while the ventilated storage box maintains hygiene between uses.</p>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Soft silicone bristles provide thorough cleaning without scratching bottles</li>\n<li>Durable construction ensures long-lasting use compared to traditional brushes</li>\n<li>Ergonomic handle offers a secure, comfortable grip during washing</li>\n<li>Multi-functional brush heads designed for bottles, nipples, and straws</li>\n<li>Ventilated storage box keeps brushes organized and hygienic between uses</li>\n<li>Quick-dry design prevents odor and bacteria build-up</li>\n</ul>\n<h3>Setup and Usage</h3>\n<ul>\n<li>Rinse brushes with warm water before first use</li>\n<li>Use bottle brush for standard and wide-neck bottles</li>\n<li>Switch to nipple or straw brush for smaller feeding accessories</li>\n<li>After washing, rinse brushes and place back into the storage box</li>\n<li>Clean brushes regularly to maintain hygiene</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f1f73088-4e3e-4570-bcce-0a2bb6d423aa_trans.jpg?v=1757428242\" alt=\"Bottol Silicone Baby Bottle Brush Set – Special Washing Kit with Storage Box | Durable, Hygienic &amp; Space-Saving Cleaning Essentials for Infant Feeding Bottles\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Premium food-grade silicone &amp; durable ABS handle</li>\n<li>Included Set: Bottle brush, nipple brush, straw brush, storage box</li>\n<li>Style: Soft bristle, ergonomic design with ventilated storage</li>\n<li>Colors: Classic White, Fresh Mint, Baby Pink</li>\n<li>Suitable for: All types of baby bottles, nipples, and feeding accessories</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/baad1f3f-9fc5-4011-9053-f638e2dd9b71_trans.jpg?v=1757428243\" alt=\"Bottol Silicone Baby Bottle Brush Set – Special Washing Kit with Storage Box | Durable, Hygienic &amp; Space-Saving Cleaning Essentials for Infant Feeding Bottles\" style=\"float: none;\"></div>\n<h3>Why Choose This Brush Set</h3>\n<p> </p>\n<ul>\n<li> Gentle yet effective cleaning for baby bottles and accessories</li>\n<li>Silicone bristles outlast traditional sponges or nylon brushes</li>\n<li>Hygienic storage box prevents mess and keeps brushes fresh</li>\n<li>Easy to clean and maintain for everyday use</li>\n<li>Compact and space-saving, perfect for modern homes</li>\n</ul>\n<p><br></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong><span style=\"color: black;\">A Nestacular Promise</span></strong></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong>At <span style=\"color: black;\">Nestacular</span>, we believe in the quality of our products, so we offer a <span style=\"color: black;\">30-day Money-Back</span> <span style=\"color: black;\">Guarantee,</span> <span style=\"color: #404040;\">no questions asked! When you purchase from us, there is</span> <span style=\"color: black;\">ZERO Risk</span> <span style=\"color: #404040;\">for you!</span></strong></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong>Congratulations!</strong></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong>You've found a hidden discount code! Use code \"TTD\" at checkout to claim an additional 10% OFF your ENTIRE order!</strong></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong><span style=\"color: black;\">Customer Support:</span></strong></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong>Email: support@nestacular.com</strong></p>",
@@ -4243,8 +4470,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 16,
-    "products_in_page": 16,
+    "total_products": 17,
+    "products_in_page": 17,
     "has_next_page": false,
     "has_previous_page": false
   }

@@ -34357,12 +34357,12 @@
       "product_type": "0",
       "created_at": "2025-09-26T15:31:29+01:00",
       "handle": "pocketfeed-silicone-baby-eating-bibs-super-soft-waterproof-saliva-food-pocket-design-essential-feeding-supplement-bibs-for-kids-toddlers",
-      "updated_at": "2025-09-26T15:36:25+01:00",
-      "published_at": null,
+      "updated_at": "2025-09-26T15:39:29+01:00",
+      "published_at": "2025-09-26T15:39:26+01:00",
       "template_suffix": null,
-      "published_scope": "web",
+      "published_scope": "global",
       "tags": "Baby Eating Bib, CJ",
-      "status": "draft",
+      "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9846900785494",
       "variants": [
         {
@@ -34377,7 +34377,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-26T15:31:41+01:00",
-          "updated_at": "2025-09-26T15:36:26+01:00",
+          "updated_at": "2025-09-26T15:36:37+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -34400,14 +34400,14 @@
           "price": "20.85",
           "position": 2,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "40.85",
           "option1": "B",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-26T15:31:41+01:00",
-          "updated_at": "2025-09-26T15:31:41+01:00",
+          "updated_at": "2025-09-26T15:37:17+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 100,
           "inventory_management": "shopify",
@@ -34428,14 +34428,14 @@
           "price": "20.95",
           "position": 3,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "40.95",
           "option1": "C",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-26T15:31:41+01:00",
-          "updated_at": "2025-09-26T15:31:41+01:00",
+          "updated_at": "2025-09-26T15:37:58+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 100,
           "inventory_management": "shopify",
@@ -34456,14 +34456,14 @@
           "price": "20.95",
           "position": 4,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "40.95",
           "option1": "D",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-26T15:31:41+01:00",
-          "updated_at": "2025-09-26T15:31:41+01:00",
+          "updated_at": "2025-09-26T15:38:35+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 100,
           "inventory_management": "shopify",
@@ -34484,14 +34484,14 @@
           "price": "20.95",
           "position": 5,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "40.95",
           "option1": "E",
           "option2": null,
           "option3": null,
           "created_at": "2025-09-26T15:31:41+01:00",
-          "updated_at": "2025-09-26T15:31:41+01:00",
+          "updated_at": "2025-09-26T15:39:14+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 100,
           "inventory_management": "shopify",
@@ -44439,8 +44439,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791245877590",
       "variants": [
         {
-          "product_id": 9791245877590,
           "id": 51195418509654,
+          "product_id": 9791245877590,
           "title": "Pink",
           "price": "36.18",
           "position": 1,
@@ -44467,8 +44467,8 @@
           "image_id": 66239095996758
         },
         {
-          "product_id": 9791245877590,
           "id": 51195418542422,
+          "product_id": 9791245877590,
           "title": "Blue",
           "price": "36.18",
           "position": 2,
@@ -44495,8 +44495,8 @@
           "image_id": 66239096029526
         },
         {
-          "product_id": 9791245877590,
           "id": 51195418575190,
+          "product_id": 9791245877590,
           "title": "Yellow",
           "price": "36.18",
           "position": 3,
@@ -44525,8 +44525,8 @@
       ],
       "options": [
         {
-          "product_id": 9791245877590,
           "id": 12640430686550,
+          "product_id": 9791245877590,
           "name": "Color",
           "position": 1,
           "values": [
@@ -46025,8 +46025,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649232726",
       "variants": [
         {
-          "product_id": 9792649232726,
           "id": 51201111458134,
+          "product_id": 9792649232726,
           "title": "Yellow",
           "price": "15.99",
           "position": 1,
@@ -46053,8 +46053,8 @@
           "image_id": 66252996182358
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111490902,
+          "product_id": 9792649232726,
           "title": "Blue",
           "price": "15.99",
           "position": 2,
@@ -46081,8 +46081,8 @@
           "image_id": 66252996215126
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111523670,
+          "product_id": 9792649232726,
           "title": "Apricot",
           "price": "15.99",
           "position": 3,
@@ -46109,8 +46109,8 @@
           "image_id": 66252996247894
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111556438,
+          "product_id": 9792649232726,
           "title": "Coffee",
           "price": "15.99",
           "position": 4,
@@ -46137,8 +46137,8 @@
           "image_id": 66252996280662
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111589206,
+          "product_id": 9792649232726,
           "title": "Dark Gray",
           "price": "15.99",
           "position": 5,
@@ -46165,8 +46165,8 @@
           "image_id": 66252996313430
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111621974,
+          "product_id": 9792649232726,
           "title": "Light Pink Muted",
           "price": "15.99",
           "position": 6,
@@ -46195,8 +46195,8 @@
       ],
       "options": [
         {
-          "product_id": 9792649232726,
           "id": 12642096316758,
+          "product_id": 9792649232726,
           "name": "Color",
           "position": 1,
           "values": [

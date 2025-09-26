@@ -2670,8 +2670,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649232726",
       "variants": [
         {
-          "product_id": 9792649232726,
           "id": 51201111458134,
+          "product_id": 9792649232726,
           "title": "Yellow",
           "price": "15.99",
           "position": 1,
@@ -2698,8 +2698,8 @@
           "image_id": 66252996182358
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111490902,
+          "product_id": 9792649232726,
           "title": "Blue",
           "price": "15.99",
           "position": 2,
@@ -2726,8 +2726,8 @@
           "image_id": 66252996215126
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111523670,
+          "product_id": 9792649232726,
           "title": "Apricot",
           "price": "15.99",
           "position": 3,
@@ -2754,8 +2754,8 @@
           "image_id": 66252996247894
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111556438,
+          "product_id": 9792649232726,
           "title": "Coffee",
           "price": "15.99",
           "position": 4,
@@ -2782,8 +2782,8 @@
           "image_id": 66252996280662
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111589206,
+          "product_id": 9792649232726,
           "title": "Dark Gray",
           "price": "15.99",
           "position": 5,
@@ -2810,8 +2810,8 @@
           "image_id": 66252996313430
         },
         {
-          "product_id": 9792649232726,
           "id": 51201111621974,
+          "product_id": 9792649232726,
           "title": "Light Pink Muted",
           "price": "15.99",
           "position": 6,
@@ -2840,8 +2840,8 @@
       ],
       "options": [
         {
-          "product_id": 9792649232726,
           "id": 12642096316758,
+          "product_id": 9792649232726,
           "name": "Color",
           "position": 1,
           "values": [
