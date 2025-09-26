@@ -13387,11 +13387,11 @@
       "product_type": "0",
       "created_at": "2025-09-26T13:34:30+01:00",
       "handle": "babytrove-baby-infant-eating-gown-waterproof-lightweight-comfortable-design-essential-feeding-protective-clothing-for-mess-free-mealtime",
-      "updated_at": "2025-09-26T14:10:04+01:00",
+      "updated_at": "2025-09-26T15:07:51+01:00",
       "published_at": "2025-09-26T13:34:41+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Adjustable baby bib, Baby Bib, Baby bibs, CJ, Waterproof baby bib",
+      "tags": "Adjustable baby bib, Baby Bib, Baby bibs, baby essentials, baby feeding accessories, CJ, easy cleanup, feeding gown, feeding protection, infant mealtime, mealtime gear, mess-free feeding, toddler bib, Waterproof baby bib, waterproof feeding bib",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9846641688918",
       "variants": [
@@ -19455,11 +19455,11 @@
       "product_type": "0",
       "created_at": "2025-09-26T12:59:32+01:00",
       "handle": "bibtray-baby-eat-dirty-mat-waterproof-baby-eating-bib-with-spill-resistant-design-essential-feeding-accessory-for-mess-free-mealtime-with-toddlers",
-      "updated_at": "2025-09-26T13:05:59+01:00",
+      "updated_at": "2025-09-26T15:07:17+01:00",
       "published_at": "2025-09-26T13:05:57+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Bib Tray Eating Mat, CJ",
+      "tags": "baby accessories, Bib Tray Eating Mat, CJ, crumb catcher, easy clean, feeding essentials, feeding mat, mealtime solution, mess free mealtime, spill resistant, toddler feeding, waterproof bib",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9846487286102",
       "variants": [
@@ -28213,11 +28213,11 @@
       "product_type": "0",
       "created_at": "2025-09-26T12:26:11+01:00",
       "handle": "bubbybud-eating-silicone-bib-soft-waterproof-easy-to-clean-design-essential-mess-free-feeding-accessory-for-babies-toddlers",
-      "updated_at": "2025-09-26T13:08:22+01:00",
+      "updated_at": "2025-09-26T15:08:03+01:00",
       "published_at": "2025-09-26T12:36:30+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "CJ",
+      "tags": "baby-essentials, CJ, easy-clean, feeding-time, mealtime, mess-free, practical-parenting, silicone-bib, soft-bib, toddler-gear, waterproof",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9846434496854",
       "variants": [
@@ -100482,8 +100482,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9815526310230",
       "variants": [
         {
-          "id": 51293360030038,
           "product_id": 9815526310230,
+          "id": 51293360030038,
           "title": "240mL grey",
           "price": "25.95",
           "position": 1,
@@ -100510,8 +100510,8 @@
           "image_id": 66595400974678
         },
         {
-          "id": 51293360062806,
           "product_id": 9815526310230,
+          "id": 51293360062806,
           "title": "180mL pink",
           "price": "24.95",
           "position": 2,
@@ -100538,8 +100538,8 @@
           "image_id": 66593639465302
         },
         {
-          "id": 51293360095574,
           "product_id": 9815526310230,
+          "id": 51293360095574,
           "title": "240mL white",
           "price": "25.95",
           "position": 3,
@@ -100566,8 +100566,8 @@
           "image_id": 66593721516374
         },
         {
-          "id": 51293360128342,
           "product_id": 9815526310230,
+          "id": 51293360128342,
           "title": "180mL white",
           "price": "24.95",
           "position": 4,
@@ -100594,8 +100594,8 @@
           "image_id": 66593721516374
         },
         {
-          "id": 51293360161110,
           "product_id": 9815526310230,
+          "id": 51293360161110,
           "title": "240mL pink",
           "price": "25.95",
           "position": 5,
@@ -100622,8 +100622,8 @@
           "image_id": 66593639465302
         },
         {
-          "id": 51293360193878,
           "product_id": 9815526310230,
+          "id": 51293360193878,
           "title": "180mL Grey",
           "price": "24.95",
           "position": 6,
@@ -100652,8 +100652,8 @@
       ],
       "options": [
         {
-          "id": 12668885172566,
           "product_id": 9815526310230,
+          "id": 12668885172566,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -101188,11 +101188,11 @@
       "product_type": "0",
       "created_at": "2025-09-26T12:10:13+01:00",
       "handle": "maternii-baby-silicone-eating-bibs-food-grade-waterproof-saliva-pocket-design-essential-maternal-child-feeding-supplies-for-toddlers",
-      "updated_at": "2025-09-26T12:19:44+01:00",
+      "updated_at": "2025-09-26T15:07:32+01:00",
       "published_at": "2025-09-26T12:19:41+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Saliva Pockets, CJ, Silicone Baby Bibs",
+      "tags": "baby essentials, baby mealtime, Baby Saliva Pockets, CJ, easy clean bib, feeding accessories, food grade silicone, maternal supplies, mess-free meals, Silicone Baby Bibs, spill proof, toddler feeding, waterproof bib",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9846415360342",
       "variants": [
@@ -102835,7 +102835,7 @@
     "current_page": 1,
     "total_pages": 2,
     "items_per_page": 250,
-    "total_items": 425,
+    "total_items": 427,
     "items_in_page": 250,
     "has_next_page": true,
     "has_previous_page": false,
