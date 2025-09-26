@@ -2605,8 +2605,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828491952470",
       "variants": [
         {
-          "product_id": 9828491952470,
           "id": 51346903695702,
+          "product_id": 9828491952470,
           "title": "Black",
           "price": "782.95",
           "position": 1,
@@ -2633,8 +2633,8 @@
           "image_id": 66939511308630
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903728470,
+          "product_id": 9828491952470,
           "title": "Cherry powder",
           "price": "782.95",
           "position": 2,
@@ -2661,8 +2661,8 @@
           "image_id": 66939511341398
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903761238,
+          "product_id": 9828491952470,
           "title": "Green",
           "price": "782.95",
           "position": 3,
@@ -2689,8 +2689,8 @@
           "image_id": 66939511374166
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903794006,
+          "product_id": 9828491952470,
           "title": "Grey",
           "price": "782.95",
           "position": 4,
@@ -2717,8 +2717,8 @@
           "image_id": 66939511406934
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903826774,
+          "product_id": 9828491952470,
           "title": "Grey blue",
           "price": "782.95",
           "position": 5,
@@ -2745,8 +2745,8 @@
           "image_id": 66939511439702
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903859542,
+          "product_id": 9828491952470,
           "title": "Grey green",
           "price": "782.95",
           "position": 6,
@@ -2773,8 +2773,8 @@
           "image_id": 66939511472470
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903892310,
+          "product_id": 9828491952470,
           "title": "Midnight blue",
           "price": "782.95",
           "position": 7,
@@ -2801,8 +2801,8 @@
           "image_id": 66939511505238
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903925078,
+          "product_id": 9828491952470,
           "title": "Princess powder",
           "price": "782.95",
           "position": 8,
@@ -2829,8 +2829,8 @@
           "image_id": 66939511538006
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903957846,
+          "product_id": 9828491952470,
           "title": "Red",
           "price": "782.95",
           "position": 9,
@@ -2857,8 +2857,8 @@
           "image_id": 66939511570774
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903990614,
+          "product_id": 9828491952470,
           "title": "Sunflower",
           "price": "782.95",
           "position": 10,
@@ -2885,8 +2885,8 @@
           "image_id": 66939511603542
         },
         {
-          "product_id": 9828491952470,
           "id": 51346904023382,
+          "product_id": 9828491952470,
           "title": "Walnut brown",
           "price": "782.95",
           "position": 11,
@@ -2913,8 +2913,8 @@
           "image_id": 66939511636310
         },
         {
-          "product_id": 9828491952470,
           "id": 51346904056150,
+          "product_id": 9828491952470,
           "title": "Water blue",
           "price": "782.95",
           "position": 12,
@@ -2941,8 +2941,8 @@
           "image_id": 66939511669078
         },
         {
-          "product_id": 9828491952470,
           "id": 51346904088918,
+          "product_id": 9828491952470,
           "title": "White",
           "price": "782.95",
           "position": 13,
@@ -2969,8 +2969,8 @@
           "image_id": 66939511701846
         },
         {
-          "product_id": 9828491952470,
           "id": 51346904121686,
+          "product_id": 9828491952470,
           "title": "Wood color",
           "price": "782.95",
           "position": 14,
@@ -2999,8 +2999,8 @@
       ],
       "options": [
         {
-          "product_id": 9828491952470,
           "id": 12684729254230,
+          "product_id": 9828491952470,
           "name": "Color",
           "position": 1,
           "values": [

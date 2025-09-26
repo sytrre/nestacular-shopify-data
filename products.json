@@ -6469,8 +6469,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9741923615062",
       "variants": [
         {
-          "product_id": 9741923615062,
           "id": 50992090317142,
+          "product_id": 9741923615062,
           "title": "4g",
           "price": "24.95",
           "position": 1,
@@ -6499,8 +6499,8 @@
       ],
       "options": [
         {
-          "product_id": 9741923615062,
           "id": 12582249824598,
+          "product_id": 9741923615062,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7262,7 +7262,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T12:47:18+01:00",
       "handle": "baahbi-baby-eating-bib-water-resistant-easy-clean-design-essential-mess-free-feeding-accessory-for-toddlers",
-      "updated_at": "2025-09-25T13:08:14+01:00",
+      "updated_at": "2025-09-26T00:47:35+01:00",
       "published_at": "2025-09-25T12:52:53+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -16492,7 +16492,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T13:02:08+01:00",
       "handle": "bebeybaby-eating-silicone-waterproof-bib-soft-durable-easy-to-clean-design-essential-mess-free-feeding-accessory-for-toddlers",
-      "updated_at": "2025-09-25T13:54:29+01:00",
+      "updated_at": "2025-09-26T01:02:32+01:00",
       "published_at": "2025-09-25T13:16:19+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -17255,8 +17255,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828491952470",
       "variants": [
         {
-          "product_id": 9828491952470,
           "id": 51346903695702,
+          "product_id": 9828491952470,
           "title": "Black",
           "price": "782.95",
           "position": 1,
@@ -17283,8 +17283,8 @@
           "image_id": 66939511308630
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903728470,
+          "product_id": 9828491952470,
           "title": "Cherry powder",
           "price": "782.95",
           "position": 2,
@@ -17311,8 +17311,8 @@
           "image_id": 66939511341398
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903761238,
+          "product_id": 9828491952470,
           "title": "Green",
           "price": "782.95",
           "position": 3,
@@ -17339,8 +17339,8 @@
           "image_id": 66939511374166
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903794006,
+          "product_id": 9828491952470,
           "title": "Grey",
           "price": "782.95",
           "position": 4,
@@ -17367,8 +17367,8 @@
           "image_id": 66939511406934
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903826774,
+          "product_id": 9828491952470,
           "title": "Grey blue",
           "price": "782.95",
           "position": 5,
@@ -17395,8 +17395,8 @@
           "image_id": 66939511439702
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903859542,
+          "product_id": 9828491952470,
           "title": "Grey green",
           "price": "782.95",
           "position": 6,
@@ -17423,8 +17423,8 @@
           "image_id": 66939511472470
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903892310,
+          "product_id": 9828491952470,
           "title": "Midnight blue",
           "price": "782.95",
           "position": 7,
@@ -17451,8 +17451,8 @@
           "image_id": 66939511505238
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903925078,
+          "product_id": 9828491952470,
           "title": "Princess powder",
           "price": "782.95",
           "position": 8,
@@ -17479,8 +17479,8 @@
           "image_id": 66939511538006
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903957846,
+          "product_id": 9828491952470,
           "title": "Red",
           "price": "782.95",
           "position": 9,
@@ -17507,8 +17507,8 @@
           "image_id": 66939511570774
         },
         {
-          "product_id": 9828491952470,
           "id": 51346903990614,
+          "product_id": 9828491952470,
           "title": "Sunflower",
           "price": "782.95",
           "position": 10,
@@ -17535,8 +17535,8 @@
           "image_id": 66939511603542
         },
         {
-          "product_id": 9828491952470,
           "id": 51346904023382,
+          "product_id": 9828491952470,
           "title": "Walnut brown",
           "price": "782.95",
           "position": 11,
@@ -17563,8 +17563,8 @@
           "image_id": 66939511636310
         },
         {
-          "product_id": 9828491952470,
           "id": 51346904056150,
+          "product_id": 9828491952470,
           "title": "Water blue",
           "price": "782.95",
           "position": 12,
@@ -17591,8 +17591,8 @@
           "image_id": 66939511669078
         },
         {
-          "product_id": 9828491952470,
           "id": 51346904088918,
+          "product_id": 9828491952470,
           "title": "White",
           "price": "782.95",
           "position": 13,
@@ -17619,8 +17619,8 @@
           "image_id": 66939511701846
         },
         {
-          "product_id": 9828491952470,
           "id": 51346904121686,
+          "product_id": 9828491952470,
           "title": "Wood color",
           "price": "782.95",
           "position": 14,
@@ -17649,8 +17649,8 @@
       ],
       "options": [
         {
-          "product_id": 9828491952470,
           "id": 12684729254230,
+          "product_id": 9828491952470,
           "name": "Color",
           "position": 1,
           "values": [
@@ -36983,7 +36983,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T13:42:44+01:00",
       "handle": "coolnest-summer-thin-baby-waterproof-eating-overalls-lightweight-mess-resistant-design-essential-feeding-protective-clothing-for-toddlers",
-      "updated_at": "2025-09-25T16:33:33+01:00",
+      "updated_at": "2025-09-26T02:03:06+01:00",
       "published_at": "2025-09-25T13:57:40+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -49132,7 +49132,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T15:59:33+01:00",
       "handle": "divibabe-baby-divided-feeding-tray-food-grade-silicone-easy-clean-portable-design-essential-mealtime-plate-for-infants-toddlers",
-      "updated_at": "2025-09-25T16:52:49+01:00",
+      "updated_at": "2025-09-26T03:59:47+01:00",
       "published_at": "2025-09-25T16:06:33+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -61970,7 +61970,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T13:24:32+01:00",
       "handle": "fruitme-baby-eating-fruit-food-supplement-feeder-safe-silicone-design-easy-grip-handle-essential-teething-weaning-accessory-for-infants-and-toddlers",
-      "updated_at": "2025-09-25T17:43:53+01:00",
+      "updated_at": "2025-09-26T01:24:45+01:00",
       "published_at": "2025-09-25T13:34:57+01:00",
       "template_suffix": null,
       "published_scope": "global",
