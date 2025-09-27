@@ -5722,7 +5722,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T14:19:37+01:00",
       "handle": "mypuffii-baby-stroller-dining-chair-cushion-soft-cotton-autumn-winter-padding-warm-comfortable-design-essential-all-season-seat-cushion-for-infants-toddlers",
-      "updated_at": "2025-09-26T22:16:38+01:00",
+      "updated_at": "2025-09-27T10:33:48+01:00",
       "published_at": "2025-09-23T14:28:24+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -12062,7 +12062,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T15:48:07+01:00",
       "handle": "nubobabe-food-grade-silicone-baby-eating-bib-waterproof-saliva-pocket-easy-clean-design-essential-mess-free-feeding-accessory-for-toddlers",
-      "updated_at": "2025-09-26T22:17:13+01:00",
+      "updated_at": "2025-09-27T10:31:49+01:00",
       "published_at": "2025-09-25T15:53:46+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -39774,8 +39774,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844669808982",
       "variants": [
         {
-          "id": 51409131995478,
           "product_id": 9844669808982,
+          "id": 51409131995478,
           "title": "Light green expression",
           "price": "20.85",
           "position": 1,
@@ -39802,8 +39802,8 @@
           "image_id": 67125226996054
         },
         {
-          "id": 51409131897174,
           "product_id": 9844669808982,
+          "id": 51409131897174,
           "title": "Azure White Bear",
           "price": "20.95",
           "position": 2,
@@ -39830,8 +39830,8 @@
           "image_id": 67125226897750
         },
         {
-          "id": 51409131929942,
           "product_id": 9844669808982,
+          "id": 51409131929942,
           "title": "Blue dinosaur",
           "price": "20.90",
           "position": 3,
@@ -39858,8 +39858,8 @@
           "image_id": 67125226930518
         },
         {
-          "id": 51409131962710,
           "product_id": 9844669808982,
+          "id": 51409131962710,
           "title": "Blue unicorn",
           "price": "20.90",
           "position": 4,
@@ -39886,8 +39886,8 @@
           "image_id": 67125226963286
         },
         {
-          "id": 51409132028246,
           "product_id": 9844669808982,
+          "id": 51409132028246,
           "title": "Light pink unicorn",
           "price": "20.90",
           "position": 5,
@@ -39914,8 +39914,8 @@
           "image_id": 67125227028822
         },
         {
-          "id": 51409132061014,
           "product_id": 9844669808982,
+          "id": 51409132061014,
           "title": "Milk coffee white bear",
           "price": "20.90",
           "position": 6,
@@ -39942,8 +39942,8 @@
           "image_id": 67125227061590
         },
         {
-          "id": 51409132093782,
           "product_id": 9844669808982,
+          "id": 51409132093782,
           "title": "Navy blue unicorn",
           "price": "20.96",
           "position": 7,
@@ -39970,8 +39970,8 @@
           "image_id": 67125227094358
         },
         {
-          "id": 51409132126550,
           "product_id": 9844669808982,
+          "id": 51409132126550,
           "title": "Orange beard",
           "price": "20.85",
           "position": 8,
@@ -39998,8 +39998,8 @@
           "image_id": 67125227127126
         },
         {
-          "id": 51409132159318,
           "product_id": 9844669808982,
+          "id": 51409132159318,
           "title": "Pink Orange Emoji",
           "price": "20.85",
           "position": 9,
@@ -40026,8 +40026,8 @@
           "image_id": 67125227159894
         },
         {
-          "id": 51409132192086,
           "product_id": 9844669808982,
+          "id": 51409132192086,
           "title": "Pink long",
           "price": "20.99",
           "position": 10,
@@ -40054,8 +40054,8 @@
           "image_id": 67125227192662
         },
         {
-          "id": 51409132224854,
           "product_id": 9844669808982,
+          "id": 51409132224854,
           "title": "Pink orange beard",
           "price": "20.85",
           "position": 11,
@@ -40082,8 +40082,8 @@
           "image_id": 67125227225430
         },
         {
-          "id": 51409132257622,
           "product_id": 9844669808982,
+          "id": 51409132257622,
           "title": "Pink white cat",
           "price": "20.87",
           "position": 12,
@@ -40110,8 +40110,8 @@
           "image_id": 67125227258198
         },
         {
-          "id": 51409132290390,
           "product_id": 9844669808982,
+          "id": 51409132290390,
           "title": "White emoji",
           "price": "20.85",
           "position": 13,
@@ -40138,8 +40138,8 @@
           "image_id": 67125227290966
         },
         {
-          "id": 51409132323158,
           "product_id": 9844669808982,
+          "id": 51409132323158,
           "title": "White panda",
           "price": "21.05",
           "position": 14,
@@ -40168,8 +40168,8 @@
       ],
       "options": [
         {
-          "id": 12703606112598,
           "product_id": 9844669808982,
+          "id": 12703606112598,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52232,7 +52232,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T15:37:17+01:00",
       "handle": "tentea-baby-eating-seat-comfortable-portable-easy-to-clean-design-essential-feeding-chair-for-infants-toddlers",
-      "updated_at": "2025-09-26T22:18:54+01:00",
+      "updated_at": "2025-09-27T10:32:49+01:00",
       "published_at": "2025-09-25T15:42:17+01:00",
       "template_suffix": null,
       "published_scope": "global",
