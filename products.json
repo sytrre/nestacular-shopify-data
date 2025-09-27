@@ -10333,7 +10333,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T15:04:15+01:00",
       "handle": "walknest-baby-dining-chair-cushion-soft-autumn-winter-padding-comfortable-warm-design-essential-seating-accessory-to-keep-babies-cozy",
-      "updated_at": "2025-09-26T22:18:31+01:00",
+      "updated_at": "2025-09-27T10:18:47+01:00",
       "published_at": "2025-09-23T15:10:32+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -10844,7 +10844,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T13:42:44+01:00",
       "handle": "coolnest-summer-thin-baby-waterproof-eating-overalls-lightweight-mess-resistant-design-essential-feeding-protective-clothing-for-toddlers",
-      "updated_at": "2025-09-26T22:15:21+01:00",
+      "updated_at": "2025-09-27T10:15:53+01:00",
       "published_at": "2025-09-25T13:57:40+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -55602,7 +55602,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T16:33:56+01:00",
       "handle": "bubuh-baby-electric-rocking-chair-gentle-coaxing-motion-with-built-in-toy-essential-soothing-entertainment-seat-for-infants",
-      "updated_at": "2025-09-26T22:14:47+01:00",
+      "updated_at": "2025-09-27T10:15:04+01:00",
       "published_at": "2025-09-22T16:43:37+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -60031,7 +60031,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T12:25:29+01:00",
       "handle": "euronest-baby-hammock-ce-safety-certified-comfortable-durable-design-best-selling-european-american-hanging-hammock-for-children",
-      "updated_at": "2025-09-26T22:19:13+01:00",
+      "updated_at": "2025-09-27T10:19:30+01:00",
       "published_at": "2025-09-25T12:32:51+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -76470,7 +76470,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T13:43:57+01:00",
       "handle": "kidflight-baby-portable-car-seat-cushion-child-safety-seat-with-seat-belt-simple-dining-chair-conversion-essential-travel-feeding-solution-for-toddlers",
-      "updated_at": "2025-09-26T22:16:12+01:00",
+      "updated_at": "2025-09-27T10:16:42+01:00",
       "published_at": "2025-09-23T13:52:53+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -76841,7 +76841,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T14:34:53+01:00",
       "handle": "kidloom-children-s-shampoo-recliner-dining-stool-foldable-baby-shampoo-chair-with-sit-lie-design-essential-multi-use-seating-washing-artifact-for-toddlers",
-      "updated_at": "2025-09-26T22:16:33+01:00",
+      "updated_at": "2025-09-27T10:16:47+01:00",
       "published_at": "2025-09-23T14:42:44+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -77503,8 +77503,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9827617177942",
       "variants": [
         {
-          "product_id": 9827617177942,
           "id": 51344464576854,
+          "product_id": 9827617177942,
           "title": "Blue",
           "price": "70.95",
           "position": 1,
@@ -77531,8 +77531,8 @@
           "image_id": 66927325348182
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464609622,
+          "product_id": 9827617177942,
           "title": "Blue set",
           "price": "92.95",
           "position": 2,
@@ -77559,8 +77559,8 @@
           "image_id": 66927325380950
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464642390,
+          "product_id": 9827617177942,
           "title": "Green",
           "price": "70.95",
           "position": 3,
@@ -77587,8 +77587,8 @@
           "image_id": 66927325413718
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464675158,
+          "product_id": 9827617177942,
           "title": "Green set",
           "price": "90.95",
           "position": 4,
@@ -77615,8 +77615,8 @@
           "image_id": 66927325446486
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464707926,
+          "product_id": 9827617177942,
           "title": "Orange",
           "price": "70.95",
           "position": 5,
@@ -77643,8 +77643,8 @@
           "image_id": 66927325479254
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464740694,
+          "product_id": 9827617177942,
           "title": "Pink",
           "price": "70.95",
           "position": 6,
@@ -77671,8 +77671,8 @@
           "image_id": 66927325512022
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464773462,
+          "product_id": 9827617177942,
           "title": "Purple set",
           "price": "90.95",
           "position": 7,
@@ -77701,8 +77701,8 @@
       ],
       "options": [
         {
-          "product_id": 9827617177942,
           "id": 12683728945494,
+          "product_id": 9827617177942,
           "name": "Color",
           "position": 1,
           "values": [
@@ -77936,7 +77936,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T16:24:28+01:00",
       "handle": "climbound-children-s-desk-and-chair-set-sturdy-construction-ergonomic-design-in-blue-essential-study-learning-furniture-for-kids",
-      "updated_at": "2025-09-26T22:18:36+01:00",
+      "updated_at": "2025-09-27T10:18:48+01:00",
       "published_at": "2025-09-22T16:28:24+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -91257,7 +91257,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T12:22:27+01:00",
       "handle": "lugbag-sit-on-children-s-travel-folding-chair-portable-safety-binding-design-with-integrated-luggage-seat-essential-travel-artifact-seating-solution-for-kids",
-      "updated_at": "2025-09-26T22:19:14+01:00",
+      "updated_at": "2025-09-27T10:19:41+01:00",
       "published_at": "2025-09-23T12:26:35+01:00",
       "template_suffix": null,
       "published_scope": "global",

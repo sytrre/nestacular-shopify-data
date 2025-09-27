@@ -2256,7 +2256,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T16:33:56+01:00",
       "handle": "bubuh-baby-electric-rocking-chair-gentle-coaxing-motion-with-built-in-toy-essential-soothing-entertainment-seat-for-infants",
-      "updated_at": "2025-09-26T22:14:47+01:00",
+      "updated_at": "2025-09-27T10:15:04+01:00",
       "published_at": "2025-09-22T16:43:37+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -4569,7 +4569,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T14:34:53+01:00",
       "handle": "kidloom-children-s-shampoo-recliner-dining-stool-foldable-baby-shampoo-chair-with-sit-lie-design-essential-multi-use-seating-washing-artifact-for-toddlers",
-      "updated_at": "2025-09-26T22:16:33+01:00",
+      "updated_at": "2025-09-27T10:16:47+01:00",
       "published_at": "2025-09-23T14:42:44+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -4898,8 +4898,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9827617177942",
       "variants": [
         {
-          "product_id": 9827617177942,
           "id": 51344464576854,
+          "product_id": 9827617177942,
           "title": "Blue",
           "price": "70.95",
           "position": 1,
@@ -4926,8 +4926,8 @@
           "image_id": 66927325348182
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464609622,
+          "product_id": 9827617177942,
           "title": "Blue set",
           "price": "92.95",
           "position": 2,
@@ -4954,8 +4954,8 @@
           "image_id": 66927325380950
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464642390,
+          "product_id": 9827617177942,
           "title": "Green",
           "price": "70.95",
           "position": 3,
@@ -4982,8 +4982,8 @@
           "image_id": 66927325413718
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464675158,
+          "product_id": 9827617177942,
           "title": "Green set",
           "price": "90.95",
           "position": 4,
@@ -5010,8 +5010,8 @@
           "image_id": 66927325446486
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464707926,
+          "product_id": 9827617177942,
           "title": "Orange",
           "price": "70.95",
           "position": 5,
@@ -5038,8 +5038,8 @@
           "image_id": 66927325479254
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464740694,
+          "product_id": 9827617177942,
           "title": "Pink",
           "price": "70.95",
           "position": 6,
@@ -5066,8 +5066,8 @@
           "image_id": 66927325512022
         },
         {
-          "product_id": 9827617177942,
           "id": 51344464773462,
+          "product_id": 9827617177942,
           "title": "Purple set",
           "price": "90.95",
           "position": 7,
@@ -5096,8 +5096,8 @@
       ],
       "options": [
         {
-          "product_id": 9827617177942,
           "id": 12683728945494,
+          "product_id": 9827617177942,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7986,7 +7986,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T16:49:38+01:00",
       "handle": "ventell-baby-electric-swing-chair-led-screen-touch-control-with-bluetooth-remote-essential-smart-soothing-entertainment-seat-for-infants",
-      "updated_at": "2025-09-26T22:18:05+01:00",
+      "updated_at": "2025-09-27T10:18:20+01:00",
       "published_at": "2025-09-22T16:54:52+01:00",
       "template_suffix": null,
       "published_scope": "global",

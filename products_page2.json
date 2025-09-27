@@ -7689,7 +7689,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T13:03:28+01:00",
       "handle": "nibblix-dining-chair-overclothes-baby-eating-bib-water-dirt-resistant-food-apron-with-detachable-design-essential-mess-free-feeding-gear-for-toddlers",
-      "updated_at": "2025-09-26T22:16:58+01:00",
+      "updated_at": "2025-09-27T10:17:19+01:00",
       "published_at": "2025-09-23T13:11:49+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -13973,7 +13973,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T16:31:25+01:00",
       "handle": "nutrinest-food-grade-silicone-baby-eating-training-tableware-safe-durable-easy-clean-design-essential-food-supplement-feeding-set-for-infants-toddlers",
-      "updated_at": "2025-09-26T22:17:38+01:00",
+      "updated_at": "2025-09-27T10:18:25+01:00",
       "published_at": "2025-09-25T16:45:12+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -26345,8 +26345,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9779868041558",
       "variants": [
         {
-          "product_id": 9779868041558,
           "id": 51144188002646,
+          "product_id": 9779868041558,
           "title": "Light Pink",
           "price": "50.95",
           "position": 1,
@@ -26373,8 +26373,8 @@
           "image_id": 66130627133782
         },
         {
-          "product_id": 9779868041558,
           "id": 51144188035414,
+          "product_id": 9779868041558,
           "title": "Navy",
           "price": "50.95",
           "position": 2,
@@ -26403,8 +26403,8 @@
       ],
       "options": [
         {
-          "product_id": 9779868041558,
           "id": 12626959565142,
+          "product_id": 9779868041558,
           "name": "Color",
           "position": 1,
           "values": [
@@ -35846,7 +35846,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T16:13:37+01:00",
       "handle": "rhobbe-portable-child-seat-with-straps-foldable-frameless-chair-cover-lightweight-secure-design-essential-travel-friendly-feeding-seat-for-toddlers",
-      "updated_at": "2025-09-26T22:20:03+01:00",
+      "updated_at": "2025-09-27T10:20:27+01:00",
       "published_at": "2025-09-22T16:18:46+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -37744,7 +37744,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T13:45:52+01:00",
       "handle": "safarra-multifunctional-baby-dining-chair-soft-pu-cushion-durable-low-pp-material-construction-essential-feeding-equipment-for-infants-toddlers",
-      "updated_at": "2025-09-26T22:17:51+01:00",
+      "updated_at": "2025-09-27T10:18:08+01:00",
       "published_at": "2025-09-22T14:44:02+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -42357,8 +42357,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844926251350",
       "variants": [
         {
-          "id": 51409851351382,
           "product_id": 9844926251350,
+          "id": 51409851351382,
           "title": "Beige",
           "price": "19.45",
           "position": 1,
@@ -42385,8 +42385,8 @@
           "image_id": 67126819258710
         },
         {
-          "id": 51409851384150,
           "product_id": 9844926251350,
+          "id": 51409851384150,
           "title": "Cream colored",
           "price": "19.55",
           "position": 2,
@@ -42413,8 +42413,8 @@
           "image_id": 67126819291478
         },
         {
-          "id": 51409851416918,
           "product_id": 9844926251350,
+          "id": 51409851416918,
           "title": "Dark Blue",
           "price": "19.55",
           "position": 3,
@@ -42441,8 +42441,8 @@
           "image_id": 67126819324246
         },
         {
-          "id": 51409851449686,
           "product_id": 9844926251350,
+          "id": 51409851449686,
           "title": "Dark Purple",
           "price": "19.45",
           "position": 4,
@@ -42469,8 +42469,8 @@
           "image_id": 67126819357014
         },
         {
-          "id": 51409851482454,
           "product_id": 9844926251350,
+          "id": 51409851482454,
           "title": "Light Blue",
           "price": "19.25",
           "position": 5,
@@ -42497,8 +42497,8 @@
           "image_id": 67126819389782
         },
         {
-          "id": 51409851515222,
           "product_id": 9844926251350,
+          "id": 51409851515222,
           "title": "Light green",
           "price": "17.45",
           "position": 6,
@@ -42525,8 +42525,8 @@
           "image_id": 67126819422550
         },
         {
-          "id": 51409851547990,
           "product_id": 9844926251350,
+          "id": 51409851547990,
           "title": "Natural yellow",
           "price": "19.55",
           "position": 7,
@@ -42553,8 +42553,8 @@
           "image_id": 67126819455318
         },
         {
-          "id": 51409851580758,
           "product_id": 9844926251350,
+          "id": 51409851580758,
           "title": "Orange red1",
           "price": "19.35",
           "position": 8,
@@ -42581,8 +42581,8 @@
           "image_id": 67126819488086
         },
         {
-          "id": 51409851613526,
           "product_id": 9844926251350,
+          "id": 51409851613526,
           "title": "Pink",
           "price": "19.25",
           "position": 9,
@@ -42609,8 +42609,8 @@
           "image_id": 67126819520854
         },
         {
-          "id": 51409851646294,
           "product_id": 9844926251350,
+          "id": 51409851646294,
           "title": "Purple",
           "price": "19.25",
           "position": 10,
@@ -42637,8 +42637,8 @@
           "image_id": 67126819553622
         },
         {
-          "id": 51409851679062,
           "product_id": 9844926251350,
+          "id": 51409851679062,
           "title": "Rose Red",
           "price": "19.40",
           "position": 11,
@@ -42665,8 +42665,8 @@
           "image_id": 67126819586390
         },
         {
-          "id": 51409851711830,
           "product_id": 9844926251350,
+          "id": 51409851711830,
           "title": "Sky Blue",
           "price": "19.40",
           "position": 12,
@@ -42693,8 +42693,8 @@
           "image_id": 67126819619158
         },
         {
-          "id": 51409851744598,
           "product_id": 9844926251350,
+          "id": 51409851744598,
           "title": "Yellow",
           "price": "19.45",
           "position": 13,
@@ -42721,8 +42721,8 @@
           "image_id": 67126819651926
         },
         {
-          "id": 51409851777366,
           "product_id": 9844926251350,
+          "id": 51409851777366,
           "title": "coffee",
           "price": "19.45",
           "position": 14,
@@ -42751,8 +42751,8 @@
       ],
       "options": [
         {
-          "id": 12703888408918,
           "product_id": 9844926251350,
+          "id": 12703888408918,
           "name": "Color",
           "position": 1,
           "values": [
@@ -43124,7 +43124,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T16:51:51+01:00",
       "handle": "magical-holiday-baby-silicone-bib-food-grade-silicone-with-pocket-design-essential-waterproof-eating-bib-for-children-toddlers",
-      "updated_at": "2025-09-26T22:19:40+01:00",
+      "updated_at": "2025-09-27T10:20:06+01:00",
       "published_at": "2025-09-25T17:08:24+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -63940,8 +63940,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214585174",
       "variants": [
         {
-          "id": 51084619186518,
           "product_id": 9765214585174,
+          "id": 51084619186518,
           "title": "Balloons 1Pcs (200004870)",
           "price": "11.61",
           "position": 1,
@@ -63968,8 +63968,8 @@
           "image_id": 65933311181142
         },
         {
-          "id": 51084619219286,
           "product_id": 9765214585174,
+          "id": 51084619219286,
           "title": "7Inch Plate 8Pcs",
           "price": "18.35",
           "position": 2,
@@ -63996,8 +63996,8 @@
           "image_id": 65933311410518
         },
         {
-          "id": 51084619252054,
           "product_id": 9765214585174,
+          "id": 51084619252054,
           "title": "9Inch Plate 8Pcs",
           "price": "22.86",
           "position": 3,
@@ -64024,8 +64024,8 @@
           "image_id": 65933311443286
         },
         {
-          "id": 51084619284822,
           "product_id": 9765214585174,
+          "id": 51084619284822,
           "title": "Balloons 1Pcs (200004889)",
           "price": "11.80",
           "position": 4,
@@ -64052,8 +64052,8 @@
           "image_id": 65933311476054
         },
         {
-          "id": 51084619317590,
           "product_id": 9765214585174,
+          "id": 51084619317590,
           "title": "Backdrop 1Pcs",
           "price": "22.58",
           "position": 5,
@@ -64080,8 +64080,8 @@
           "image_id": 65933311508822
         },
         {
-          "id": 51084619350358,
           "product_id": 9765214585174,
+          "id": 51084619350358,
           "title": "Banner 1Set (175)",
           "price": "20.82",
           "position": 6,
@@ -64108,8 +64108,8 @@
           "image_id": 65933311541590
         },
         {
-          "id": 51084619383126,
           "product_id": 9765214585174,
+          "id": 51084619383126,
           "title": "Balloon 6Pcs (200006155)",
           "price": "22.10",
           "position": 7,
@@ -64136,8 +64136,8 @@
           "image_id": 65933311574358
         },
         {
-          "id": 51084619415894,
           "product_id": 9765214585174,
+          "id": 51084619415894,
           "title": "Invitation Card 10Pc",
           "price": "21.05",
           "position": 8,
@@ -64164,8 +64164,8 @@
           "image_id": 65933311607126
         },
         {
-          "id": 51084619448662,
           "product_id": 9765214585174,
+          "id": 51084619448662,
           "title": "Balloon 6Pcs (200006156)",
           "price": "21.15",
           "position": 9,
@@ -64192,8 +64192,8 @@
           "image_id": 65933311639894
         },
         {
-          "id": 51084619481430,
           "product_id": 9765214585174,
+          "id": 51084619481430,
           "title": "Balloon 6Pcs (1254)",
           "price": "21.53",
           "position": 10,
@@ -64220,8 +64220,8 @@
           "image_id": 65933311672662
         },
         {
-          "id": 51084619514198,
           "product_id": 9765214585174,
+          "id": 51084619514198,
           "title": "Set 3Pcs",
           "price": "35.85",
           "position": 11,
@@ -64248,8 +64248,8 @@
           "image_id": 65933311705430
         },
         {
-          "id": 51084619546966,
           "product_id": 9765214585174,
+          "id": 51084619546966,
           "title": "Wrapper 20Pcs",
           "price": "22.86",
           "position": 12,
@@ -64276,8 +64276,8 @@
           "image_id": 65933311738198
         },
         {
-          "id": 51084619579734,
           "product_id": 9765214585174,
+          "id": 51084619579734,
           "title": "Paper Bag 12Pcs",
           "price": "27.11",
           "position": 13,
@@ -64304,8 +64304,8 @@
           "image_id": 65933311770966
         },
         {
-          "id": 51084619612502,
           "product_id": 9765214585174,
+          "id": 51084619612502,
           "title": "Cake Wrapper 20Set",
           "price": "18.37",
           "position": 14,
@@ -64332,8 +64332,8 @@
           "image_id": 65933311803734
         },
         {
-          "id": 51084619645270,
           "product_id": 9765214585174,
+          "id": 51084619645270,
           "title": "Cake Topper 20Pcs",
           "price": "17.30",
           "position": 15,
@@ -64360,8 +64360,8 @@
           "image_id": 65933311836502
         },
         {
-          "id": 51084619678038,
           "product_id": 9765214585174,
+          "id": 51084619678038,
           "title": "Set 44Pcs",
           "price": "33.17",
           "position": 16,
@@ -64388,8 +64388,8 @@
           "image_id": 65933311869270
         },
         {
-          "id": 51084619710806,
           "product_id": 9765214585174,
+          "id": 51084619710806,
           "title": "Photo Props",
           "price": "21.00",
           "position": 17,
@@ -64416,8 +64416,8 @@
           "image_id": 65933311902038
         },
         {
-          "id": 51084619743574,
           "product_id": 9765214585174,
+          "id": 51084619743574,
           "title": "Cup 8Pcs",
           "price": "15.02",
           "position": 18,
@@ -64444,8 +64444,8 @@
           "image_id": 65933311934806
         },
         {
-          "id": 51084619776342,
           "product_id": 9765214585174,
+          "id": 51084619776342,
           "title": "Napkins 20Pcs",
           "price": "21.24",
           "position": 19,
@@ -64472,8 +64472,8 @@
           "image_id": 65933311967574
         },
         {
-          "id": 51084619809110,
           "product_id": 9765214585174,
+          "id": 51084619809110,
           "title": "Banner 1Set (350853)",
           "price": "26.18",
           "position": 20,
@@ -64500,8 +64500,8 @@
           "image_id": 65933312000342
         },
         {
-          "id": 51084619841878,
           "product_id": 9765214585174,
+          "id": 51084619841878,
           "title": "Candy Box 4Pcs (200006151)",
           "price": "27.18",
           "position": 21,
@@ -64528,8 +64528,8 @@
           "image_id": 65933312033110
         },
         {
-          "id": 51084619874646,
           "product_id": 9765214585174,
+          "id": 51084619874646,
           "title": "Photo Folder 1Set",
           "price": "18.59",
           "position": 22,
@@ -64556,8 +64556,8 @@
           "image_id": 65933312065878
         },
         {
-          "id": 51084619907414,
           "product_id": 9765214585174,
+          "id": 51084619907414,
           "title": "Candy Box 4Pcs (200006152)",
           "price": "17.44",
           "position": 23,
@@ -64584,8 +64584,8 @@
           "image_id": 65933312098646
         },
         {
-          "id": 51084619940182,
           "product_id": 9765214585174,
+          "id": 51084619940182,
           "title": "Cake Topper 12Pcs",
           "price": "11.84",
           "position": 24,
@@ -64612,8 +64612,8 @@
           "image_id": 65933312131414
         },
         {
-          "id": 51084619972950,
           "product_id": 9765214585174,
+          "id": 51084619972950,
           "title": "Balloon 6Pcs (200006153)",
           "price": "21.53",
           "position": 25,
@@ -64640,8 +64640,8 @@
           "image_id": 65933312164182
         },
         {
-          "id": 51084620005718,
           "product_id": 9765214585174,
+          "id": 51084620005718,
           "title": "Spiral Hanging",
           "price": "18.73",
           "position": 26,
@@ -64668,8 +64668,8 @@
           "image_id": 65933312196950
         },
         {
-          "id": 51084620038486,
           "product_id": 9765214585174,
+          "id": 51084620038486,
           "title": "Balloon 6Pcs (200006154)",
           "price": "21.62",
           "position": 27,
@@ -64696,8 +64696,8 @@
           "image_id": 65933312229718
         },
         {
-          "id": 51084620071254,
           "product_id": 9765214585174,
+          "id": 51084620071254,
           "title": "Set 24",
           "price": "22.81",
           "position": 28,
@@ -64724,8 +64724,8 @@
           "image_id": 65933312262486
         },
         {
-          "id": 51084620104022,
           "product_id": 9765214585174,
+          "id": 51084620104022,
           "title": "Banner 1Set (1052)",
           "price": "23.05",
           "position": 29,
@@ -64752,8 +64752,8 @@
           "image_id": 65933312295254
         },
         {
-          "id": 51084620136790,
           "product_id": 9765214585174,
+          "id": 51084620136790,
           "title": "Sticker 90Pcs",
           "price": "20.82",
           "position": 30,
@@ -64780,8 +64780,8 @@
           "image_id": 65933312328022
         },
         {
-          "id": 51084620169558,
           "product_id": 9765214585174,
+          "id": 51084620169558,
           "title": "Tablecloth 1Pcs",
           "price": "24.28",
           "position": 31,
@@ -64808,8 +64808,8 @@
           "image_id": 65933312360790
         },
         {
-          "id": 51084620202326,
           "product_id": 9765214585174,
+          "id": 51084620202326,
           "title": "Set 137Pcs",
           "price": "32.66",
           "position": 32,
@@ -64838,8 +64838,8 @@
       ],
       "options": [
         {
-          "id": 12609650131286,
           "product_id": 9765214585174,
+          "id": 12609650131286,
           "name": "Color",
           "position": 1,
           "values": [
@@ -67344,7 +67344,7 @@
       "product_type": "0",
       "created_at": "2025-09-22T16:49:38+01:00",
       "handle": "ventell-baby-electric-swing-chair-led-screen-touch-control-with-bluetooth-remote-essential-smart-soothing-entertainment-seat-for-infants",
-      "updated_at": "2025-09-26T22:18:05+01:00",
+      "updated_at": "2025-09-27T10:18:20+01:00",
       "published_at": "2025-09-22T16:54:52+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -69383,7 +69383,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T12:32:36+01:00",
       "handle": "weebam-child-safety-seat-car-dining-chair-convenient-removable-washable-design-essential-baby-safety-feeding-equipment-for-toddlers",
-      "updated_at": "2025-09-26T22:18:16+01:00",
+      "updated_at": "2025-09-27T10:18:31+01:00",
       "published_at": "2025-09-23T12:39:27+01:00",
       "template_suffix": null,
       "published_scope": "global",

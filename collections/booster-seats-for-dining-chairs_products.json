@@ -858,7 +858,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T13:43:57+01:00",
       "handle": "kidflight-baby-portable-car-seat-cushion-child-safety-seat-with-seat-belt-simple-dining-chair-conversion-essential-travel-feeding-solution-for-toddlers",
-      "updated_at": "2025-09-26T22:16:12+01:00",
+      "updated_at": "2025-09-27T10:16:42+01:00",
       "published_at": "2025-09-23T13:52:53+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1408,8 +1408,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9779868041558",
       "variants": [
         {
-          "product_id": 9779868041558,
           "id": 51144188002646,
+          "product_id": 9779868041558,
           "title": "Light Pink",
           "price": "50.95",
           "position": 1,
@@ -1436,8 +1436,8 @@
           "image_id": 66130627133782
         },
         {
-          "product_id": 9779868041558,
           "id": 51144188035414,
+          "product_id": 9779868041558,
           "title": "Navy",
           "price": "50.95",
           "position": 2,
@@ -1466,8 +1466,8 @@
       ],
       "options": [
         {
-          "product_id": 9779868041558,
           "id": 12626959565142,
+          "product_id": 9779868041558,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3772,7 +3772,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T12:32:36+01:00",
       "handle": "weebam-child-safety-seat-car-dining-chair-convenient-removable-washable-design-essential-baby-safety-feeding-equipment-for-toddlers",
-      "updated_at": "2025-09-26T22:18:16+01:00",
+      "updated_at": "2025-09-27T10:18:31+01:00",
       "published_at": "2025-09-23T12:39:27+01:00",
       "template_suffix": null,
       "published_scope": "global",
