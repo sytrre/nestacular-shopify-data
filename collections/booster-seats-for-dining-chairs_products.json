@@ -1977,7 +1977,7 @@
       "product_type": "0",
       "created_at": "2025-09-23T12:48:39+01:00",
       "handle": "todnest-baby-dining-chair-multifunctional-foldable-portable-outdoor-beach-seat-space-saving-design-essential-baby-furniture-feeding-supplies-for-toddlers",
-      "updated_at": "2025-09-26T22:20:36+01:00",
+      "updated_at": "2025-09-27T10:50:04+01:00",
       "published_at": "2025-09-23T12:57:07+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1986,8 +1986,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9840707895638",
       "variants": [
         {
-          "product_id": 9840707895638,
           "id": 51391763382614,
+          "product_id": 9840707895638,
           "title": "Green",
           "price": "72.95",
           "position": 1,
@@ -2014,8 +2014,8 @@
           "image_id": 67075411116374
         },
         {
-          "product_id": 9840707895638,
           "id": 51391763415382,
+          "product_id": 9840707895638,
           "title": "High grade grey high carbon st",
           "price": "69.95",
           "position": 2,
@@ -2042,8 +2042,8 @@
           "image_id": 67075411149142
         },
         {
-          "product_id": 9840707895638,
           "id": 51391763448150,
+          "product_id": 9840707895638,
           "title": "Light Grey",
           "price": "72.95",
           "position": 3,
@@ -2070,8 +2070,8 @@
           "image_id": 67075411181910
         },
         {
-          "product_id": 9840707895638,
           "id": 51391763480918,
+          "product_id": 9840707895638,
           "title": "Pink",
           "price": "72.95",
           "position": 4,
@@ -2098,8 +2098,8 @@
           "image_id": 67075411214678
         },
         {
-          "product_id": 9840707895638,
           "id": 51391763513686,
+          "product_id": 9840707895638,
           "title": "Yellow",
           "price": "72.95",
           "position": 5,
@@ -2128,8 +2128,8 @@
       ],
       "options": [
         {
-          "product_id": 9840707895638,
           "id": 12698754449750,
+          "product_id": 9840707895638,
           "name": "Color",
           "position": 1,
           "values": [

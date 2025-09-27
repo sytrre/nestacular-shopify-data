@@ -1480,7 +1480,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T13:24:32+01:00",
       "handle": "fruitme-baby-eating-fruit-food-supplement-feeder-safe-silicone-design-easy-grip-handle-essential-teething-weaning-accessory-for-infants-and-toddlers",
-      "updated_at": "2025-09-26T22:16:05+01:00",
+      "updated_at": "2025-09-27T12:07:09+01:00",
       "published_at": "2025-09-25T13:34:57+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -7628,8 +7628,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9810549637462",
       "variants": [
         {
-          "id": 51275169300822,
           "product_id": 9810549637462,
+          "id": 51275169300822,
           "title": "Army Green",
           "price": "28.95",
           "position": 1,
@@ -7656,8 +7656,8 @@
           "image_id": 66462634410326
         },
         {
-          "id": 51275169333590,
           "product_id": 9810549637462,
+          "id": 51275169333590,
           "title": "Beige",
           "price": "28.95",
           "position": 2,
@@ -7684,8 +7684,8 @@
           "image_id": 66462634443094
         },
         {
-          "id": 51275169366358,
           "product_id": 9810549637462,
+          "id": 51275169366358,
           "title": "Dark Blue",
           "price": "28.95",
           "position": 3,
@@ -7712,8 +7712,8 @@
           "image_id": 66462634475862
         },
         {
-          "id": 51275169399126,
           "product_id": 9810549637462,
+          "id": 51275169399126,
           "title": "Deep Pink",
           "price": "28.95",
           "position": 4,
@@ -7740,8 +7740,8 @@
           "image_id": 66462634508630
         },
         {
-          "id": 51275169431894,
           "product_id": 9810549637462,
+          "id": 51275169431894,
           "title": "Deep Purple",
           "price": "28.95",
           "position": 5,
@@ -7768,8 +7768,8 @@
           "image_id": 66462634541398
         },
         {
-          "id": 51275169464662,
           "product_id": 9810549637462,
+          "id": 51275169464662,
           "title": "Gray And Blue",
           "price": "28.95",
           "position": 6,
@@ -7796,8 +7796,8 @@
           "image_id": 66462634574166
         },
         {
-          "id": 51275169497430,
           "product_id": 9810549637462,
+          "id": 51275169497430,
           "title": "Light Purple",
           "price": "28.95",
           "position": 7,
@@ -7824,8 +7824,8 @@
           "image_id": 66462634606934
         },
         {
-          "id": 51275169530198,
           "product_id": 9810549637462,
+          "id": 51275169530198,
           "title": "Lotus Root Starch",
           "price": "28.95",
           "position": 8,
@@ -7852,8 +7852,8 @@
           "image_id": 66462634639702
         },
         {
-          "id": 51275169562966,
           "product_id": 9810549637462,
+          "id": 51275169562966,
           "title": "Marble",
           "price": "28.95",
           "position": 9,
@@ -7880,8 +7880,8 @@
           "image_id": 66462634672470
         },
         {
-          "id": 51275169595734,
           "product_id": 9810549637462,
+          "id": 51275169595734,
           "title": "Mint Green",
           "price": "28.95",
           "position": 10,
@@ -7908,8 +7908,8 @@
           "image_id": 66462634705238
         },
         {
-          "id": 51275169628502,
           "product_id": 9810549637462,
+          "id": 51275169628502,
           "title": "Orange Red",
           "price": "28.95",
           "position": 11,
@@ -7936,8 +7936,8 @@
           "image_id": 66462634738006
         },
         {
-          "id": 51275169661270,
           "product_id": 9810549637462,
+          "id": 51275169661270,
           "title": "Pink",
           "price": "28.95",
           "position": 12,
@@ -7964,8 +7964,8 @@
           "image_id": 66462634770774
         },
         {
-          "id": 51275169694038,
           "product_id": 9810549637462,
+          "id": 51275169694038,
           "title": "Smoky Gray",
           "price": "28.95",
           "position": 13,
@@ -7992,8 +7992,8 @@
           "image_id": 66462634803542
         },
         {
-          "id": 51275169726806,
           "product_id": 9810549637462,
+          "id": 51275169726806,
           "title": "Turmeric",
           "price": "28.95",
           "position": 14,
@@ -8020,8 +8020,8 @@
           "image_id": 66462634836310
         },
         {
-          "id": 51275169759574,
           "product_id": 9810549637462,
+          "id": 51275169759574,
           "title": "Walnut",
           "price": "28.95",
           "position": 15,
@@ -8048,8 +8048,8 @@
           "image_id": 66462634869078
         },
         {
-          "id": 51275169792342,
           "product_id": 9810549637462,
+          "id": 51275169792342,
           "title": "Yellow",
           "price": "28.95",
           "position": 16,
@@ -8078,8 +8078,8 @@
       ],
       "options": [
         {
-          "id": 12663301505366,
           "product_id": 9810549637462,
+          "id": 12663301505366,
           "name": "Color",
           "position": 1,
           "values": [
@@ -22065,8 +22065,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9808104325462",
       "variants": [
         {
-          "product_id": 9808104325462,
           "id": 51266056356182,
+          "product_id": 9808104325462,
           "title": "Pink",
           "price": "99.95",
           "position": 1,
@@ -22095,8 +22095,8 @@
       ],
       "options": [
         {
-          "product_id": 9808104325462,
           "id": 12660491485526,
+          "product_id": 9808104325462,
           "name": "Color",
           "position": 1,
           "values": [
@@ -42123,7 +42123,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T15:16:07+01:00",
       "handle": "shorok-silicone-baby-eating-bib-stereo-waterproof-easy-clean-design-essential-mess-free-feeding-accessory-for-toddlers",
-      "updated_at": "2025-09-26T22:21:02+01:00",
+      "updated_at": "2025-09-27T10:38:55+01:00",
       "published_at": "2025-09-25T15:30:10+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -42132,8 +42132,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844669808982",
       "variants": [
         {
-          "product_id": 9844669808982,
           "id": 51409131995478,
+          "product_id": 9844669808982,
           "title": "Light green expression",
           "price": "20.85",
           "position": 1,
@@ -42160,8 +42160,8 @@
           "image_id": 67125226996054
         },
         {
-          "product_id": 9844669808982,
           "id": 51409131897174,
+          "product_id": 9844669808982,
           "title": "Azure White Bear",
           "price": "20.95",
           "position": 2,
@@ -42188,8 +42188,8 @@
           "image_id": 67125226897750
         },
         {
-          "product_id": 9844669808982,
           "id": 51409131929942,
+          "product_id": 9844669808982,
           "title": "Blue dinosaur",
           "price": "20.90",
           "position": 3,
@@ -42216,8 +42216,8 @@
           "image_id": 67125226930518
         },
         {
-          "product_id": 9844669808982,
           "id": 51409131962710,
+          "product_id": 9844669808982,
           "title": "Blue unicorn",
           "price": "20.90",
           "position": 4,
@@ -42244,8 +42244,8 @@
           "image_id": 67125226963286
         },
         {
-          "product_id": 9844669808982,
           "id": 51409132028246,
+          "product_id": 9844669808982,
           "title": "Light pink unicorn",
           "price": "20.90",
           "position": 5,
@@ -42272,8 +42272,8 @@
           "image_id": 67125227028822
         },
         {
-          "product_id": 9844669808982,
           "id": 51409132061014,
+          "product_id": 9844669808982,
           "title": "Milk coffee white bear",
           "price": "20.90",
           "position": 6,
@@ -42300,8 +42300,8 @@
           "image_id": 67125227061590
         },
         {
-          "product_id": 9844669808982,
           "id": 51409132093782,
+          "product_id": 9844669808982,
           "title": "Navy blue unicorn",
           "price": "20.96",
           "position": 7,
@@ -42328,8 +42328,8 @@
           "image_id": 67125227094358
         },
         {
-          "product_id": 9844669808982,
           "id": 51409132126550,
+          "product_id": 9844669808982,
           "title": "Orange beard",
           "price": "20.85",
           "position": 8,
@@ -42356,8 +42356,8 @@
           "image_id": 67125227127126
         },
         {
-          "product_id": 9844669808982,
           "id": 51409132159318,
+          "product_id": 9844669808982,
           "title": "Pink Orange Emoji",
           "price": "20.85",
           "position": 9,
@@ -42384,8 +42384,8 @@
           "image_id": 67125227159894
         },
         {
-          "product_id": 9844669808982,
           "id": 51409132192086,
+          "product_id": 9844669808982,
           "title": "Pink long",
           "price": "20.99",
           "position": 10,
@@ -42412,8 +42412,8 @@
           "image_id": 67125227192662
         },
         {
-          "product_id": 9844669808982,
           "id": 51409132224854,
+          "product_id": 9844669808982,
           "title": "Pink orange beard",
           "price": "20.85",
           "position": 11,
@@ -42440,8 +42440,8 @@
           "image_id": 67125227225430
         },
         {
-          "product_id": 9844669808982,
           "id": 51409132257622,
+          "product_id": 9844669808982,
           "title": "Pink white cat",
           "price": "20.87",
           "position": 12,
@@ -42468,8 +42468,8 @@
           "image_id": 67125227258198
         },
         {
-          "product_id": 9844669808982,
           "id": 51409132290390,
+          "product_id": 9844669808982,
           "title": "White emoji",
           "price": "20.85",
           "position": 13,
@@ -42496,8 +42496,8 @@
           "image_id": 67125227290966
         },
         {
-          "product_id": 9844669808982,
           "id": 51409132323158,
+          "product_id": 9844669808982,
           "title": "White panda",
           "price": "21.05",
           "position": 14,
@@ -42526,8 +42526,8 @@
       ],
       "options": [
         {
-          "product_id": 9844669808982,
           "id": 12703606112598,
+          "product_id": 9844669808982,
           "name": "Color",
           "position": 1,
           "values": [
@@ -43018,7 +43018,7 @@
       "product_type": "0",
       "created_at": "2025-09-25T17:15:18+01:00",
       "handle": "tennei-baby-eating-bib-ins-wind-lightweight-super-soft-silicone-design-essential-waterproof-feeding-accessory-for-toddlers",
-      "updated_at": "2025-09-26T22:21:04+01:00",
+      "updated_at": "2025-09-27T10:21:48+01:00",
       "published_at": "2025-09-25T17:37:59+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -43027,8 +43027,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844926251350",
       "variants": [
         {
-          "product_id": 9844926251350,
           "id": 51409851351382,
+          "product_id": 9844926251350,
           "title": "Beige",
           "price": "19.45",
           "position": 1,
@@ -43055,8 +43055,8 @@
           "image_id": 67126819258710
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851384150,
+          "product_id": 9844926251350,
           "title": "Cream colored",
           "price": "19.55",
           "position": 2,
@@ -43083,8 +43083,8 @@
           "image_id": 67126819291478
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851416918,
+          "product_id": 9844926251350,
           "title": "Dark Blue",
           "price": "19.55",
           "position": 3,
@@ -43111,8 +43111,8 @@
           "image_id": 67126819324246
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851449686,
+          "product_id": 9844926251350,
           "title": "Dark Purple",
           "price": "19.45",
           "position": 4,
@@ -43139,8 +43139,8 @@
           "image_id": 67126819357014
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851482454,
+          "product_id": 9844926251350,
           "title": "Light Blue",
           "price": "19.25",
           "position": 5,
@@ -43167,8 +43167,8 @@
           "image_id": 67126819389782
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851515222,
+          "product_id": 9844926251350,
           "title": "Light green",
           "price": "17.45",
           "position": 6,
@@ -43195,8 +43195,8 @@
           "image_id": 67126819422550
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851547990,
+          "product_id": 9844926251350,
           "title": "Natural yellow",
           "price": "19.55",
           "position": 7,
@@ -43223,8 +43223,8 @@
           "image_id": 67126819455318
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851580758,
+          "product_id": 9844926251350,
           "title": "Orange red1",
           "price": "19.35",
           "position": 8,
@@ -43251,8 +43251,8 @@
           "image_id": 67126819488086
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851613526,
+          "product_id": 9844926251350,
           "title": "Pink",
           "price": "19.25",
           "position": 9,
@@ -43279,8 +43279,8 @@
           "image_id": 67126819520854
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851646294,
+          "product_id": 9844926251350,
           "title": "Purple",
           "price": "19.25",
           "position": 10,
@@ -43307,8 +43307,8 @@
           "image_id": 67126819553622
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851679062,
+          "product_id": 9844926251350,
           "title": "Rose Red",
           "price": "19.40",
           "position": 11,
@@ -43335,8 +43335,8 @@
           "image_id": 67126819586390
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851711830,
+          "product_id": 9844926251350,
           "title": "Sky Blue",
           "price": "19.40",
           "position": 12,
@@ -43363,8 +43363,8 @@
           "image_id": 67126819619158
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851744598,
+          "product_id": 9844926251350,
           "title": "Yellow",
           "price": "19.45",
           "position": 13,
@@ -43391,8 +43391,8 @@
           "image_id": 67126819651926
         },
         {
-          "product_id": 9844926251350,
           "id": 51409851777366,
+          "product_id": 9844926251350,
           "title": "coffee",
           "price": "19.45",
           "position": 14,
@@ -43421,8 +43421,8 @@
       ],
       "options": [
         {
-          "product_id": 9844926251350,
           "id": 12703888408918,
+          "product_id": 9844926251350,
           "name": "Color",
           "position": 1,
           "values": [
