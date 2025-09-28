@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-09-28T02:20:52+01:00",
+      "updated_at": "2025-09-28T12:22:42+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -216,12 +216,19 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-09-27T15:11:21+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-28T12:22:42+01:00",
+          "summary_html": "<p>Baby-led weaning is a joyful but messy milestone, and the right bibs make all the difference. Modern waterproof bibs—made from food-grade silicone and advanced fabrics—catch spills, reduce floor mess by up to 70%, and protect clothing during every BLW stage. With options starting at just £17.16, these bibs combine safety, style, and easy cleaning to create stress-free mealtimes. From silicone pocket bibs to cotton comfort designs, parents can build a complete feeding system that supports exploration, independence, and healthy eating habits.</p>",
           "template_suffix": "article",
           "handle": "baby-led-weaning-bibs-waterproof-solutions-for-messy-mealtimes",
           "tags": "Baby-Led Weaning",
-          "admin_graphql_api_id": "gid://shopify/Article/610633122134"
+          "admin_graphql_api_id": "gid://shopify/Article/610633122134",
+          "image": {
+            "created_at": "2025-09-28T12:22:41+01:00",
+            "alt": "baby-led weaning silicone waterproof bib with deep pocket",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_4e3b4486-86d0-4e53-817a-b2703f7f82d4.jpg?v=1759058562"
+          }
         },
         {
           "id": 610623684950,
@@ -231,12 +238,19 @@
           "author": "Tayla White",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-09-26T13:23:40+01:00",
-          "summary_html": "A comprehensive guide covering Luxury Baby Feeding Gift Bundles 2025: A Craftsmanship-First Guide for Every Budget",
-          "template_suffix": null,
+          "updated_at": "2025-09-28T12:18:13+01:00",
+          "summary_html": "<p>In 2025, luxury baby feeding bundles balance safety, style, and everyday practicality. Priced between $75–$350+, they feature non-toxic, food-grade silicone essentials like suction bowls, soft spoons, catch-all bibs, and training cups. Premium sets showcase Italian-level craftsmanship, eco-conscious packaging, and gift-ready styling parents will use daily. This guide shows how to recognize quality, curate bundles by budget, and choose safe, durable, and beautifully presented baby feeding gifts.</p>",
+          "template_suffix": "article",
           "handle": "luxury-baby-feeding-gift-bundles-2025-a-craftsmanship-first-guide-for-every-budget",
           "tags": "Baby Shower & Gift Giving Guide, Guide, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/610623684950"
+          "admin_graphql_api_id": "gid://shopify/Article/610623684950",
+          "image": {
+            "created_at": "2025-09-28T12:18:12+01:00",
+            "alt": "baby-led weaning ready feeding bundle with safe materials",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_3dc3b2db-7468-447c-9bc2-eaf84122130f.jpg?v=1759058293"
+          }
         },
         {
           "id": 610593309014,
