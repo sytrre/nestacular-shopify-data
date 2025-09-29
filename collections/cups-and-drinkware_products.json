@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765169758550",
       "variants": [
         {
-          "product_id": 9765169758550,
           "id": 51084376965462,
+          "product_id": 9765169758550,
           "title": "Pink  Without Box",
           "price": "25.09",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 66262204154198
         },
         {
-          "product_id": 9765169758550,
           "id": 51084376998230,
+          "product_id": 9765169758550,
           "title": "Beige  Without Box",
           "price": "25.33",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 66262210019670
         },
         {
-          "product_id": 9765169758550,
           "id": 51084377030998,
+          "product_id": 9765169758550,
           "title": "Green Without Box",
           "price": "25.42",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 66262223454550
         },
         {
-          "product_id": 9765169758550,
           "id": 51084377063766,
+          "product_id": 9765169758550,
           "title": "Blue  Without Box",
           "price": "25.42",
           "position": 4,
@@ -138,8 +138,8 @@
       ],
       "options": [
         {
-          "product_id": 9765169758550,
           "id": 12609595507030,
+          "product_id": 9765169758550,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1136,8 +1136,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791841698134",
       "variants": [
         {
-          "product_id": 9791841698134,
           "id": 51197712302422,
+          "product_id": 9791841698134,
           "title": "A",
           "price": "25.83",
           "position": 1,
@@ -1164,8 +1164,8 @@
           "image_id": 66246002147670
         },
         {
-          "product_id": 9791841698134,
           "id": 51197712335190,
+          "product_id": 9791841698134,
           "title": "B",
           "price": "25.83",
           "position": 2,
@@ -1192,8 +1192,8 @@
           "image_id": 66246002180438
         },
         {
-          "product_id": 9791841698134,
           "id": 51197712367958,
+          "product_id": 9791841698134,
           "title": "C",
           "price": "25.83",
           "position": 3,
@@ -1220,8 +1220,8 @@
           "image_id": 66246002213206
         },
         {
-          "product_id": 9791841698134,
           "id": 51197712400726,
+          "product_id": 9791841698134,
           "title": "D",
           "price": "25.83",
           "position": 4,
@@ -1248,8 +1248,8 @@
           "image_id": 66246002245974
         },
         {
-          "product_id": 9791841698134,
           "id": 51197712433494,
+          "product_id": 9791841698134,
           "title": "E",
           "price": "25.83",
           "position": 5,
@@ -1276,8 +1276,8 @@
           "image_id": 66246002278742
         },
         {
-          "product_id": 9791841698134,
           "id": 51197712466262,
+          "product_id": 9791841698134,
           "title": "F",
           "price": "25.83",
           "position": 6,
@@ -1304,8 +1304,8 @@
           "image_id": 66246002311510
         },
         {
-          "product_id": 9791841698134,
           "id": 51197712499030,
+          "product_id": 9791841698134,
           "title": "G",
           "price": "25.83",
           "position": 7,
@@ -1332,8 +1332,8 @@
           "image_id": 66246002344278
         },
         {
-          "product_id": 9791841698134,
           "id": 51197712531798,
+          "product_id": 9791841698134,
           "title": "H",
           "price": "25.83",
           "position": 8,
@@ -1360,8 +1360,8 @@
           "image_id": 66246002377046
         },
         {
-          "product_id": 9791841698134,
           "id": 51197712564566,
+          "product_id": 9791841698134,
           "title": "I",
           "price": "25.83",
           "position": 9,
@@ -1388,8 +1388,8 @@
           "image_id": 66246002409814
         },
         {
-          "product_id": 9791841698134,
           "id": 51197712597334,
+          "product_id": 9791841698134,
           "title": "J",
           "price": "25.83",
           "position": 10,
@@ -1418,8 +1418,8 @@
       ],
       "options": [
         {
-          "product_id": 9791841698134,
           "id": 12641121403222,
+          "product_id": 9791841698134,
           "name": "style",
           "position": 1,
           "values": [

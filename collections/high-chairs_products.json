@@ -1439,8 +1439,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9794965766486",
       "variants": [
         {
-          "product_id": 9794965766486,
           "id": 51211364827478,
+          "product_id": 9794965766486,
           "title": "The Grey bear",
           "price": "102.95",
           "position": 1,
@@ -1467,8 +1467,8 @@
           "image_id": 66272409747798
         },
         {
-          "product_id": 9794965766486,
           "id": 51211364860246,
+          "product_id": 9794965766486,
           "title": "Grey single chair",
           "price": "102.95",
           "position": 2,
@@ -1497,8 +1497,8 @@
       ],
       "options": [
         {
-          "product_id": 9794965766486,
           "id": 12644954210646,
+          "product_id": 9794965766486,
           "name": "Color",
           "position": 1,
           "values": [
