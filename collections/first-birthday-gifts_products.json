@@ -14553,8 +14553,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9836898582870",
       "variants": [
         {
-          "id": 51380205486422,
           "product_id": 9836898582870,
+          "id": 51380205486422,
           "title": "Crown Mouse School Seat",
           "price": "128.95",
           "position": 1,
@@ -14581,8 +14581,8 @@
           "image_id": 67050871619926
         },
         {
-          "id": 51380205519190,
           "product_id": 9836898582870,
+          "id": 51380205519190,
           "title": "Cute elephant learning chair",
           "price": "132.95",
           "position": 2,
@@ -14609,8 +14609,8 @@
           "image_id": 67050871652694
         },
         {
-          "id": 51380205551958,
           "product_id": 9836898582870,
+          "id": 51380205551958,
           "title": "Elephant school seat",
           "price": "128.95",
           "position": 3,
@@ -14637,8 +14637,8 @@
           "image_id": 67050871685462
         },
         {
-          "id": 51380205584726,
           "product_id": 9836898582870,
+          "id": 51380205584726,
           "title": "Frog school seat",
           "price": "128.95",
           "position": 4,
@@ -14665,8 +14665,8 @@
           "image_id": 67050871718230
         },
         {
-          "id": 51380205617494,
           "product_id": 9836898582870,
+          "id": 51380205617494,
           "title": "Little Chicken School Seat",
           "price": "128.95",
           "position": 5,
@@ -14693,8 +14693,8 @@
           "image_id": 67050871750998
         },
         {
-          "id": 51380205650262,
           "product_id": 9836898582870,
+          "id": 51380205650262,
           "title": "Little cow school chair",
           "price": "130.05",
           "position": 6,
@@ -14721,8 +14721,8 @@
           "image_id": 67050871783766
         },
         {
-          "id": 51380205683030,
           "product_id": 9836898582870,
+          "id": 51380205683030,
           "title": "Pig style school seat",
           "price": "130.05",
           "position": 7,
@@ -14749,8 +14749,8 @@
           "image_id": 67050871816534
         },
         {
-          "id": 51380205715798,
           "product_id": 9836898582870,
+          "id": 51380205715798,
           "title": "Pink Rabbit School Seat",
           "price": "128.95",
           "position": 8,
@@ -14777,8 +14777,8 @@
           "image_id": 67050871849302
         },
         {
-          "id": 51380205748566,
           "product_id": 9836898582870,
+          "id": 51380205748566,
           "title": "Red Red Bull Bull Learning Cha",
           "price": "132.95",
           "position": 9,
@@ -14805,8 +14805,8 @@
           "image_id": 67050871882070
         },
         {
-          "id": 51380205781334,
           "product_id": 9836898582870,
+          "id": 51380205781334,
           "title": "Squirrel School Seat",
           "price": "128.95",
           "position": 10,
@@ -14833,8 +14833,8 @@
           "image_id": 67050871914838
         },
         {
-          "id": 51380205814102,
           "product_id": 9836898582870,
+          "id": 51380205814102,
           "title": "Unicorn School Seat",
           "price": "130.05",
           "position": 11,
@@ -14863,8 +14863,8 @@
       ],
       "options": [
         {
-          "id": 12694628008278,
           "product_id": 9836898582870,
+          "id": 12694628008278,
           "name": "Color",
           "position": 1,
           "values": [
