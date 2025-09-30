@@ -10662,8 +10662,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9841111073110",
       "variants": [
         {
-          "product_id": 9841111073110,
           "id": 51392714998102,
+          "product_id": 9841111073110,
           "title": "Blue Elephant",
           "price": "41.95",
           "position": 1,
@@ -10690,8 +10690,8 @@
           "image_id": 67078643908950
         },
         {
-          "product_id": 9841111073110,
           "id": 51392715030870,
+          "product_id": 9841111073110,
           "title": "Pink Rainbow",
           "price": "41.95",
           "position": 2,
@@ -10720,8 +10720,8 @@
       ],
       "options": [
         {
-          "product_id": 9841111073110,
           "id": 12699199635798,
+          "product_id": 9841111073110,
           "name": "Color",
           "position": 1,
           "values": [
@@ -90138,8 +90138,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791833866582",
       "variants": [
         {
-          "id": 51197685956950,
           "product_id": 9791833866582,
+          "id": 51197685956950,
           "title": "Pink",
           "price": "30.00",
           "position": 1,
@@ -90166,8 +90166,8 @@
           "image_id": null
         },
         {
-          "id": 51197685989718,
           "product_id": 9791833866582,
+          "id": 51197685989718,
           "title": "Cow color",
           "price": "30.00",
           "position": 2,
@@ -90196,8 +90196,8 @@
       ],
       "options": [
         {
-          "id": 12641112523094,
           "product_id": 9791833866582,
+          "id": 12641112523094,
           "name": "Color",
           "position": 1,
           "values": [

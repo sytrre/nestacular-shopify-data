@@ -5668,8 +5668,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791833866582",
       "variants": [
         {
-          "id": 51197685956950,
           "product_id": 9791833866582,
+          "id": 51197685956950,
           "title": "Pink",
           "price": "30.00",
           "position": 1,
@@ -5696,8 +5696,8 @@
           "image_id": null
         },
         {
-          "id": 51197685989718,
           "product_id": 9791833866582,
+          "id": 51197685989718,
           "title": "Cow color",
           "price": "30.00",
           "position": 2,
@@ -5726,8 +5726,8 @@
       ],
       "options": [
         {
-          "id": 12641112523094,
           "product_id": 9791833866582,
+          "id": 12641112523094,
           "name": "Color",
           "position": 1,
           "values": [
