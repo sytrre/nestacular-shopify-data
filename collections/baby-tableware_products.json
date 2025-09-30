@@ -6852,8 +6852,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789112942934",
       "variants": [
         {
-          "product_id": 9789112942934,
           "id": 51186776310102,
+          "product_id": 9789112942934,
           "title": "Animal World / 15.5X20cm / 3PCS",
           "price": "21.35",
           "position": 1,
@@ -6880,8 +6880,8 @@
           "image_id": 66217877209430
         },
         {
-          "product_id": 9789112942934,
           "id": 51186776342870,
+          "product_id": 9789112942934,
           "title": "Blue dinosaur / 15.5X20cm / 3PCS",
           "price": "21.70",
           "position": 2,
@@ -6908,8 +6908,8 @@
           "image_id": 66217877242198
         },
         {
-          "product_id": 9789112942934,
           "id": 51186776375638,
+          "product_id": 9789112942934,
           "title": "Mother bear / 15.5X20cm / 3PCS",
           "price": "21.70",
           "position": 3,
@@ -6936,8 +6936,8 @@
           "image_id": 66217877274966
         },
         {
-          "product_id": 9789112942934,
           "id": 51186776408406,
+          "product_id": 9789112942934,
           "title": "Triangle lion / 15.5X20cm / 3PCS",
           "price": "21.70",
           "position": 4,
@@ -6966,8 +6966,8 @@
       ],
       "options": [
         {
-          "product_id": 9789112942934,
           "id": 12637825696086,
+          "product_id": 9789112942934,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6978,8 +6978,8 @@
           ]
         },
         {
-          "product_id": 9789112942934,
           "id": 12637825728854,
+          "product_id": 9789112942934,
           "name": "Child size",
           "position": 2,
           "values": [
@@ -6987,8 +6987,8 @@
           ]
         },
         {
-          "product_id": 9789112942934,
           "id": 12637825761622,
+          "product_id": 9789112942934,
           "name": "quantity",
           "position": 3,
           "values": [
