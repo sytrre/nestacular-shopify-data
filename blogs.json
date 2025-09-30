@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-09-30T12:24:29+01:00",
+      "updated_at": "2025-09-30T12:41:41+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -108,15 +108,22 @@
           "title": "High Chair Footrest Importance: Why Proper Positioning Matters",
           "created_at": "2025-09-28T01:09:50+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Tayla White",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-09-28T01:09:50+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-30T12:33:19+01:00",
+          "summary_html": "<p>Most parents overlook the importance of footrest positioning in high chairs, yet this small adjustment has a major impact on safety, posture, and eating success. Proper foot support follows the 90-90-90 rule, giving children a stable base that improves digestion, reduces choking risk, and boosts concentration during meals. Backed by pediatric occupational therapy research, this guide explains the science of foot support, how to measure and adjust footrests at each stage of growth, and which high chairs and accessories ensure optimal alignment for your child’s development.</p>",
           "template_suffix": "article",
           "handle": "high-chair-footrest-importance-why-proper-positioning-matters",
           "tags": "High Chairs",
-          "admin_graphql_api_id": "gid://shopify/Article/610635055446"
+          "admin_graphql_api_id": "gid://shopify/Article/610635055446",
+          "image": {
+            "created_at": "2025-09-30T12:32:45+01:00",
+            "alt": "adjustable wooden high chair with footrest for toddlers",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7e00736e-e900-4115-b746-2ef166cf1914.jpg?v=1759231965"
+          }
         },
         {
           "id": 610635022678,
@@ -126,12 +133,19 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-09-28T01:10:40+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-30T12:41:41+01:00",
+          "summary_html": "<p>Parents choosing between wooden and plastic high chairs face a balance of durability, safety, style, and budget. Wooden high chairs last 15–20+ years, provide heirloom quality, and blend seamlessly with home décor, while plastic high chairs excel in portability, easy cleaning, and affordability. This guide compares material lifespan, safety standards, maintenance needs, and environmental impact to help you make the best choice for your family’s lifestyle and mealtime setup.</p>",
           "template_suffix": "article",
           "handle": "wooden-vs-plastic-high-chairs-durability-safety-style-compared",
           "tags": "High Chairs",
-          "admin_graphql_api_id": "gid://shopify/Article/610635022678"
+          "admin_graphql_api_id": "gid://shopify/Article/610635022678",
+          "image": {
+            "created_at": "2025-09-30T12:41:40+01:00",
+            "alt": "high chair cleaning wooden vs plastic maintenance guide",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A2_6dec6be0-f525-4b2f-af4a-91d0a5b0150e.png?v=1759232501"
+          }
         },
         {
           "id": 610634989910,
