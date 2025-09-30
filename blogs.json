@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-09-30T12:52:54+01:00",
+      "updated_at": "2025-09-30T17:29:18+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -18,30 +18,44 @@
           "title": "High Chair Straps and Harnesses: 3-Point vs 5-Point Safety Guide",
           "created_at": "2025-09-28T14:37:01+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Tayla White",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-09-28T14:37:01+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-30T17:29:18+01:00",
+          "summary_html": "<p>High chair safety starts with the right harness system. With over 9,000 annual high chair–related injuries, choosing between a 3-point and 5-point harness is crucial for protecting your child. This guide explains the key differences, proper installation, safety standards, and when to replace straps—helping parents create a secure feeding environment at every stage.</p>",
           "template_suffix": "article",
           "handle": "high-chair-straps-and-harnesses-3-point-vs-5-point-safety-guide",
           "tags": "High Chairs",
-          "admin_graphql_api_id": "gid://shopify/Article/610637152598"
+          "admin_graphql_api_id": "gid://shopify/Article/610637152598",
+          "image": {
+            "created_at": "2025-09-30T17:28:33+01:00",
+            "alt": "closeup of high chair buckle safety mechanism",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A3_10306d00-1b52-41c4-8c43-cc59150bd26a.jpg?v=1759249714"
+          }
         },
         {
           "id": 610635219286,
           "title": "Easy to Clean High Chairs: Materials and Features That Save Time",
           "created_at": "2025-09-28T02:20:52+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Tayla White",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-09-28T02:20:52+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-30T17:29:17+01:00",
+          "summary_html": "<p>Messy mealtimes don’t have to mean hours of scrubbing. The best easy-clean high chairs use BPA-free plastics, sealed wood, and wipeable cushions to make cleanup effortless. This guide breaks down the top materials, must-have features like removable trays and dishwasher-safe parts, plus expert tips to help parents save time and maintain hygiene at every stage of mealtime.</p>",
           "template_suffix": "article",
           "handle": "easy-to-clean-high-chairs-materials-and-features-that-save-time",
           "tags": "High Chairs",
-          "admin_graphql_api_id": "gid://shopify/Article/610635219286"
+          "admin_graphql_api_id": "gid://shopify/Article/610635219286",
+          "image": {
+            "created_at": "2025-09-30T17:23:00+01:00",
+            "alt": "etachable tray high chair for baby led weaning",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A2_310ac1b0-ed93-4284-84ea-ff29e859a7d0.png?v=1759249381"
+          }
         },
         {
           "id": 610635186518,
@@ -51,42 +65,63 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-09-28T02:09:33+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-30T17:17:06+01:00",
+          "summary_html": "<p>Finding the right high chair for your kitchen island can be tricky. With counter heights ranging from 36 to 42 inches, parents need adjustable, safe, and ergonomic seating solutions that keep babies secure while encouraging family mealtime. This guide compares the best counter height high chairs, boosters, and convertible systems, complete with safety tips, space-saving options, and product recommendations for every budget.</p>",
           "template_suffix": "article",
           "handle": "high-chair-for-counter-height-solutions-for-kitchen-islands",
           "tags": "High Chairs",
-          "admin_graphql_api_id": "gid://shopify/Article/610635186518"
+          "admin_graphql_api_id": "gid://shopify/Article/610635186518",
+          "image": {
+            "created_at": "2025-09-30T17:17:05+01:00",
+            "alt": "multi-functional high chair for bar height counters",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_e024b626-7d7a-44ba-a4ba-837d16d8df46.jpg?v=1759249026"
+          }
         },
         {
           "id": 610635153750,
           "title": "Restaurant High Chair Alternatives: Portable Solutions for Dining Out",
           "created_at": "2025-09-28T02:00:00+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Tayla White",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-09-28T02:00:00+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-30T17:12:02+01:00",
+          "summary_html": "<p>Dining out with a baby or toddler doesn’t have to be stressful. This guide covers the best restaurant high chair alternatives—from portable boosters and hook-on seats to travel harnesses and compact high chairs—along with must-have feeding accessories for safe, hygienic, and enjoyable family meals on the go.</p>",
           "template_suffix": "article",
           "handle": "restaurant-high-chair-alternatives-portable-solutions-for-dining-out",
           "tags": "High Chairs",
-          "admin_graphql_api_id": "gid://shopify/Article/610635153750"
+          "admin_graphql_api_id": "gid://shopify/Article/610635153750",
+          "image": {
+            "created_at": "2025-09-30T17:11:20+01:00",
+            "alt": "lightweight booster seat strapped to dining chair",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_0f224ecb-f027-403d-8850-f8181519dad6.jpg?v=1759248681"
+          }
         },
         {
           "id": 610635120982,
           "title": "High Chair Accessories: Cushions, Toys & Trays That Make Life Easier",
           "created_at": "2025-09-28T01:48:15+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Tayla White",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-09-28T01:48:15+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-30T17:06:40+01:00",
+          "summary_html": "<p>High chair accessories make mealtimes easier, safer, and more enjoyable for both babies and parents. From cushions and detachable trays to suction toys, mats, and feeding tools, the right add-ons transform a standard high chair into a complete feeding station. This guide explores essential accessories for every stage of development, cleaning and safety tips, and budget-friendly combinations to help you create the perfect high chair setup that grows with your child.</p>",
           "template_suffix": "article",
           "handle": "high-chair-accessories-cushions-toys-trays-that-make-life-easier",
           "tags": "High Chairs",
-          "admin_graphql_api_id": "gid://shopify/Article/610635120982"
+          "admin_graphql_api_id": "gid://shopify/Article/610635120982",
+          "image": {
+            "created_at": "2025-09-30T17:05:54+01:00",
+            "alt": "comfortable high chair cushions with waterproof cover",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_d08a1010-6c53-4738-986f-7aeb6f9b69d4.jpg?v=1759248354"
+          }
         },
         {
           "id": 610635088214,
