@@ -7544,8 +7544,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9815526310230",
       "variants": [
         {
-          "product_id": 9815526310230,
           "id": 51293360030038,
+          "product_id": 9815526310230,
           "title": "240mL grey",
           "price": "25.95",
           "position": 1,
@@ -7572,8 +7572,8 @@
           "image_id": 66595400974678
         },
         {
-          "product_id": 9815526310230,
           "id": 51293360062806,
+          "product_id": 9815526310230,
           "title": "180mL pink",
           "price": "24.95",
           "position": 2,
@@ -7600,8 +7600,8 @@
           "image_id": 66593639465302
         },
         {
-          "product_id": 9815526310230,
           "id": 51293360095574,
+          "product_id": 9815526310230,
           "title": "240mL white",
           "price": "25.95",
           "position": 3,
@@ -7628,8 +7628,8 @@
           "image_id": 66593721516374
         },
         {
-          "product_id": 9815526310230,
           "id": 51293360128342,
+          "product_id": 9815526310230,
           "title": "180mL white",
           "price": "24.95",
           "position": 4,
@@ -7656,8 +7656,8 @@
           "image_id": 66593721516374
         },
         {
-          "product_id": 9815526310230,
           "id": 51293360161110,
+          "product_id": 9815526310230,
           "title": "240mL pink",
           "price": "25.95",
           "position": 5,
@@ -7684,8 +7684,8 @@
           "image_id": 66593639465302
         },
         {
-          "product_id": 9815526310230,
           "id": 51293360193878,
+          "product_id": 9815526310230,
           "title": "180mL Grey",
           "price": "24.95",
           "position": 6,
@@ -7714,8 +7714,8 @@
       ],
       "options": [
         {
-          "product_id": 9815526310230,
           "id": 12668885172566,
+          "product_id": 9815526310230,
           "name": "capacity",
           "position": 1,
           "values": [

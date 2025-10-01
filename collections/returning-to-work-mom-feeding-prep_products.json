@@ -4570,8 +4570,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9827831316822",
       "variants": [
         {
-          "product_id": 9827831316822,
           "id": 51345183179094,
+          "product_id": 9827831316822,
           "title": "Dining chair and carrying bag / Blue",
           "price": "100.95",
           "position": 1,
@@ -4598,8 +4598,8 @@
           "image_id": 66932375421270
         },
         {
-          "product_id": 9827831316822,
           "id": 51345183211862,
+          "product_id": 9827831316822,
           "title": "Dining chair and carrying bag / Coffee",
           "price": "100.95",
           "position": 2,
@@ -4626,8 +4626,8 @@
           "image_id": 66932375454038
         },
         {
-          "product_id": 9827831316822,
           "id": 51345183244630,
+          "product_id": 9827831316822,
           "title": "Dining chair and carrying bag / Pink",
           "price": "100.95",
           "position": 3,
@@ -4654,8 +4654,8 @@
           "image_id": 66932375486806
         },
         {
-          "product_id": 9827831316822,
           "id": 51345183277398,
+          "product_id": 9827831316822,
           "title": "Long Leg Dining Chair Carrying / Blue",
           "price": "106.95",
           "position": 4,
@@ -4682,8 +4682,8 @@
           "image_id": 66932375519574
         },
         {
-          "product_id": 9827831316822,
           "id": 51345183310166,
+          "product_id": 9827831316822,
           "title": "Long Leg Dining Chair Carrying / Coffee",
           "price": "106.95",
           "position": 5,
@@ -4710,8 +4710,8 @@
           "image_id": 66932375552342
         },
         {
-          "product_id": 9827831316822,
           "id": 51345183342934,
+          "product_id": 9827831316822,
           "title": "Long Leg Dining Chair Carrying / Pink",
           "price": "106.95",
           "position": 6,
@@ -4738,8 +4738,8 @@
           "image_id": 66932375585110
         },
         {
-          "product_id": 9827831316822,
           "id": 51345183375702,
+          "product_id": 9827831316822,
           "title": "Long leg dining chair / Blue",
           "price": "100.95",
           "position": 7,
@@ -4766,8 +4766,8 @@
           "image_id": 66932375617878
         },
         {
-          "product_id": 9827831316822,
           "id": 51345183408470,
+          "product_id": 9827831316822,
           "title": "Long leg dining chair / Coffee",
           "price": "100.95",
           "position": 8,
@@ -4794,8 +4794,8 @@
           "image_id": 66932375650646
         },
         {
-          "product_id": 9827831316822,
           "id": 51345183441238,
+          "product_id": 9827831316822,
           "title": "Long leg dining chair / Pink",
           "price": "100.95",
           "position": 9,
@@ -4822,8 +4822,8 @@
           "image_id": 66932375683414
         },
         {
-          "product_id": 9827831316822,
           "id": 51345183474006,
+          "product_id": 9827831316822,
           "title": "Single dining chair / Blue",
           "price": "96.95",
           "position": 10,
@@ -4850,8 +4850,8 @@
           "image_id": 66932375716182
         },
         {
-          "product_id": 9827831316822,
           "id": 51345183506774,
+          "product_id": 9827831316822,
           "title": "Single dining chair / Coffee",
           "price": "96.95",
           "position": 11,
@@ -4878,8 +4878,8 @@
           "image_id": 66932375748950
         },
         {
-          "product_id": 9827831316822,
           "id": 51345183539542,
+          "product_id": 9827831316822,
           "title": "Single dining chair / Pink",
           "price": "96.95",
           "position": 12,
@@ -4908,8 +4908,8 @@
       ],
       "options": [
         {
-          "product_id": 9827831316822,
           "id": 12683976507734,
+          "product_id": 9827831316822,
           "name": "style",
           "position": 1,
           "values": [
@@ -4920,8 +4920,8 @@
           ]
         },
         {
-          "product_id": 9827831316822,
           "id": 12683976540502,
+          "product_id": 9827831316822,
           "name": "Color",
           "position": 2,
           "values": [
