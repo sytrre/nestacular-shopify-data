@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-01T16:31:34+01:00",
+      "updated_at": "2025-10-01T17:29:59+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -21,18 +21,18 @@
           "author": "Tayla White",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-01T16:31:34+01:00",
+          "updated_at": "2025-10-01T17:26:29+01:00",
           "summary_html": "<p>High chair safety starts with the right harness system. With over 9,000 annual high chair–related injuries, choosing between a 3-point and 5-point harness is crucial for protecting your child. This guide explains the key differences, proper installation, safety standards, and when to replace straps—helping parents create a secure feeding environment at every stage.</p>",
           "template_suffix": "article",
           "handle": "high-chair-straps-and-harnesses-3-point-vs-5-point-safety-guide",
           "tags": "High Chairs",
           "admin_graphql_api_id": "gid://shopify/Article/610637152598",
           "image": {
-            "created_at": "2025-10-01T16:31:33+01:00",
+            "created_at": "2025-10-01T17:26:28+01:00",
             "alt": "closeup of high chair buckle safety mechanism",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A3_9f17fe99-a37e-4bfd-af83-0b19fc460347.jpg?v=1759332694"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A3_4b00ab28-cce0-4a77-8e68-acb7f483b89b.jpg?v=1759335989"
           }
         },
         {
@@ -373,18 +373,18 @@
           "author": "Tayla White",
           "user_id": null,
           "published_at": "2025-09-28T15:00:01+01:00",
-          "updated_at": "2025-09-28T15:00:01+01:00",
+          "updated_at": "2025-10-01T17:29:59+01:00",
           "summary_html": "<p>Introducing cutlery in baby-led weaning is a key developmental milestone that supports fine motor skills, coordination, and independent eating. This expert guide covers when and how to introduce spoons and forks, signs of readiness, and safety considerations. With age-appropriate utensils, progressive teaching techniques, and practical product recommendations, you’ll learn how to guide your baby from finger feeding to confident utensil use—without compromising the independence and exploration that BLW is built on.</p>",
           "template_suffix": "article",
           "handle": "baby-led-weaning-cutlery-when-to-introduce-spoons-and-forks",
           "tags": "Baby-Led Weaning",
           "admin_graphql_api_id": "gid://shopify/Article/610593309014",
           "image": {
-            "created_at": "2025-09-24T13:25:41+01:00",
+            "created_at": "2025-10-01T17:29:58+01:00",
             "alt": "baby led weaning cutlery introduction guide",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_5968e4da-a9d8-4e9b-b845-87ff2d128343.jpg?v=1758716742"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_faa5a09b-4d64-4aa8-84c9-b37f63abeaa9.jpg?v=1759336199"
           }
         },
         {

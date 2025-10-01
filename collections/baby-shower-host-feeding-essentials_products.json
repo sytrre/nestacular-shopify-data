@@ -3515,8 +3515,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9794051277142",
       "variants": [
         {
-          "id": 51207848362326,
           "product_id": 9794051277142,
+          "id": 51207848362326,
           "title": "Luxury gift box set",
           "price": "132.46",
           "position": 1,
@@ -3545,8 +3545,8 @@
       ],
       "options": [
         {
-          "id": 12643887677782,
           "product_id": 9794051277142,
+          "id": 12643887677782,
           "name": "style",
           "position": 1,
           "values": [
