@@ -7899,8 +7899,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776317759830",
       "variants": [
         {
-          "id": 51128679235926,
           "product_id": 9776317759830,
+          "id": 51128679235926,
           "title": "Orange",
           "price": "42.95",
           "position": 1,
@@ -7929,8 +7929,8 @@
       ],
       "options": [
         {
-          "id": 12622768144726,
           "product_id": 9776317759830,
+          "id": 12622768144726,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12012,8 +12012,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852506964310",
       "variants": [
         {
-          "id": 51440393093462,
           "product_id": 9852506964310,
+          "id": 51440393093462,
           "title": "Blue Squirrel",
           "price": "27.95",
           "position": 1,
@@ -12040,8 +12040,8 @@
           "image_id": 67225857556822
         },
         {
-          "id": 51440393126230,
           "product_id": 9852506964310,
+          "id": 51440393126230,
           "title": "Pink Hippo",
           "price": "27.95",
           "position": 2,
@@ -12068,8 +12068,8 @@
           "image_id": 67225857589590
         },
         {
-          "id": 51440393158998,
           "product_id": 9852506964310,
+          "id": 51440393158998,
           "title": "Yellow Sloth",
           "price": "27.95",
           "position": 3,
@@ -12098,8 +12098,8 @@
       ],
       "options": [
         {
-          "id": 12713039855958,
           "product_id": 9852506964310,
+          "id": 12713039855958,
           "name": "Color",
           "position": 1,
           "values": [
@@ -27282,8 +27282,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789944791382",
       "variants": [
         {
-          "id": 51190325903702,
           "product_id": 9789944791382,
+          "id": 51190325903702,
           "title": "Blue / USB",
           "price": "40.19",
           "position": 1,
@@ -27310,8 +27310,8 @@
           "image_id": 66225595842902
         },
         {
-          "id": 51190325936470,
           "product_id": 9789944791382,
+          "id": 51190325936470,
           "title": "Green / USB",
           "price": "40.19",
           "position": 2,
@@ -27340,8 +27340,8 @@
       ],
       "options": [
         {
-          "id": 12638803067222,
           "product_id": 9789944791382,
+          "id": 12638803067222,
           "name": "Color",
           "position": 1,
           "values": [
@@ -27350,8 +27350,8 @@
           ]
         },
         {
-          "id": 12638803099990,
           "product_id": 9789944791382,
+          "id": 12638803099990,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -27670,8 +27670,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9841066639702",
       "variants": [
         {
-          "id": 51392645792086,
           "product_id": 9841066639702,
+          "id": 51392645792086,
           "title": "Green",
           "price": "75.95",
           "position": 1,
@@ -27698,8 +27698,8 @@
           "image_id": 67078265471318
         },
         {
-          "id": 51392645824854,
           "product_id": 9841066639702,
+          "id": 51392645824854,
           "title": "Rose Red",
           "price": "75.95",
           "position": 2,
@@ -27728,8 +27728,8 @@
       ],
       "options": [
         {
-          "id": 12699152679254,
           "product_id": 9841066639702,
+          "id": 12699152679254,
           "name": "Color",
           "position": 1,
           "values": [

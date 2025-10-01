@@ -16764,8 +16764,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793342996822",
       "variants": [
         {
-          "id": 51204718723414,
           "product_id": 9793342996822,
+          "id": 51204718723414,
           "title": "Classic cars",
           "price": "41.47",
           "position": 1,
@@ -16792,8 +16792,8 @@
           "image_id": 66259673481558
         },
         {
-          "id": 51204718756182,
           "product_id": 9793342996822,
+          "id": 51204718756182,
           "title": "Daisy",
           "price": "41.47",
           "position": 2,
@@ -16820,8 +16820,8 @@
           "image_id": 66259673514326
         },
         {
-          "id": 51204718788950,
           "product_id": 9793342996822,
+          "id": 51204718788950,
           "title": "White letters",
           "price": "41.47",
           "position": 3,
@@ -16848,8 +16848,8 @@
           "image_id": 66259673547094
         },
         {
-          "id": 51204718821718,
           "product_id": 9793342996822,
+          "id": 51204718821718,
           "title": "White shell",
           "price": "41.47",
           "position": 4,
@@ -16878,8 +16878,8 @@
       ],
       "options": [
         {
-          "id": 12642934358358,
           "product_id": 9793342996822,
+          "id": 12642934358358,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18558,8 +18558,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852506964310",
       "variants": [
         {
-          "id": 51440393093462,
           "product_id": 9852506964310,
+          "id": 51440393093462,
           "title": "Blue Squirrel",
           "price": "27.95",
           "position": 1,
@@ -18586,8 +18586,8 @@
           "image_id": 67225857556822
         },
         {
-          "id": 51440393126230,
           "product_id": 9852506964310,
+          "id": 51440393126230,
           "title": "Pink Hippo",
           "price": "27.95",
           "position": 2,
@@ -18614,8 +18614,8 @@
           "image_id": 67225857589590
         },
         {
-          "id": 51440393158998,
           "product_id": 9852506964310,
+          "id": 51440393158998,
           "title": "Yellow Sloth",
           "price": "27.95",
           "position": 3,
@@ -18644,8 +18644,8 @@
       ],
       "options": [
         {
-          "id": 12713039855958,
           "product_id": 9852506964310,
+          "id": 12713039855958,
           "name": "Color",
           "position": 1,
           "values": [
