@@ -500,8 +500,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9607795867990",
       "variants": [
         {
-          "product_id": 9607795867990,
           "id": 50391722852694,
+          "product_id": 9607795867990,
           "title": "Blue + Grey",
           "price": "69.95",
           "position": 1,
@@ -528,8 +528,8 @@
           "image_id": 62202490028374
         },
         {
-          "product_id": 9607795867990,
           "id": 50391722754390,
+          "product_id": 9607795867990,
           "title": "Military Green + Grey",
           "price": "69.95",
           "position": 2,
@@ -556,8 +556,8 @@
           "image_id": 61993973776726
         },
         {
-          "product_id": 9607795867990,
           "id": 50391722787158,
+          "product_id": 9607795867990,
           "title": "Navy Blue + Royal Blue",
           "price": "69.95",
           "position": 3,
@@ -584,8 +584,8 @@
           "image_id": 61993973711190
         },
         {
-          "product_id": 9607795867990,
           "id": 50391722819926,
+          "product_id": 9607795867990,
           "title": "Royal Blue + Navy Blue V",
           "price": "69.95",
           "position": 4,
@@ -614,8 +614,8 @@
       ],
       "options": [
         {
-          "product_id": 9607795867990,
           "id": 12416934543702,
+          "product_id": 9607795867990,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1005,8 +1005,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9574308872534",
       "variants": [
         {
-          "product_id": 9574308872534,
           "id": 50254057668950,
+          "product_id": 9574308872534,
           "title": "8K / 3 Batteries",
           "price": "129.95",
           "position": 1,
@@ -1033,8 +1033,8 @@
           "image_id": 61471435260246
         },
         {
-          "product_id": 9574308872534,
           "id": 50254057701718,
+          "product_id": 9574308872534,
           "title": "6K / 3 Batteries",
           "price": "125.95",
           "position": 2,
@@ -1061,8 +1061,8 @@
           "image_id": 61471437128022
         },
         {
-          "product_id": 9574308872534,
           "id": 50254057734486,
+          "product_id": 9574308872534,
           "title": "4K / 2 Batteries",
           "price": "120.95",
           "position": 3,
@@ -1091,8 +1091,8 @@
       ],
       "options": [
         {
-          "product_id": 9574308872534,
           "id": 12372374913366,
+          "product_id": 9574308872534,
           "name": "Camera HD Type",
           "position": 1,
           "values": [
@@ -1102,8 +1102,8 @@
           ]
         },
         {
-          "product_id": 9574308872534,
           "id": 12372374946134,
+          "product_id": 9574308872534,
           "name": "Size",
           "position": 2,
           "values": [
@@ -3032,8 +3032,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9623932731734",
       "variants": [
         {
-          "id": 50460606038358,
           "product_id": 9623932731734,
+          "id": 50460606038358,
           "title": "Black",
           "price": "94.95",
           "position": 1,
@@ -3060,8 +3060,8 @@
           "image_id": 62474702291286
         },
         {
-          "id": 50460606071126,
           "product_id": 9623932731734,
+          "id": 50460606071126,
           "title": "Grey",
           "price": "94.95",
           "position": 2,
@@ -3088,8 +3088,8 @@
           "image_id": 62376447803734
         },
         {
-          "id": 50460606103894,
           "product_id": 9623932731734,
+          "id": 50460606103894,
           "title": "Silver",
           "price": "94.95",
           "position": 3,
@@ -3116,8 +3116,8 @@
           "image_id": 62376445706582
         },
         {
-          "id": 50460606136662,
           "product_id": 9623932731734,
+          "id": 50460606136662,
           "title": "Green",
           "price": "94.95",
           "position": 4,
@@ -3146,8 +3146,8 @@
       ],
       "options": [
         {
-          "id": 12435607224662,
           "product_id": 9623932731734,
+          "id": 12435607224662,
           "name": "Color",
           "position": 1,
           "values": [

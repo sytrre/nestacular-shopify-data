@@ -2875,8 +2875,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825836204374",
       "variants": [
         {
-          "product_id": 9825836204374,
           "id": 51339541938518,
+          "product_id": 9825836204374,
           "title": "Baiyun",
           "price": "225.95",
           "position": 1,
@@ -2903,8 +2903,8 @@
           "image_id": 66901594833238
         },
         {
-          "product_id": 9825836204374,
           "id": 51339541971286,
+          "product_id": 9825836204374,
           "title": "Blue",
           "price": "225.95",
           "position": 2,
@@ -2933,8 +2933,8 @@
       ],
       "options": [
         {
-          "product_id": 9825836204374,
           "id": 12681655157078,
+          "product_id": 9825836204374,
           "name": "Color",
           "position": 1,
           "values": [
