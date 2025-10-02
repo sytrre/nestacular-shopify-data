@@ -51292,7 +51292,7 @@
       "product_type": "0",
       "created_at": "2025-10-02T14:13:54+01:00",
       "handle": "suckbowl-childrens-fashion-straw-eating-auxiliary-suction-cup-bowl-non-slip-base-durable-design-essential-feeding-bowl-for-babies-and-toddlers",
-      "updated_at": "2025-10-02T14:18:25+01:00",
+      "updated_at": "2025-10-02T14:39:41+01:00",
       "published_at": "2025-10-02T14:18:22+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -51301,8 +51301,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9860723966294",
       "variants": [
         {
-          "product_id": 9860723966294,
           "id": 51469635584342,
+          "product_id": 9860723966294,
           "title": "Green",
           "price": "23.95",
           "position": 1,
@@ -51329,8 +51329,8 @@
           "image_id": 67300322640214
         },
         {
-          "product_id": 9860723966294,
           "id": 51469635617110,
+          "product_id": 9860723966294,
           "title": "Pink",
           "price": "23.95",
           "position": 2,
@@ -51359,8 +51359,8 @@
       ],
       "options": [
         {
-          "product_id": 9860723966294,
           "id": 12722470912342,
+          "product_id": 9860723966294,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52464,8 +52464,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776279060822",
       "variants": [
         {
-          "product_id": 9776279060822,
           "id": 51128527913302,
+          "product_id": 9776279060822,
           "title": "Lake Blue",
           "price": "12.95",
           "position": 1,
@@ -52492,8 +52492,8 @@
           "image_id": 66088488796502
         },
         {
-          "product_id": 9776279060822,
           "id": 51128527946070,
+          "product_id": 9776279060822,
           "title": "Light yellow",
           "price": "12.95",
           "position": 2,
@@ -52522,8 +52522,8 @@
       ],
       "options": [
         {
-          "product_id": 9776279060822,
           "id": 12622722531670,
+          "product_id": 9776279060822,
           "name": "Color",
           "position": 1,
           "values": [

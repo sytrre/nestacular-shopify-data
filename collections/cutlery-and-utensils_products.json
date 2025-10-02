@@ -749,8 +749,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852489957718",
       "variants": [
         {
-          "product_id": 9852489957718,
           "id": 51440346464598,
+          "product_id": 9852489957718,
           "title": "2curved spoons green",
           "price": "20.95",
           "position": 1,
@@ -777,8 +777,8 @@
           "image_id": 67225703383382
         },
         {
-          "product_id": 9852489957718,
           "id": 51440346497366,
+          "product_id": 9852489957718,
           "title": "2curved spoons orange",
           "price": "20.95",
           "position": 2,
@@ -805,8 +805,8 @@
           "image_id": 67225703416150
         },
         {
-          "product_id": 9852489957718,
           "id": 51440346530134,
+          "product_id": 9852489957718,
           "title": "Bend 1fork 1spoon green",
           "price": "20.95",
           "position": 3,
@@ -833,8 +833,8 @@
           "image_id": 67225703448918
         },
         {
-          "product_id": 9852489957718,
           "id": 51440346562902,
+          "product_id": 9852489957718,
           "title": "Bend 1fork 1spoon orange",
           "price": "20.95",
           "position": 4,
@@ -861,8 +861,8 @@
           "image_id": 67225703481686
         },
         {
-          "product_id": 9852489957718,
           "id": 51440346595670,
+          "product_id": 9852489957718,
           "title": "Blue curved 1fork 1spoon",
           "price": "20.95",
           "position": 5,
@@ -889,8 +889,8 @@
           "image_id": 67225703514454
         },
         {
-          "product_id": 9852489957718,
           "id": 51440346628438,
+          "product_id": 9852489957718,
           "title": "Pink curved 1fork and 1spoon",
           "price": "20.95",
           "position": 6,
@@ -919,8 +919,8 @@
       ],
       "options": [
         {
-          "product_id": 9852489957718,
           "id": 12713020784982,
+          "product_id": 9852489957718,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16766,8 +16766,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776279060822",
       "variants": [
         {
-          "product_id": 9776279060822,
           "id": 51128527913302,
+          "product_id": 9776279060822,
           "title": "Lake Blue",
           "price": "12.95",
           "position": 1,
@@ -16794,8 +16794,8 @@
           "image_id": 66088488796502
         },
         {
-          "product_id": 9776279060822,
           "id": 51128527946070,
+          "product_id": 9776279060822,
           "title": "Light yellow",
           "price": "12.95",
           "position": 2,
@@ -16824,8 +16824,8 @@
       ],
       "options": [
         {
-          "product_id": 9776279060822,
           "id": 12622722531670,
+          "product_id": 9776279060822,
           "name": "Color",
           "position": 1,
           "values": [
