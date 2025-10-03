@@ -22425,8 +22425,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9779824984406",
       "variants": [
         {
-          "id": 51143917928790,
           "product_id": 9779824984406,
+          "id": 51143917928790,
           "title": "Blue / One size",
           "price": "24.95",
           "position": 1,
@@ -22453,8 +22453,8 @@
           "image_id": 66130205901142
         },
         {
-          "id": 51143917961558,
           "product_id": 9779824984406,
+          "id": 51143917961558,
           "title": "Blue2pcs / One size",
           "price": "39.95",
           "position": 2,
@@ -22481,8 +22481,8 @@
           "image_id": 66130205933910
         },
         {
-          "id": 51143917994326,
           "product_id": 9779824984406,
+          "id": 51143917994326,
           "title": "Blue3pcs / onesize",
           "price": "57.95",
           "position": 3,
@@ -22509,8 +22509,8 @@
           "image_id": 66130205966678
         },
         {
-          "id": 51143918027094,
           "product_id": 9779824984406,
+          "id": 51143918027094,
           "title": "Grey2pcs / One size",
           "price": "39.95",
           "position": 4,
@@ -22537,8 +22537,8 @@
           "image_id": 66130205999446
         },
         {
-          "id": 51143918059862,
           "product_id": 9779824984406,
+          "id": 51143918059862,
           "title": "Grey / One size",
           "price": "24.95",
           "position": 5,
@@ -22565,8 +22565,8 @@
           "image_id": 66130206032214
         },
         {
-          "id": 51143918092630,
           "product_id": 9779824984406,
+          "id": 51143918092630,
           "title": "Pink / one size",
           "price": "24.95",
           "position": 6,
@@ -22593,8 +22593,8 @@
           "image_id": 66130206064982
         },
         {
-          "id": 51143918125398,
           "product_id": 9779824984406,
+          "id": 51143918125398,
           "title": "Pink2pcs / one size",
           "price": "39.95",
           "position": 7,
@@ -22621,8 +22621,8 @@
           "image_id": 66130206097750
         },
         {
-          "id": 51143918158166,
           "product_id": 9779824984406,
+          "id": 51143918158166,
           "title": "Yellow / one size",
           "price": "24.95",
           "position": 8,
@@ -22649,8 +22649,8 @@
           "image_id": 66130206130518
         },
         {
-          "id": 51143918190934,
           "product_id": 9779824984406,
+          "id": 51143918190934,
           "title": "Yellow2pcs / one size",
           "price": "39.95",
           "position": 9,
@@ -22677,8 +22677,8 @@
           "image_id": 66130206163286
         },
         {
-          "id": 51143918223702,
           "product_id": 9779824984406,
+          "id": 51143918223702,
           "title": "blue and pink / onesize",
           "price": "39.95",
           "position": 10,
@@ -22705,8 +22705,8 @@
           "image_id": 66130206196054
         },
         {
-          "id": 51143918256470,
           "product_id": 9779824984406,
+          "id": 51143918256470,
           "title": "random color3PC / onesize",
           "price": "57.95",
           "position": 11,
@@ -22735,8 +22735,8 @@
       ],
       "options": [
         {
-          "id": 12626908315990,
           "product_id": 9779824984406,
+          "id": 12626908315990,
           "name": "Color",
           "position": 1,
           "values": [
@@ -22754,8 +22754,8 @@
           ]
         },
         {
-          "id": 12626908348758,
           "product_id": 9779824984406,
+          "id": 12626908348758,
           "name": "Size",
           "position": 2,
           "values": [
@@ -53970,7 +53970,7 @@
       "product_type": "0",
       "created_at": "2025-10-02T14:13:54+01:00",
       "handle": "suckbowl-childrens-fashion-straw-eating-auxiliary-suction-cup-bowl-non-slip-base-durable-design-essential-feeding-bowl-for-babies-and-toddlers",
-      "updated_at": "2025-10-02T14:39:41+01:00",
+      "updated_at": "2025-10-03T04:29:53+01:00",
       "published_at": "2025-10-02T14:18:22+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -54946,7 +54946,7 @@
       "product_type": "0",
       "created_at": "2025-10-02T16:11:33+01:00",
       "handle": "summer-thin-childrens-pure-cotton-waterproof-short-sleeve-eating-bib-overclothes-lightweight-breathable-easy-clean-design-essential-feeding-wear-for-babies-and-toddlers",
-      "updated_at": "2025-10-02T16:50:42+01:00",
+      "updated_at": "2025-10-03T04:49:59+01:00",
       "published_at": "2025-10-02T16:50:37+01:00",
       "template_suffix": null,
       "published_scope": "global",
