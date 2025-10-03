@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776161161558",
       "variants": [
         {
-          "id": 51128266522966,
           "product_id": 9776161161558,
+          "id": 51128266522966,
           "title": "Blue",
           "price": "15.95",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 66087905231190
         },
         {
-          "id": 51128266555734,
           "product_id": 9776161161558,
+          "id": 51128266555734,
           "title": "Green",
           "price": "15.95",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 66087905263958
         },
         {
-          "id": 51128266588502,
           "product_id": 9776161161558,
+          "id": 51128266588502,
           "title": "Pink",
           "price": "15.45",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 66087905296726
         },
         {
-          "id": 51128266621270,
           "product_id": 9776161161558,
+          "id": 51128266621270,
           "title": "Yellow",
           "price": "15.95",
           "position": 4,
@@ -138,8 +138,8 @@
       ],
       "options": [
         {
-          "id": 12622599782742,
           "product_id": 9776161161558,
+          "id": 12622599782742,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5668,8 +5668,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791833866582",
       "variants": [
         {
-          "id": 51197685956950,
           "product_id": 9791833866582,
+          "id": 51197685956950,
           "title": "Pink",
           "price": "30.00",
           "position": 1,
@@ -5696,8 +5696,8 @@
           "image_id": null
         },
         {
-          "id": 51197685989718,
           "product_id": 9791833866582,
+          "id": 51197685989718,
           "title": "Cow color",
           "price": "30.00",
           "position": 2,
@@ -5726,8 +5726,8 @@
       ],
       "options": [
         {
-          "id": 12641112523094,
           "product_id": 9791833866582,
+          "id": 12641112523094,
           "name": "Color",
           "position": 1,
           "values": [
