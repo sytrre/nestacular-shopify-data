@@ -17,8 +17,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9740372803926",
       "variants": [
         {
-          "id": 50985490350422,
           "product_id": 9740372803926,
+          "id": 50985490350422,
           "title": "default",
           "price": "30.95",
           "position": 1,
@@ -47,8 +47,8 @@
       ],
       "options": [
         {
-          "id": 12580328669526,
           "product_id": 9740372803926,
+          "id": 12580328669526,
           "name": "default",
           "position": 1,
           "values": [
@@ -75376,7 +75376,7 @@
       "product_type": "0",
       "created_at": "2025-10-02T14:02:45+01:00",
       "handle": "trainee-training-for-autonomous-eating-with-a-spoon-and-fork-ergonomic-design-safe-materials-essential-self-feeding-utensils-for-babies-and-toddlers",
-      "updated_at": "2025-10-02T14:13:03+01:00",
+      "updated_at": "2025-10-03T07:54:19+01:00",
       "published_at": "2025-10-02T14:10:57+01:00",
       "template_suffix": null,
       "published_scope": "global",
