@@ -46880,8 +46880,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765170184534",
       "variants": [
         {
-          "id": 51084379750742,
           "product_id": 9765170184534,
+          "id": 51084379750742,
           "title": "Blue Bowl",
           "price": "3.59",
           "position": 1,
@@ -46908,8 +46908,8 @@
           "image_id": 65932724109654
         },
         {
-          "id": 51084379783510,
           "product_id": 9765170184534,
+          "id": 51084379783510,
           "title": "Red Bowl",
           "price": "3.63",
           "position": 2,
@@ -46936,8 +46936,8 @@
           "image_id": 65932724339030
         },
         {
-          "id": 51084379816278,
           "product_id": 9765170184534,
+          "id": 51084379816278,
           "title": "Yellow Bowl",
           "price": "3.63",
           "position": 3,
@@ -46966,8 +46966,8 @@
       ],
       "options": [
         {
-          "id": 12609595933014,
           "product_id": 9765170184534,
+          "id": 12609595933014,
           "name": "Color",
           "position": 1,
           "values": [
@@ -57089,8 +57089,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793343947094",
       "variants": [
         {
-          "product_id": 9793343947094,
           "id": 51204720394582,
+          "product_id": 9793343947094,
           "title": "Car",
           "price": "30.25",
           "position": 1,
@@ -57117,8 +57117,8 @@
           "image_id": 66259675447638
         },
         {
-          "product_id": 9793343947094,
           "id": 51204720427350,
+          "product_id": 9793343947094,
           "title": "Rainbow",
           "price": "30.25",
           "position": 2,
@@ -57145,8 +57145,8 @@
           "image_id": 66259675480406
         },
         {
-          "product_id": 9793343947094,
           "id": 51204720460118,
+          "product_id": 9793343947094,
           "title": "Orchid",
           "price": "30.25",
           "position": 3,
@@ -57173,8 +57173,8 @@
           "image_id": 66259675513174
         },
         {
-          "product_id": 9793343947094,
           "id": 51204720492886,
+          "product_id": 9793343947094,
           "title": "Shell",
           "price": "30.25",
           "position": 4,
@@ -57201,8 +57201,8 @@
           "image_id": 66259675545942
         },
         {
-          "product_id": 9793343947094,
           "id": 51204720525654,
+          "product_id": 9793343947094,
           "title": "Cherry",
           "price": "30.25",
           "position": 5,
@@ -57229,8 +57229,8 @@
           "image_id": 66259675578710
         },
         {
-          "product_id": 9793343947094,
           "id": 51204720558422,
+          "product_id": 9793343947094,
           "title": "Whale bib",
           "price": "30.00",
           "position": 6,
@@ -57259,8 +57259,8 @@
       ],
       "options": [
         {
-          "product_id": 9793343947094,
           "id": 12642935439702,
+          "product_id": 9793343947094,
           "name": "style",
           "position": 1,
           "values": [
