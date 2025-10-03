@@ -994,8 +994,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852489957718",
       "variants": [
         {
-          "id": 51440346464598,
           "product_id": 9852489957718,
+          "id": 51440346464598,
           "title": "2curved spoons green",
           "price": "20.95",
           "position": 1,
@@ -1022,8 +1022,8 @@
           "image_id": 67225703383382
         },
         {
-          "id": 51440346497366,
           "product_id": 9852489957718,
+          "id": 51440346497366,
           "title": "2curved spoons orange",
           "price": "20.95",
           "position": 2,
@@ -1050,8 +1050,8 @@
           "image_id": 67225703416150
         },
         {
-          "id": 51440346530134,
           "product_id": 9852489957718,
+          "id": 51440346530134,
           "title": "Bend 1fork 1spoon green",
           "price": "20.95",
           "position": 3,
@@ -1078,8 +1078,8 @@
           "image_id": 67225703448918
         },
         {
-          "id": 51440346562902,
           "product_id": 9852489957718,
+          "id": 51440346562902,
           "title": "Bend 1fork 1spoon orange",
           "price": "20.95",
           "position": 4,
@@ -1106,8 +1106,8 @@
           "image_id": 67225703481686
         },
         {
-          "id": 51440346595670,
           "product_id": 9852489957718,
+          "id": 51440346595670,
           "title": "Blue curved 1fork 1spoon",
           "price": "20.95",
           "position": 5,
@@ -1134,8 +1134,8 @@
           "image_id": 67225703514454
         },
         {
-          "id": 51440346628438,
           "product_id": 9852489957718,
+          "id": 51440346628438,
           "title": "Pink curved 1fork and 1spoon",
           "price": "20.95",
           "position": 6,
@@ -1164,8 +1164,8 @@
       ],
       "options": [
         {
-          "id": 12713020784982,
           "product_id": 9852489957718,
+          "id": 12713020784982,
           "name": "Color",
           "position": 1,
           "values": [
