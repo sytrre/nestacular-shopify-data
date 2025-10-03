@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9564769222998",
       "variants": [
         {
-          "id": 50218156392790,
           "product_id": 9564769222998,
+          "id": 50218156392790,
           "title": "Pink Set",
           "price": "49.95",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 61344916668758
         },
         {
-          "id": 50218156425558,
           "product_id": 9564769222998,
+          "id": 50218156425558,
           "title": "Black Set",
           "price": "49.95",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 61344916701526
         },
         {
-          "id": 50218156458326,
           "product_id": 9564769222998,
+          "id": 50218156458326,
           "title": "Blue Set",
           "price": "49.95",
           "position": 3,
@@ -110,8 +110,8 @@
       ],
       "options": [
         {
-          "id": 12361307128150,
           "product_id": 9564769222998,
+          "id": 12361307128150,
           "name": "Color",
           "position": 1,
           "values": [
