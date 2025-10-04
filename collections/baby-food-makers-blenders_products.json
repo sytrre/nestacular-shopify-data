@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9815443046742",
       "variants": [
         {
-          "product_id": 9815443046742,
           "id": 51292815917398,
+          "product_id": 9815443046742,
           "title": "WHITE / British standard 220V",
           "price": "45.95",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 66587099562326
         },
         {
-          "product_id": 9815443046742,
           "id": 51292815950166,
+          "product_id": 9815443046742,
           "title": "WHITE / American standard 110V",
           "price": "45.95",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 66587099562326
         },
         {
-          "product_id": 9815443046742,
           "id": 51292815982934,
+          "product_id": 9815443046742,
           "title": "WHITE / European standard 220V",
           "price": "45.95",
           "position": 3,
@@ -110,8 +110,8 @@
       ],
       "options": [
         {
-          "product_id": 9815443046742,
           "id": 12668782838102,
+          "product_id": 9815443046742,
           "name": "color",
           "position": 1,
           "values": [
@@ -119,8 +119,8 @@
           ]
         },
         {
-          "product_id": 9815443046742,
           "id": 12668782870870,
+          "product_id": 9815443046742,
           "name": "Model",
           "position": 2,
           "values": [
