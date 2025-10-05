@@ -4,7 +4,7 @@
     "handle": "first-stage-feeding",
     "title": "First Stage (4-6 Months)",
     "body_html": "<p><meta charset=\"utf-8\">For their very first tastes of solid food. This collection includes soft-tip spoons, small suction bowls, and easy-clean bibs perfect for the puree stage.</p>",
-    "products_count": 117
+    "products_count": 118
   },
   "products": [
     {
@@ -32448,6 +32448,189 @@
       }
     },
     {
+      "id": 9866668605782,
+      "title": "Puyree Disposable Baby Food Storage Bags - 10pcs Squeeze Pouches for Puree & Juice",
+      "body_html": "<p>Puyree Disposable Baby Food Storage Bags offer a smart and convenient way to store and serve homemade purees, juices, and baby food on the go. Designed with practicality in mind, these squeeze pouches make mealtime easy, mess-free, and perfectly portioned for growing little ones.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/533709331918.jpg?v=1759676025\" alt=\"Puyree Disposable Baby Food Storage Bags - 10pcs Squeeze Pouches for Puree &amp; Juice\" style=\"float: none;\"></div>\n<p>Smart Design Features</p>\n<ul>\n<li>10-piece set of disposable pouches for easy, hygienic storage</li>\n<li>Wide opening design allows quick filling with fruit puree, juice, or baby food</li>\n<li>Leak-proof double seal keeps food fresh and prevents spills</li>\n<li>Transparent design lets you monitor food levels easily</li>\n<li>Compact and lightweight for home use, daycare, or travel</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3842668147278.jpg?v=1759676026\" alt=\"Puyree Disposable Baby Food Storage Bags - 10pcs Squeeze Pouches for Puree &amp; Juice\" style=\"float: none;\"></div>\n<p>Setup and Usage<br><br>Fill pouch through the wide opening and securely seal to prevent leaks. Serve directly by squeezing puree or juice into your child’s feeding spoon or bowl. After use, simply dispose of the pouch for quick and hassle-free cleanup.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/0f08422e-29b8-4e94-9985-916f0e0abdfc.jpg?v=1759676030\" alt=\"Puyree Disposable Baby Food Storage Bags - 10pcs Squeeze Pouches for Puree &amp; Juice\" style=\"float: none;\"></div>\n<p>Product Specifications</p>\n<ul>\n<li>Material: Food-grade, BPA-free disposable plastic</li>\n<li>Capacity: Standard size suitable for baby food portions</li>\n<li>Style: Disposable squeeze storage pouches</li>\n<li>Suitable for: Purees, juices, and semi-solid baby foods</li>\n<li>Package: Set of 10 disposable pouches</li>\n</ul>\n<p>Why Choose This Set</p>\n<p> </p>\n<ul>\n<li> Perfect for busy parents who want portable, hygienic feeding solutions</li>\n<li>Helps organize and portion meals with ease</li>\n<li>Reduces mess during feeding times, especially when traveling</li>\n<li>Safe, food-grade materials protect your child’s health</li>\n<li>Convenient disposable design saves time on cleaning and preparation</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-10-05T15:53:39+01:00",
+      "handle": "puyree-disposable-baby-food-storage-bags-10pcs-squeeze-pouches-for-puree-juice",
+      "updated_at": "2025-10-05T16:08:25+01:00",
+      "published_at": "2025-10-05T15:58:36+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Storage Bag, CJ",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9866668605782",
+      "variants": [
+        {
+          "id": 51489946829142,
+          "product_id": 9866668605782,
+          "title": "10pcs",
+          "price": "19.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "29.95",
+          "option1": "10pcs",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-05T15:53:47+01:00",
+          "updated_at": "2025-10-05T16:08:25+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 100,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJJJTCC01102-10pcs",
+          "weight": 100.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53739981701462,
+          "inventory_quantity": 25454,
+          "old_inventory_quantity": 25454,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51489946829142",
+          "image_id": 67364508205398
+        },
+        {
+          "id": 51489946861910,
+          "product_id": 9866668605782,
+          "title": "50pcs",
+          "price": "44.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "64.95",
+          "option1": "50pcs",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-05T15:53:47+01:00",
+          "updated_at": "2025-10-05T15:58:24+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 500,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJJJTCC01102-50pcs",
+          "weight": 500.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53739981734230,
+          "inventory_quantity": 6878,
+          "old_inventory_quantity": 6878,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51489946861910",
+          "image_id": 67364508238166
+        }
+      ],
+      "options": [
+        {
+          "id": 12729139954006,
+          "product_id": 9866668605782,
+          "name": "Quantity",
+          "position": 1,
+          "values": [
+            "10pcs",
+            "50pcs"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67364507877718,
+          "alt": "Collage of children using a product, with close-up of the product in the center.",
+          "position": 1,
+          "product_id": 9866668605782,
+          "created_at": "2025-10-05T15:53:41+01:00",
+          "updated_at": "2025-10-05T15:56:17+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67364507877718",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/533709331918.jpg?v=1759676025",
+          "variant_ids": []
+        },
+        {
+          "id": 67364507943254,
+          "alt": "Clear plastic pouch with red cap and 'fresh squeezed' label on a white background",
+          "position": 2,
+          "product_id": 9866668605782,
+          "created_at": "2025-10-05T15:53:43+01:00",
+          "updated_at": "2025-10-05T15:56:23+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67364507943254",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3842668147278.jpg?v=1759676026",
+          "variant_ids": []
+        },
+        {
+          "id": 67364508041558,
+          "alt": "Set of white mesh bags with red sealing tabs on a white background",
+          "position": 3,
+          "product_id": 9866668605782,
+          "created_at": "2025-10-05T15:53:45+01:00",
+          "updated_at": "2025-10-05T15:56:30+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67364508041558",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1515776039063.jpg?v=1759676028",
+          "variant_ids": []
+        },
+        {
+          "id": 67364508172630,
+          "alt": "Clear plastic container with red lids on a white background, featuring 'fresh squeeze' branding.",
+          "position": 4,
+          "product_id": 9866668605782,
+          "created_at": "2025-10-05T15:53:46+01:00",
+          "updated_at": "2025-10-05T15:56:36+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67364508172630",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/83918736852940.jpg?v=1759676029",
+          "variant_ids": []
+        },
+        {
+          "id": 67364508205398,
+          "alt": "Clear plastic pouch with brown cap and green label on a white background, with text 'X 10PCS' in red.",
+          "position": 5,
+          "product_id": 9866668605782,
+          "created_at": "2025-10-05T15:53:47+01:00",
+          "updated_at": "2025-10-05T15:56:44+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67364508205398",
+          "width": 1920,
+          "height": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/257399132902.jpg?v=1759676031",
+          "variant_ids": [
+            51489946829142
+          ]
+        },
+        {
+          "id": 67364508238166,
+          "alt": "50 pcs pouches with orange caps on a white background",
+          "position": 6,
+          "product_id": 9866668605782,
+          "created_at": "2025-10-05T15:53:47+01:00",
+          "updated_at": "2025-10-05T15:56:51+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67364508238166",
+          "width": 669,
+          "height": 697,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/0f08422e-29b8-4e94-9985-916f0e0abdfc.jpg?v=1759676030",
+          "variant_ids": [
+            51489946861910
+          ]
+        }
+      ],
+      "image": {
+        "id": 67364507877718,
+        "alt": "Collage of children using a product, with close-up of the product in the center.",
+        "position": 1,
+        "product_id": 9866668605782,
+        "created_at": "2025-10-05T15:53:41+01:00",
+        "updated_at": "2025-10-05T15:56:17+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67364507877718",
+        "width": 1001,
+        "height": 1001,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/533709331918.jpg?v=1759676025",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9826166341974,
       "title": "RillRock Baby Rocking Chair - Adjustable Infant Bouncer Seat",
       "body_html": "<p>RillRock Baby Caring Fantastic Product Baby's Rocking Chair combines gentle soothing motion with adjustable comfort and durable construction to provide the perfect relaxation and sleeping solution for infants and toddlers. This thoughtfully designed rocking chair supports your baby's comfort while giving parents peace of mind.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/db15dab1-2aef-4571-97b8-2f9c6730a883_trans.jpg?v=1758124781\" alt=\"RillRock Baby Caring Fantastic Product Baby's Rocking Chair – Gentle Motion, Adjustable Comfort &amp; Durable Design | Essential Soothing &amp; Sleeping Chair for Infants &amp; Toddlers\" style=\"float: none;\"></div>\n<h2>Smart Design Features</h2>\n<ul>\n<li>Gentle rocking motion helps soothe infants into restful sleep</li>\n<li>Adjustable recline settings adapt to your baby's comfort needs</li>\n<li>Durable construction ensures stability and long-lasting use</li>\n<li>Lightweight, portable design makes it easy to move between rooms</li>\n<li>Soft, supportive seating keeps your baby secure and cozy</li>\n<li>Beautiful design options complement modern home décor</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a5f1b7cf-7aeb-4e75-9f68-8eb2ee30df70_trans.jpg?v=1758124788\" alt=\"RillRock Baby Caring Fantastic Product Baby's Rocking Chair – Gentle Motion, Adjustable Comfort &amp; Durable Design | Essential Soothing &amp; Sleeping Chair for Infants &amp; Toddlers\" style=\"float: none;\"></div>\n<h2>Setup and Usage</h2>\n<ul>\n<li>Place the chair on a flat surface and ensure it is securely positioned</li>\n<li>Adjust recline to desired comfort setting for your infant</li>\n<li>Engage all safety locks before use</li>\n<li>Use gentle rocking to calm your baby during rest or play</li>\n<li>Wipe down surfaces regularly to maintain hygiene</li>\n<li>Store easily when not in use thanks to its lightweight design</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/d066641d-2726-4b5f-9ad9-6674054ebddd_trans.jpg?v=1758124786\" alt=\"RillRock Baby Caring Fantastic Product Baby's Rocking Chair – Gentle Motion, Adjustable Comfort &amp; Durable Design | Essential Soothing &amp; Sleeping Chair for Infants &amp; Toddlers\" style=\"float: none;\"></div>\n<h2>Product Specifications</h2>\n<ul>\n<li>Material: Premium durable frame with soft fabric seating</li>\n<li>Style: Adjustable recline with soothing rocking function</li>\n<li>Dimensions: Optimized for infant and toddler use</li>\n<li>Colors: Available in modern, stylish finishes</li>\n<li>Suitable for: Infants and toddlers during sleep and soothing time</li>\n<li>Package: 1 complete rocking chair with adjustable features</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/6bdc4906-be2e-4f68-bffd-05a57315a2bb_trans.jpg?v=1758124782\" alt=\"RillRock Baby Caring Fantastic Product Baby's Rocking Chair – Gentle Motion, Adjustable Comfort &amp; Durable Design | Essential Soothing &amp; Sleeping Chair for Infants &amp; Toddlers\" style=\"float: none;\"></div>\n<h2>Why Choose This Rocking Chair</h2>\n<ul>\n<li>Provides gentle, calming motion that helps infants relax and sleep</li>\n<li>Adjustable comfort settings grow with your baby's needs</li>\n<li>Durable and stable build ensures daily safe use</li>\n<li>Portable, lightweight design makes it easy to move around the home</li>\n<li>Adds style and function without cluttering living spaces</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You've found a hidden discount code! Use code \"TTD\" at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
@@ -46106,8 +46289,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 117,
-    "products_in_page": 117,
+    "total_products": 118,
+    "products_in_page": 118,
     "has_next_page": false,
     "has_previous_page": false
   }
