@@ -23403,7 +23403,7 @@
       "product_type": "0",
       "created_at": "2025-10-05T15:29:40+01:00",
       "handle": "grindz-baby-food-mill-set-safe-multifunctional-masher-bowl-for-easy-feeding",
-      "updated_at": "2025-10-05T15:35:14+01:00",
+      "updated_at": "2025-10-05T16:20:51+01:00",
       "published_at": "2025-10-05T15:35:12+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -23412,8 +23412,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866650583382",
       "variants": [
         {
-          "product_id": 9866650583382,
           "id": 51489887125846,
+          "product_id": 9866650583382,
           "title": "Green",
           "price": "42.95",
           "position": 1,
@@ -23440,8 +23440,8 @@
           "image_id": 67364392862038
         },
         {
-          "product_id": 9866650583382,
           "id": 51489887158614,
+          "product_id": 9866650583382,
           "title": "Pink",
           "price": "42.95",
           "position": 2,
@@ -23468,8 +23468,8 @@
           "image_id": 67364392894806
         },
         {
-          "product_id": 9866650583382,
           "id": 51489887191382,
+          "product_id": 9866650583382,
           "title": "Rose Red",
           "price": "42.95",
           "position": 3,
@@ -23498,8 +23498,8 @@
       ],
       "options": [
         {
-          "product_id": 9866650583382,
           "id": 12729120325974,
+          "product_id": 9866650583382,
           "name": "Color",
           "position": 1,
           "values": [
