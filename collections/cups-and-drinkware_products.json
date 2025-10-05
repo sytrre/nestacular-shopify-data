@@ -26423,7 +26423,7 @@
       "product_type": "0",
       "created_at": "2025-10-05T16:02:40+01:00",
       "handle": "tarrokko-babycare-3-in-1-feeding-bowl-suction-snack-soup-straw-dish-with-handle",
-      "updated_at": "2025-10-05T16:09:29+01:00",
+      "updated_at": "2025-10-05T16:28:56+01:00",
       "published_at": "2025-10-05T16:09:26+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -26432,8 +26432,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866676470102",
       "variants": [
         {
-          "product_id": 9866676470102,
           "id": 51489985266006,
+          "product_id": 9866676470102,
           "title": "Green",
           "price": "34.95",
           "position": 1,
@@ -26460,8 +26460,8 @@
           "image_id": 67364564730198
         },
         {
-          "product_id": 9866676470102,
           "id": 51489985298774,
+          "product_id": 9866676470102,
           "title": "Grey",
           "price": "34.95",
           "position": 2,
@@ -26488,8 +26488,8 @@
           "image_id": 67364564762966
         },
         {
-          "product_id": 9866676470102,
           "id": 51489985331542,
+          "product_id": 9866676470102,
           "title": "Rose Red",
           "price": "34.95",
           "position": 3,
@@ -26516,8 +26516,8 @@
           "image_id": 67364564795734
         },
         {
-          "product_id": 9866676470102,
           "id": 51489985364310,
+          "product_id": 9866676470102,
           "title": "Yellow",
           "price": "34.95",
           "position": 4,
@@ -26546,8 +26546,8 @@
       ],
       "options": [
         {
-          "product_id": 9866676470102,
           "id": 12729149260118,
+          "product_id": 9866676470102,
           "name": "Color",
           "position": 1,
           "values": [
