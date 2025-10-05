@@ -1,6 +1,145 @@
 {
   "products": [
     {
+      "id": 9788750037334,
+      "title": "Lullumo Baby Stroller Cup Holder with Phone Stand – Universal Trolley Drink & Mobile Holder",
+      "body_html": "<p data-end=\"701\" data-start=\"447\">Keep your hands free and your essentials close with the <strong data-end=\"565\" data-start=\"503\">Lullumo™ Baby Stroller Cup Holder + Mobile Phone Stand Set</strong>. Designed for modern parents, this universal stroller accessory fits most baby strollers, trolleys, wheelchairs, and bikes with ease.</p>\n<p data-end=\"962\" data-start=\"703\">Crafted from <strong data-end=\"740\" data-start=\"716\">durable ABS material</strong> in a sleek black finish, it securely holds your baby’s bottle, your coffee, or a water cup, while the adjustable phone stand keeps your mobile within reach. Perfect for busy walks, shopping trips, and travel adventures.</p>\n<p data-end=\"985\" data-start=\"964\">✨ <strong data-end=\"983\" data-start=\"966\">Key Features:</strong></p>\n<ul data-end=\"1315\" data-start=\"986\">\n<li data-end=\"1043\" data-start=\"986\">\n<p data-end=\"1043\" data-start=\"988\">✔ <strong data-end=\"1007\" data-start=\"990\">2-in-1 Design</strong> – Cup holder + mobile phone stand</p>\n</li>\n<li data-end=\"1128\" data-start=\"1044\">\n<p data-end=\"1128\" data-start=\"1046\">✔ <strong data-end=\"1065\" data-start=\"1048\">Universal Fit</strong> – Compatible with most strollers, prams, bikes &amp; wheelchairs</p>\n</li>\n<li data-end=\"1193\" data-start=\"1129\">\n<p data-end=\"1193\" data-start=\"1131\">✔ <strong data-end=\"1154\" data-start=\"1133\">Durable ABS Build</strong> – Lightweight, strong &amp; long-lasting</p>\n</li>\n<li data-end=\"1254\" data-start=\"1194\">\n<p data-end=\"1254\" data-start=\"1196\">✔ <strong data-end=\"1215\" data-start=\"1198\">Non-Slip Grip</strong> – Keeps drinks steady on bumpy rides</p>\n</li>\n<li data-end=\"1315\" data-start=\"1255\">\n<p data-end=\"1315\" data-start=\"1257\">✔ <strong data-end=\"1280\" data-start=\"1259\">Convenient &amp; Safe</strong> – Hands-free strolling made easy</p>\n</li>\n</ul>\n<p data-end=\"1431\" data-start=\"1317\">Make every outing smoother with this must-have stroller accessory — <strong data-end=\"1428\" data-start=\"1385\">practical, stylish, and parent-approved</strong>.</p>\n<p data-end=\"1431\" data-start=\"1317\"><img alt=\"Lullumo™ Baby Stroller Cup Holder with Phone Stand\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Lullumo_Baby_Stroller_Cup_Holder_with_Phone_Stand.jpg?v=1756618832\"></p>\n<p data-end=\"1431\" data-start=\"1317\"><img alt=\"Lullumo™ Baby Stroller Cup Holder with Phone Stand\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Lullumo_Baby_Stroller_Cup_Holder_with_Phone_Stand_1.jpg?v=1756618863\"></p>\n<p data-end=\"1431\" data-start=\"1317\"><img alt=\"Lullumo™ Baby Stroller Cup Holder with Phone Stand\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Lullumo_Baby_Stroller_Cup_Holder_with_Phone_Stand_3.jpg?v=1756618887\"></p>",
+      "vendor": "Nestacular",
+      "product_type": "Baby Stroller",
+      "created_at": "2025-08-31T06:00:02+01:00",
+      "handle": "lullumo-baby-stroller-cup-holder-phone-stand",
+      "updated_at": "2025-09-14T22:20:17+01:00",
+      "published_at": "2025-08-31T07:09:02+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Stroller Cup Holder, Cup Holder with Phone Stand, Lullumo Baby Products, Universal Trolley Holder",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9788750037334",
+      "variants": [
+        {
+          "id": 51185303322966,
+          "product_id": 9788750037334,
+          "title": "Black",
+          "price": "34.50",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "44.85",
+          "option1": "Black",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-08-31T06:00:10+01:00",
+          "updated_at": "2025-08-31T06:50:10+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 270,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE02975-Black",
+          "weight": 270.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53388875104598,
+          "inventory_quantity": 12946,
+          "old_inventory_quantity": 12946,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51185303322966",
+          "image_id": 66216230977878
+        }
+      ],
+      "options": [
+        {
+          "id": 12637452763478,
+          "product_id": 9788750037334,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Black"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66216230256982,
+          "alt": "Lullumo™ Baby Stroller Cup Holder with Phone Stand",
+          "position": 1,
+          "product_id": 9788750037334,
+          "created_at": "2025-08-31T06:00:04+01:00",
+          "updated_at": "2025-08-31T06:40:33+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66216230256982",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Lullumo_Baby_Stroller_Cup_Holder_with_Phone_Stand.jpg?v=1756618832",
+          "variant_ids": []
+        },
+        {
+          "id": 66216230420822,
+          "alt": "Lullumo™ Baby Stroller Cup Holder with Phone Stand ",
+          "position": 2,
+          "product_id": 9788750037334,
+          "created_at": "2025-08-31T06:00:05+01:00",
+          "updated_at": "2025-08-31T06:41:04+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66216230420822",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Lullumo_Baby_Stroller_Cup_Holder_with_Phone_Stand_1.jpg?v=1756618863",
+          "variant_ids": []
+        },
+        {
+          "id": 66216230519126,
+          "alt": "Lullumo™ Baby Stroller Cup Holder with Phone Stand",
+          "position": 3,
+          "product_id": 9788750037334,
+          "created_at": "2025-08-31T06:00:07+01:00",
+          "updated_at": "2025-08-31T06:41:17+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66216230519126",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Lullumo_Baby_Stroller_Cup_Holder_with_Phone_Stand_2.jpg?v=1756618876",
+          "variant_ids": []
+        },
+        {
+          "id": 66216230617430,
+          "alt": "Lullumo™ Baby Stroller Cup Holder with Phone Stand",
+          "position": 4,
+          "product_id": 9788750037334,
+          "created_at": "2025-08-31T06:00:09+01:00",
+          "updated_at": "2025-08-31T06:41:28+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66216230617430",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Lullumo_Baby_Stroller_Cup_Holder_with_Phone_Stand_3.jpg?v=1756618887",
+          "variant_ids": []
+        },
+        {
+          "id": 66216230977878,
+          "alt": "Lullumo™ Baby Stroller Cup Holder with Phone Stand",
+          "position": 5,
+          "product_id": 9788750037334,
+          "created_at": "2025-08-31T06:00:10+01:00",
+          "updated_at": "2025-08-31T06:41:39+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66216230977878",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Lullumo_Baby_Stroller_Cup_Holder_with_Phone_Stand_4.jpg?v=1756618898",
+          "variant_ids": [
+            51185303322966
+          ]
+        }
+      ],
+      "image": {
+        "id": 66216230256982,
+        "alt": "Lullumo™ Baby Stroller Cup Holder with Phone Stand",
+        "position": 1,
+        "product_id": 9788750037334,
+        "created_at": "2025-08-31T06:00:04+01:00",
+        "updated_at": "2025-08-31T06:40:33+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66216230256982",
+        "width": 1000,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Lullumo_Baby_Stroller_Cup_Holder_with_Phone_Stand.jpg?v=1756618832",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9791453331798,
       "title": "LuminaTots Waterproof Baby Bib – Unisex Feeding & Painting Apron for Toddlers",
       "body_html": "<p data-start=\"125\" data-end=\"440\">Protect your toddler’s clothes during mealtime and creative play with the <strong data-start=\"230\" data-end=\"264\">LuminaTots Waterproof Baby Bib</strong>. Made from <strong data-start=\"276\" data-end=\"309\">food-grade, BPA-free silicone</strong>, this unisex bib doubles as a feeding and painting apron, keeping your little one clean from spills, dribbles, and paint stains.</p>\n<p data-start=\"442\" data-end=\"690\">The <strong data-start=\"446\" data-end=\"461\">deep pocket</strong> catches falling food and art materials, while adjustable straps ensure a comfortable fit for toddlers of all sizes. Lightweight, flexible, and easy to clean, the <strong data-start=\"624\" data-end=\"647\">LuminaTots Baby Bib</strong> is perfect for home, daycare, or travel.</p>\n<p data-start=\"692\" data-end=\"711\"><strong data-start=\"692\" data-end=\"709\">Key Features:</strong></p>\n<ul data-start=\"712\" data-end=\"1056\">\n<li data-start=\"712\" data-end=\"784\">\n<p data-start=\"714\" data-end=\"784\"><strong data-start=\"714\" data-end=\"741\">Safe Silicone Material:</strong> BPA-free, non-toxic, and gentle on skin.</p>\n</li>\n<li data-start=\"785\" data-end=\"855\">\n<p data-start=\"787\" data-end=\"855\"><strong data-start=\"787\" data-end=\"812\">Waterproof &amp; Durable:</strong> Protects clothing from spills and paint.</p>\n</li>\n<li data-start=\"856\" data-end=\"927\">\n<p data-start=\"858\" data-end=\"927\"><strong data-start=\"858\" data-end=\"887\">Deep Food &amp; Paint Pocket:</strong> Reduces mess during meals and crafts.</p>\n</li>\n<li data-start=\"928\" data-end=\"990\">\n<p data-start=\"930\" data-end=\"990\"><strong data-start=\"930\" data-end=\"949\">Adjustable Fit:</strong> Comfortable for toddlers of all sizes.</p>\n</li>\n<li data-start=\"991\" data-end=\"1056\">\n<p data-start=\"993\" data-end=\"1056\"><strong data-start=\"993\" data-end=\"1011\">Easy to Clean:</strong> Dishwasher safe or quick rinse with water.</p>\n</li>\n</ul>\n<p data-start=\"1058\" data-end=\"1150\">Make feeding and playtime fun and stress-free with the <strong data-start=\"1113\" data-end=\"1147\">LuminaTots Waterproof Baby Bib.</strong></p>\n<div style=\"text-align: start;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/7b9fc2f2-0972-42a4-9b2b-c86090a0ebc1.jpg?v=1756900064\" alt=\"LuminaTots Waterproof Baby Bib\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: start;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/b6fc03f3-f052-422d-be8b-7acca77bbb43.jpg?v=1756900064\" alt=\"LuminaTots Waterproof Baby Bib\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: start;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/e442d220-f8bc-4955-9a3f-39c945859b14.jpg?v=1756900064\" alt=\"LuminaTots Waterproof Baby Bib\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: start;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8f75bb48-29cd-4b18-bbed-771328bd513e.jpg?v=1756900064\" alt=\"LuminaTots Waterproof Baby Bib\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: start;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/7b9fc2f2-0972-42a4-9b2b-c86090a0ebc1.jpg?v=1756900064\" alt=\"LuminaTots Waterproof Baby Bib\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div class=\"ocrext-element ocrext-mask\" style=\"left: 0px; top: 0px; width: 100%; height: 100%; z-index: 2147483644; display: none;\">\n<p class=\"ocrext-element\">Please select text to grab.</p>\n<div class=\"ocrext-overlay-corner ocrext-corner-tl\" style=\"top: 0px; left: 0px; width: 292px; height: 539px;\"></div>\n<div class=\"ocrext-overlay-corner ocrext-corner-tr\" style=\"top: 0px; left: 292px; width: 292px; height: 539px;\"></div>\n<div class=\"ocrext-overlay-corner ocrext-corner-br\" style=\"top: 539px; left: 292px; width: 292px; height: 539px;\"></div>\n<div class=\"ocrext-overlay-corner ocrext-corner-bl\" style=\"top: 539px; left: 0px; width: 292px; height: 539px;\"></div>\n</div>",
@@ -76962,8 +77101,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830152601942",
       "variants": [
         {
-          "id": 51355045495126,
           "product_id": 9830152601942,
+          "id": 51355045495126,
           "title": "White",
           "price": "164.95",
           "position": 1,
@@ -76992,8 +77131,8 @@
       ],
       "options": [
         {
-          "id": 12686809858390,
           "product_id": 9830152601942,
+          "id": 12686809858390,
           "name": "Color",
           "position": 1,
           "values": [
@@ -91079,8 +91218,8 @@
     "current_page": 2,
     "total_pages": 2,
     "items_per_page": 250,
-    "total_items": 467,
-    "items_in_page": 217,
+    "total_items": 468,
+    "items_in_page": 218,
     "has_next_page": false,
     "has_previous_page": true,
     "previous_page_file": "products.json"
