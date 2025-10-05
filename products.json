@@ -60177,8 +60177,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9836949176662",
       "variants": [
         {
-          "id": 51380579008854,
           "product_id": 9836949176662,
+          "id": 51380579008854,
           "title": "Decor",
           "price": "170.95",
           "position": 1,
@@ -60205,8 +60205,8 @@
           "image_id": 67051269816662
         },
         {
-          "id": 51380579041622,
           "product_id": 9836949176662,
+          "id": 51380579041622,
           "title": "Grey",
           "price": "170.95",
           "position": 2,
@@ -60235,8 +60235,8 @@
       ],
       "options": [
         {
-          "id": 12694690693462,
           "product_id": 9836949176662,
+          "id": 12694690693462,
           "name": "Color",
           "position": 1,
           "values": [
