@@ -26979,8 +26979,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789304701270",
       "variants": [
         {
-          "product_id": 9789304701270,
           "id": 51187561496918,
+          "product_id": 9789304701270,
           "title": "Gray elephant",
           "price": "20.84",
           "position": 1,
@@ -27007,8 +27007,8 @@
           "image_id": null
         },
         {
-          "product_id": 9789304701270,
           "id": 51187561529686,
+          "product_id": 9789304701270,
           "title": "Orange",
           "price": "21.03",
           "position": 2,
@@ -27035,8 +27035,8 @@
           "image_id": 66220773540182
         },
         {
-          "product_id": 9789304701270,
           "id": 51187561562454,
+          "product_id": 9789304701270,
           "title": "Green",
           "price": "21.03",
           "position": 3,
@@ -27063,8 +27063,8 @@
           "image_id": 66220773572950
         },
         {
-          "product_id": 9789304701270,
           "id": 51187561595222,
+          "product_id": 9789304701270,
           "title": "Pink",
           "price": "20.84",
           "position": 4,
@@ -27091,8 +27091,8 @@
           "image_id": 66220773605718
         },
         {
-          "product_id": 9789304701270,
           "id": 51187561627990,
+          "product_id": 9789304701270,
           "title": "Green whale",
           "price": "21.03",
           "position": 5,
@@ -27119,8 +27119,8 @@
           "image_id": 66220773638486
         },
         {
-          "product_id": 9789304701270,
           "id": 51187561660758,
+          "product_id": 9789304701270,
           "title": "Purple",
           "price": "21.03",
           "position": 6,
@@ -27147,8 +27147,8 @@
           "image_id": 66220773671254
         },
         {
-          "product_id": 9789304701270,
           "id": 51187561693526,
+          "product_id": 9789304701270,
           "title": "Extension Pink",
           "price": "20.13",
           "position": 7,
@@ -27175,8 +27175,8 @@
           "image_id": 66220773704022
         },
         {
-          "product_id": 9789304701270,
           "id": 51187561726294,
+          "product_id": 9789304701270,
           "title": "Extension Blue",
           "price": "20.13",
           "position": 8,
@@ -27203,8 +27203,8 @@
           "image_id": 66220773736790
         },
         {
-          "product_id": 9789304701270,
           "id": 51187561759062,
+          "product_id": 9789304701270,
           "title": "Pink swan",
           "price": "20.84",
           "position": 9,
@@ -27231,8 +27231,8 @@
           "image_id": 66220773769558
         },
         {
-          "product_id": 9789304701270,
           "id": 51187561791830,
+          "product_id": 9789304701270,
           "title": "Blue",
           "price": "20.84",
           "position": 10,
@@ -27261,8 +27261,8 @@
       ],
       "options": [
         {
-          "product_id": 9789304701270,
           "id": 12638022598998,
+          "product_id": 9789304701270,
           "name": "Color",
           "position": 1,
           "values": [
