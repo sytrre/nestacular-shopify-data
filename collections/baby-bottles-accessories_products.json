@@ -12088,8 +12088,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791834849622",
       "variants": [
         {
-          "product_id": 9791834849622,
           "id": 51197689758038,
+          "product_id": 9791834849622,
           "title": "160ml SS Holes",
           "price": "29.64",
           "position": 1,
@@ -12116,8 +12116,8 @@
           "image_id": 66245908824406
         },
         {
-          "product_id": 9791834849622,
           "id": 51197689790806,
+          "product_id": 9791834849622,
           "title": "160ml S Hole",
           "price": "29.64",
           "position": 2,
@@ -12144,8 +12144,8 @@
           "image_id": 66245908857174
         },
         {
-          "product_id": 9791834849622,
           "id": 51197689823574,
+          "product_id": 9791834849622,
           "title": "240ml M Hole",
           "price": "29.72",
           "position": 3,
@@ -12172,8 +12172,8 @@
           "image_id": 66245908889942
         },
         {
-          "product_id": 9791834849622,
           "id": 51197689856342,
+          "product_id": 9791834849622,
           "title": "240ml L Hole",
           "price": "29.72",
           "position": 4,
@@ -12200,8 +12200,8 @@
           "image_id": 66245908922710
         },
         {
-          "product_id": 9791834849622,
           "id": 51197689889110,
+          "product_id": 9791834849622,
           "title": "240ml LL Holes",
           "price": "29.72",
           "position": 5,
@@ -12228,8 +12228,8 @@
           "image_id": 66245908955478
         },
         {
-          "product_id": 9791834849622,
           "id": 51197689921878,
+          "product_id": 9791834849622,
           "title": "240ml Water Cup",
           "price": "29.72",
           "position": 6,
@@ -12258,8 +12258,8 @@
       ],
       "options": [
         {
-          "product_id": 9791834849622,
           "id": 12641113571670,
+          "product_id": 9791834849622,
           "name": "Capacity",
           "position": 1,
           "values": [
@@ -18916,8 +18916,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9808067101014",
       "variants": [
         {
-          "id": 51265877344598,
           "product_id": 9808067101014,
+          "id": 51265877344598,
           "title": "Blue",
           "price": "24.95",
           "position": 1,
@@ -18944,8 +18944,8 @@
           "image_id": 66395662745942
         },
         {
-          "id": 51265877377366,
           "product_id": 9808067101014,
+          "id": 51265877377366,
           "title": "Pink",
           "price": "24.95",
           "position": 2,
@@ -18974,8 +18974,8 @@
       ],
       "options": [
         {
-          "id": 12660451770710,
           "product_id": 9808067101014,
+          "id": 12660451770710,
           "name": "Color",
           "position": 1,
           "values": [

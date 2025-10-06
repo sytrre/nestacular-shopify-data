@@ -9074,8 +9074,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9808067101014",
       "variants": [
         {
-          "id": 51265877344598,
           "product_id": 9808067101014,
+          "id": 51265877344598,
           "title": "Blue",
           "price": "24.95",
           "position": 1,
@@ -9102,8 +9102,8 @@
           "image_id": 66395662745942
         },
         {
-          "id": 51265877377366,
           "product_id": 9808067101014,
+          "id": 51265877377366,
           "title": "Pink",
           "price": "24.95",
           "position": 2,
@@ -9132,8 +9132,8 @@
       ],
       "options": [
         {
-          "id": 12660451770710,
           "product_id": 9808067101014,
+          "id": 12660451770710,
           "name": "Color",
           "position": 1,
           "values": [
@@ -41393,8 +41393,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214781782",
       "variants": [
         {
-          "id": 51084624101718,
           "product_id": 9765214781782,
+          "id": 51084624101718,
           "title": "13-Pebble",
           "price": "24.28",
           "position": 1,
@@ -41421,8 +41421,8 @@
           "image_id": 65933322682710
         },
         {
-          "id": 51084624134486,
           "product_id": 9765214781782,
+          "id": 51084624134486,
           "title": "10-Powder-Rose",
           "price": "24.81",
           "position": 2,
@@ -41449,8 +41449,8 @@
           "image_id": 65933322912086
         },
         {
-          "id": 51084624167254,
           "product_id": 9765214781782,
+          "id": 51084624167254,
           "title": "14-",
           "price": "24.52",
           "position": 3,
@@ -41477,8 +41477,8 @@
           "image_id": 65933322944854
         },
         {
-          "id": 51084624200022,
           "product_id": 9765214781782,
+          "id": 51084624200022,
           "title": "11-Dasty-Lilac",
           "price": "24.76",
           "position": 4,
@@ -41505,8 +41505,8 @@
           "image_id": 65933322977622
         },
         {
-          "id": 51084624232790,
           "product_id": 9765214781782,
+          "id": 51084624232790,
           "title": "12-Beach-Sand",
           "price": "25.04",
           "position": 5,
@@ -41535,8 +41535,8 @@
       ],
       "options": [
         {
-          "id": 12609650327894,
           "product_id": 9765214781782,
+          "id": 12609650327894,
           "name": "Color",
           "position": 1,
           "values": [
@@ -78768,8 +78768,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830152601942",
       "variants": [
         {
-          "product_id": 9830152601942,
           "id": 51355045495126,
+          "product_id": 9830152601942,
           "title": "White",
           "price": "164.95",
           "position": 1,
@@ -78798,8 +78798,8 @@
       ],
       "options": [
         {
-          "product_id": 9830152601942,
           "id": 12686809858390,
+          "product_id": 9830152601942,
           "name": "Color",
           "position": 1,
           "values": [

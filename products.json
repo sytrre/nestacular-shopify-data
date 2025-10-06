@@ -7802,8 +7802,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844337901910",
       "variants": [
         {
-          "id": 51408096166230,
           "product_id": 9844337901910,
+          "id": 51408096166230,
           "title": "1 style",
           "price": "56.95",
           "position": 1,
@@ -7830,8 +7830,8 @@
           "image_id": 67123129516374
         },
         {
-          "id": 51408096198998,
           "product_id": 9844337901910,
+          "id": 51408096198998,
           "title": "2 style",
           "price": "56.95",
           "position": 2,
@@ -7858,8 +7858,8 @@
           "image_id": 67123129549142
         },
         {
-          "id": 51408096231766,
           "product_id": 9844337901910,
+          "id": 51408096231766,
           "title": "3 style",
           "price": "56.95",
           "position": 3,
@@ -7886,8 +7886,8 @@
           "image_id": 67123129581910
         },
         {
-          "id": 51408096264534,
           "product_id": 9844337901910,
+          "id": 51408096264534,
           "title": "4 style",
           "price": "56.95",
           "position": 4,
@@ -7916,8 +7916,8 @@
       ],
       "options": [
         {
-          "id": 12703242813782,
           "product_id": 9844337901910,
+          "id": 12703242813782,
           "name": "Color",
           "position": 1,
           "values": [
@@ -82990,8 +82990,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791834849622",
       "variants": [
         {
-          "product_id": 9791834849622,
           "id": 51197689758038,
+          "product_id": 9791834849622,
           "title": "160ml SS Holes",
           "price": "29.64",
           "position": 1,
@@ -83018,8 +83018,8 @@
           "image_id": 66245908824406
         },
         {
-          "product_id": 9791834849622,
           "id": 51197689790806,
+          "product_id": 9791834849622,
           "title": "160ml S Hole",
           "price": "29.64",
           "position": 2,
@@ -83046,8 +83046,8 @@
           "image_id": 66245908857174
         },
         {
-          "product_id": 9791834849622,
           "id": 51197689823574,
+          "product_id": 9791834849622,
           "title": "240ml M Hole",
           "price": "29.72",
           "position": 3,
@@ -83074,8 +83074,8 @@
           "image_id": 66245908889942
         },
         {
-          "product_id": 9791834849622,
           "id": 51197689856342,
+          "product_id": 9791834849622,
           "title": "240ml L Hole",
           "price": "29.72",
           "position": 4,
@@ -83102,8 +83102,8 @@
           "image_id": 66245908922710
         },
         {
-          "product_id": 9791834849622,
           "id": 51197689889110,
+          "product_id": 9791834849622,
           "title": "240ml LL Holes",
           "price": "29.72",
           "position": 5,
@@ -83130,8 +83130,8 @@
           "image_id": 66245908955478
         },
         {
-          "product_id": 9791834849622,
           "id": 51197689921878,
+          "product_id": 9791834849622,
           "title": "240ml Water Cup",
           "price": "29.72",
           "position": 6,
@@ -83160,8 +83160,8 @@
       ],
       "options": [
         {
-          "product_id": 9791834849622,
           "id": 12641113571670,
+          "product_id": 9791834849622,
           "name": "Capacity",
           "position": 1,
           "values": [
