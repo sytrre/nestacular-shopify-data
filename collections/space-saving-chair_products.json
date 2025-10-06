@@ -3314,8 +3314,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828531601750",
       "variants": [
         {
-          "product_id": 9828531601750,
           "id": 51347037782358,
+          "product_id": 9828531601750,
           "title": "Beige",
           "price": "105.95",
           "position": 1,
@@ -3344,8 +3344,8 @@
       ],
       "options": [
         {
-          "product_id": 9828531601750,
           "id": 12684777947478,
+          "product_id": 9828531601750,
           "name": "Color",
           "position": 1,
           "values": [
