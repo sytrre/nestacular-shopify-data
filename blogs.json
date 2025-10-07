@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-07T23:41:32+01:00",
+      "updated_at": "2025-10-08T00:12:30+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "High Chairs, Baby Tableware, Baby Feeding Stages, Baby-Led Weaning, Guide, Tips, Gift Guides for New Parents, Non-Toxic Baby Products & Material Safety, Thoughtful Baby Gift Giving, Gift Guides & Baby Registry Essentials, High Chair Selection & Feeding Furniture, Baby-Led Weaning & First Foods, Gift Guides & Baby Shower Essentials, Gift Giving & Baby Shower Essentials, Baby Shower & Gift Giving Guide, Premium Baby Gift Guides & Registry Building",
       "admin_graphql_api_id": "gid://shopify/Blog/116861632854",
       "articles": [
+        {
+          "id": 610703999318,
+          "title": "Mixed Feeding Guide: Combining Breast, Bottle, and Solids",
+          "created_at": "2025-10-08T00:12:30+01:00",
+          "blog_id": 116861632854,
+          "author": "Valentine Okpala",
+          "user_id": 114325520726,
+          "published_at": null,
+          "updated_at": "2025-10-08T00:12:30+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "mixed-feeding-guide-combining-breast-bottle-and-solids",
+          "tags": "Baby Feeding Stages",
+          "admin_graphql_api_id": "gid://shopify/Article/610703999318"
+        },
         {
           "id": 610703901014,
           "title": "Baby Feeding Chart: Portion Sizes from 6-24 Months",
