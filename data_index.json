@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-07T11:42:40.083042Z",
+  "generated": "2025-10-07T13:31:15.294977Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -69,6 +69,7 @@
       "plates-and-bowls": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/plates-and-bowls_products.json",
       "replacement-trays-straps": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/replacement-trays-straps_products.json",
       "restaurant-baby-chair": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-baby-chair_products.json",
+      "restaurant-dining-out-baby-portable-kit": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-dining-out-baby-portable-kit_products.json",
       "returning-to-work-mom-feeding-prep": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/returning-to-work-mom-feeding-prep_products.json",
       "reusable-food-pouches": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/reusable-food-pouches_products.json",
       "shop-by-age-tableware": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/shop-by-age-tableware_products.json",
