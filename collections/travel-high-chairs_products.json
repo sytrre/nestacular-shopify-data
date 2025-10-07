@@ -4,7 +4,7 @@
     "handle": "travel-high-chairs",
     "title": "Travel & Portable High Chairs",
     "body_html": "<p><meta charset=\"utf-8\">Ensure your little one always has a safe seat at the table, wherever you go. Our travel high chairs are compact, lightweight, and easy to set up for meals on the move.</p>",
-    "products_count": 94
+    "products_count": 95
   },
   "products": [
     {
@@ -1776,6 +1776,220 @@
         "width": 800,
         "height": 800,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3023538116962.jpg?v=1758111499",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9871193047382,
+      "title": "BabyTravel Foldable Dining Chair – Portable Feeding Seat for Two-Year-Olds",
+      "body_html": "<p>BabyTravel Foldable Dining Chair offers a smart, travel-friendly design that makes mealtime simple and comfortable for growing toddlers. Designed with parents in mind, this lightweight yet durable chair ensures your little one can enjoy every meal safely—at home or on the go.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/74a91691-c5ca-427e-bfab-1f5316165656.jpg?v=1759849212\" alt=\"BabyTravel Foldable Dining Chair – Portable Feeding Seat for Two-Year-Olds\" style=\"float: none;\"></div>\n<p>Smart Design Features</p>\n<ul>\n<li>Foldable and Portable: Compact, lightweight frame folds easily for travel or storage.</li>\n<li>Comfortable Backrest: Ergonomic design keeps your two-year-old supported and comfortable during feeding.</li>\n<li>Durable Construction: High-quality materials ensure long-lasting use through toddler years.</li>\n<li>Spacious Tray: Provides ample space for bowls, snacks, and drinks.</li>\n<li>Easy to Clean: Smooth surfaces and detachable tray make cleanup effortless.</li>\n<li>Stable Base: Anti-slip design ensures safety on various floor types.</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1af64dac-1565-49fe-b1cf-8025f69c4965.jpg?v=1759849208\" alt=\"BabyTravel Foldable Dining Chair – Portable Feeding Seat for Two-Year-Olds\" style=\"float: none;\"></div>\n<p>Setup and Usage <br>Unfold the chair and ensure the joints lock securely. Attach the feeding tray and seat your child comfortably. Always verify safety straps are properly fastened. After use, wipe down the tray and seat with a damp cloth, then fold flat for compact storage or transport.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1af64dac-1565-49fe-b1cf-8025f69c4965_90d3f9fa-eaab-4fe2-82cd-87a3bfacbb67.jpg?v=1759849214\" alt=\"BabyTravel Foldable Dining Chair – Portable Feeding Seat for Two-Year-Olds\" style=\"float: none;\"></div>\n<p>Product Specifications</p>\n<ul>\n<li>Material: Premium plastic and reinforced metal frame</li>\n<li>Dimensions: 95x65x55cm when expanded</li>\n<li>Style: Foldable portable design for toddlers</li>\n<li>Color Options: Sky Blue, Cream White, Forest Green</li>\n<li>Suitable for: Two-year-old babies and toddlers</li>\n<li>Package Includes: 1 portable foldable dining chair</li>\n</ul>\n<p>Why Choose This Chair</p>\n<p> </p>\n<ul>\n<li>Perfect for families on the go or with limited space</li>\n<li>Folds compactly for travel, picnics, and dining out</li>\n<li>Strong and safe structure supports active toddlers</li>\n<li>Easy to clean and store after every meal</li>\n<li>Thoughtfully designed for comfort, safety, and convenience</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-10-07T16:00:04+01:00",
+      "handle": "babytravel-foldable-dining-chair-portable-feeding-seat-for-two-year-olds",
+      "updated_at": "2025-10-07T16:06:26+01:00",
+      "published_at": "2025-10-07T16:06:23+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Travel Chair, CJ",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9871193047382",
+      "variants": [
+        {
+          "id": 51506862424406,
+          "product_id": 9871193047382,
+          "title": "Dark aquatic green",
+          "price": "84.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "124.95",
+          "option1": "Dark aquatic green",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-07T16:00:11+01:00",
+          "updated_at": "2025-10-07T16:05:00+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 570,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT129976902BY",
+          "weight": 570.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53760097354070,
+          "inventory_quantity": 35920,
+          "old_inventory_quantity": 35920,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51506862424406",
+          "image_id": 67401891545430
+        },
+        {
+          "id": 51506862457174,
+          "product_id": 9871193047382,
+          "title": "Light ocean blue",
+          "price": "84.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "124.95",
+          "option1": "Light ocean blue",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-07T16:00:11+01:00",
+          "updated_at": "2025-10-07T16:05:37+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 570,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT129976903CX",
+          "weight": 570.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53760097386838,
+          "inventory_quantity": 33897,
+          "old_inventory_quantity": 33897,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51506862457174",
+          "image_id": 67401891578198
+        },
+        {
+          "id": 51506862489942,
+          "product_id": 9871193047382,
+          "title": "Simple triangle",
+          "price": "84.95",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "124.95",
+          "option1": "Simple triangle",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-07T16:00:11+01:00",
+          "updated_at": "2025-10-07T16:06:13+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 570,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT129976901AZ",
+          "weight": 570.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53760097419606,
+          "inventory_quantity": 38434,
+          "old_inventory_quantity": 38434,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51506862489942",
+          "image_id": 67401891610966
+        }
+      ],
+      "options": [
+        {
+          "id": 12734450696534,
+          "product_id": 9871193047382,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Dark aquatic green",
+            "Light ocean blue",
+            "Simple triangle"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67401890693462,
+          "alt": "Baby seat with colorful polka dot pattern on a white background",
+          "position": 1,
+          "product_id": 9871193047382,
+          "created_at": "2025-10-07T16:00:06+01:00",
+          "updated_at": "2025-10-07T16:03:32+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67401890693462",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1af64dac-1565-49fe-b1cf-8025f69c4965.jpg?v=1759849208",
+          "variant_ids": []
+        },
+        {
+          "id": 67401891217750,
+          "alt": "Four baby high chairs with different patterned seats on a white background",
+          "position": 2,
+          "product_id": 9871193047382,
+          "created_at": "2025-10-07T16:00:07+01:00",
+          "updated_at": "2025-10-07T16:03:39+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67401891217750",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2fc07277-f978-4877-a92a-8b1da72aa74b.jpg?v=1759849210",
+          "variant_ids": []
+        },
+        {
+          "id": 67401891250518,
+          "alt": "Baby high chair with striped cushion and gray straps on a wooden chair, with a close-up of a pouch containing bottles.",
+          "position": 3,
+          "product_id": 9871193047382,
+          "created_at": "2025-10-07T16:00:09+01:00",
+          "updated_at": "2025-10-07T16:03:46+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67401891250518",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/74a91691-c5ca-427e-bfab-1f5316165656.jpg?v=1759849212",
+          "variant_ids": []
+        },
+        {
+          "id": 67401891545430,
+          "alt": "Blue high chair with gray accents on a white background",
+          "position": 4,
+          "product_id": 9871193047382,
+          "created_at": "2025-10-07T16:00:11+01:00",
+          "updated_at": "2025-10-07T16:03:52+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67401891545430",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/49d5a4a7-af4c-44cc-9341-592d42bdf4d7.jpg?v=1759849214",
+          "variant_ids": [
+            51506862424406
+          ]
+        },
+        {
+          "id": 67401891578198,
+          "alt": "Baby seat with colorful polka dot pattern on a white background",
+          "position": 5,
+          "product_id": 9871193047382,
+          "created_at": "2025-10-07T16:00:11+01:00",
+          "updated_at": "2025-10-07T16:03:59+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67401891578198",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1af64dac-1565-49fe-b1cf-8025f69c4965_90d3f9fa-eaab-4fe2-82cd-87a3bfacbb67.jpg?v=1759849214",
+          "variant_ids": [
+            51506862457174
+          ]
+        },
+        {
+          "id": 67401891610966,
+          "alt": "Baby high chair with peace sign pattern on a white background",
+          "position": 6,
+          "product_id": 9871193047382,
+          "created_at": "2025-10-07T16:00:11+01:00",
+          "updated_at": "2025-10-07T16:04:06+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67401891610966",
+          "width": 1601,
+          "height": 1601,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/bc908d41-9383-49dc-8e3c-2945492aab81.jpg?v=1759849214",
+          "variant_ids": [
+            51506862489942
+          ]
+        }
+      ],
+      "image": {
+        "id": 67401890693462,
+        "alt": "Baby seat with colorful polka dot pattern on a white background",
+        "position": 1,
+        "product_id": 9871193047382,
+        "created_at": "2025-10-07T16:00:06+01:00",
+        "updated_at": "2025-10-07T16:03:32+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67401890693462",
+        "width": 1001,
+        "height": 1001,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1af64dac-1565-49fe-b1cf-8025f69c4965.jpg?v=1759849208",
         "variant_ids": []
       }
     },
@@ -4135,8 +4349,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791113134422",
       "variants": [
         {
-          "id": 51194526138710,
           "product_id": 9791113134422,
+          "id": 51194526138710,
           "title": "A",
           "price": "34.67",
           "position": 1,
@@ -4163,8 +4377,8 @@
           "image_id": 66236550676822
         },
         {
-          "id": 51194526171478,
           "product_id": 9791113134422,
+          "id": 51194526171478,
           "title": "B",
           "price": "37.05",
           "position": 2,
@@ -4191,8 +4405,8 @@
           "image_id": 66236550709590
         },
         {
-          "id": 51194526204246,
           "product_id": 9791113134422,
+          "id": 51194526204246,
           "title": "C",
           "price": "39.30",
           "position": 3,
@@ -4219,8 +4433,8 @@
           "image_id": 66236550742358
         },
         {
-          "id": 51194526237014,
           "product_id": 9791113134422,
+          "id": 51194526237014,
           "title": "D",
           "price": "39.30",
           "position": 4,
@@ -4247,8 +4461,8 @@
           "image_id": 66236550775126
         },
         {
-          "id": 51194526269782,
           "product_id": 9791113134422,
+          "id": 51194526269782,
           "title": "E",
           "price": "35.65",
           "position": 5,
@@ -4277,8 +4491,8 @@
       ],
       "options": [
         {
-          "id": 12640270418262,
           "product_id": 9791113134422,
+          "id": 12640270418262,
           "name": "style",
           "position": 1,
           "values": [
@@ -4783,8 +4997,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791454511446",
       "variants": [
         {
-          "id": 51196510142806,
           "product_id": 9791454511446,
+          "id": 51196510142806,
           "title": "Multi Function Bottle / EU",
           "price": "43.95",
           "position": 1,
@@ -4811,8 +5025,8 @@
           "image_id": 66242050457942
         },
         {
-          "id": 51196510175574,
           "product_id": 9791454511446,
+          "id": 51196510175574,
           "title": "Multi Function Bottle / AU",
           "price": "43.95",
           "position": 2,
@@ -4839,8 +5053,8 @@
           "image_id": 66242050490710
         },
         {
-          "id": 51196510208342,
           "product_id": 9791454511446,
+          "id": 51196510208342,
           "title": "Multi Function Bottle / US",
           "price": "43.95",
           "position": 3,
@@ -4867,8 +5081,8 @@
           "image_id": 66242050523478
         },
         {
-          "id": 51196510241110,
           "product_id": 9791454511446,
+          "id": 51196510241110,
           "title": "Multi Function Bottle / UK",
           "price": "44.19",
           "position": 4,
@@ -4895,8 +5109,8 @@
           "image_id": 66242050556246
         },
         {
-          "id": 51196510273878,
           "product_id": 9791454511446,
+          "id": 51196510273878,
           "title": "Multi Function Bottle / USB",
           "price": "42.72",
           "position": 5,
@@ -4925,8 +5139,8 @@
       ],
       "options": [
         {
-          "id": 12640678347094,
           "product_id": 9791454511446,
+          "id": 12640678347094,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4934,8 +5148,8 @@
           ]
         },
         {
-          "id": 12640678379862,
           "product_id": 9791454511446,
+          "id": 12640678379862,
           "name": "Power",
           "position": 2,
           "values": [
@@ -30633,8 +30847,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 94,
-    "products_in_page": 94,
+    "total_products": 95,
+    "products_in_page": 95,
     "has_next_page": false,
     "has_previous_page": false
   }
