@@ -15189,8 +15189,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9846778593622",
       "variants": [
         {
-          "product_id": 9846778593622,
           "id": 51417249808726,
+          "product_id": 9846778593622,
           "title": "Blue orange",
           "price": "42.95",
           "position": 1,
@@ -15217,8 +15217,8 @@
           "image_id": 67144525021526
         },
         {
-          "product_id": 9846778593622,
           "id": 51417249841494,
+          "product_id": 9846778593622,
           "title": "Green grey",
           "price": "42.95",
           "position": 2,
@@ -15247,8 +15247,8 @@
       ],
       "options": [
         {
-          "product_id": 9846778593622,
           "id": 12706130166102,
+          "product_id": 9846778593622,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16928,8 +16928,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791836881238",
       "variants": [
         {
-          "product_id": 9791836881238,
           "id": 51197697786198,
+          "product_id": 9791836881238,
           "title": "A",
           "price": "23.84",
           "position": 1,
@@ -16956,8 +16956,8 @@
           "image_id": 66245943951702
         },
         {
-          "product_id": 9791836881238,
           "id": 51197697818966,
+          "product_id": 9791836881238,
           "title": "B",
           "price": "23.84",
           "position": 2,
@@ -16984,8 +16984,8 @@
           "image_id": 66245943984470
         },
         {
-          "product_id": 9791836881238,
           "id": 51197697851734,
+          "product_id": 9791836881238,
           "title": "C",
           "price": "23.84",
           "position": 3,
@@ -17012,8 +17012,8 @@
           "image_id": 66245944017238
         },
         {
-          "product_id": 9791836881238,
           "id": 51197697884502,
+          "product_id": 9791836881238,
           "title": "D",
           "price": "23.84",
           "position": 4,
@@ -17040,8 +17040,8 @@
           "image_id": 66245944050006
         },
         {
-          "product_id": 9791836881238,
           "id": 51197697917270,
+          "product_id": 9791836881238,
           "title": "E",
           "price": "23.84",
           "position": 5,
@@ -17068,8 +17068,8 @@
           "image_id": 66245944082774
         },
         {
-          "product_id": 9791836881238,
           "id": 51197697950038,
+          "product_id": 9791836881238,
           "title": "F",
           "price": "23.84",
           "position": 6,
@@ -17096,8 +17096,8 @@
           "image_id": 66245944115542
         },
         {
-          "product_id": 9791836881238,
           "id": 51197697982806,
+          "product_id": 9791836881238,
           "title": "G",
           "price": "23.84",
           "position": 7,
@@ -17124,8 +17124,8 @@
           "image_id": 66245944148310
         },
         {
-          "product_id": 9791836881238,
           "id": 51197698015574,
+          "product_id": 9791836881238,
           "title": "H",
           "price": "23.84",
           "position": 8,
@@ -17152,8 +17152,8 @@
           "image_id": 66245944181078
         },
         {
-          "product_id": 9791836881238,
           "id": 51197698048342,
+          "product_id": 9791836881238,
           "title": "I",
           "price": "23.84",
           "position": 9,
@@ -17180,8 +17180,8 @@
           "image_id": 66245944213846
         },
         {
-          "product_id": 9791836881238,
           "id": 51197698081110,
+          "product_id": 9791836881238,
           "title": "J",
           "price": "23.92",
           "position": 10,
@@ -17208,8 +17208,8 @@
           "image_id": 66245944246614
         },
         {
-          "product_id": 9791836881238,
           "id": 51197698113878,
+          "product_id": 9791836881238,
           "title": "K",
           "price": "23.92",
           "position": 11,
@@ -17236,8 +17236,8 @@
           "image_id": 66245944279382
         },
         {
-          "product_id": 9791836881238,
           "id": 51197698146646,
+          "product_id": 9791836881238,
           "title": "L",
           "price": "23.92",
           "position": 12,
@@ -17266,8 +17266,8 @@
       ],
       "options": [
         {
-          "product_id": 9791836881238,
           "id": 12641115963734,
+          "product_id": 9791836881238,
           "name": "style",
           "position": 1,
           "values": [
