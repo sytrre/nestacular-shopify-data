@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-09T12:01:10.835483Z",
+  "generated": "2025-10-09T12:25:39.318420Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -67,6 +67,7 @@
       "on-the-go-feeding": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/on-the-go-feeding_products.json",
       "placemats": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/placemats_products.json",
       "plates-and-bowls": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/plates-and-bowls_products.json",
+      "pumpkin-patch-apple-picking-portable-baby-gear": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/pumpkin-patch-apple-picking-portable-baby-gear_products.json",
       "replacement-trays-straps": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/replacement-trays-straps_products.json",
       "restaurant-baby-chair": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-baby-chair_products.json",
       "restaurant-dining-out-baby-portable-kit": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-dining-out-baby-portable-kit_products.json",
@@ -88,6 +89,7 @@
       "toddler-independence-milestone-kit": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-independence-milestone-kit_products.json",
       "toddler-stage-feeding": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-stage-feeding_products.json",
       "travel-high-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-high-chairs_products.json",
+      "twins-multiples-feeding-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/twins-multiples-feeding-essentials_products.json",
       "weaning-stage-feeding": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weaning-stage-feeding_products.json",
       "weekend-camping-baby-feeding-gear": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weekend-camping-baby-feeding-gear_products.json",
       "wooden-high-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/wooden-high-chairs_products.json"

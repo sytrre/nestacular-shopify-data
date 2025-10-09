@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-09T12:57:53+01:00",
+      "updated_at": "2025-10-09T13:22:58+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "High Chairs, Baby Tableware, Baby Mess Management, Baby Bibs, Baby Feeding Stages, Baby-Led Weaning, Guide, Tips, Baby Bottles, Baby Bottle Feeding, Baby-Led Weaning & First Foods, Gift Guides & Baby Shower Essentials, Gift Giving & Baby Shower Essentials, Baby Shower & Gift Giving Guide, High Chair Selection & Feeding Furniture, Premium Baby Gift Guides & Registry Building, Gift Guides & Baby Registry Essentials, Thoughtful Baby Gift Giving, Non-Toxic Baby Products & Material Safety, Gift Guides for New Parents",
       "admin_graphql_api_id": "gid://shopify/Blog/116861632854",
       "articles": [
+        {
+          "id": 610717237590,
+          "title": "Baby Bottle Nipple Flow Guide: Slow, Medium &amp; Fast Flow Explained",
+          "created_at": "2025-10-09T13:22:58+01:00",
+          "blog_id": 116861632854,
+          "author": "Valentine Okpala",
+          "user_id": 114325520726,
+          "published_at": null,
+          "updated_at": "2025-10-09T13:22:58+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "baby-bottle-nipple-flow-guide-slow-medium-amp-fast-flow-explained",
+          "tags": "Baby Bottle Feeding, Baby Bottles",
+          "admin_graphql_api_id": "gid://shopify/Article/610717237590"
+        },
         {
           "id": 610716647766,
           "title": "Best Baby Bottles for Breastfed Babies: Transition Made Easy",
