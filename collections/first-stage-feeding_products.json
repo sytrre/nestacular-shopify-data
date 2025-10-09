@@ -37983,8 +37983,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870671544662",
       "variants": [
         {
-          "id": 51504761143638,
           "product_id": 9870671544662,
+          "id": 51504761143638,
           "title": "Lake Green",
           "price": "19.95",
           "position": 1,
@@ -38011,8 +38011,8 @@
           "image_id": 67399344587094
         },
         {
-          "id": 51504761176406,
           "product_id": 9870671544662,
+          "id": 51504761176406,
           "title": "Pink",
           "price": "19.95",
           "position": 2,
@@ -38041,8 +38041,8 @@
       ],
       "options": [
         {
-          "id": 12733818208598,
           "product_id": 9870671544662,
+          "id": 12733818208598,
           "name": "Color",
           "position": 1,
           "values": [
