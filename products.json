@@ -25217,8 +25217,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9408744358230",
       "variants": [
         {
-          "product_id": 9408744358230,
           "id": 49660653437270,
+          "product_id": 9408744358230,
           "title": "Red With box",
           "price": "39.95",
           "position": 1,
@@ -25245,8 +25245,8 @@
           "image_id": 60515212984662
         },
         {
-          "product_id": 9408744358230,
           "id": 49660653470038,
+          "product_id": 9408744358230,
           "title": "Pink With box",
           "price": "39.95",
           "position": 2,
@@ -25273,8 +25273,8 @@
           "image_id": 59210155917654
         },
         {
-          "product_id": 9408744358230,
           "id": 49660653502806,
+          "product_id": 9408744358230,
           "title": "Cream With box",
           "price": "39.95",
           "position": 3,
@@ -25301,8 +25301,8 @@
           "image_id": 59210156015958
         },
         {
-          "product_id": 9408744358230,
           "id": 49660653535574,
+          "product_id": 9408744358230,
           "title": "White With box",
           "price": "39.95",
           "position": 4,
@@ -25331,8 +25331,8 @@
       ],
       "options": [
         {
-          "product_id": 9408744358230,
           "id": 12178452808022,
+          "product_id": 9408744358230,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29912,8 +29912,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9742590771542",
       "variants": [
         {
-          "id": 50994682397014,
           "product_id": 9742590771542,
+          "id": 50994682397014,
           "title": "Phase I",
           "price": "22.95",
           "position": 1,
@@ -29940,8 +29940,8 @@
           "image_id": 65098072949078
         },
         {
-          "id": 50994682429782,
           "product_id": 9742590771542,
+          "id": 50994682429782,
           "title": "Phase II",
           "price": "22.95",
           "position": 2,
@@ -29968,8 +29968,8 @@
           "image_id": 65098073080150
         },
         {
-          "id": 50994682462550,
           "product_id": 9742590771542,
+          "id": 50994682462550,
           "title": "Phase III",
           "price": "22.95",
           "position": 3,
@@ -29996,8 +29996,8 @@
           "image_id": 65098072850774
         },
         {
-          "id": 50994682495318,
           "product_id": 9742590771542,
+          "id": 50994682495318,
           "title": "Set",
           "price": "31.95",
           "position": 4,
@@ -30026,8 +30026,8 @@
       ],
       "options": [
         {
-          "id": 12583064797526,
           "product_id": 9742590771542,
+          "id": 12583064797526,
           "name": "style",
           "position": 1,
           "values": [
