@@ -1,6 +1,220 @@
 {
   "products": [
     {
+      "id": 9791165464918,
+      "title": "LittleSprout Silicone Baby Bottle Brush Set – Nipple Cleaner with Drying Rack & Base",
+      "body_html": "<p data-start=\"141\" data-end=\"455\">Keep your baby’s feeding essentials clean and organized with the <strong data-start=\"237\" data-end=\"284\">LittleSprout Silicone Baby Bottle Brush Set</strong>. This complete set includes a <strong data-start=\"315\" data-end=\"363\">nipple cleaner, brush, drying rack, and base</strong>, making it easy to wash and store bottles, nipples, and other feeding accessories safely.</p>\n<p data-start=\"457\" data-end=\"819\">Made from <strong data-start=\"467\" data-end=\"497\">BPA-free, durable silicone</strong>, the brushes are gentle on baby items yet tough on milk residues and bacteria. The <strong data-start=\"581\" data-end=\"601\">ergonomic design</strong> ensures effortless cleaning, while the <strong data-start=\"641\" data-end=\"665\">drying rack and base</strong> provide a hygienic space for air-drying all components. Perfect for home or travel, the LittleSprout set keeps feeding gear spotless and ready for use.</p>\n<p data-start=\"821\" data-end=\"840\"><strong data-start=\"821\" data-end=\"838\">Key Features:</strong></p>\n<ul data-start=\"841\" data-end=\"1223\">\n<li data-start=\"841\" data-end=\"926\">\n<p data-start=\"843\" data-end=\"926\"><strong data-start=\"843\" data-end=\"869\">Complete Cleaning Set:</strong> Includes brush, nipple cleaner, drying rack, and base.</p>\n</li>\n<li data-start=\"927\" data-end=\"992\">\n<p data-start=\"929\" data-end=\"992\"><strong data-start=\"929\" data-end=\"951\">BPA-Free Silicone:</strong> Safe for baby bottles and accessories.</p>\n</li>\n<li data-start=\"993\" data-end=\"1079\">\n<p data-start=\"995\" data-end=\"1079\"><strong data-start=\"995\" data-end=\"1027\">Effective &amp; Gentle Cleaning:</strong> Removes milk residue without scratching surfaces.</p>\n</li>\n<li data-start=\"1080\" data-end=\"1145\">\n<p data-start=\"1082\" data-end=\"1145\"><strong data-start=\"1082\" data-end=\"1109\">Ergonomic &amp; Convenient:</strong> Comfortable grip and easy to use.</p>\n</li>\n<li data-start=\"1146\" data-end=\"1223\">\n<p data-start=\"1148\" data-end=\"1223\"><strong data-start=\"1148\" data-end=\"1174\">Organized Drying Rack:</strong> Keeps feeding items hygienic and ready to use.</p>\n</li>\n</ul>\n<p data-start=\"1225\" data-end=\"1326\">Ensure clean, safe, and organized feeding with the <strong data-start=\"1276\" data-end=\"1323\">LittleSprout Silicone Baby Bottle Brush Set</strong>.</p>\n<p data-start=\"1225\" data-end=\"1326\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a15fc589-f2da-4f01-9b5a-3467944e3b25.jpg?v=1756710493\" alt=\"LittleSprout Silicone Baby Bottle Brush Set\"></p>\n<p data-start=\"1225\" data-end=\"1326\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f9a6225d-f77a-46c2-bbcd-21e70669c708.jpg?v=1756710494\" alt=\"LittleSprout Silicone Baby Bottle Brush Set\"></p>\n<p data-start=\"1225\" data-end=\"1326\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/bd5dfd12-d3e7-4330-adbe-89ce2774e122.jpg?v=1756710492\" alt=\"LittleSprout Silicone Baby Bottle Brush Set\"></p>",
+      "vendor": "Nestacular",
+      "product_type": "Baby Bottle Brush Set",
+      "created_at": "2025-09-01T08:08:03+01:00",
+      "handle": "littlesprout-silicone-baby-bottle-brush-set",
+      "updated_at": "2025-10-09T13:34:32+01:00",
+      "published_at": "2025-09-01T08:08:13+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Bottle Drying Rack, BPA-Free Baby Cleaning Set, Infant Feeding Brush Set, life-event-dual-household-co-parenting-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-returning-to-work-mom-feeding-prep, life-event-twins-multiples-feeding-essentials, Nipple Cleaner, Silicone Baby Bottle Brush",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9791165464918",
+      "variants": [
+        {
+          "id": 51195169145174,
+          "product_id": 9791165464918,
+          "title": "Pink Baby Bottle Brush",
+          "price": "18.62",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "24.21",
+          "option1": "Pink Baby Bottle Brush",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T08:08:10+01:00",
+          "updated_at": "2025-09-01T08:21:06+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 260,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD209612601AZ",
+          "weight": 260.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53399812276566,
+          "inventory_quantity": 14633,
+          "old_inventory_quantity": 14633,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51195169145174",
+          "image_id": 66238025728342
+        },
+        {
+          "id": 51195169177942,
+          "product_id": 9791165464918,
+          "title": "Green Baby Bottle Brush",
+          "price": "18.62",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "24.21",
+          "option1": "Green Baby Bottle Brush",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T08:08:10+01:00",
+          "updated_at": "2025-09-01T08:21:06+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 260,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD209612602BY",
+          "weight": 260.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53399812309334,
+          "inventory_quantity": 14117,
+          "old_inventory_quantity": 14117,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51195169177942",
+          "image_id": 66238025761110
+        },
+        {
+          "id": 51195169210710,
+          "product_id": 9791165464918,
+          "title": "Yellow Baby Bottle Brush",
+          "price": "18.62",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "24.21",
+          "option1": "Yellow Baby Bottle Brush",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T08:08:10+01:00",
+          "updated_at": "2025-09-01T08:21:06+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 260,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD209612603CX",
+          "weight": 260.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53399812342102,
+          "inventory_quantity": 14485,
+          "old_inventory_quantity": 14485,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51195169210710",
+          "image_id": 66238025793878
+        }
+      ],
+      "options": [
+        {
+          "id": 12640339820886,
+          "product_id": 9791165464918,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Pink Baby Bottle Brush",
+            "Green Baby Bottle Brush",
+            "Yellow Baby Bottle Brush"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66238023139670,
+          "alt": "LittleSprout Silicone Baby Bottle Brush Set ",
+          "position": 1,
+          "product_id": 9791165464918,
+          "created_at": "2025-09-01T08:08:05+01:00",
+          "updated_at": "2025-09-01T08:21:19+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238023139670",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4037471c-e6d3-40d0-971f-1bcd5e4f0c5a.jpg?v=1756710488",
+          "variant_ids": []
+        },
+        {
+          "id": 66238025105750,
+          "alt": "LittleSprout Silicone Baby Bottle Brush Set ",
+          "position": 2,
+          "product_id": 9791165464918,
+          "created_at": "2025-09-01T08:08:08+01:00",
+          "updated_at": "2025-09-01T08:21:24+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238025105750",
+          "width": 800,
+          "height": 677,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/bd5dfd12-d3e7-4330-adbe-89ce2774e122.jpg?v=1756710492",
+          "variant_ids": []
+        },
+        {
+          "id": 66238025531734,
+          "alt": "LittleSprout Silicone Baby Bottle Brush Set ",
+          "position": 3,
+          "product_id": 9791165464918,
+          "created_at": "2025-09-01T08:08:10+01:00",
+          "updated_at": "2025-09-01T08:21:29+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238025531734",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a15fc589-f2da-4f01-9b5a-3467944e3b25.jpg?v=1756710493",
+          "variant_ids": []
+        },
+        {
+          "id": 66238025728342,
+          "alt": "LittleSprout Silicone Baby Bottle Brush Set ",
+          "position": 4,
+          "product_id": 9791165464918,
+          "created_at": "2025-09-01T08:08:10+01:00",
+          "updated_at": "2025-09-01T08:21:34+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238025728342",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4037471c-e6d3-40d0-971f-1bcd5e4f0c5a_00a05fb2-4881-4ace-89f6-7d854aea0136.jpg?v=1756710494",
+          "variant_ids": [
+            51195169145174
+          ]
+        },
+        {
+          "id": 66238025761110,
+          "alt": "LittleSprout Silicone Baby Bottle Brush Set ",
+          "position": 5,
+          "product_id": 9791165464918,
+          "created_at": "2025-09-01T08:08:10+01:00",
+          "updated_at": "2025-09-01T08:21:39+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238025761110",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5067c325-7226-415d-866f-36f39dcac586.jpg?v=1756710494",
+          "variant_ids": [
+            51195169177942
+          ]
+        },
+        {
+          "id": 66238025793878,
+          "alt": "LittleSprout Silicone Baby Bottle Brush Set ",
+          "position": 6,
+          "product_id": 9791165464918,
+          "created_at": "2025-09-01T08:08:10+01:00",
+          "updated_at": "2025-09-01T08:21:44+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66238025793878",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f9a6225d-f77a-46c2-bbcd-21e70669c708.jpg?v=1756710494",
+          "variant_ids": [
+            51195169210710
+          ]
+        }
+      ],
+      "image": {
+        "id": 66238023139670,
+        "alt": "LittleSprout Silicone Baby Bottle Brush Set ",
+        "position": 1,
+        "product_id": 9791165464918,
+        "created_at": "2025-09-01T08:08:05+01:00",
+        "updated_at": "2025-09-01T08:21:19+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66238023139670",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4037471c-e6d3-40d0-971f-1bcd5e4f0c5a.jpg?v=1756710488",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9791346114902,
       "title": "LittleWinks Baby Bottle Brush Set – 2-Piece Nipple & Glass Bottle Cleaner",
       "body_html": "<p data-end=\"450\" data-start=\"132\">The <strong data-end=\"204\" data-start=\"167\">LittleWinks Baby Bottle Brush Set</strong> is designed to make cleaning your baby’s feeding essentials quick, hygienic, and hassle-free. This <strong data-end=\"319\" data-start=\"304\">2-piece set</strong> includes a durable <strong data-end=\"370\" data-start=\"339\">glass bottle cleaning brush</strong> and a <strong data-end=\"398\" data-start=\"377\">soft nipple brush</strong>, ensuring every corner of the bottle is spotless.</p>\n<p data-end=\"682\" data-start=\"452\">Made from <strong data-end=\"496\" data-start=\"462\">food-grade, BPA-free materials</strong>, the brushes are safe, non-toxic, and gentle on bottles while being tough on milk residue and stains. The <strong data-end=\"623\" data-start=\"603\">ergonomic handle</strong> provides a comfortable grip, making cleaning effortless.</p>\n<p data-end=\"828\" data-start=\"684\">Compact and lightweight, the <strong data-end=\"738\" data-start=\"713\">LittleWinks Brush Set</strong> is perfect for both home and travel, keeping your baby’s bottles hygienic at all times.</p>\n<p data-end=\"849\" data-start=\"830\"><strong data-end=\"847\" data-start=\"830\">Key Features:</strong></p>\n<ul data-end=\"1195\" data-start=\"850\">\n<li data-end=\"918\" data-start=\"850\">\n<p data-end=\"918\" data-start=\"852\"><strong data-end=\"874\" data-start=\"852\">2-Piece Brush Set:</strong> Includes bottle brush and nipple cleaner.</p>\n</li>\n<li data-end=\"986\" data-start=\"919\">\n<p data-end=\"986\" data-start=\"921\"><strong data-end=\"941\" data-start=\"921\">Safe &amp; BPA-Free:</strong> Made from food-grade, non-toxic materials.</p>\n</li>\n<li data-end=\"1060\" data-start=\"987\">\n<p data-end=\"1060\" data-start=\"989\"><strong data-end=\"1012\" data-start=\"989\">Efficient Cleaning:</strong> Removes milk residue and tough stains easily.</p>\n</li>\n<li data-end=\"1128\" data-start=\"1061\">\n<p data-end=\"1128\" data-start=\"1063\"><strong data-end=\"1084\" data-start=\"1063\">Ergonomic Handle:</strong> Comfortable grip for effortless cleaning.</p>\n</li>\n<li data-end=\"1195\" data-start=\"1129\">\n<p data-end=\"1195\" data-start=\"1131\"><strong data-end=\"1151\" data-start=\"1131\">Travel-Friendly:</strong> Compact design for home or on-the-go use.</p>\n</li>\n</ul>\n<p data-end=\"1297\" data-start=\"1197\">Keep your baby’s feeding essentials clean and safe with the <strong data-end=\"1294\" data-start=\"1257\">LittleWinks Baby Bottle Brush Set</strong>.</p>\n<p data-end=\"1297\" data-start=\"1197\"><img alt=\"LittleWinks Baby Bottle Brush Set\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1613446381146.jpg?v=1756722397\"></p>\n<p data-end=\"1297\" data-start=\"1197\"><img alt=\"LittleWinks Baby Bottle Brush Set\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1613446381155.jpg?v=1756722405\"></p>\n<p data-end=\"1297\" data-start=\"1197\"><img alt=\"LittleWinks Baby Bottle Brush Set\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1613446381164.jpg?v=1756722406\"></p>",
@@ -14463,8 +14677,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9778338857302",
       "variants": [
         {
-          "id": 51136716374358,
           "product_id": 9778338857302,
+          "id": 51136716374358,
           "title": "Beige Small No Plate WZ6",
           "price": "72.95",
           "position": 1,
@@ -14491,8 +14705,8 @@
           "image_id": 66113000800598
         },
         {
-          "id": 51136716407126,
           "product_id": 9778338857302,
+          "id": 51136716407126,
           "title": "Green Small",
           "price": "73.45",
           "position": 2,
@@ -14519,8 +14733,8 @@
           "image_id": 66113000833366
         },
         {
-          "id": 51136716439894,
           "product_id": 9778338857302,
+          "id": 51136716439894,
           "title": "Large Beige",
           "price": "74.55",
           "position": 3,
@@ -14547,8 +14761,8 @@
           "image_id": 66113000866134
         },
         {
-          "id": 51136716472662,
           "product_id": 9778338857302,
+          "id": 51136716472662,
           "title": "Large Flagship Beige",
           "price": "75.45",
           "position": 4,
@@ -14575,8 +14789,8 @@
           "image_id": 66113000898902
         },
         {
-          "id": 51136716505430,
           "product_id": 9778338857302,
+          "id": 51136716505430,
           "title": "Large Flagship Green",
           "price": "75.45",
           "position": 5,
@@ -14603,8 +14817,8 @@
           "image_id": 66113000931670
         },
         {
-          "id": 51136716538198,
           "product_id": 9778338857302,
+          "id": 51136716538198,
           "title": "Large Green",
           "price": "74.55",
           "position": 6,
@@ -14631,8 +14845,8 @@
           "image_id": 66113000964438
         },
         {
-          "id": 51136716570966,
           "product_id": 9778338857302,
+          "id": 51136716570966,
           "title": "Large Plus Size Beige",
           "price": "78.95",
           "position": 7,
@@ -14659,8 +14873,8 @@
           "image_id": 66113000997206
         },
         {
-          "id": 51136716603734,
           "product_id": 9778338857302,
+          "id": 51136716603734,
           "title": "Large Plus Size Green",
           "price": "78.95",
           "position": 8,
@@ -14687,8 +14901,8 @@
           "image_id": 66113001029974
         },
         {
-          "id": 51136716636502,
           "product_id": 9778338857302,
+          "id": 51136716636502,
           "title": "Little Green Flagship",
           "price": "74.55",
           "position": 9,
@@ -14715,8 +14929,8 @@
           "image_id": 66113001062742
         },
         {
-          "id": 51136716669270,
           "product_id": 9778338857302,
+          "id": 51136716669270,
           "title": "Small Beige Flagship",
           "price": "74.55",
           "position": 10,
@@ -14743,8 +14957,8 @@
           "image_id": 66113001095510
         },
         {
-          "id": 51136716702038,
           "product_id": 9778338857302,
+          "id": 51136716702038,
           "title": "Small Size Beige",
           "price": "73.45",
           "position": 11,
@@ -14771,8 +14985,8 @@
           "image_id": 66113001128278
         },
         {
-          "id": 51136716734806,
           "product_id": 9778338857302,
+          "id": 51136716734806,
           "title": "Small Size Exclusive Beige",
           "price": "77.45",
           "position": 12,
@@ -14799,8 +15013,8 @@
           "image_id": 66113001161046
         },
         {
-          "id": 51136716767574,
           "product_id": 9778338857302,
+          "id": 51136716767574,
           "title": "Small Size Exclusive Green",
           "price": "77.45",
           "position": 13,
@@ -14827,8 +15041,8 @@
           "image_id": 66113001193814
         },
         {
-          "id": 51136716800342,
           "product_id": 9778338857302,
+          "id": 51136716800342,
           "title": "Sunshade",
           "price": "28.95",
           "position": 14,
@@ -14857,8 +15071,8 @@
       ],
       "options": [
         {
-          "id": 12625170563414,
           "product_id": 9778338857302,
+          "id": 12625170563414,
           "name": "Color",
           "position": 1,
           "values": [
@@ -97914,8 +98128,8 @@
     "current_page": 2,
     "total_pages": 2,
     "items_per_page": 250,
-    "total_items": 491,
-    "items_in_page": 241,
+    "total_items": 492,
+    "items_in_page": 242,
     "has_next_page": false,
     "has_previous_page": true,
     "previous_page_file": "products.json"
