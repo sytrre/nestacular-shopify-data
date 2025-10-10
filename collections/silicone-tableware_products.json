@@ -55872,8 +55872,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791163662678",
       "variants": [
         {
-          "product_id": 9791163662678,
           "id": 51195165180246,
+          "product_id": 9791163662678,
           "title": "Dark Green / L",
           "price": "16.82",
           "position": 1,
@@ -55900,8 +55900,8 @@
           "image_id": 66237976969558
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165213014,
+          "product_id": 9791163662678,
           "title": "Dark Green / M",
           "price": "16.69",
           "position": 2,
@@ -55928,8 +55928,8 @@
           "image_id": 66237976969558
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165245782,
+          "product_id": 9791163662678,
           "title": "Dark Green / S",
           "price": "16.56",
           "position": 3,
@@ -55956,8 +55956,8 @@
           "image_id": 66237976969558
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165278550,
+          "product_id": 9791163662678,
           "title": "Dark Green / XL",
           "price": "17.21",
           "position": 4,
@@ -55984,8 +55984,8 @@
           "image_id": 66237976969558
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165311318,
+          "product_id": 9791163662678,
           "title": "Gray / L",
           "price": "16.82",
           "position": 5,
@@ -56012,8 +56012,8 @@
           "image_id": 66237977002326
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165344086,
+          "product_id": 9791163662678,
           "title": "Gray / M",
           "price": "16.69",
           "position": 6,
@@ -56040,8 +56040,8 @@
           "image_id": 66237977002326
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165376854,
+          "product_id": 9791163662678,
           "title": "Gray / S",
           "price": "16.56",
           "position": 7,
@@ -56068,8 +56068,8 @@
           "image_id": 66237977002326
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165409622,
+          "product_id": 9791163662678,
           "title": "Gray / XL",
           "price": "17.21",
           "position": 8,
@@ -56096,8 +56096,8 @@
           "image_id": 66237977002326
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165442390,
+          "product_id": 9791163662678,
           "title": "Green / L",
           "price": "16.82",
           "position": 9,
@@ -56124,8 +56124,8 @@
           "image_id": 66237977035094
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165475158,
+          "product_id": 9791163662678,
           "title": "Green / M",
           "price": "16.69",
           "position": 10,
@@ -56152,8 +56152,8 @@
           "image_id": 66237977035094
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165507926,
+          "product_id": 9791163662678,
           "title": "Green / S",
           "price": "16.56",
           "position": 11,
@@ -56180,8 +56180,8 @@
           "image_id": 66237977035094
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165540694,
+          "product_id": 9791163662678,
           "title": "Green / XL",
           "price": "17.21",
           "position": 12,
@@ -56208,8 +56208,8 @@
           "image_id": 66237977035094
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165573462,
+          "product_id": 9791163662678,
           "title": "Orange / L",
           "price": "16.82",
           "position": 13,
@@ -56236,8 +56236,8 @@
           "image_id": 66237977067862
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165606230,
+          "product_id": 9791163662678,
           "title": "Orange / M",
           "price": "16.69",
           "position": 14,
@@ -56264,8 +56264,8 @@
           "image_id": 66237977067862
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165638998,
+          "product_id": 9791163662678,
           "title": "Orange / S",
           "price": "16.56",
           "position": 15,
@@ -56292,8 +56292,8 @@
           "image_id": 66237977067862
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165671766,
+          "product_id": 9791163662678,
           "title": "Orange / XL",
           "price": "17.21",
           "position": 16,
@@ -56320,8 +56320,8 @@
           "image_id": 66237977067862
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165704534,
+          "product_id": 9791163662678,
           "title": "Black / L",
           "price": "16.82",
           "position": 17,
@@ -56348,8 +56348,8 @@
           "image_id": 66237977100630
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165737302,
+          "product_id": 9791163662678,
           "title": "Black / M",
           "price": "16.69",
           "position": 18,
@@ -56376,8 +56376,8 @@
           "image_id": 66237977100630
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165770070,
+          "product_id": 9791163662678,
           "title": "Black / S",
           "price": "16.56",
           "position": 19,
@@ -56404,8 +56404,8 @@
           "image_id": 66237977100630
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165802838,
+          "product_id": 9791163662678,
           "title": "Black / XL",
           "price": "17.21",
           "position": 20,
@@ -56432,8 +56432,8 @@
           "image_id": 66237977100630
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165835606,
+          "product_id": 9791163662678,
           "title": "Purple / L",
           "price": "16.82",
           "position": 21,
@@ -56460,8 +56460,8 @@
           "image_id": 66237977133398
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165868374,
+          "product_id": 9791163662678,
           "title": "Purple / M",
           "price": "16.69",
           "position": 22,
@@ -56488,8 +56488,8 @@
           "image_id": 66237977133398
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165901142,
+          "product_id": 9791163662678,
           "title": "Purple / S",
           "price": "16.56",
           "position": 23,
@@ -56516,8 +56516,8 @@
           "image_id": 66237977133398
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165933910,
+          "product_id": 9791163662678,
           "title": "Purple / XL",
           "price": "17.21",
           "position": 24,
@@ -56544,8 +56544,8 @@
           "image_id": 66237977133398
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165966678,
+          "product_id": 9791163662678,
           "title": "Random Color / L",
           "price": "16.51",
           "position": 25,
@@ -56572,8 +56572,8 @@
           "image_id": 66237977166166
         },
         {
-          "product_id": 9791163662678,
           "id": 51195165999446,
+          "product_id": 9791163662678,
           "title": "Random Color / M",
           "price": "16.40",
           "position": 26,
@@ -56600,8 +56600,8 @@
           "image_id": 66237977166166
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166032214,
+          "product_id": 9791163662678,
           "title": "Random Color / S",
           "price": "16.42",
           "position": 27,
@@ -56628,8 +56628,8 @@
           "image_id": 66237977166166
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166064982,
+          "product_id": 9791163662678,
           "title": "Random Color / XL",
           "price": "17.23",
           "position": 28,
@@ -56656,8 +56656,8 @@
           "image_id": 66237977166166
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166097750,
+          "product_id": 9791163662678,
           "title": "Red / L",
           "price": "16.82",
           "position": 29,
@@ -56684,8 +56684,8 @@
           "image_id": 66237977198934
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166130518,
+          "product_id": 9791163662678,
           "title": "Red / M",
           "price": "16.69",
           "position": 30,
@@ -56712,8 +56712,8 @@
           "image_id": 66237977198934
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166163286,
+          "product_id": 9791163662678,
           "title": "Red / S",
           "price": "16.56",
           "position": 31,
@@ -56740,8 +56740,8 @@
           "image_id": 66237977198934
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166196054,
+          "product_id": 9791163662678,
           "title": "Red / XL",
           "price": "17.21",
           "position": 32,
@@ -56768,8 +56768,8 @@
           "image_id": 66237977198934
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166228822,
+          "product_id": 9791163662678,
           "title": "Sky Blue / L",
           "price": "16.82",
           "position": 33,
@@ -56796,8 +56796,8 @@
           "image_id": 66237977231702
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166261590,
+          "product_id": 9791163662678,
           "title": "Sky Blue / M",
           "price": "16.69",
           "position": 34,
@@ -56824,8 +56824,8 @@
           "image_id": 66237977231702
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166294358,
+          "product_id": 9791163662678,
           "title": "Sky Blue / S",
           "price": "16.56",
           "position": 35,
@@ -56852,8 +56852,8 @@
           "image_id": 66237977231702
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166327126,
+          "product_id": 9791163662678,
           "title": "Sky Blue / XL",
           "price": "17.21",
           "position": 36,
@@ -56880,8 +56880,8 @@
           "image_id": 66237977231702
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166359894,
+          "product_id": 9791163662678,
           "title": "White / L",
           "price": "16.82",
           "position": 37,
@@ -56908,8 +56908,8 @@
           "image_id": 66237977264470
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166392662,
+          "product_id": 9791163662678,
           "title": "White / M",
           "price": "16.69",
           "position": 38,
@@ -56936,8 +56936,8 @@
           "image_id": 66237977264470
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166425430,
+          "product_id": 9791163662678,
           "title": "White / S",
           "price": "16.42",
           "position": 39,
@@ -56964,8 +56964,8 @@
           "image_id": 66237977264470
         },
         {
-          "product_id": 9791163662678,
           "id": 51195166458198,
+          "product_id": 9791163662678,
           "title": "White / XL",
           "price": "17.21",
           "position": 40,
@@ -56994,8 +56994,8 @@
       ],
       "options": [
         {
-          "product_id": 9791163662678,
           "id": 12640337887574,
+          "product_id": 9791163662678,
           "name": "Color",
           "position": 1,
           "values": [
@@ -57012,8 +57012,8 @@
           ]
         },
         {
-          "product_id": 9791163662678,
           "id": 12640337920342,
+          "product_id": 9791163662678,
           "name": "Specifications",
           "position": 2,
           "values": [
