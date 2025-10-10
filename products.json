@@ -6387,8 +6387,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791387566422",
       "variants": [
         {
-          "id": 51196299313494,
           "product_id": 9791387566422,
+          "id": 51196299313494,
           "title": "Brown",
           "price": "17.56",
           "position": 1,
@@ -6415,8 +6415,8 @@
           "image_id": 66241145766230
         },
         {
-          "id": 51196299346262,
           "product_id": 9791387566422,
+          "id": 51196299346262,
           "title": "Yellow",
           "price": "17.56",
           "position": 2,
@@ -6443,8 +6443,8 @@
           "image_id": 66241145798998
         },
         {
-          "id": 51196299379030,
           "product_id": 9791387566422,
+          "id": 51196299379030,
           "title": "Orange",
           "price": "17.56",
           "position": 3,
@@ -6471,8 +6471,8 @@
           "image_id": 66241145831766
         },
         {
-          "id": 51196299411798,
           "product_id": 9791387566422,
+          "id": 51196299411798,
           "title": "Red",
           "price": "17.56",
           "position": 4,
@@ -6499,8 +6499,8 @@
           "image_id": 66241145864534
         },
         {
-          "id": 51196299444566,
           "product_id": 9791387566422,
+          "id": 51196299444566,
           "title": "Green",
           "price": "17.56",
           "position": 5,
@@ -6529,8 +6529,8 @@
       ],
       "options": [
         {
-          "id": 12640604160342,
           "product_id": 9791387566422,
+          "id": 12640604160342,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8072,8 +8072,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825545355606",
       "variants": [
         {
-          "product_id": 9825545355606,
           "id": 51338753868118,
+          "product_id": 9825545355606,
           "title": "Green",
           "price": "80.95",
           "position": 1,
@@ -8102,8 +8102,8 @@
       ],
       "options": [
         {
-          "product_id": 9825545355606,
           "id": 12681326199126,
+          "product_id": 9825545355606,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18383,8 +18383,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793335361878",
       "variants": [
         {
-          "id": 51204704633174,
           "product_id": 9793335361878,
+          "id": 51204704633174,
           "title": "Pink",
           "price": "47.65",
           "position": 1,
@@ -18411,8 +18411,8 @@
           "image_id": 66259650511190
         },
         {
-          "id": 51204704665942,
           "product_id": 9793335361878,
+          "id": 51204704665942,
           "title": "Yellow",
           "price": "47.65",
           "position": 2,
@@ -18439,8 +18439,8 @@
           "image_id": 66259650543958
         },
         {
-          "id": 51204704698710,
           "product_id": 9793335361878,
+          "id": 51204704698710,
           "title": "Nude pink",
           "price": "47.65",
           "position": 3,
@@ -18467,8 +18467,8 @@
           "image_id": 66259650576726
         },
         {
-          "id": 51204704731478,
           "product_id": 9793335361878,
+          "id": 51204704731478,
           "title": "Marble",
           "price": "47.65",
           "position": 4,
@@ -18495,8 +18495,8 @@
           "image_id": 66259650609494
         },
         {
-          "id": 51204704764246,
           "product_id": 9793335361878,
+          "id": 51204704764246,
           "title": "Purple",
           "price": "47.65",
           "position": 5,
@@ -18525,8 +18525,8 @@
       ],
       "options": [
         {
-          "id": 12642925642070,
           "product_id": 9793335361878,
+          "id": 12642925642070,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19704,8 +19704,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791841698134",
       "variants": [
         {
-          "id": 51197712302422,
           "product_id": 9791841698134,
+          "id": 51197712302422,
           "title": "A",
           "price": "25.83",
           "position": 1,
@@ -19732,8 +19732,8 @@
           "image_id": 66246002147670
         },
         {
-          "id": 51197712335190,
           "product_id": 9791841698134,
+          "id": 51197712335190,
           "title": "B",
           "price": "25.83",
           "position": 2,
@@ -19760,8 +19760,8 @@
           "image_id": 66246002180438
         },
         {
-          "id": 51197712367958,
           "product_id": 9791841698134,
+          "id": 51197712367958,
           "title": "C",
           "price": "25.83",
           "position": 3,
@@ -19788,8 +19788,8 @@
           "image_id": 66246002213206
         },
         {
-          "id": 51197712400726,
           "product_id": 9791841698134,
+          "id": 51197712400726,
           "title": "D",
           "price": "25.83",
           "position": 4,
@@ -19816,8 +19816,8 @@
           "image_id": 66246002245974
         },
         {
-          "id": 51197712433494,
           "product_id": 9791841698134,
+          "id": 51197712433494,
           "title": "E",
           "price": "25.83",
           "position": 5,
@@ -19844,8 +19844,8 @@
           "image_id": 66246002278742
         },
         {
-          "id": 51197712466262,
           "product_id": 9791841698134,
+          "id": 51197712466262,
           "title": "F",
           "price": "25.83",
           "position": 6,
@@ -19872,8 +19872,8 @@
           "image_id": 66246002311510
         },
         {
-          "id": 51197712499030,
           "product_id": 9791841698134,
+          "id": 51197712499030,
           "title": "G",
           "price": "25.83",
           "position": 7,
@@ -19900,8 +19900,8 @@
           "image_id": 66246002344278
         },
         {
-          "id": 51197712531798,
           "product_id": 9791841698134,
+          "id": 51197712531798,
           "title": "H",
           "price": "25.83",
           "position": 8,
@@ -19928,8 +19928,8 @@
           "image_id": 66246002377046
         },
         {
-          "id": 51197712564566,
           "product_id": 9791841698134,
+          "id": 51197712564566,
           "title": "I",
           "price": "25.83",
           "position": 9,
@@ -19956,8 +19956,8 @@
           "image_id": 66246002409814
         },
         {
-          "id": 51197712597334,
           "product_id": 9791841698134,
+          "id": 51197712597334,
           "title": "J",
           "price": "25.83",
           "position": 10,
@@ -19986,8 +19986,8 @@
       ],
       "options": [
         {
-          "id": 12641121403222,
           "product_id": 9791841698134,
+          "id": 12641121403222,
           "name": "style",
           "position": 1,
           "values": [
@@ -23369,8 +23369,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793804271958",
       "variants": [
         {
-          "id": 51206543311190,
           "product_id": 9793804271958,
+          "id": 51206543311190,
           "title": "Blue",
           "price": "16.81",
           "position": 1,
@@ -23397,8 +23397,8 @@
           "image_id": 66262955491670
         },
         {
-          "id": 51206543343958,
           "product_id": 9793804271958,
+          "id": 51206543343958,
           "title": "Pink",
           "price": "16.81",
           "position": 2,
@@ -23425,8 +23425,8 @@
           "image_id": 66262955524438
         },
         {
-          "id": 51206543376726,
           "product_id": 9793804271958,
+          "id": 51206543376726,
           "title": "Green",
           "price": "16.81",
           "position": 3,
@@ -23455,8 +23455,8 @@
       ],
       "options": [
         {
-          "id": 12643536765270,
           "product_id": 9793804271958,
+          "id": 12643536765270,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25049,8 +25049,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649363798",
       "variants": [
         {
-          "id": 51201111753046,
           "product_id": 9792649363798,
+          "id": 51201111753046,
           "title": "Pink",
           "price": "15.44",
           "position": 1,
@@ -25077,8 +25077,8 @@
           "image_id": 66252997493078
         },
         {
-          "id": 51201111785814,
           "product_id": 9792649363798,
+          "id": 51201111785814,
           "title": "Green small",
           "price": "15.44",
           "position": 2,
@@ -25105,8 +25105,8 @@
           "image_id": 66252997525846
         },
         {
-          "id": 51201111818582,
           "product_id": 9792649363798,
+          "id": 51201111818582,
           "title": "Dark green small",
           "price": "15.44",
           "position": 3,
@@ -25133,8 +25133,8 @@
           "image_id": 66252997558614
         },
         {
-          "id": 51201111851350,
           "product_id": 9792649363798,
+          "id": 51201111851350,
           "title": "Purple small",
           "price": "15.44",
           "position": 4,
@@ -25163,8 +25163,8 @@
       ],
       "options": [
         {
-          "id": 12642096447830,
           "product_id": 9792649363798,
+          "id": 12642096447830,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29855,7 +29855,7 @@
       "product_type": "0",
       "created_at": "2025-10-10T14:11:57+01:00",
       "handle": "bouckle-universal-baby-dining-chair-portable-seat-for-easy-mealtime",
-      "updated_at": "2025-10-10T14:29:18+01:00",
+      "updated_at": "2025-10-10T15:11:59+01:00",
       "published_at": "2025-10-10T14:29:15+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -29875,7 +29875,7 @@
           "option2": "10CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:18:54+01:00",
+          "updated_at": "2025-10-10T15:11:58+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -29886,8 +29886,8 @@
           "weight": 520.0,
           "weight_unit": "g",
           "inventory_item_id": 53791978684758,
-          "inventory_quantity": 22946,
-          "old_inventory_quantity": 22946,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533942849878",
           "image_id": 67454383784278
         },
@@ -29903,7 +29903,7 @@
           "option2": "5CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:19:35+01:00",
+          "updated_at": "2025-10-10T15:11:59+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -29914,8 +29914,8 @@
           "weight": 320.0,
           "weight_unit": "g",
           "inventory_item_id": 53791978717526,
-          "inventory_quantity": 20756,
-          "old_inventory_quantity": 20756,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533942882646",
           "image_id": 67454383817046
         },
@@ -29931,7 +29931,7 @@
           "option2": "10CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:20:16+01:00",
+          "updated_at": "2025-10-10T15:11:59+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -29942,8 +29942,8 @@
           "weight": 520.0,
           "weight_unit": "g",
           "inventory_item_id": 53791978750294,
-          "inventory_quantity": 23879,
-          "old_inventory_quantity": 23879,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533942915414",
           "image_id": 67454383849814
         },
@@ -29959,7 +29959,7 @@
           "option2": "5CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:21:08+01:00",
+          "updated_at": "2025-10-10T15:11:56+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -29970,8 +29970,8 @@
           "weight": 320.0,
           "weight_unit": "g",
           "inventory_item_id": 53791978783062,
-          "inventory_quantity": 22604,
-          "old_inventory_quantity": 22604,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533942948182",
           "image_id": 67454383882582
         },
@@ -29987,7 +29987,7 @@
           "option2": "10CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:21:48+01:00",
+          "updated_at": "2025-10-10T15:11:58+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -29998,8 +29998,8 @@
           "weight": 520.0,
           "weight_unit": "g",
           "inventory_item_id": 53791978815830,
-          "inventory_quantity": 22348,
-          "old_inventory_quantity": 22348,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533942980950",
           "image_id": 67454383915350
         },
@@ -30043,7 +30043,7 @@
           "option2": "10CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:23:05+01:00",
+          "updated_at": "2025-10-10T15:11:58+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -30054,8 +30054,8 @@
           "weight": 520.0,
           "weight_unit": "g",
           "inventory_item_id": 53791978881366,
-          "inventory_quantity": 23510,
-          "old_inventory_quantity": 23510,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533943046486",
           "image_id": 67454383980886
         },
@@ -30071,7 +30071,7 @@
           "option2": "5CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:23:47+01:00",
+          "updated_at": "2025-10-10T15:11:56+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -30082,8 +30082,8 @@
           "weight": 320.0,
           "weight_unit": "g",
           "inventory_item_id": 53791978914134,
-          "inventory_quantity": 24105,
-          "old_inventory_quantity": 24105,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533943079254",
           "image_id": 67454384013654
         },
@@ -30099,7 +30099,7 @@
           "option2": "5CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:24:25+01:00",
+          "updated_at": "2025-10-10T15:11:58+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -30110,8 +30110,8 @@
           "weight": 320.0,
           "weight_unit": "g",
           "inventory_item_id": 53791978946902,
-          "inventory_quantity": 22833,
-          "old_inventory_quantity": 22833,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533943112022",
           "image_id": 67454384046422
         },
@@ -30127,7 +30127,7 @@
           "option2": "10CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:25:03+01:00",
+          "updated_at": "2025-10-10T15:11:57+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -30138,8 +30138,8 @@
           "weight": 520.0,
           "weight_unit": "g",
           "inventory_item_id": 53791978979670,
-          "inventory_quantity": 23416,
-          "old_inventory_quantity": 23416,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533943144790",
           "image_id": 67454384079190
         },
@@ -30155,7 +30155,7 @@
           "option2": "10CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:25:48+01:00",
+          "updated_at": "2025-10-10T15:11:56+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -30166,8 +30166,8 @@
           "weight": 520.0,
           "weight_unit": "g",
           "inventory_item_id": 53791979012438,
-          "inventory_quantity": 10001,
-          "old_inventory_quantity": 10001,
+          "inventory_quantity": 23312,
+          "old_inventory_quantity": 23312,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533943177558",
           "image_id": 67454384111958
         },
@@ -30183,7 +30183,7 @@
           "option2": "5CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:26:25+01:00",
+          "updated_at": "2025-10-10T15:11:57+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -30194,8 +30194,8 @@
           "weight": 320.0,
           "weight_unit": "g",
           "inventory_item_id": 53791979045206,
-          "inventory_quantity": 23243,
-          "old_inventory_quantity": 23243,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533943210326",
           "image_id": 67454384144726
         },
@@ -30211,7 +30211,7 @@
           "option2": "10CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:27:04+01:00",
+          "updated_at": "2025-10-10T15:11:58+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -30222,8 +30222,8 @@
           "weight": 520.0,
           "weight_unit": "g",
           "inventory_item_id": 53791979077974,
-          "inventory_quantity": 21504,
-          "old_inventory_quantity": 21504,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533943243094",
           "image_id": 67454384177494
         },
@@ -30239,7 +30239,7 @@
           "option2": "5CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:27:41+01:00",
+          "updated_at": "2025-10-10T15:11:59+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -30250,8 +30250,8 @@
           "weight": 320.0,
           "weight_unit": "g",
           "inventory_item_id": 53791979110742,
-          "inventory_quantity": 23258,
-          "old_inventory_quantity": 23258,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533943275862",
           "image_id": 67454384210262
         },
@@ -30295,7 +30295,7 @@
           "option2": "5CM",
           "option3": null,
           "created_at": "2025-10-10T14:12:18+01:00",
-          "updated_at": "2025-10-10T14:29:01+01:00",
+          "updated_at": "2025-10-10T15:11:57+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -30306,8 +30306,8 @@
           "weight": 320.0,
           "weight_unit": "g",
           "inventory_item_id": 53791979176278,
-          "inventory_quantity": 21173,
-          "old_inventory_quantity": 21173,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51533943341398",
           "image_id": 67454384275798
         }
@@ -34575,8 +34575,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791666094422",
       "variants": [
         {
-          "id": 51197238083926,
           "product_id": 9791666094422,
+          "id": 51197238083926,
           "title": "Purple",
           "price": "44.04",
           "position": 1,
@@ -34603,8 +34603,8 @@
           "image_id": 66244465295702
         },
         {
-          "id": 51197238116694,
           "product_id": 9791666094422,
+          "id": 51197238116694,
           "title": "Red",
           "price": "44.04",
           "position": 2,
@@ -34631,8 +34631,8 @@
           "image_id": 66244465328470
         },
         {
-          "id": 51197238149462,
           "product_id": 9791666094422,
+          "id": 51197238149462,
           "title": "Blue",
           "price": "44.04",
           "position": 3,
@@ -34659,8 +34659,8 @@
           "image_id": 66244465361238
         },
         {
-          "id": 51197238182230,
           "product_id": 9791666094422,
+          "id": 51197238182230,
           "title": "Pink",
           "price": "44.04",
           "position": 4,
@@ -34689,8 +34689,8 @@
       ],
       "options": [
         {
-          "id": 12640923386198,
           "product_id": 9791666094422,
+          "id": 12640923386198,
           "name": "Color",
           "position": 1,
           "values": [
@@ -88875,8 +88875,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828531601750",
       "variants": [
         {
-          "product_id": 9828531601750,
           "id": 51347037782358,
+          "product_id": 9828531601750,
           "title": "Beige",
           "price": "105.95",
           "position": 1,
@@ -88905,8 +88905,8 @@
       ],
       "options": [
         {
-          "product_id": 9828531601750,
           "id": 12684777947478,
+          "product_id": 9828531601750,
           "name": "Color",
           "position": 1,
           "values": [
@@ -93266,13 +93266,13 @@
     {
       "id": 9882241499478,
       "title": "Komforty Portable Children's Dining Table – Foldable Mealtime Solution for Kids",
-      "body_html": "<p>Komforty Portable Children's Dining Table combines smart space-saving innovation with sturdy craftsmanship to create the ultimate mealtime companion for growing kids. Designed for modern families, this foldable table offers convenience, safety, and style—perfect for dining, play, or creative activities at home and beyond.</p>\n<h3>Smart Design Features</h3>\n<p>Foldable Space-Saving Design allows easy storage and transport, ideal for small homes and travel. Durable Construction ensures stability and long-lasting use during daily meals and activities. Child-Friendly Height promotes comfortable and independent dining for children. Smooth, Easy-to-Clean Surface makes post-meal cleanup quick and effortless. Rounded Safety Edges protect little hands from bumps and scratches. Lightweight Portability makes it easy to move between rooms or take outdoors.</p>\n<h3>Setup and Usage</h3>\n<p>Unfold the table and ensure all joints are securely locked in place. Position on a flat, stable surface before use. Wipe down the tabletop before and after each meal or activity. Fold flat for compact storage when not in use or when traveling.</p>\n<h3>Product Specifications</h3>\n<p>Material: Premium food-grade plastic and reinforced metal frame Dimensions: Compact, foldable design suitable for toddlers and young children Style: Lightweight and portable with secure locking joints Colors: Sky Blue, Soft Pink, Neutral Beige Suitable for: Children’s mealtime, drawing, or playtime activities Package Includes: 1 foldable children’s dining table</p>\n<h3>Why Choose This Table</h3>\n<p>Perfect for families needing a portable, multi-purpose kids’ table. Durable materials ensure years of reliable daily use. Compact foldable design saves valuable space. Easy to clean and maintain for everyday convenience. Encourages independence and safe mealtime habits in children.</p>\n<p></p>\n<p>Komforty Portable Children's Dining Table – the foldable, family-friendly solution for fun, safe, and organized mealtimes.</p>\n<p>\n <br>\n</p>",
+      "body_html": "<p>Komforty Portable Children's Dining Table combines smart space-saving innovation with sturdy craftsmanship to create the ultimate mealtime companion for growing kids. Designed for modern families, this foldable table offers convenience, safety, and style—perfect for dining, play, or creative activities at home and beyond.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a24355a8-206f-4a77-973e-c89f639d7403.jpg?v=1760103252\" alt=\"Komforty Portable Children's Dining Table – Foldable Mealtime Solution for Kids\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<p>Foldable Space-Saving Design allows easy storage and transport, ideal for small homes and travel. Durable Construction ensures stability and long-lasting use during daily meals and activities. Child-Friendly Height promotes comfortable and independent dining for children. Smooth, Easy-to-Clean Surface makes post-meal cleanup quick and effortless. Rounded Safety Edges protect little hands from bumps and scratches. Lightweight Portability makes it easy to move between rooms or take outdoors.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/dd88c7a5-0d7a-43dd-9cb1-5f1271b61d46.jpg?v=1760103249\" alt=\"Komforty Portable Children's Dining Table – Foldable Mealtime Solution for Kids\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<p>Unfold the table and ensure all joints are securely locked in place. Position on a flat, stable surface before use. Wipe down the tabletop before and after each meal or activity. Fold flat for compact storage when not in use or when traveling.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/9eac7514-15c6-4c0f-8885-c348ddcbf915.jpg?v=1760103249\" alt=\"Komforty Portable Children's Dining Table – Foldable Mealtime Solution for Kids\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<p>Material: Premium food-grade plastic and reinforced metal frame Dimensions: Compact, foldable design suitable for toddlers and young children Style: Lightweight and portable with secure locking joints Colors: Sky Blue, Soft Pink, Neutral Beige Suitable for: Children’s mealtime, drawing, or playtime activities Package Includes: 1 foldable children’s dining table</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f9ad88d4-97db-4354-a5d6-a48467137cc9.jpg?v=1760103253\" alt=\"Komforty Portable Children's Dining Table – Foldable Mealtime Solution for Kids\" style=\"float: none;\"></div>\n<h3>Why Choose This Table</h3>\n<p>Perfect for families needing a portable, multi-purpose kids’ table. Durable materials ensure years of reliable daily use. Compact foldable design saves valuable space. Easy to clean and maintain for everyday convenience. Encourages independence and safe mealtime habits in children.</p>\n<p> </p>\n<p>Komforty Portable Children's Dining Table – the foldable, family-friendly solution for fun, safe, and organized mealtimes.</p>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
       "vendor": "Nestacular",
       "product_type": "0",
       "created_at": "2025-10-10T14:34:02+01:00",
       "handle": "komforty-portable-childrens-dining-table-foldable-mealtime-solution-for-kids",
-      "updated_at": "2025-10-10T14:34:24+01:00",
-      "published_at": "2025-10-10T14:34:13+01:00",
+      "updated_at": "2025-10-10T14:43:19+01:00",
+      "published_at": "2025-10-10T14:40:40+01:00",
       "template_suffix": null,
       "published_scope": "global",
       "tags": "CJ, Portable Baby Chair",
@@ -93286,14 +93286,14 @@
           "price": "165.95",
           "position": 1,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "235.95",
           "option1": "Brown",
           "option2": null,
           "option3": null,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:34:10+01:00",
+          "updated_at": "2025-10-10T14:38:03+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 9040,
           "inventory_management": "shopify",
@@ -93314,14 +93314,14 @@
           "price": "165.95",
           "position": 2,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "235.95",
           "option1": "Dark green",
           "option2": null,
           "option3": null,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:34:10+01:00",
+          "updated_at": "2025-10-10T14:39:10+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 9040,
           "inventory_management": "shopify",
@@ -93342,14 +93342,14 @@
           "price": "165.95",
           "position": 3,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "235.95",
           "option1": "Ginger pink",
           "option2": null,
           "option3": null,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:34:10+01:00",
+          "updated_at": "2025-10-10T14:39:50+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 9040,
           "inventory_management": "shopify",
@@ -93370,14 +93370,14 @@
           "price": "165.95",
           "position": 4,
           "inventory_policy": "deny",
-          "compare_at_price": null,
+          "compare_at_price": "235.95",
           "option1": "Grey",
           "option2": null,
           "option3": null,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:34:10+01:00",
+          "updated_at": "2025-10-10T14:40:27+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "manual",
           "grams": 9040,
           "inventory_management": "shopify",
@@ -93409,11 +93409,11 @@
       "images": [
         {
           "id": 67454534517078,
-          "alt": null,
+          "alt": "Gray and white high chair in a living room setting",
           "position": 1,
           "product_id": 9882241499478,
           "created_at": "2025-10-10T14:34:04+01:00",
-          "updated_at": "2025-10-10T14:34:08+01:00",
+          "updated_at": "2025-10-10T14:36:45+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67454534517078",
           "width": 1000,
           "height": 1000,
@@ -93422,11 +93422,11 @@
         },
         {
           "id": 67454534549846,
-          "alt": null,
+          "alt": "Foldable chair with measurement scale on a white background",
           "position": 2,
           "product_id": 9882241499478,
           "created_at": "2025-10-10T14:34:05+01:00",
-          "updated_at": "2025-10-10T14:34:08+01:00",
+          "updated_at": "2025-10-10T14:36:52+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67454534549846",
           "width": 800,
           "height": 800,
@@ -93435,11 +93435,11 @@
         },
         {
           "id": 67454535074134,
-          "alt": null,
+          "alt": "Baby high chair with brown seat and white base on a white background",
           "position": 3,
           "product_id": 9882241499478,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:34:13+01:00",
+          "updated_at": "2025-10-10T14:36:58+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67454535074134",
           "width": 800,
           "height": 800,
@@ -93450,11 +93450,11 @@
         },
         {
           "id": 67454535106902,
-          "alt": null,
+          "alt": "Teal and white high chair on a white background",
           "position": 4,
           "product_id": 9882241499478,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:34:12+01:00",
+          "updated_at": "2025-10-10T14:37:04+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67454535106902",
           "width": 800,
           "height": 800,
@@ -93465,11 +93465,11 @@
         },
         {
           "id": 67454535139670,
-          "alt": null,
+          "alt": "Pink and gray high chair on a white background",
           "position": 5,
           "product_id": 9882241499478,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:34:12+01:00",
+          "updated_at": "2025-10-10T14:37:10+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67454535139670",
           "width": 800,
           "height": 800,
@@ -93480,11 +93480,11 @@
         },
         {
           "id": 67454535172438,
-          "alt": null,
+          "alt": "Gray and white high chair on a white background",
           "position": 6,
           "product_id": 9882241499478,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:34:13+01:00",
+          "updated_at": "2025-10-10T14:37:17+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67454535172438",
           "width": 800,
           "height": 800,
@@ -93496,11 +93496,11 @@
       ],
       "image": {
         "id": 67454534517078,
-        "alt": null,
+        "alt": "Gray and white high chair in a living room setting",
         "position": 1,
         "product_id": 9882241499478,
         "created_at": "2025-10-10T14:34:04+01:00",
-        "updated_at": "2025-10-10T14:34:08+01:00",
+        "updated_at": "2025-10-10T14:36:45+01:00",
         "admin_graphql_api_id": "gid://shopify/ProductImage/67454534517078",
         "width": 1000,
         "height": 1000,
