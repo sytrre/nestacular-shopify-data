@@ -4,7 +4,7 @@
     "handle": "cups-and-drinkware",
     "title": "Cups & Drinkware",
     "body_html": "<p>From their first sips to confident drinking. Our collection of cups and drinkware supports every stage, including sippy cups, straw cups, and expert-recommended open cups.</p>",
-    "products_count": 57
+    "products_count": 58
   },
   "products": [
     {
@@ -29572,6 +29572,189 @@
       }
     },
     {
+      "id": 9882064552278,
+      "title": "Toukie Flatulence Straw Cup – Fashionable Weaning Aid for Babies",
+      "body_html": "<p>Toukie Flatulence Straw Cup combines sleek, modern aesthetics with intelligent anti-flatulence design to create the perfect weaning solution for growing babies. This thoughtfully engineered cup helps reduce discomfort during feeding while encouraging independence and healthy drinking habits.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/d587abf7-22e4-4c21-8e96-14ce9b67bcd2.jpg?v=1760101328\" alt=\"Toukie Flatulence Straw Cup – Fashionable Weaning Aid for Babies\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<p>Anti-Flatulence Straw System reduces air intake to prevent bloating and discomfort. Ergonomic Handles designed for tiny hands to grip easily and safely. Stylish, Functional Design complements modern family lifestyles. Leak-Proof Seal ensures clean, mess-free feeding anywhere. Durable, Baby-Safe Materials crafted from BPA-free, food-grade silicone and PP. Easy-Clean Construction allows simple disassembly for quick washing and sterilization.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2fc6ef0e-1c82-4c8f-9853-f9135b939b5b.jpg?v=1760101331\" alt=\"Toukie Flatulence Straw Cup – Fashionable Weaning Aid for Babies\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<p>Attach the straw and lid securely before use. Fill the cup with milk, water, or juice suitable for your baby’s stage. Ensure the straw is properly connected for optimal anti-flatulence performance. After use, disassemble and wash all components thoroughly before storing.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/d1607c7d-ba79-42bf-a796-b1c88e074c16.jpg?v=1760101327\" alt=\"Toukie Flatulence Straw Cup – Fashionable Weaning Aid for Babies\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<p>Material: BPA-free, food-grade silicone and PP plastic Design: Anti-flatulence straw with ergonomic dual handles Capacity: Ideal for babies transitioning to self-feeding Colors: Sky Blue, Blossom Pink, Mint Green Care: Dishwasher-safe and sterilizer-friendly</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/0f404049-a615-466e-bfc8-83d8d49a3b08.jpg?v=1760101333\" alt=\"Toukie Flatulence Straw Cup – Fashionable Weaning Aid for Babies\" style=\"float: none;\"></div>\n<h3>Why Choose This Cup</h3>\n<p>Promotes self-feeding confidence for babies and toddlers. Reduces gas and discomfort with intelligent air-control straw. Sleek, travel-friendly design perfect for home and outings. Made from durable, non-toxic materials for everyday use. Combines safety, comfort, and modern design effortlessly.</p>\n<p> </p>\n<p>Toukie Flatulence Straw Cup – the stylish, soothing weaning companion for happy, healthy babies.</p>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-10-10T14:02:01+01:00",
+      "handle": "toukie-flatulence-straw-cup-fashionable-weaning-aid-for-babies",
+      "updated_at": "2025-10-10T14:09:03+01:00",
+      "published_at": "2025-10-10T14:07:13+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Bottle & Straw, CJ",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9882064552278",
+      "variants": [
+        {
+          "id": 51533855981910,
+          "product_id": 9882064552278,
+          "title": "Blue",
+          "price": "34.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "49.95",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-10T14:02:09+01:00",
+          "updated_at": "2025-10-10T14:06:08+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 320,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT148586602BY",
+          "weight": 320.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53791893619030,
+          "inventory_quantity": 42133,
+          "old_inventory_quantity": 42133,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51533855981910",
+          "image_id": 67454290461014
+        },
+        {
+          "id": 51533856014678,
+          "product_id": 9882064552278,
+          "title": "Red",
+          "price": "34.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "49.95",
+          "option1": "Red",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-10T14:02:09+01:00",
+          "updated_at": "2025-10-10T14:07:01+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 320,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT148586601AZ",
+          "weight": 320.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53791893651798,
+          "inventory_quantity": 44585,
+          "old_inventory_quantity": 44585,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51533856014678",
+          "image_id": 67454290493782
+        }
+      ],
+      "options": [
+        {
+          "id": 12746557063510,
+          "product_id": 9882064552278,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue",
+            "Red"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67454289445206,
+          "alt": "Baby bottle with yellow cap and cloud design on a light blue background",
+          "position": 1,
+          "product_id": 9882064552278,
+          "created_at": "2025-10-10T14:02:03+01:00",
+          "updated_at": "2025-10-10T14:04:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67454289445206",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/d1607c7d-ba79-42bf-a796-b1c88e074c16.jpg?v=1760101327",
+          "variant_ids": []
+        },
+        {
+          "id": 67454289805654,
+          "alt": "Baby bottle with red handles and a cartoon character on a white background",
+          "position": 2,
+          "product_id": 9882064552278,
+          "created_at": "2025-10-10T14:02:05+01:00",
+          "updated_at": "2025-10-10T14:04:53+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67454289805654",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/d587abf7-22e4-4c21-8e96-14ce9b67bcd2.jpg?v=1760101328",
+          "variant_ids": []
+        },
+        {
+          "id": 67454290067798,
+          "alt": "Close-up of a baby bottle with a pink background",
+          "position": 3,
+          "product_id": 9882064552278,
+          "created_at": "2025-10-10T14:02:07+01:00",
+          "updated_at": "2025-10-10T14:05:00+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67454290067798",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/80598e21-4448-4a41-b278-774f76629db0.jpg?v=1760101329",
+          "variant_ids": []
+        },
+        {
+          "id": 67454290428246,
+          "alt": "Hand holding a pink and clear tumbler with a cartoon character on a pink background",
+          "position": 4,
+          "product_id": 9882064552278,
+          "created_at": "2025-10-10T14:02:09+01:00",
+          "updated_at": "2025-10-10T14:05:07+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67454290428246",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2fc6ef0e-1c82-4c8f-9853-f9135b939b5b.jpg?v=1760101331",
+          "variant_ids": []
+        },
+        {
+          "id": 67454290461014,
+          "alt": "Baby bottle with yellow cap and cloud design on a light blue background",
+          "position": 5,
+          "product_id": 9882064552278,
+          "created_at": "2025-10-10T14:02:09+01:00",
+          "updated_at": "2025-10-10T14:05:14+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67454290461014",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/d1607c7d-ba79-42bf-a796-b1c88e074c16_5ad53726-3395-490e-9aeb-9b4f24804d2f.jpg?v=1760101332",
+          "variant_ids": [
+            51533855981910
+          ]
+        },
+        {
+          "id": 67454290493782,
+          "alt": "Baby bottle with pink handles on a colorful geometric background",
+          "position": 6,
+          "product_id": 9882064552278,
+          "created_at": "2025-10-10T14:02:09+01:00",
+          "updated_at": "2025-10-10T14:05:21+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67454290493782",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/0f404049-a615-466e-bfc8-83d8d49a3b08.jpg?v=1760101333",
+          "variant_ids": [
+            51533856014678
+          ]
+        }
+      ],
+      "image": {
+        "id": 67454289445206,
+        "alt": "Baby bottle with yellow cap and cloud design on a light blue background",
+        "position": 1,
+        "product_id": 9882064552278,
+        "created_at": "2025-10-10T14:02:03+01:00",
+        "updated_at": "2025-10-10T14:04:47+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67454289445206",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/d1607c7d-ba79-42bf-a796-b1c88e074c16.jpg?v=1760101327",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9792649232726,
       "title": "Trovina Leakproof Silicone Baby Cup Lid – BPA-Free Splash-Proof Toddler Feeding Cup Cover for Easy Drinking",
       "body_html": "<p data-end=\"452\" data-start=\"216\">Make toddler drinking hassle-free with the <strong data-end=\"302\" data-start=\"259\">Trovina Leakproof Silicone Baby Cup Lid</strong>. Designed to fit most toddler cups, this <strong data-end=\"381\" data-start=\"344\">BPA-free, food-grade silicone lid</strong> prevents spills and splashes while keeping beverages safe and clean.</p>\n<p data-end=\"682\" data-start=\"454\">The <strong data-end=\"481\" data-start=\"458\">splash-proof design</strong> allows your child to drink independently without mess, making it perfect for both home use and on-the-go. Its flexible, durable material ensures a <strong data-end=\"642\" data-start=\"629\">tight fit</strong>, easy cleaning, and long-lasting use.</p>\n<p data-end=\"782\" data-start=\"684\">Keep your toddler hydrated safely and conveniently with this essential <strong data-end=\"779\" data-start=\"755\">cup lid for toddlers</strong>.</p>\n<hr data-end=\"787\" data-start=\"784\">\n<h3 data-end=\"814\" data-start=\"789\"><strong data-end=\"812\" data-start=\"793\">2. Key Features</strong></h3>\n<ul data-end=\"1165\" data-start=\"815\">\n<li data-end=\"889\" data-start=\"815\">\n<p data-end=\"889\" data-start=\"817\"><strong data-end=\"846\" data-start=\"817\">Leakproof &amp; Splash-Proof:</strong> Prevents spills during toddler drinking.</p>\n</li>\n<li data-end=\"952\" data-start=\"890\">\n<p data-end=\"952\" data-start=\"892\"><strong data-end=\"914\" data-start=\"892\">BPA-Free Silicone:</strong> Safe, soft, and non-toxic material.</p>\n</li>\n<li data-end=\"1022\" data-start=\"953\">\n<p data-end=\"1022\" data-start=\"955\"><strong data-end=\"973\" data-start=\"955\">Universal Fit:</strong> Compatible with most toddler cups and bottles.</p>\n</li>\n<li data-end=\"1090\" data-start=\"1023\">\n<p data-end=\"1090\" data-start=\"1025\"><strong data-end=\"1053\" data-start=\"1025\">Easy to Clean &amp; Durable:</strong> Flexible design for long-term use.</p>\n</li>\n<li data-end=\"1165\" data-start=\"1091\">\n<p data-end=\"1165\" data-start=\"1093\"><strong data-end=\"1124\" data-start=\"1093\">Portable &amp; Travel-Friendly:</strong> Perfect for home, daycare, or outings.</p>\n</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/fba5cba0-5c9e-447b-95f1-ef0c20d04388_fa0cc81d-629d-44d0-bb7c-8f68053f78ca.jpg?v=1756918247\" alt=\"Trovina Leakproof Silicone Baby Cup Lid\" style=\"float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/7c355392-0a9e-44d2-9e4a-be4a22d6b5ea_19df583e-0c2e-4ef2-933d-e0571a8090d0.jpg?v=1756918248\" alt=\"Trovina Leakproof Silicone Baby Cup Lid\" style=\"float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/85c3c0f0-acb7-480e-8d76-bfa30c8f71d6_30bc5d75-dacf-4e56-b129-a5635f084486.jpg?v=1756918248\" alt=\"Trovina Leakproof Silicone Baby Cup Lid\" style=\"float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a95b84df-1a74-4601-b416-8191b7234f9b.jpg?v=1756918248\" alt=\"Trovina Leakproof Silicone Baby Cup Lid\" style=\"float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/d10eda18-857b-435b-b0b2-01e55e66c078.jpg?v=1756918247\" alt=\"Trovina Leakproof Silicone Baby Cup Lid\" style=\"float: none;\"></div>",
@@ -33582,8 +33765,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 57,
-    "products_in_page": 57,
+    "total_products": 58,
+    "products_in_page": 58,
     "has_next_page": false,
     "has_previous_page": false
   }
