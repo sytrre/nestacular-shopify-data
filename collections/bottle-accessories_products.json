@@ -4,7 +4,7 @@
     "handle": "bottle-accessories",
     "title": "Bottle Accessories",
     "body_html": "<p>Find all the essential add-ons to complete your bottle-feeding system. This collection includes everything you need for a safe, hygienic, and convenient routine, from replacement teats in various flow rates to electric sterilisers, bottle warmers, and specially designed cleaning tools. Perfect your setup with these must-have accessories.</p>",
-    "products_count": 19
+    "products_count": 20
   },
   "products": [
     {
@@ -3487,6 +3487,246 @@
       }
     },
     {
+      "id": 9882498662742,
+      "title": "Koronate Baby Bottle Sterilizer – Efficient Hygienic Cleaning for Bottles",
+      "body_html": "<p>Koronate Baby Bottle Sterilizer combines advanced sterilization technology with modern convenience to deliver a safe and efficient cleaning solution for your baby’s feeding essentials. Thoughtfully designed for busy parents, this sterilizer ensures bottles, pacifiers, and accessories remain germ-free and ready for use in minutes.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/970318515670.jpg?v=1760108741\" alt=\"Koronate Baby Bottle Sterilizer – Efficient Hygienic Cleaning for Bottles\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<p>High-Temperature Steam Sterilization eliminates up to 99.9% of harmful bacteria without the use of chemicals. Spacious Interior Capacity fits multiple baby bottles and accessories at once. Quick Sterilization Cycle completes the process efficiently to save time. Automatic Shut-Off Function ensures safety and energy efficiency. Compact and Sleek Design fits easily on kitchen countertops or in small spaces. Multi-Use Functionality suitable for bottles, teethers, pacifiers, and small feeding items.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2030494520373.jpg?v=1760108745\" alt=\"Koronate Baby Bottle Sterilizer – Efficient Hygienic Cleaning for Bottles\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<p>Add the recommended amount of water to the base before use. Place clean bottles and accessories inside, ensuring they are properly positioned. Close the lid securely and select the desired sterilization cycle. Allow the sterilizer to cool before removing items for safe handling.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/766475979356.jpg?v=1760108744\" alt=\"Koronate Baby Bottle Sterilizer – Efficient Hygienic Cleaning for Bottles\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<p>Material: BPA-free, heat-resistant plastic housing Technology: Steam-based high-temperature sterilization Capacity: Holds up to 6 standard-size bottles Power: 220V / 50Hz energy-efficient design Color Options: Classic White, Sky Grey Suitable for: Baby bottles, pacifiers, breast pump parts, and more Package Includes: 1 sterilizer unit, measuring cup, and instruction manual</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1860896694079.jpg?v=1760108738\" alt=\"Koronate Baby Bottle Sterilizer – Efficient Hygienic Cleaning for Bottles\" style=\"float: none;\"></div>\n<h3>Why Choose This Sterilizer</h3>\n<p>Ensures your baby’s feeding essentials are completely hygienic. Chemical-free sterilization for natural, safe cleaning. Fast and efficient operation ideal for daily use. Compact design perfect for modern family kitchens. Reduces the stress of constant bottle cleaning and sanitizing.</p>\n<p> </p>\n<p>Koronate Baby Bottle Sterilizer – the smart, safe, and time-saving way to keep your baby’s world clean and healthy.</p>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-10-10T16:05:32+01:00",
+      "handle": "koronate-baby-bottle-sterilizer-efficient-hygienic-cleaning-for-bottles",
+      "updated_at": "2025-10-10T16:12:43+01:00",
+      "published_at": "2025-10-10T16:11:21+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Bottle Sterlilizer, CJ",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9882498662742",
+      "variants": [
+        {
+          "id": 51534622261590,
+          "product_id": 9882498662742,
+          "title": "Dark green",
+          "price": "19.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "29.95",
+          "option1": "Dark green",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-10T16:05:41+01:00",
+          "updated_at": "2025-10-10T16:10:03+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 180,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJJJTJT18124-Dark green",
+          "weight": 180.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53792796508502,
+          "inventory_quantity": 13632,
+          "old_inventory_quantity": 13632,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51534622261590",
+          "image_id": 67455249514838
+        },
+        {
+          "id": 51534622294358,
+          "product_id": 9882498662742,
+          "title": "Green",
+          "price": "19.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "29.95",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-10T16:05:41+01:00",
+          "updated_at": "2025-10-10T16:10:40+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 180,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJJJTJT18124-Green",
+          "weight": 180.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53792796541270,
+          "inventory_quantity": 13123,
+          "old_inventory_quantity": 13123,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51534622294358",
+          "image_id": 67455249547606
+        },
+        {
+          "id": 51534622327126,
+          "product_id": 9882498662742,
+          "title": "Red",
+          "price": "19.95",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "29.95",
+          "option1": "Red",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-10T16:05:41+01:00",
+          "updated_at": "2025-10-10T16:11:07+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 180,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJJJTJT18124-Red",
+          "weight": 180.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53792796574038,
+          "inventory_quantity": 10810,
+          "old_inventory_quantity": 10810,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51534622327126",
+          "image_id": 67455249580374
+        }
+      ],
+      "options": [
+        {
+          "id": 12747017388374,
+          "product_id": 9882498662742,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Dark green",
+            "Green",
+            "Red"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67455247319382,
+          "alt": "Koronate Baby Bottle Sterilizer – Efficient Hygienic Cleaning for Bottles",
+          "position": 1,
+          "product_id": 9882498662742,
+          "created_at": "2025-10-10T16:05:34+01:00",
+          "updated_at": "2025-10-10T16:08:31+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67455247319382",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2021164634072.jpg?v=1760108736",
+          "variant_ids": []
+        },
+        {
+          "id": 67455247647062,
+          "alt": "Eyelash extension tool with red handles on a white background",
+          "position": 2,
+          "product_id": 9882498662742,
+          "created_at": "2025-10-10T16:05:35+01:00",
+          "updated_at": "2025-10-10T16:08:37+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67455247647062",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2201232614913.jpg?v=1760108738",
+          "variant_ids": []
+        },
+        {
+          "id": 67455248105814,
+          "alt": "Metallic eyelash curler with black handles on a white background",
+          "position": 3,
+          "product_id": 9882498662742,
+          "created_at": "2025-10-10T16:05:36+01:00",
+          "updated_at": "2025-10-10T16:08:44+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67455248105814",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1860896694079.jpg?v=1760108738",
+          "variant_ids": []
+        },
+        {
+          "id": 67455248499030,
+          "alt": "Jar of honey with a gold lid and red handles on a white background",
+          "position": 4,
+          "product_id": 9882498662742,
+          "created_at": "2025-10-10T16:05:37+01:00",
+          "updated_at": "2025-10-10T16:08:51+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67455248499030",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/970318515670.jpg?v=1760108741",
+          "variant_ids": []
+        },
+        {
+          "id": 67455248990550,
+          "alt": "Fishing hook with red shank on a white background",
+          "position": 5,
+          "product_id": 9882498662742,
+          "created_at": "2025-10-10T16:05:39+01:00",
+          "updated_at": "2025-10-10T16:08:58+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67455248990550",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2289256646141.jpg?v=1760108741",
+          "variant_ids": []
+        },
+        {
+          "id": 67455249514838,
+          "alt": "Green tongs with metal handles on a white background",
+          "position": 6,
+          "product_id": 9882498662742,
+          "created_at": "2025-10-10T16:05:41+01:00",
+          "updated_at": "2025-10-10T16:09:04+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67455249514838",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2030494520373.jpg?v=1760108745",
+          "variant_ids": [
+            51534622261590
+          ]
+        },
+        {
+          "id": 67455249547606,
+          "alt": "Green and silver eyelash curler on a white background",
+          "position": 7,
+          "product_id": 9882498662742,
+          "created_at": "2025-10-10T16:05:41+01:00",
+          "updated_at": "2025-10-10T16:09:10+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67455249547606",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/766475979356.jpg?v=1760108744",
+          "variant_ids": [
+            51534622294358
+          ]
+        },
+        {
+          "id": 67455249580374,
+          "alt": "Eyelash curler with red loops and black ends on a white background",
+          "position": 8,
+          "product_id": 9882498662742,
+          "created_at": "2025-10-10T16:05:41+01:00",
+          "updated_at": "2025-10-10T16:09:16+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67455249580374",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2021164634072_a0d5b2c3-8bcb-417c-9944-99ae214cb22d.jpg?v=1760108744",
+          "variant_ids": [
+            51534622327126
+          ]
+        }
+      ],
+      "image": {
+        "id": 67455247319382,
+        "alt": "Koronate Baby Bottle Sterilizer – Efficient Hygienic Cleaning for Bottles",
+        "position": 1,
+        "product_id": 9882498662742,
+        "created_at": "2025-10-10T16:05:34+01:00",
+        "updated_at": "2025-10-10T16:08:31+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67455247319382",
+        "width": 750,
+        "height": 750,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2021164634072.jpg?v=1760108736",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9791346114902,
       "title": "LittleWinks Baby Bottle Brush Set – 2-Piece Nipple & Glass Bottle Cleaner",
       "body_html": "<p data-end=\"450\" data-start=\"132\">The <strong data-end=\"204\" data-start=\"167\">LittleWinks Baby Bottle Brush Set</strong> is designed to make cleaning your baby’s feeding essentials quick, hygienic, and hassle-free. This <strong data-end=\"319\" data-start=\"304\">2-piece set</strong> includes a durable <strong data-end=\"370\" data-start=\"339\">glass bottle cleaning brush</strong> and a <strong data-end=\"398\" data-start=\"377\">soft nipple brush</strong>, ensuring every corner of the bottle is spotless.</p>\n<p data-end=\"682\" data-start=\"452\">Made from <strong data-end=\"496\" data-start=\"462\">food-grade, BPA-free materials</strong>, the brushes are safe, non-toxic, and gentle on bottles while being tough on milk residue and stains. The <strong data-end=\"623\" data-start=\"603\">ergonomic handle</strong> provides a comfortable grip, making cleaning effortless.</p>\n<p data-end=\"828\" data-start=\"684\">Compact and lightweight, the <strong data-end=\"738\" data-start=\"713\">LittleWinks Brush Set</strong> is perfect for both home and travel, keeping your baby’s bottles hygienic at all times.</p>\n<p data-end=\"849\" data-start=\"830\"><strong data-end=\"847\" data-start=\"830\">Key Features:</strong></p>\n<ul data-end=\"1195\" data-start=\"850\">\n<li data-end=\"918\" data-start=\"850\">\n<p data-end=\"918\" data-start=\"852\"><strong data-end=\"874\" data-start=\"852\">2-Piece Brush Set:</strong> Includes bottle brush and nipple cleaner.</p>\n</li>\n<li data-end=\"986\" data-start=\"919\">\n<p data-end=\"986\" data-start=\"921\"><strong data-end=\"941\" data-start=\"921\">Safe &amp; BPA-Free:</strong> Made from food-grade, non-toxic materials.</p>\n</li>\n<li data-end=\"1060\" data-start=\"987\">\n<p data-end=\"1060\" data-start=\"989\"><strong data-end=\"1012\" data-start=\"989\">Efficient Cleaning:</strong> Removes milk residue and tough stains easily.</p>\n</li>\n<li data-end=\"1128\" data-start=\"1061\">\n<p data-end=\"1128\" data-start=\"1063\"><strong data-end=\"1084\" data-start=\"1063\">Ergonomic Handle:</strong> Comfortable grip for effortless cleaning.</p>\n</li>\n<li data-end=\"1195\" data-start=\"1129\">\n<p data-end=\"1195\" data-start=\"1131\"><strong data-end=\"1151\" data-start=\"1131\">Travel-Friendly:</strong> Compact design for home or on-the-go use.</p>\n</li>\n</ul>\n<p data-end=\"1297\" data-start=\"1197\">Keep your baby’s feeding essentials clean and safe with the <strong data-end=\"1294\" data-start=\"1257\">LittleWinks Baby Bottle Brush Set</strong>.</p>\n<p data-end=\"1297\" data-start=\"1197\"><img alt=\"LittleWinks Baby Bottle Brush Set\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1613446381146.jpg?v=1756722397\"></p>\n<p data-end=\"1297\" data-start=\"1197\"><img alt=\"LittleWinks Baby Bottle Brush Set\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1613446381155.jpg?v=1756722405\"></p>\n<p data-end=\"1297\" data-start=\"1197\"><img alt=\"LittleWinks Baby Bottle Brush Set\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1613446381164.jpg?v=1756722406\"></p>",
@@ -5745,8 +5985,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 19,
-    "products_in_page": 19,
+    "total_products": 20,
+    "products_in_page": 20,
     "has_next_page": false,
     "has_previous_page": false
   }
