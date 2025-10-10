@@ -7038,8 +7038,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9741923615062",
       "variants": [
         {
-          "id": 50992090317142,
           "product_id": 9741923615062,
+          "id": 50992090317142,
           "title": "4g",
           "price": "24.95",
           "position": 1,
@@ -7068,8 +7068,8 @@
       ],
       "options": [
         {
-          "id": 12582249824598,
           "product_id": 9741923615062,
+          "id": 12582249824598,
           "name": "Color",
           "position": 1,
           "values": [
@@ -31473,8 +31473,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9409662255446",
       "variants": [
         {
-          "id": 50217638920534,
           "product_id": 9409662255446,
+          "id": 50217638920534,
           "title": "Black / 4 Bands & 30 Adhesive Tabs",
           "price": "40.94",
           "position": 1,
@@ -31501,8 +31501,8 @@
           "image_id": 59221008580950
         },
         {
-          "id": 50151618314582,
           "product_id": 9409662255446,
+          "id": 50151618314582,
           "title": "Black / 4 Bands & 15 Adhesive Tabs",
           "price": "34.94",
           "position": 2,
@@ -31529,8 +31529,8 @@
           "image_id": 61060231430486
         },
         {
-          "id": 50217638953302,
           "product_id": 9409662255446,
+          "id": 50217638953302,
           "title": "White / 4 Bands & 30 Adhesive Tabs",
           "price": "40.94",
           "position": 3,
@@ -31557,8 +31557,8 @@
           "image_id": 59221006745942
         },
         {
-          "id": 50151618347350,
           "product_id": 9409662255446,
+          "id": 50151618347350,
           "title": "White / 4 Bands & 15 Adhesive Tabs",
           "price": "34.94",
           "position": 4,
@@ -31587,8 +31587,8 @@
       ],
       "options": [
         {
-          "id": 12179587596630,
           "product_id": 9409662255446,
+          "id": 12179587596630,
           "name": "Color",
           "position": 1,
           "values": [
@@ -31597,8 +31597,8 @@
           ]
         },
         {
-          "id": 12179587629398,
           "product_id": 9409662255446,
+          "id": 12179587629398,
           "name": "Option",
           "position": 2,
           "values": [
@@ -31767,8 +31767,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9409662779734",
       "variants": [
         {
-          "product_id": 9409662779734,
           "id": 50217639051606,
+          "product_id": 9409662779734,
           "title": "Black / 4 Bands & 30 Adhesive Tabs",
           "price": "45.63",
           "position": 1,
@@ -31795,8 +31795,8 @@
           "image_id": 59221008580950
         },
         {
-          "product_id": 9409662779734,
           "id": 50151619461462,
+          "product_id": 9409662779734,
           "title": "Black / 4 Bands & 15 Adhesive Tabs",
           "price": "35.43",
           "position": 2,
@@ -31823,8 +31823,8 @@
           "image_id": 61060123165014
         },
         {
-          "product_id": 9409662779734,
           "id": 50217639084374,
+          "product_id": 9409662779734,
           "title": "White / 4 Bands & 30 Adhesive Tabs",
           "price": "45.63",
           "position": 3,
@@ -31851,8 +31851,8 @@
           "image_id": 59221006745942
         },
         {
-          "product_id": 9409662779734,
           "id": 50151619494230,
+          "product_id": 9409662779734,
           "title": "White / 4 Bands & 15 Adhesive Tabs",
           "price": "35.43",
           "position": 4,
@@ -31881,8 +31881,8 @@
       ],
       "options": [
         {
-          "product_id": 9409662779734,
           "id": 12179588153686,
+          "product_id": 9409662779734,
           "name": "Color",
           "position": 1,
           "values": [
@@ -31891,8 +31891,8 @@
           ]
         },
         {
-          "product_id": 9409662779734,
           "id": 12179588186454,
+          "product_id": 9409662779734,
           "name": "Option",
           "position": 2,
           "values": [
