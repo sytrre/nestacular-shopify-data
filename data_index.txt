@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-10-11T11:41:33.067003Z
+Generated: 2025-10-11T13:04:54.912742Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (79 collections) ===
+=== COLLECTION PRODUCT FILES (82 collections) ===
 
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
@@ -38,6 +38,7 @@ BLOGS (1 pages):
 • bottle-sterilisers-warmers: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bottle-sterilisers-warmers_products.json
 • bottle-teats-nipples: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bottle-teats-nipples_products.json
 • bottles-for-breastfed-babies: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bottles-for-breastfed-babies_products.json
+• bpa-free-baby-products: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bpa-free-baby-products_products.json
 • bpa-free-plastic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bpa-free-plastic-bottles_products.json
 • complete-weaning-sets: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/complete-weaning-sets_products.json
 • convertible-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/convertible-high-chairs_products.json
@@ -90,10 +91,12 @@ BLOGS (1 pages):
 • stainless-steel-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/stainless-steel-tableware_products.json
 • suction-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/suction-tableware_products.json
 • thanksgiving-family-gathering-toddler-setup: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/thanksgiving-family-gathering-toddler-setup_products.json
+• toddler-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-chair_products.json
 • toddler-independence-milestone-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-independence-milestone-kit_products.json
 • toddler-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-stage-feeding_products.json
 • travel-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-high-chairs_products.json
 • twins-multiples-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/twins-multiples-feeding-essentials_products.json
 • weaning-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weaning-stage-feeding_products.json
 • weekend-camping-baby-feeding-gear: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weekend-camping-baby-feeding-gear_products.json
+• winter-baby-registry-must-haves: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/winter-baby-registry-must-haves_products.json
 • wooden-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/wooden-high-chairs_products.json
