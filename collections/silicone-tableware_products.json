@@ -1789,8 +1789,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844409336150",
       "variants": [
         {
-          "product_id": 9844409336150,
           "id": 51408309354838,
+          "product_id": 9844409336150,
           "title": "Blue",
           "price": "29.95",
           "position": 1,
@@ -1817,8 +1817,8 @@
           "image_id": 67123540066646
         },
         {
-          "product_id": 9844409336150,
           "id": 51408309387606,
+          "product_id": 9844409336150,
           "title": "Orange",
           "price": "29.95",
           "position": 2,
@@ -1845,8 +1845,8 @@
           "image_id": 67123540099414
         },
         {
-          "product_id": 9844409336150,
           "id": 51408309420374,
+          "product_id": 9844409336150,
           "title": "Pink",
           "price": "29.95",
           "position": 3,
@@ -1875,8 +1875,8 @@
       ],
       "options": [
         {
-          "product_id": 9844409336150,
           "id": 12703322702166,
+          "product_id": 9844409336150,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15664,8 +15664,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844768538966",
       "variants": [
         {
-          "product_id": 9844768538966,
           "id": 51409416290646,
+          "product_id": 9844768538966,
           "title": "Deer",
           "price": "55.95",
           "position": 1,
@@ -15692,8 +15692,8 @@
           "image_id": 67125789917526
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416323414,
+          "product_id": 9844768538966,
           "title": "Dog",
           "price": "55.95",
           "position": 2,
@@ -15720,8 +15720,8 @@
           "image_id": 67125789950294
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416356182,
+          "product_id": 9844768538966,
           "title": "Elephant",
           "price": "55.95",
           "position": 3,
@@ -15748,8 +15748,8 @@
           "image_id": 67125789983062
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416388950,
+          "product_id": 9844768538966,
           "title": "Lion",
           "price": "55.95",
           "position": 4,
@@ -15776,8 +15776,8 @@
           "image_id": 67125790015830
         },
         {
-          "product_id": 9844768538966,
           "id": 51409416421718,
+          "product_id": 9844768538966,
           "title": "Zebra",
           "price": "55.95",
           "position": 5,
@@ -15806,8 +15806,8 @@
       ],
       "options": [
         {
-          "product_id": 9844768538966,
           "id": 12703714607446,
+          "product_id": 9844768538966,
           "name": "Style",
           "position": 1,
           "values": [
