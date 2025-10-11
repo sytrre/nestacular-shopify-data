@@ -33769,8 +33769,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791453790550",
       "variants": [
         {
-          "product_id": 9791453790550,
           "id": 51196508537174,
+          "product_id": 9791453790550,
           "title": "Green / 300ml",
           "price": "31.76",
           "position": 1,
@@ -33797,8 +33797,8 @@
           "image_id": 66242037186902
         },
         {
-          "product_id": 9791453790550,
           "id": 51196508569942,
+          "product_id": 9791453790550,
           "title": "Blue / 300ml",
           "price": "31.76",
           "position": 2,
@@ -33825,8 +33825,8 @@
           "image_id": 66242037219670
         },
         {
-          "product_id": 9791453790550,
           "id": 51196508602710,
+          "product_id": 9791453790550,
           "title": "Red / 240ml",
           "price": "31.76",
           "position": 3,
@@ -33853,8 +33853,8 @@
           "image_id": 66242037252438
         },
         {
-          "product_id": 9791453790550,
           "id": 51196508635478,
+          "product_id": 9791453790550,
           "title": "Blue / 240ml",
           "price": "31.76",
           "position": 4,
@@ -33881,8 +33881,8 @@
           "image_id": 66242037219670
         },
         {
-          "product_id": 9791453790550,
           "id": 51196508668246,
+          "product_id": 9791453790550,
           "title": "Green / 240ml",
           "price": "31.76",
           "position": 5,
@@ -33909,8 +33909,8 @@
           "image_id": 66242037186902
         },
         {
-          "product_id": 9791453790550,
           "id": 51196508701014,
+          "product_id": 9791453790550,
           "title": "Red / 300ml",
           "price": "31.76",
           "position": 6,
@@ -33939,8 +33939,8 @@
       ],
       "options": [
         {
-          "product_id": 9791453790550,
           "id": 12640677593430,
+          "product_id": 9791453790550,
           "name": "Color",
           "position": 1,
           "values": [
@@ -33950,8 +33950,8 @@
           ]
         },
         {
-          "product_id": 9791453790550,
           "id": 12640677626198,
+          "product_id": 9791453790550,
           "name": "Size",
           "position": 2,
           "values": [
