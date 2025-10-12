@@ -36410,7 +36410,7 @@
       "product_type": "Baby Bib",
       "created_at": "2025-09-01T13:19:10+01:00",
       "handle": "tumbletots-silicone-baby-bib",
-      "updated_at": "2025-09-12T13:37:25+01:00",
+      "updated_at": "2025-10-12T22:09:05+01:00",
       "published_at": "2025-09-01T13:19:24+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -36486,7 +36486,7 @@
           "option2": "White elephant",
           "option3": null,
           "created_at": "2025-09-01T13:19:22+01:00",
-          "updated_at": "2025-09-01T15:31:39+01:00",
+          "updated_at": "2025-10-12T22:09:05+01:00",
           "taxable": false,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -36497,8 +36497,8 @@
           "weight": 102.0,
           "weight_unit": "g",
           "inventory_item_id": 53402032800086,
-          "inventory_quantity": 20009,
-          "old_inventory_quantity": 20009,
+          "inventory_quantity": 20008,
+          "old_inventory_quantity": 20008,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51196523839830",
           "image_id": 66242109112662
         }
