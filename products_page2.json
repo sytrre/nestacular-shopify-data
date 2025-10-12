@@ -21508,7 +21508,7 @@
       "product_type": "0",
       "created_at": "2025-10-05T12:47:03+01:00",
       "handle": "montessori-weaning-table-and-chair-set-wooden-toddler-table-with-2-chairs-adjustable-height-montessori-activity-table-ideal-for-reading-eating-and-playing-natural",
-      "updated_at": "2025-10-09T13:36:04+01:00",
+      "updated_at": "2025-10-12T06:12:37+01:00",
       "published_at": "2025-10-05T12:51:24+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -21528,7 +21528,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-10-05T12:47:11+01:00",
-          "updated_at": "2025-10-05T13:10:16+01:00",
+          "updated_at": "2025-10-12T06:12:37+01:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -21539,8 +21539,8 @@
           "weight": 12850.0,
           "weight_unit": "g",
           "inventory_item_id": 53739102929238,
-          "inventory_quantity": 564,
-          "old_inventory_quantity": 564,
+          "inventory_quantity": 560,
+          "old_inventory_quantity": 560,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51489269842262",
           "image_id": 67363247128918
         }
