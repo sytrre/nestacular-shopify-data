@@ -34106,8 +34106,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852746236246",
       "variants": [
         {
-          "id": 51441089839446,
           "product_id": 9852746236246,
+          "id": 51441089839446,
           "title": "1   style",
           "price": "20.95",
           "position": 1,
@@ -34134,8 +34134,8 @@
           "image_id": 67227913945430
         },
         {
-          "id": 51441089872214,
           "product_id": 9852746236246,
+          "id": 51441089872214,
           "title": "2   style",
           "price": "20.95",
           "position": 2,
@@ -34162,8 +34162,8 @@
           "image_id": 67227913978198
         },
         {
-          "id": 51441089904982,
           "product_id": 9852746236246,
+          "id": 51441089904982,
           "title": "3  style",
           "price": "20.95",
           "position": 3,
@@ -34190,8 +34190,8 @@
           "image_id": 67227914010966
         },
         {
-          "id": 51441089937750,
           "product_id": 9852746236246,
+          "id": 51441089937750,
           "title": "4style",
           "price": "20.95",
           "position": 4,
@@ -34218,8 +34218,8 @@
           "image_id": 67227914043734
         },
         {
-          "id": 51441089970518,
           "product_id": 9852746236246,
+          "id": 51441089970518,
           "title": "5 style",
           "price": "20.95",
           "position": 5,
@@ -34246,8 +34246,8 @@
           "image_id": 67227914076502
         },
         {
-          "id": 51441090003286,
           "product_id": 9852746236246,
+          "id": 51441090003286,
           "title": "6 style",
           "price": "20.95",
           "position": 6,
@@ -34274,8 +34274,8 @@
           "image_id": 67227914109270
         },
         {
-          "id": 51441090036054,
           "product_id": 9852746236246,
+          "id": 51441090036054,
           "title": "7 style",
           "price": "20.95",
           "position": 7,
@@ -34302,8 +34302,8 @@
           "image_id": 67227914142038
         },
         {
-          "id": 51441090068822,
           "product_id": 9852746236246,
+          "id": 51441090068822,
           "title": "8 style",
           "price": "20.95",
           "position": 8,
@@ -34332,8 +34332,8 @@
       ],
       "options": [
         {
-          "id": 12713304064342,
           "product_id": 9852746236246,
+          "id": 12713304064342,
           "name": "Color",
           "position": 1,
           "values": [
@@ -50171,7 +50171,7 @@
       "product_type": "",
       "created_at": "2025-08-18T22:52:32+01:00",
       "handle": "minnie-mouse-birthday-party-essentials-disposable-tableware-balloons-cups-plates-and-tablecloth-for-a-magical-celebration",
-      "updated_at": "2025-10-12T07:12:06+01:00",
+      "updated_at": "2025-10-12T14:26:26+01:00",
       "published_at": "2025-08-18T22:52:33+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -50639,7 +50639,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-18T22:52:32+01:00",
-          "updated_at": "2025-10-12T07:11:57+01:00",
+          "updated_at": "2025-10-12T14:26:26+01:00",
           "taxable": true,
           "barcode": "744110192360",
           "fulfillment_service": "autods-prod-mvelybre",
@@ -50653,7 +50653,7 @@
           "inventory_quantity": 99998,
           "old_inventory_quantity": 99998,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51084379423062",
-          "image_id": 66261100888406
+          "image_id": 67494550438230
         },
         {
           "id": 51084379455830,
@@ -51599,9 +51599,7 @@
           "width": 2048,
           "height": 2048,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A1_3cd0f2a7-031b-4d1a-8293-10186b2f4a2c.png?v=1756821362",
-          "variant_ids": [
-            51084379423062
-          ]
+          "variant_ids": []
         },
         {
           "id": 66261136376150,
@@ -51734,6 +51732,34 @@
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A10.png?v=1756825897",
           "variant_ids": [
             51084379685206
+          ]
+        },
+        {
+          "id": 67494527140182,
+          "alt": null,
+          "position": 58,
+          "product_id": 9765170151766,
+          "created_at": "2025-10-12T14:21:51+01:00",
+          "updated_at": "2025-10-12T14:21:53+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67494527140182",
+          "width": 381,
+          "height": 414,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A11_a6c01ebc-abae-422c-ae66-0f6ea475fe86.png?v=1760275314",
+          "variant_ids": []
+        },
+        {
+          "id": 67494550438230,
+          "alt": null,
+          "position": 59,
+          "product_id": 9765170151766,
+          "created_at": "2025-10-12T14:26:13+01:00",
+          "updated_at": "2025-10-12T14:26:16+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67494550438230",
+          "width": 588,
+          "height": 621,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A12_88555e29-d0c7-484a-bfd0-b2d3e90c663c.png?v=1760275577",
+          "variant_ids": [
+            51084379423062
           ]
         }
       ],
