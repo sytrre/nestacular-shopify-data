@@ -4,7 +4,7 @@
     "handle": "baby-food-makers-blenders",
     "title": "Baby Food Makers & Blenders",
     "body_html": "<p>Effortlessly create fresh, delicious, and nutrient-rich meals for your baby. Our range of all-in-one baby food makers can steam and blend fruits, vegetables, and more in one simple step, creating perfect purees every time. Take control of your baby's nutrition from their very first bite with these time-saving, modern kitchen essentials.</p>",
-    "products_count": 4
+    "products_count": 5
   },
   "products": [
     {
@@ -230,6 +230,215 @@
           51292815950166,
           51292815982934
         ]
+      }
+    },
+    {
+      "id": 9888413090134,
+      "title": "InstantMeal Electric Garlic Masher - Wireless Baby Food Grinder & Kitchen Blender",
+      "body_html": "<p>InstantMeal Electric Garlic Masher combines smart wireless technology with powerful blending performance to create the perfect all-in-one kitchen and baby food solution for modern families. This thoughtfully engineered mini blender handles everything from garlic mincing to baby food prep with ease, making mealtime faster, cleaner, and more convenient.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644837429.jpg?v=1760370374\" alt=\"InstantMeal Electric Garlic Masher - Wireless Baby Food Grinder &amp; Kitchen Blender\" style=\"float: none;\"></div>\n<p>Smart Design Features</p>\n<p>Powerful stainless steel blades deliver smooth and consistent blending results Wireless rechargeable design allows convenient cordless operation Compact size saves space and is ideal for small kitchens or travel One-touch control simplifies use for quick chopping and pureeing Durable food-grade materials ensure safe preparation for babies and adults alike Detachable parts allow for easy cleaning and hygienic maintenance</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644837425.jpg?v=1760370372\" alt=\"InstantMeal Electric Garlic Masher - Wireless Baby Food Grinder &amp; Kitchen Blender\" style=\"float: none;\"></div>\n<p>Setup and Usage</p>\n<p>Charge the blender fully before first use Add ingredients such as garlic, vegetables, fruits, or meat into the blending cup Secure the lid tightly before pressing the power button Blend until desired consistency is reached Clean blades and container thoroughly after each use Store the unit in a dry area when not in use</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644837448.jpg?v=1760370377\" alt=\"InstantMeal Electric Garlic Masher - Wireless Baby Food Grinder &amp; Kitchen Blender\" style=\"float: none;\"></div>\n<p>Product Specifications Material:</p>\n<p>Food-grade plastic with stainless steel blades Capacity: Compact 250–300ml blending bowl Power: Rechargeable USB battery, wireless operation Function: Garlic masher, baby food blender, meat grinder, kitchen mini food processor Color: Elegant neutral tones to match modern kitchen décor</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644912243.jpg?v=1760370369\" alt=\"InstantMeal Electric Garlic Masher - Wireless Baby Food Grinder &amp; Kitchen Blender\" style=\"float: none;\"></div>\n<p>Why Choose This Blender</p>\n<p>Compact and wireless design offers effortless mobility and storage Perfect for making baby food, sauces, and purees in seconds Durable stainless steel blades ensure consistent, smooth results Cordless convenience saves counter space and eliminates clutter Ideal for busy parents and home cooks who value quick, healthy meals</p>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-10-13T16:46:05+01:00",
+      "handle": "instantmeal-electric-garlic-masher-wireless-baby-food-grinder-kitchen-blender",
+      "updated_at": "2025-10-13T16:53:00+01:00",
+      "published_at": "2025-10-13T16:52:57+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Food Machine, CJ",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9888413090134",
+      "variants": [
+        {
+          "id": 51557910446422,
+          "product_id": 9888413090134,
+          "title": "Pink",
+          "price": "29.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "39.95",
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-13T16:46:15+01:00",
+          "updated_at": "2025-10-13T16:51:57+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 300,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJMP108430802BY",
+          "weight": 300.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53819854553430,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51557910446422",
+          "image_id": 67517109469526
+        },
+        {
+          "id": 51557910479190,
+          "product_id": 9888413090134,
+          "title": "White",
+          "price": "29.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "39.95",
+          "option1": "White",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-13T16:46:15+01:00",
+          "updated_at": "2025-10-13T16:52:46+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 300,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJMP108430801AZ",
+          "weight": 300.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53819854586198,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51557910479190",
+          "image_id": 67517109502294
+        }
+      ],
+      "options": [
+        {
+          "id": 12754139447638,
+          "product_id": 9888413090134,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Pink",
+            "White"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67517105668438,
+          "alt": "Pink and white container on a white background",
+          "position": 1,
+          "product_id": 9888413090134,
+          "created_at": "2025-10-13T16:46:06+01:00",
+          "updated_at": "2025-10-13T16:50:11+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517105668438",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644912243.jpg?v=1760370369",
+          "variant_ids": []
+        },
+        {
+          "id": 67517106159958,
+          "alt": "White kitchen chopper with clear container on a white background",
+          "position": 2,
+          "product_id": 9888413090134,
+          "created_at": "2025-10-13T16:46:08+01:00",
+          "updated_at": "2025-10-13T16:50:17+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517106159958",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644879889.jpg?v=1760370370",
+          "variant_ids": []
+        },
+        {
+          "id": 67517107110230,
+          "alt": "Two small food choppers on a wooden cutting board with various ingredients around them.",
+          "position": 3,
+          "product_id": 9888413090134,
+          "created_at": "2025-10-13T16:46:09+01:00",
+          "updated_at": "2025-10-13T16:50:24+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517107110230",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644837425.jpg?v=1760370372",
+          "variant_ids": []
+        },
+        {
+          "id": 67517107470678,
+          "alt": "Collage of a hand-held food chopper being used to chop garlic and other ingredients.",
+          "position": 4,
+          "product_id": 9888413090134,
+          "created_at": "2025-10-13T16:46:10+01:00",
+          "updated_at": "2025-10-13T16:50:32+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517107470678",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644837429.jpg?v=1760370374",
+          "variant_ids": []
+        },
+        {
+          "id": 67517108093270,
+          "alt": "Clear plastic container with dimensions labeled on a white background",
+          "position": 5,
+          "product_id": 9888413090134,
+          "created_at": "2025-10-13T16:46:12+01:00",
+          "updated_at": "2025-10-13T16:50:38+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517108093270",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644837435.jpg?v=1760370374",
+          "variant_ids": []
+        },
+        {
+          "id": 67517109109078,
+          "alt": "Two small kitchen choppers on a wooden surface with ingredients around.",
+          "position": 6,
+          "product_id": 9888413090134,
+          "created_at": "2025-10-13T16:46:14+01:00",
+          "updated_at": "2025-10-13T16:50:44+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517109109078",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644837448.jpg?v=1760370377",
+          "variant_ids": []
+        },
+        {
+          "id": 67517109469526,
+          "alt": "Pink and white container on a white background",
+          "position": 7,
+          "product_id": 9888413090134,
+          "created_at": "2025-10-13T16:46:15+01:00",
+          "updated_at": "2025-10-13T16:50:50+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517109469526",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644912243_09a721a2-0954-4444-a0d4-ad7f2b7bf1b5.jpg?v=1760370378",
+          "variant_ids": [
+            51557910446422
+          ]
+        },
+        {
+          "id": 67517109502294,
+          "alt": "Clear plastic container with a white lid on a white background",
+          "position": 8,
+          "product_id": 9888413090134,
+          "created_at": "2025-10-13T16:46:15+01:00",
+          "updated_at": "2025-10-13T16:50:58+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517109502294",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644930638.jpg?v=1760370377",
+          "variant_ids": [
+            51557910479190
+          ]
+        }
+      ],
+      "image": {
+        "id": 67517105668438,
+        "alt": "Pink and white container on a white background",
+        "position": 1,
+        "product_id": 9888413090134,
+        "created_at": "2025-10-13T16:46:06+01:00",
+        "updated_at": "2025-10-13T16:50:11+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67517105668438",
+        "width": 1000,
+        "height": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618644912243.jpg?v=1760370369",
+        "variant_ids": []
       }
     },
     {
@@ -962,8 +1171,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 4,
-    "products_in_page": 4,
+    "total_products": 5,
+    "products_in_page": 5,
     "has_next_page": false,
     "has_previous_page": false
   }
