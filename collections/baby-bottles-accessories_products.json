@@ -2732,8 +2732,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791182143830",
       "variants": [
         {
-          "id": 51195242152278,
           "product_id": 9791182143830,
+          "id": 51195242152278,
           "title": "Pink / Bottle brush",
           "price": "16.84",
           "position": 1,
@@ -2760,8 +2760,8 @@
           "image_id": 66238660772182
         },
         {
-          "id": 51195242185046,
           "product_id": 9791182143830,
+          "id": 51195242185046,
           "title": "Blue / Bottle brush",
           "price": "16.84",
           "position": 2,
@@ -2788,8 +2788,8 @@
           "image_id": 66238657397078
         },
         {
-          "id": 51195242217814,
           "product_id": 9791182143830,
+          "id": 51195242217814,
           "title": "Blue / Set",
           "price": "17.12",
           "position": 3,
@@ -2816,8 +2816,8 @@
           "image_id": 66238657397078
         },
         {
-          "id": 51195242250582,
           "product_id": 9791182143830,
+          "id": 51195242250582,
           "title": "Pink / Set",
           "price": "17.12",
           "position": 4,
@@ -2844,8 +2844,8 @@
           "image_id": 66238660870486
         },
         {
-          "id": 51195242283350,
           "product_id": 9791182143830,
+          "id": 51195242283350,
           "title": "Pink / Pacifier brush",
           "price": "16.50",
           "position": 5,
@@ -2872,8 +2872,8 @@
           "image_id": 66238660903254
         },
         {
-          "id": 51195242316118,
           "product_id": 9791182143830,
+          "id": 51195242316118,
           "title": "Blue / Pacifier brush",
           "price": "16.50",
           "position": 6,
@@ -2902,8 +2902,8 @@
       ],
       "options": [
         {
-          "id": 12640359219542,
           "product_id": 9791182143830,
+          "id": 12640359219542,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2912,8 +2912,8 @@
           ]
         },
         {
-          "id": 12640359252310,
           "product_id": 9791182143830,
+          "id": 12640359252310,
           "name": "Style",
           "position": 2,
           "values": [
@@ -5781,8 +5781,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791346442582",
       "variants": [
         {
-          "id": 51196011413846,
           "product_id": 9791346442582,
+          "id": 51196011413846,
           "title": "Blue",
           "price": "16.05",
           "position": 1,
@@ -5809,8 +5809,8 @@
           "image_id": 66240225608022
         },
         {
-          "id": 51196011446614,
           "product_id": 9791346442582,
+          "id": 51196011446614,
           "title": "Pink",
           "price": "16.05",
           "position": 2,
@@ -5837,8 +5837,8 @@
           "image_id": 66240225640790
         },
         {
-          "id": 51196011479382,
           "product_id": 9791346442582,
+          "id": 51196011479382,
           "title": "Green",
           "price": "16.05",
           "position": 3,
@@ -5867,8 +5867,8 @@
       ],
       "options": [
         {
-          "id": 12640550584662,
           "product_id": 9791346442582,
+          "id": 12640550584662,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7129,8 +7129,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791454511446",
       "variants": [
         {
-          "id": 51196510142806,
           "product_id": 9791454511446,
+          "id": 51196510142806,
           "title": "Multi Function Bottle / EU",
           "price": "43.95",
           "position": 1,
@@ -7157,8 +7157,8 @@
           "image_id": 66242050457942
         },
         {
-          "id": 51196510175574,
           "product_id": 9791454511446,
+          "id": 51196510175574,
           "title": "Multi Function Bottle / AU",
           "price": "43.95",
           "position": 2,
@@ -7185,8 +7185,8 @@
           "image_id": 66242050490710
         },
         {
-          "id": 51196510208342,
           "product_id": 9791454511446,
+          "id": 51196510208342,
           "title": "Multi Function Bottle / US",
           "price": "43.95",
           "position": 3,
@@ -7213,8 +7213,8 @@
           "image_id": 66242050523478
         },
         {
-          "id": 51196510241110,
           "product_id": 9791454511446,
+          "id": 51196510241110,
           "title": "Multi Function Bottle / UK",
           "price": "44.19",
           "position": 4,
@@ -7241,8 +7241,8 @@
           "image_id": 66242050556246
         },
         {
-          "id": 51196510273878,
           "product_id": 9791454511446,
+          "id": 51196510273878,
           "title": "Multi Function Bottle / USB",
           "price": "42.72",
           "position": 5,
@@ -7271,8 +7271,8 @@
       ],
       "options": [
         {
-          "id": 12640678347094,
           "product_id": 9791454511446,
+          "id": 12640678347094,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7280,8 +7280,8 @@
           ]
         },
         {
-          "id": 12640678379862,
           "product_id": 9791454511446,
+          "id": 12640678379862,
           "name": "Power",
           "position": 2,
           "values": [
@@ -20769,8 +20769,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791345459542",
       "variants": [
         {
-          "id": 51196003680598,
           "product_id": 9791345459542,
+          "id": 51196003680598,
           "title": "Blue / 180ml / USB",
           "price": "56.31",
           "position": 1,
@@ -20797,8 +20797,8 @@
           "image_id": 66240199164246
         },
         {
-          "id": 51196003713366,
           "product_id": 9791345459542,
+          "id": 51196003713366,
           "title": "Blue / 240ml / USB",
           "price": "58.28",
           "position": 2,
@@ -20825,8 +20825,8 @@
           "image_id": 66240199164246
         },
         {
-          "id": 51196003746134,
           "product_id": 9791345459542,
+          "id": 51196003746134,
           "title": "Pink / 180ml / USB",
           "price": "56.31",
           "position": 3,
@@ -20853,8 +20853,8 @@
           "image_id": 66240199197014
         },
         {
-          "id": 51196003778902,
           "product_id": 9791345459542,
+          "id": 51196003778902,
           "title": "Pink / 240ml / USB",
           "price": "57.54",
           "position": 4,
@@ -20883,8 +20883,8 @@
       ],
       "options": [
         {
-          "id": 12640549405014,
           "product_id": 9791345459542,
+          "id": 12640549405014,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20893,8 +20893,8 @@
           ]
         },
         {
-          "id": 12640549437782,
           "product_id": 9791345459542,
+          "id": 12640549437782,
           "name": "Capacity size",
           "position": 2,
           "values": [
@@ -20903,8 +20903,8 @@
           ]
         },
         {
-          "id": 12640549470550,
           "product_id": 9791345459542,
+          "id": 12640549470550,
           "name": "power",
           "position": 3,
           "values": [

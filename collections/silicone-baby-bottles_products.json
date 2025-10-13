@@ -505,8 +505,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791182143830",
       "variants": [
         {
-          "id": 51195242152278,
           "product_id": 9791182143830,
+          "id": 51195242152278,
           "title": "Pink / Bottle brush",
           "price": "16.84",
           "position": 1,
@@ -533,8 +533,8 @@
           "image_id": 66238660772182
         },
         {
-          "id": 51195242185046,
           "product_id": 9791182143830,
+          "id": 51195242185046,
           "title": "Blue / Bottle brush",
           "price": "16.84",
           "position": 2,
@@ -561,8 +561,8 @@
           "image_id": 66238657397078
         },
         {
-          "id": 51195242217814,
           "product_id": 9791182143830,
+          "id": 51195242217814,
           "title": "Blue / Set",
           "price": "17.12",
           "position": 3,
@@ -589,8 +589,8 @@
           "image_id": 66238657397078
         },
         {
-          "id": 51195242250582,
           "product_id": 9791182143830,
+          "id": 51195242250582,
           "title": "Pink / Set",
           "price": "17.12",
           "position": 4,
@@ -617,8 +617,8 @@
           "image_id": 66238660870486
         },
         {
-          "id": 51195242283350,
           "product_id": 9791182143830,
+          "id": 51195242283350,
           "title": "Pink / Pacifier brush",
           "price": "16.50",
           "position": 5,
@@ -645,8 +645,8 @@
           "image_id": 66238660903254
         },
         {
-          "id": 51195242316118,
           "product_id": 9791182143830,
+          "id": 51195242316118,
           "title": "Blue / Pacifier brush",
           "price": "16.50",
           "position": 6,
@@ -675,8 +675,8 @@
       ],
       "options": [
         {
-          "id": 12640359219542,
           "product_id": 9791182143830,
+          "id": 12640359219542,
           "name": "Color",
           "position": 1,
           "values": [
@@ -685,8 +685,8 @@
           ]
         },
         {
-          "id": 12640359252310,
           "product_id": 9791182143830,
+          "id": 12640359252310,
           "name": "Style",
           "position": 2,
           "values": [
