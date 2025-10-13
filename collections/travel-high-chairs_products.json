@@ -4,7 +4,7 @@
     "handle": "travel-high-chairs",
     "title": "Travel & Portable High Chairs",
     "body_html": "<p><meta charset=\"utf-8\">Ensure your little one always has a safe seat at the table, wherever you go. Our travel high chairs are compact, lightweight, and easy to set up for meals on the move.</p>",
-    "products_count": 99
+    "products_count": 100
   },
   "products": [
     {
@@ -13883,6 +13883,254 @@
         "width": 800,
         "height": 823,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612000656130.jpg?v=1756787273",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9888370262358,
+      "title": "MashhVille Portable Food Masher Set – Pink Mash & Serve Bowl for Homemade Baby Meals",
+      "body_html": "<p>MashhVille Portable Food Masher Set combines convenience, functionality, and thoughtful design to make preparing nutritious homemade baby meals simple and stress-free. This versatile mash and serve bowl lets parents quickly blend fruits, vegetables, and soft foods wherever they are—perfect for busy families who value healthy eating.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4414258985140.jpg?v=1760369719\" alt=\"MashhVille Portable Food Masher Set – Pink Mash &amp; Serve Bowl for Homemade Baby Meals\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<p>All-in-One Masher and Bowl Set allows easy mashing and serving without extra tools. Compact and Portable Design ideal for home use, travel, or feeding on the go. Textured Bowl Base ensures smooth, even mashing of fruits and vegetables. Food-Grade Materials safe for babies, BPA-free, and easy to clean. Ergonomic Handle provides a comfortable, non-slip grip for effortless preparation. Vibrant Pink Color adds a fun, cheerful touch to mealtime.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5180880841654.jpg?v=1760369725\" alt=\"MashhVille Portable Food Masher Set – Pink Mash &amp; Serve Bowl for Homemade Baby Meals\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<p>Place cooked or soft food (like bananas, avocados, or carrots) into the bowl. Use the included masher to press and blend until you reach the desired texture. Feed your baby directly from the bowl or transfer the meal into a storage container. Rinse and wash the set thoroughly after each use.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/120833473219.jpg?v=1760369722\" alt=\"MashhVille Portable Food Masher Set – Pink Mash &amp; Serve Bowl for Homemade Baby Meals\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<p>Material: BPA-free, food-grade plastic and silicone components Color: Pink Design: Portable mash and serve bowl with textured interior Capacity: Suitable for small meal portions and snacks Included: 1 mashing bowl, 1 masher Care: Dishwasher-safe and travel-friendly</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/694431306167.jpg?v=1760369720\" alt=\"MashhVille Portable Food Masher Set – Pink Mash &amp; Serve Bowl for Homemade Baby Meals\" style=\"float: none;\"></div>\n<h3>Why Choose This Set</h3>\n<p>Perfect for parents who prefer fresh, homemade baby food. Compact and lightweight—ideal for travel or outdoor feeding. Encourages healthy eating habits from the start. Easy to clean, use, and store for everyday convenience. Durable construction ensures long-term use through early feeding stages.</p>\n<p> </p>\n<p>MashhVille Portable Food Masher Set – the easy, mess-free way to make and serve fresh, healthy baby meals anytime, anywhere.</p>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-10-13T16:35:13+01:00",
+      "handle": "mashhville-portable-food-masher-set-pink-mash-serve-bowl-for-homemade-baby-meals",
+      "updated_at": "2025-10-13T16:40:33+01:00",
+      "published_at": null,
+      "template_suffix": null,
+      "published_scope": "web",
+      "tags": "Baby Food Masher, Baby Food Ricer, CJ",
+      "status": "draft",
+      "admin_graphql_api_id": "gid://shopify/Product/9888370262358",
+      "variants": [
+        {
+          "id": 51557778489686,
+          "product_id": 9888370262358,
+          "title": "Blue",
+          "price": "39.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "54.95",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-13T16:35:27+01:00",
+          "updated_at": "2025-10-13T16:40:33+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 530,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE03002-Blue",
+          "weight": 530.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53819720270166,
+          "inventory_quantity": 10000,
+          "old_inventory_quantity": 10000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51557778489686",
+          "image_id": 67516928983382
+        },
+        {
+          "id": 51557778522454,
+          "product_id": 9888370262358,
+          "title": "Pink",
+          "price": "39.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-13T16:35:27+01:00",
+          "updated_at": "2025-10-13T16:35:27+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 530,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJWJYEYE03002-Pink",
+          "weight": 530.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53819720302934,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51557778522454",
+          "image_id": 67516929016150
+        }
+      ],
+      "options": [
+        {
+          "id": 12754089279830,
+          "product_id": 9888370262358,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue",
+            "Pink"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67516924526934,
+          "alt": "Penguin-shaped bath toy with various bath accessories on a blue water-themed background",
+          "position": 1,
+          "product_id": 9888370262358,
+          "created_at": "2025-10-13T16:35:14+01:00",
+          "updated_at": "2025-10-13T16:38:42+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67516924526934",
+          "width": 790,
+          "height": 772,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2899075080282.jpg?v=1760369717",
+          "variant_ids": []
+        },
+        {
+          "id": 67516924658006,
+          "alt": "Green kitchen tool with white bowls and food illustrations on a white background",
+          "position": 2,
+          "product_id": 9888370262358,
+          "created_at": "2025-10-13T16:35:16+01:00",
+          "updated_at": "2025-10-13T16:38:50+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67516924658006",
+          "width": 641,
+          "height": 647,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2274982596231.jpg?v=1760369718",
+          "variant_ids": []
+        },
+        {
+          "id": 67516925018454,
+          "alt": "Pink owl-shaped kitchen tool with detachable parts on a pink background",
+          "position": 3,
+          "product_id": 9888370262358,
+          "created_at": "2025-10-13T16:35:17+01:00",
+          "updated_at": "2025-10-13T16:38:56+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67516925018454",
+          "width": 781,
+          "height": 828,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4414258985140.jpg?v=1760369719",
+          "variant_ids": []
+        },
+        {
+          "id": 67516925116758,
+          "alt": "Pink kitchen tool with a grid design, showing shredded carrots inside.",
+          "position": 4,
+          "product_id": 9888370262358,
+          "created_at": "2025-10-13T16:35:18+01:00",
+          "updated_at": "2025-10-13T16:39:02+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67516925116758",
+          "width": 578,
+          "height": 439,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/694431306167.jpg?v=1760369720",
+          "variant_ids": []
+        },
+        {
+          "id": 67516925509974,
+          "alt": "Green citrus reamer with an orange being juiced on a white background",
+          "position": 5,
+          "product_id": 9888370262358,
+          "created_at": "2025-10-13T16:35:19+01:00",
+          "updated_at": "2025-10-13T16:39:08+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67516925509974",
+          "width": 596,
+          "height": 464,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/120833473219.jpg?v=1760369722",
+          "variant_ids": []
+        },
+        {
+          "id": 67516925968726,
+          "alt": "Pink cartoon-like kitchen tool with detachable parts on a pink background",
+          "position": 6,
+          "product_id": 9888370262358,
+          "created_at": "2025-10-13T16:35:21+01:00",
+          "updated_at": "2025-10-13T16:39:15+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67516925968726",
+          "width": 786,
+          "height": 732,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/30456678609926.jpg?v=1760369724",
+          "variant_ids": []
+        },
+        {
+          "id": 67516927344982,
+          "alt": "White colander with a close-up inset of food being drained.",
+          "position": 7,
+          "product_id": 9888370262358,
+          "created_at": "2025-10-13T16:35:22+01:00",
+          "updated_at": "2025-10-13T16:39:21+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67516927344982",
+          "width": 596,
+          "height": 406,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5180880841654.jpg?v=1760369725",
+          "variant_ids": []
+        },
+        {
+          "id": 67516928131414,
+          "alt": "White face brush on a white background",
+          "position": 8,
+          "product_id": 9888370262358,
+          "created_at": "2025-10-13T16:35:23+01:00",
+          "updated_at": "2025-10-13T16:39:27+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67516928131414",
+          "width": 570,
+          "height": 455,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/961175606109.jpg?v=1760369726",
+          "variant_ids": []
+        },
+        {
+          "id": 67516928426326,
+          "alt": "Purple silicone lid with a mesh top and a container underneath filled with food.",
+          "position": 9,
+          "product_id": 9888370262358,
+          "created_at": "2025-10-13T16:35:24+01:00",
+          "updated_at": "2025-10-13T16:39:33+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67516928426326",
+          "width": 588,
+          "height": 435,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/26320374215480.jpg?v=1760369727",
+          "variant_ids": []
+        },
+        {
+          "id": 67516928983382,
+          "alt": "Blue penguin-shaped container on a light blue background",
+          "position": 10,
+          "product_id": 9888370262358,
+          "created_at": "2025-10-13T16:35:27+01:00",
+          "updated_at": "2025-10-13T16:39:39+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67516928983382",
+          "width": 690,
+          "height": 553,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1572541494954.jpg?v=1760369729",
+          "variant_ids": [
+            51557778489686
+          ]
+        },
+        {
+          "id": 67516929016150,
+          "alt": "Pink cartoon character with a white base on a pink background",
+          "position": 11,
+          "product_id": 9888370262358,
+          "created_at": "2025-10-13T16:35:27+01:00",
+          "updated_at": "2025-10-13T16:39:45+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67516929016150",
+          "width": 715,
+          "height": 588,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1362480480877.jpg?v=1760369729",
+          "variant_ids": [
+            51557778522454
+          ]
+        }
+      ],
+      "image": {
+        "id": 67516924526934,
+        "alt": "Penguin-shaped bath toy with various bath accessories on a blue water-themed background",
+        "position": 1,
+        "product_id": 9888370262358,
+        "created_at": "2025-10-13T16:35:14+01:00",
+        "updated_at": "2025-10-13T16:38:42+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67516924526934",
+        "width": 790,
+        "height": 772,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2899075080282.jpg?v=1760369717",
         "variant_ids": []
       }
     },
@@ -32300,8 +32548,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 99,
-    "products_in_page": 99,
+    "total_products": 100,
+    "products_in_page": 100,
     "has_next_page": false,
     "has_previous_page": false
   }
