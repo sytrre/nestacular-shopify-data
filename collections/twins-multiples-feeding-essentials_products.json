@@ -5355,8 +5355,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866603266390",
       "variants": [
         {
-          "id": 51489656275286,
           "product_id": 9866603266390,
+          "id": 51489656275286,
           "title": "Beige",
           "price": "44.95",
           "position": 1,
@@ -5383,8 +5383,8 @@
           "image_id": 67363872309590
         },
         {
-          "id": 51489656308054,
           "product_id": 9866603266390,
+          "id": 51489656308054,
           "title": "Brick Red",
           "price": "44.95",
           "position": 2,
@@ -5411,8 +5411,8 @@
           "image_id": 67363872342358
         },
         {
-          "id": 51489656340822,
           "product_id": 9866603266390,
+          "id": 51489656340822,
           "title": "Cloudy Blue",
           "price": "44.95",
           "position": 3,
@@ -5439,8 +5439,8 @@
           "image_id": 67363872375126
         },
         {
-          "id": 51489656373590,
           "product_id": 9866603266390,
+          "id": 51489656373590,
           "title": "Ginger Yellow",
           "price": "44.95",
           "position": 4,
@@ -5469,8 +5469,8 @@
       ],
       "options": [
         {
-          "id": 12729067209046,
           "product_id": 9866603266390,
+          "id": 12729067209046,
           "name": "Color",
           "position": 1,
           "values": [
