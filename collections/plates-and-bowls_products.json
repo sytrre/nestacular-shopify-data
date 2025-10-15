@@ -10453,8 +10453,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866603266390",
       "variants": [
         {
-          "product_id": 9866603266390,
           "id": 51489656275286,
+          "product_id": 9866603266390,
           "title": "Beige",
           "price": "44.95",
           "position": 1,
@@ -10481,8 +10481,8 @@
           "image_id": 67363872309590
         },
         {
-          "product_id": 9866603266390,
           "id": 51489656308054,
+          "product_id": 9866603266390,
           "title": "Brick Red",
           "price": "44.95",
           "position": 2,
@@ -10509,8 +10509,8 @@
           "image_id": 67363872342358
         },
         {
-          "product_id": 9866603266390,
           "id": 51489656340822,
+          "product_id": 9866603266390,
           "title": "Cloudy Blue",
           "price": "44.95",
           "position": 3,
@@ -10537,8 +10537,8 @@
           "image_id": 67363872375126
         },
         {
-          "product_id": 9866603266390,
           "id": 51489656373590,
+          "product_id": 9866603266390,
           "title": "Ginger Yellow",
           "price": "44.95",
           "position": 4,
@@ -10567,8 +10567,8 @@
       ],
       "options": [
         {
-          "product_id": 9866603266390,
           "id": 12729067209046,
+          "product_id": 9866603266390,
           "name": "Color",
           "position": 1,
           "values": [
@@ -39062,7 +39062,7 @@
       "product_type": "",
       "created_at": "2025-08-18T22:52:41+01:00",
       "handle": "vibrant-silicone-baby-feeding-bowl-set-with-spoon-waterproof-and-easy-mealtime-solution",
-      "updated_at": "2025-10-15T00:50:11+01:00",
+      "updated_at": "2025-10-15T12:42:11+01:00",
       "published_at": "2025-08-18T22:52:42+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -39345,11 +39345,11 @@
       "images": [
         {
           "id": 66170990592342,
-          "alt": null,
+          "alt": "Vibrant green silicone baby feeding bowl set with wooden spoons, waterproof design by Nestacular.",
           "position": 1,
           "product_id": 9765170544982,
           "created_at": "2025-08-28T13:38:16+01:00",
-          "updated_at": "2025-08-28T13:38:47+01:00",
+          "updated_at": "2025-10-15T12:42:08+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66170990592342",
           "width": 385,
           "height": 380,
@@ -39358,11 +39358,11 @@
         },
         {
           "id": 66150806323542,
-          "alt": null,
+          "alt": "Vibrant green silicone baby feeding bowl with a wooden spoon, featuring a suction base for stability.",
           "position": 2,
           "product_id": 9765170544982,
           "created_at": "2025-08-27T12:43:10+01:00",
-          "updated_at": "2025-08-28T13:39:19+01:00",
+          "updated_at": "2025-10-15T12:42:11+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/66150806323542",
           "width": 392,
           "height": 377,
@@ -39598,11 +39598,11 @@
       ],
       "image": {
         "id": 66170990592342,
-        "alt": null,
+        "alt": "Vibrant green silicone baby feeding bowl set with wooden spoons, waterproof design by Nestacular.",
         "position": 1,
         "product_id": 9765170544982,
         "created_at": "2025-08-28T13:38:16+01:00",
-        "updated_at": "2025-08-28T13:38:47+01:00",
+        "updated_at": "2025-10-15T12:42:08+01:00",
         "admin_graphql_api_id": "gid://shopify/ProductImage/66170990592342",
         "width": 385,
         "height": 380,

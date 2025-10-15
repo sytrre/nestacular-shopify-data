@@ -13808,7 +13808,7 @@
       "product_type": "",
       "created_at": "2025-10-10T13:30:26+01:00",
       "handle": "teleport-baby-side-sleeping-pillow-washable-triangular-shaping-pillow-for-anti-spit-comfort",
-      "updated_at": "2025-10-12T01:31:32+01:00",
+      "updated_at": "2025-10-15T12:44:04+01:00",
       "published_at": "2025-10-10T13:37:51+01:00",
       "template_suffix": null,
       "published_scope": "web",
@@ -13887,11 +13887,11 @@
         },
         {
           "id": 67453948395862,
-          "alt": null,
+          "alt": "Triangular anti-reflux wedge pillow for babies by Nestacular, 45cm, featuring colorful animal design and head support.",
           "position": 3,
           "product_id": 9881856180566,
           "created_at": "2025-10-10T13:34:49+01:00",
-          "updated_at": "2025-10-10T13:35:55+01:00",
+          "updated_at": "2025-10-15T12:44:04+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67453948395862",
           "width": 503,
           "height": 375,
@@ -31457,7 +31457,7 @@
       "product_type": "Oral Care",
       "created_at": "2025-08-05T13:41:24+01:00",
       "handle": "bracedy-comfort-first-top-orthodontic-wax-for-braces-relief",
-      "updated_at": "2025-10-13T06:09:15+01:00",
+      "updated_at": "2025-10-15T12:43:05+01:00",
       "published_at": null,
       "template_suffix": null,
       "published_scope": "web",
@@ -31595,11 +31595,11 @@
       "images": [
         {
           "id": 65098066362710,
-          "alt": null,
+          "alt": "Orthodontic wax strips for braces relief in a blue package by My Store, suitable for Phase I, II, and III",
           "position": 1,
           "product_id": 9742590771542,
           "created_at": "2025-08-05T13:41:26+01:00",
-          "updated_at": "2025-08-05T13:41:28+01:00",
+          "updated_at": "2025-10-15T12:43:03+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/65098066362710",
           "width": 788,
           "height": 781,
@@ -31608,11 +31608,11 @@
         },
         {
           "id": 65098066526550,
-          "alt": null,
+          "alt": "Orthodontic wax for braces relief in a clear packaging by My Store, available in Phase I, II, and III styles.",
           "position": 2,
           "product_id": 9742590771542,
           "created_at": "2025-08-05T13:41:27+01:00",
-          "updated_at": "2025-08-05T13:41:29+01:00",
+          "updated_at": "2025-10-15T12:43:05+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/65098066526550",
           "width": 763,
           "height": 520,
@@ -31773,11 +31773,11 @@
       ],
       "image": {
         "id": 65098066362710,
-        "alt": null,
+        "alt": "Orthodontic wax strips for braces relief in a blue package by My Store, suitable for Phase I, II, and III",
         "position": 1,
         "product_id": 9742590771542,
         "created_at": "2025-08-05T13:41:26+01:00",
-        "updated_at": "2025-08-05T13:41:28+01:00",
+        "updated_at": "2025-10-15T12:43:03+01:00",
         "admin_graphql_api_id": "gid://shopify/ProductImage/65098066362710",
         "width": 788,
         "height": 781,
@@ -34945,7 +34945,7 @@
       "product_type": "",
       "created_at": "2025-10-10T12:10:46+01:00",
       "handle": "bubbs-super-soft-silicone-pacifier-anti-flatulence-milk-feel-soother-for-newborns",
-      "updated_at": "2025-10-12T01:28:44+01:00",
+      "updated_at": "2025-10-15T12:45:05+01:00",
       "published_at": "2025-10-10T12:23:40+01:00",
       "template_suffix": null,
       "published_scope": "web",
@@ -35082,11 +35082,11 @@
         },
         {
           "id": 67453171106134,
-          "alt": null,
+          "alt": "Bubbs silicone pacifier in cat design with storage box and anti-drop chain, suitable for newborns 0-6 months.",
           "position": 3,
           "product_id": 9881421316438,
           "created_at": "2025-10-10T12:19:48+01:00",
-          "updated_at": "2025-10-10T12:22:19+01:00",
+          "updated_at": "2025-10-15T12:45:05+01:00",
           "admin_graphql_api_id": "gid://shopify/ProductImage/67453171106134",
           "width": 526,
           "height": 386,
@@ -66548,8 +66548,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821642621270",
       "variants": [
         {
-          "id": 51323235893590,
           "product_id": 9821642621270,
+          "id": 51323235893590,
           "title": "Blue",
           "price": "85.95",
           "position": 1,
@@ -66576,8 +66576,8 @@
           "image_id": 66791207338326
         },
         {
-          "id": 51323235926358,
           "product_id": 9821642621270,
+          "id": 51323235926358,
           "title": "Green",
           "price": "85.95",
           "position": 2,
@@ -66604,8 +66604,8 @@
           "image_id": 66791207371094
         },
         {
-          "id": 51323235959126,
           "product_id": 9821642621270,
+          "id": 51323235959126,
           "title": "Yellow",
           "price": "85.95",
           "position": 3,
@@ -66634,8 +66634,8 @@
       ],
       "options": [
         {
-          "id": 12676600136022,
           "product_id": 9821642621270,
+          "id": 12676600136022,
           "name": "Color",
           "position": 1,
           "values": [
