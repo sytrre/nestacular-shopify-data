@@ -18275,8 +18275,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9795009249622",
       "variants": [
         {
-          "id": 51211731861846,
           "product_id": 9795009249622,
+          "id": 51211731861846,
           "title": "Coffee Color / UK",
           "price": "109.54",
           "position": 1,
@@ -18303,8 +18303,8 @@
           "image_id": 66273344684374
         },
         {
-          "id": 51211731894614,
           "product_id": 9795009249622,
+          "id": 51211731894614,
           "title": "Gray / UK",
           "price": "109.54",
           "position": 2,
@@ -18331,8 +18331,8 @@
           "image_id": 66273344717142
         },
         {
-          "id": 51211731927382,
           "product_id": 9795009249622,
+          "id": 51211731927382,
           "title": "Pink / UK",
           "price": "109.54",
           "position": 3,
@@ -18361,8 +18361,8 @@
       ],
       "options": [
         {
-          "id": 12645011652950,
           "product_id": 9795009249622,
+          "id": 12645011652950,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18372,8 +18372,8 @@
           ]
         },
         {
-          "id": 12645011685718,
           "product_id": 9795009249622,
+          "id": 12645011685718,
           "name": "Power specifications",
           "position": 2,
           "values": [
@@ -23484,8 +23484,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793804271958",
       "variants": [
         {
-          "id": 51206543311190,
           "product_id": 9793804271958,
+          "id": 51206543311190,
           "title": "Blue",
           "price": "16.81",
           "position": 1,
@@ -23512,8 +23512,8 @@
           "image_id": 66262955491670
         },
         {
-          "id": 51206543343958,
           "product_id": 9793804271958,
+          "id": 51206543343958,
           "title": "Pink",
           "price": "16.81",
           "position": 2,
@@ -23540,8 +23540,8 @@
           "image_id": 66262955524438
         },
         {
-          "id": 51206543376726,
           "product_id": 9793804271958,
+          "id": 51206543376726,
           "title": "Green",
           "price": "16.81",
           "position": 3,
@@ -23570,8 +23570,8 @@
       ],
       "options": [
         {
-          "id": 12643536765270,
           "product_id": 9793804271958,
+          "id": 12643536765270,
           "name": "Color",
           "position": 1,
           "values": [
