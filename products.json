@@ -18275,8 +18275,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9795009249622",
       "variants": [
         {
-          "product_id": 9795009249622,
           "id": 51211731861846,
+          "product_id": 9795009249622,
           "title": "Coffee Color / UK",
           "price": "109.54",
           "position": 1,
@@ -18303,8 +18303,8 @@
           "image_id": 66273344684374
         },
         {
-          "product_id": 9795009249622,
           "id": 51211731894614,
+          "product_id": 9795009249622,
           "title": "Gray / UK",
           "price": "109.54",
           "position": 2,
@@ -18331,8 +18331,8 @@
           "image_id": 66273344717142
         },
         {
-          "product_id": 9795009249622,
           "id": 51211731927382,
+          "product_id": 9795009249622,
           "title": "Pink / UK",
           "price": "109.54",
           "position": 3,
@@ -18361,8 +18361,8 @@
       ],
       "options": [
         {
-          "product_id": 9795009249622,
           "id": 12645011652950,
+          "product_id": 9795009249622,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18372,8 +18372,8 @@
           ]
         },
         {
-          "product_id": 9795009249622,
           "id": 12645011685718,
+          "product_id": 9795009249622,
           "name": "Power specifications",
           "position": 2,
           "values": [
@@ -88047,8 +88047,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790189502806",
       "variants": [
         {
-          "product_id": 9790189502806,
           "id": 51191372939606,
+          "product_id": 9790189502806,
           "title": "80ml Pink 3pcs set",
           "price": "38.99",
           "position": 1,
@@ -88075,8 +88075,8 @@
           "image_id": 66229215068502
         },
         {
-          "product_id": 9790189502806,
           "id": 51191372972374,
+          "product_id": 9790189502806,
           "title": "80ml Green 3pcs set",
           "price": "38.99",
           "position": 2,
@@ -88103,8 +88103,8 @@
           "image_id": 66229215101270
         },
         {
-          "product_id": 9790189502806,
           "id": 51191373005142,
+          "product_id": 9790189502806,
           "title": "160ml Pink 3pcs set",
           "price": "38.99",
           "position": 3,
@@ -88131,8 +88131,8 @@
           "image_id": 66229215134038
         },
         {
-          "product_id": 9790189502806,
           "id": 51191373037910,
+          "product_id": 9790189502806,
           "title": "160ml Green 3pcs set",
           "price": "38.99",
           "position": 4,
@@ -88159,8 +88159,8 @@
           "image_id": 66229215166806
         },
         {
-          "product_id": 9790189502806,
           "id": 51191373070678,
+          "product_id": 9790189502806,
           "title": "160ml 160ml 4pcs set",
           "price": "49.93",
           "position": 5,
@@ -88189,8 +88189,8 @@
       ],
       "options": [
         {
-          "product_id": 9790189502806,
           "id": 12639136645462,
+          "product_id": 9790189502806,
           "name": "Color",
           "position": 1,
           "values": [

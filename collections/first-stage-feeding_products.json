@@ -34231,8 +34231,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791841010006",
       "variants": [
         {
-          "id": 51197708075350,
           "product_id": 9791841010006,
+          "id": 51197708075350,
           "title": "Black / 16x10.5x11.5cm",
           "price": "26.64",
           "position": 1,
@@ -34261,8 +34261,8 @@
       ],
       "options": [
         {
-          "id": 12641120551254,
           "product_id": 9791841010006,
+          "id": 12641120551254,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34270,8 +34270,8 @@
           ]
         },
         {
-          "id": 12641120584022,
           "product_id": 9791841010006,
+          "id": 12641120584022,
           "name": "Size",
           "position": 2,
           "values": [

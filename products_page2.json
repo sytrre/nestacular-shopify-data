@@ -4464,8 +4464,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9585834099030",
       "variants": [
         {
-          "product_id": 9585834099030,
           "id": 50301849534806,
+          "product_id": 9585834099030,
           "title": "Single Blue / 1.26 pounds",
           "price": "45.95",
           "position": 1,
@@ -4492,8 +4492,8 @@
           "image_id": 61640844083542
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849567574,
+          "product_id": 9585834099030,
           "title": "Dual Microphone Pink / 1.26 pounds",
           "price": "55.95",
           "position": 2,
@@ -4520,8 +4520,8 @@
           "image_id": 61640850047318
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849600342,
+          "product_id": 9585834099030,
           "title": "Dual Microphone White / 1.26 pounds",
           "price": "55.95",
           "position": 3,
@@ -4548,8 +4548,8 @@
           "image_id": 61640852472150
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849633110,
+          "product_id": 9585834099030,
           "title": "Single Microphone Pink / 1.26 pounds",
           "price": "51.95",
           "position": 4,
@@ -4576,8 +4576,8 @@
           "image_id": 61640853356886
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849665878,
+          "product_id": 9585834099030,
           "title": "Dual Microphone Blue / 1.26 pounds",
           "price": "55.95",
           "position": 5,
@@ -4604,8 +4604,8 @@
           "image_id": 61640846311766
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849698646,
+          "product_id": 9585834099030,
           "title": "Single Microphone White / 1.26 pounds",
           "price": "51.95",
           "position": 6,
@@ -4632,8 +4632,8 @@
           "image_id": 61640848900438
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849731414,
+          "product_id": 9585834099030,
           "title": "Single Microphone Blue / 1.26 pounds",
           "price": "51.95",
           "position": 7,
@@ -4662,8 +4662,8 @@
       ],
       "options": [
         {
-          "product_id": 9585834099030,
           "id": 12386810921302,
+          "product_id": 9585834099030,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4677,8 +4677,8 @@
           ]
         },
         {
-          "product_id": 9585834099030,
           "id": 12603234845014,
+          "product_id": 9585834099030,
           "name": "3.15 x 3.5 x 3.5 inches",
           "position": 2,
           "values": [
@@ -32961,8 +32961,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790063444310",
       "variants": [
         {
-          "id": 51191062823254,
           "product_id": 9790063444310,
+          "id": 51191062823254,
           "title": "Black",
           "price": "19.56",
           "position": 1,
@@ -32989,8 +32989,8 @@
           "image_id": 66228868284758
         },
         {
-          "id": 51191062856022,
           "product_id": 9790063444310,
+          "id": 51191062856022,
           "title": "Navy Blue",
           "price": "19.56",
           "position": 2,
@@ -33017,8 +33017,8 @@
           "image_id": 66228868317526
         },
         {
-          "id": 51191062888790,
           "product_id": 9790063444310,
+          "id": 51191062888790,
           "title": "Pink",
           "price": "19.56",
           "position": 3,
@@ -33045,8 +33045,8 @@
           "image_id": 66228868350294
         },
         {
-          "id": 51191062921558,
           "product_id": 9790063444310,
+          "id": 51191062921558,
           "title": "Red",
           "price": "19.56",
           "position": 4,
@@ -33073,8 +33073,8 @@
           "image_id": 66228868383062
         },
         {
-          "id": 51191062954326,
           "product_id": 9790063444310,
+          "id": 51191062954326,
           "title": "Green",
           "price": "19.56",
           "position": 5,
@@ -33101,8 +33101,8 @@
           "image_id": 66228868415830
         },
         {
-          "id": 51191062987094,
           "product_id": 9790063444310,
+          "id": 51191062987094,
           "title": "Grey",
           "price": "19.56",
           "position": 6,
@@ -33129,8 +33129,8 @@
           "image_id": 66228868448598
         },
         {
-          "id": 51191063019862,
           "product_id": 9790063444310,
+          "id": 51191063019862,
           "title": "Hook",
           "price": "19.57",
           "position": 7,
@@ -33159,8 +33159,8 @@
       ],
       "options": [
         {
-          "id": 12638993285462,
           "product_id": 9790063444310,
+          "id": 12638993285462,
           "name": "Color",
           "position": 1,
           "values": [
