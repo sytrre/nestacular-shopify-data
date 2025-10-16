@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-15T10:00:03+01:00",
+      "updated_at": "2025-10-16T17:46:30+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -876,12 +876,19 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-10-04T19:00:00+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-16T17:46:30+01:00",
+          "summary_html": "<p>Choosing safe, durable, and eco-friendly tableware for your baby goes far beyond cute designs. This in-depth guide compares <strong data-start=\"223\" data-end=\"256\">silicone, bamboo, and plastic</strong> baby feeding materials—covering chemical safety, durability, temperature resistance, and sustainability. Backed by independent testing and global safety standards, it helps parents confidently select non-toxic options that support their child’s health, developmental needs, and family values. Discover why food-grade silicone leads in safety, how to identify melamine-free bamboo, and when modern BPA-free plastics make sense.</p>",
           "template_suffix": "article",
           "handle": "silicone-vs-bamboo-vs-plastic-baby-tableware-safety-durability-guide",
           "tags": "Baby Tableware",
-          "admin_graphql_api_id": "gid://shopify/Article/610680897878"
+          "admin_graphql_api_id": "gid://shopify/Article/610680897878",
+          "image": {
+            "created_at": "2025-10-16T17:46:29+01:00",
+            "alt": "A woman in a bright kitchen deliberates over various baby dishes made of plastic, silicone, and bamboo, while her baby in a high chair observes the selection of feeding options.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/D_64f7893f-37cf-47c9-90af-db4708ac8d98.jpg?v=1760633190"
+          }
         },
         {
           "id": 610680045910,
