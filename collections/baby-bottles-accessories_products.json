@@ -22821,8 +22821,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791235293526",
       "variants": [
         {
-          "id": 51195358118230,
           "product_id": 9791235293526,
+          "id": 51195358118230,
           "title": "Green / Usb",
           "price": "43.93",
           "position": 1,
@@ -22849,8 +22849,8 @@
           "image_id": 66238945689942
         },
         {
-          "id": 51195358150998,
           "product_id": 9791235293526,
+          "id": 51195358150998,
           "title": "Yellow / Usb",
           "price": "43.62",
           "position": 2,
@@ -22879,8 +22879,8 @@
       ],
       "options": [
         {
-          "id": 12640417710422,
           "product_id": 9791235293526,
+          "id": 12640417710422,
           "name": "Color",
           "position": 1,
           "values": [
@@ -22889,8 +22889,8 @@
           ]
         },
         {
-          "id": 12640417743190,
           "product_id": 9791235293526,
+          "id": 12640417743190,
           "name": "style",
           "position": 2,
           "values": [
@@ -25281,8 +25281,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791841010006",
       "variants": [
         {
-          "id": 51197708075350,
           "product_id": 9791841010006,
+          "id": 51197708075350,
           "title": "Black / 16x10.5x11.5cm",
           "price": "26.64",
           "position": 1,
@@ -25311,8 +25311,8 @@
       ],
       "options": [
         {
-          "id": 12641120551254,
           "product_id": 9791841010006,
+          "id": 12641120551254,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25320,8 +25320,8 @@
           ]
         },
         {
-          "id": 12641120584022,
           "product_id": 9791841010006,
+          "id": 12641120584022,
           "name": "Size",
           "position": 2,
           "values": [
