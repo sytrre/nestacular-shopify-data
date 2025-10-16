@@ -1880,8 +1880,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870527332694",
       "variants": [
         {
-          "id": 51504563388758,
           "product_id": 9870527332694,
+          "id": 51504563388758,
           "title": "A",
           "price": "29.25",
           "position": 1,
@@ -1908,8 +1908,8 @@
           "image_id": 67398926664022
         },
         {
-          "id": 51504563421526,
           "product_id": 9870527332694,
+          "id": 51504563421526,
           "title": "B",
           "price": "29.25",
           "position": 2,
@@ -1936,8 +1936,8 @@
           "image_id": 67398926696790
         },
         {
-          "id": 51504563454294,
           "product_id": 9870527332694,
+          "id": 51504563454294,
           "title": "C",
           "price": "29.25",
           "position": 3,
@@ -1966,8 +1966,8 @@
       ],
       "options": [
         {
-          "id": 12733667443030,
           "product_id": 9870527332694,
+          "id": 12733667443030,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6641,8 +6641,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866641178966",
       "variants": [
         {
-          "id": 51489858879830,
           "product_id": 9866641178966,
+          "id": 51489858879830,
           "title": "180ml / No plug",
           "price": "59.95",
           "position": 1,
@@ -6669,8 +6669,8 @@
           "image_id": 67364337451350
         },
         {
-          "id": 51489858912598,
           "product_id": 9866641178966,
+          "id": 51489858912598,
           "title": "180ml / With plug",
           "price": "59.95",
           "position": 2,
@@ -6697,8 +6697,8 @@
           "image_id": 67364337484118
         },
         {
-          "id": 51489858945366,
           "product_id": 9866641178966,
+          "id": 51489858945366,
           "title": "240ML / No plug",
           "price": "59.95",
           "position": 3,
@@ -6725,8 +6725,8 @@
           "image_id": 67364337451350
         },
         {
-          "id": 51489858978134,
           "product_id": 9866641178966,
+          "id": 51489858978134,
           "title": "240ML / With plug",
           "price": "59.95",
           "position": 4,
@@ -6755,8 +6755,8 @@
       ],
       "options": [
         {
-          "id": 12729109610838,
           "product_id": 9866641178966,
+          "id": 12729109610838,
           "name": "Capacity size",
           "position": 1,
           "values": [
@@ -6765,8 +6765,8 @@
           ]
         },
         {
-          "id": 12729109643606,
           "product_id": 9866641178966,
+          "id": 12729109643606,
           "name": "style",
           "position": 2,
           "values": [
