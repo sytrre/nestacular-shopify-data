@@ -2156,8 +2156,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9585834099030",
       "variants": [
         {
-          "product_id": 9585834099030,
           "id": 50301849534806,
+          "product_id": 9585834099030,
           "title": "Single Blue / 1.26 pounds",
           "price": "45.95",
           "position": 1,
@@ -2184,8 +2184,8 @@
           "image_id": 61640844083542
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849567574,
+          "product_id": 9585834099030,
           "title": "Dual Microphone Pink / 1.26 pounds",
           "price": "55.95",
           "position": 2,
@@ -2212,8 +2212,8 @@
           "image_id": 61640850047318
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849600342,
+          "product_id": 9585834099030,
           "title": "Dual Microphone White / 1.26 pounds",
           "price": "55.95",
           "position": 3,
@@ -2240,8 +2240,8 @@
           "image_id": 61640852472150
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849633110,
+          "product_id": 9585834099030,
           "title": "Single Microphone Pink / 1.26 pounds",
           "price": "51.95",
           "position": 4,
@@ -2268,8 +2268,8 @@
           "image_id": 61640853356886
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849665878,
+          "product_id": 9585834099030,
           "title": "Dual Microphone Blue / 1.26 pounds",
           "price": "55.95",
           "position": 5,
@@ -2296,8 +2296,8 @@
           "image_id": 61640846311766
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849698646,
+          "product_id": 9585834099030,
           "title": "Single Microphone White / 1.26 pounds",
           "price": "51.95",
           "position": 6,
@@ -2324,8 +2324,8 @@
           "image_id": 61640848900438
         },
         {
-          "product_id": 9585834099030,
           "id": 50301849731414,
+          "product_id": 9585834099030,
           "title": "Single Microphone Blue / 1.26 pounds",
           "price": "51.95",
           "position": 7,
@@ -2354,8 +2354,8 @@
       ],
       "options": [
         {
-          "product_id": 9585834099030,
           "id": 12386810921302,
+          "product_id": 9585834099030,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2369,8 +2369,8 @@
           ]
         },
         {
-          "product_id": 9585834099030,
           "id": 12603234845014,
+          "product_id": 9585834099030,
           "name": "3.15 x 3.5 x 3.5 inches",
           "position": 2,
           "values": [
