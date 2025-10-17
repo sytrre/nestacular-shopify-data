@@ -5560,8 +5560,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9827700539734",
       "variants": [
         {
-          "id": 51344831807830,
           "product_id": 9827700539734,
+          "id": 51344831807830,
           "title": "Dark Blue",
           "price": "145.95",
           "position": 1,
@@ -5588,8 +5588,8 @@
           "image_id": 66930306220374
         },
         {
-          "id": 51344831840598,
           "product_id": 9827700539734,
+          "id": 51344831840598,
           "title": "Grey",
           "price": "145.95",
           "position": 2,
@@ -5616,8 +5616,8 @@
           "image_id": 66930306253142
         },
         {
-          "id": 51344831873366,
           "product_id": 9827700539734,
+          "id": 51344831873366,
           "title": "Khaki",
           "price": "145.95",
           "position": 3,
@@ -5644,8 +5644,8 @@
           "image_id": 66930306285910
         },
         {
-          "id": 51344831906134,
           "product_id": 9827700539734,
+          "id": 51344831906134,
           "title": "Sky Blue",
           "price": "145.95",
           "position": 4,
@@ -5674,8 +5674,8 @@
       ],
       "options": [
         {
-          "id": 12683830362454,
           "product_id": 9827700539734,
+          "id": 12683830362454,
           "name": "Color",
           "position": 1,
           "values": [
@@ -30450,8 +30450,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791245877590",
       "variants": [
         {
-          "product_id": 9791245877590,
           "id": 51195418509654,
+          "product_id": 9791245877590,
           "title": "Pink",
           "price": "36.18",
           "position": 1,
@@ -30478,8 +30478,8 @@
           "image_id": 66239095996758
         },
         {
-          "product_id": 9791245877590,
           "id": 51195418542422,
+          "product_id": 9791245877590,
           "title": "Blue",
           "price": "36.18",
           "position": 2,
@@ -30506,8 +30506,8 @@
           "image_id": 66239096029526
         },
         {
-          "product_id": 9791245877590,
           "id": 51195418575190,
+          "product_id": 9791245877590,
           "title": "Yellow",
           "price": "36.18",
           "position": 3,
@@ -30536,8 +30536,8 @@
       ],
       "options": [
         {
-          "product_id": 9791245877590,
           "id": 12640430686550,
+          "product_id": 9791245877590,
           "name": "Color",
           "position": 1,
           "values": [

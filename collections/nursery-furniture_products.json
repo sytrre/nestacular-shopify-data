@@ -6324,8 +6324,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870977532246",
       "variants": [
         {
-          "id": 51505806967126,
           "product_id": 9870977532246,
+          "id": 51505806967126,
           "title": "Blue PVC Soft cushion",
           "price": "164.95",
           "position": 1,
@@ -6352,8 +6352,8 @@
           "image_id": 67400485962070
         },
         {
-          "id": 51505806999894,
           "product_id": 9870977532246,
+          "id": 51505806999894,
           "title": "Pink PVC Soft cushion",
           "price": "164.95",
           "position": 2,
@@ -6380,8 +6380,8 @@
           "image_id": 67400485994838
         },
         {
-          "id": 51505807032662,
           "product_id": 9870977532246,
+          "id": 51505807032662,
           "title": "Purple PU Soft cushion",
           "price": "166.95",
           "position": 3,
@@ -6408,8 +6408,8 @@
           "image_id": 67400486027606
         },
         {
-          "id": 51505807065430,
           "product_id": 9870977532246,
+          "id": 51505807065430,
           "title": "White PU Soft cushion",
           "price": "168.95",
           "position": 4,
@@ -6438,8 +6438,8 @@
       ],
       "options": [
         {
-          "id": 12734180819286,
           "product_id": 9870977532246,
+          "id": 12734180819286,
           "name": "Color",
           "position": 1,
           "values": [
