@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-17T04:32:25+01:00",
+      "updated_at": "2025-10-17T08:00:53+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -831,12 +831,19 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-10-04T19:52:52+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-17T08:00:53+01:00",
+          "summary_html": "<p>Feeding your baby on the go doesn’t have to be stressful. This evidence-based guide reveals the best travel feeding essentials for babies aged 6–24 months, including portable bottles, collapsible bowls, silicone utensils, and compact high chairs. Learn how to pack smart, stay hygienic, and maintain consistent feeding routines while traveling by car, plane, or abroad. Backed by pediatric research, this guide helps you choose safe, BPA-free materials, avoid common travel feeding mistakes, and create a smooth, stress-free experience for your family—wherever your journey takes you.</p>",
           "template_suffix": "article",
           "handle": "travel-baby-feeding-set-portable-solutions-for-eating-on-the-go",
           "tags": "Baby Tableware",
-          "admin_graphql_api_id": "gid://shopify/Article/610681061718"
+          "admin_graphql_api_id": "gid://shopify/Article/610681061718",
+          "image": {
+            "created_at": "2025-10-17T08:00:52+01:00",
+            "alt": "arious baby travel feeding products neatly arranged",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_d628bea9-9313-4eef-9da7-d85400408852.jpg?v=1760684453"
+          }
         },
         {
           "id": 610681028950,
@@ -846,27 +853,41 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-10-04T19:36:47+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-17T07:53:49+01:00",
+          "summary_html": "<p>Introducing baby spoons and forks is a key milestone that supports your child’s fine motor skills, coordination, and feeding independence. This expert-backed guide explains when and how to introduce utensils safely—from pre-loaded spoons at 6 months to stainless steel forks by 24 months. Learn developmental readiness signs, safe material choices, and practical tips to make self-feeding stress-free and fun. Discover which utensils to start with, how to encourage progress, and what safety standards to look for—so you can nurture confident, capable eaters from the very first bite.</p>",
           "template_suffix": "article",
           "handle": "baby-spoons-and-forks-age-guide-and-top-recommendations",
           "tags": "Baby Tableware",
-          "admin_graphql_api_id": "gid://shopify/Article/610681028950"
+          "admin_graphql_api_id": "gid://shopify/Article/610681028950",
+          "image": {
+            "created_at": "2025-10-17T07:53:48+01:00",
+            "alt": "Two boys enjoyinhg breakfast",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/V1_78699880-42e8-4189-8449-0d1becf04fc5.jpg?v=1760684029"
+          }
         },
         {
           "id": 610680930646,
           "title": "Complete Baby Feeding Set: What You Really Need (and What You Don't)",
           "created_at": "2025-10-04T19:18:45+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-04T19:18:45+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-17T07:46:37+01:00",
+          "summary_html": "<p>New parents often spend £450–800 on baby feeding gear, yet nearly half of it goes unused. This evidence-based guide reveals the truth about what’s <em data-start=\"302\" data-end=\"312\">actually</em> essential for safe, healthy feeding—and what’s just clever marketing. Learn which 5–7 core items you truly need, how to save hundreds with DIY alternatives, and how to build a practical setup that grows with your child from newborn to toddler. Skip the clutter, avoid money traps, and feed your baby confidently without draining your wallet.</p>",
           "template_suffix": "article",
           "handle": "complete-baby-feeding-set-what-you-really-need-and-what-you-dont",
           "tags": "Baby Tableware",
-          "admin_graphql_api_id": "gid://shopify/Article/610680930646"
+          "admin_graphql_api_id": "gid://shopify/Article/610680930646",
+          "image": {
+            "created_at": "2025-10-17T07:44:29+01:00",
+            "alt": "A cheerful baby in a high chair being spoon-fed by a joyful mother.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/V_03bb39bb-fbc2-4ded-822b-9ae266c7f2e1.jpg?v=1760683470"
+          }
         },
         {
           "id": 610680897878,
