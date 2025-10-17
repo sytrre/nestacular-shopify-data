@@ -12646,8 +12646,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9881789071702",
       "variants": [
         {
-          "id": 51533380092246,
           "product_id": 9881789071702,
+          "id": 51533380092246,
           "title": "Extruded rice paste bottle (mesh bag style)",
           "price": "23.95",
           "position": 1,
@@ -12674,8 +12674,8 @@
           "image_id": 67453803037014
         },
         {
-          "id": 51533380125014,
           "product_id": 9881789071702,
+          "id": 51533380125014,
           "title": "Extruded rice paste bottle (Spoon head type)",
           "price": "23.95",
           "position": 2,
@@ -12704,8 +12704,8 @@
       ],
       "options": [
         {
-          "id": 12746270572886,
           "product_id": 9881789071702,
+          "id": 12746270572886,
           "name": "color",
           "position": 1,
           "values": [
@@ -22821,8 +22821,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791235293526",
       "variants": [
         {
-          "product_id": 9791235293526,
           "id": 51195358118230,
+          "product_id": 9791235293526,
           "title": "Green / Usb",
           "price": "43.93",
           "position": 1,
@@ -22849,8 +22849,8 @@
           "image_id": 66238945689942
         },
         {
-          "product_id": 9791235293526,
           "id": 51195358150998,
+          "product_id": 9791235293526,
           "title": "Yellow / Usb",
           "price": "43.62",
           "position": 2,
@@ -22879,8 +22879,8 @@
       ],
       "options": [
         {
-          "product_id": 9791235293526,
           "id": 12640417710422,
+          "product_id": 9791235293526,
           "name": "Color",
           "position": 1,
           "values": [
@@ -22889,8 +22889,8 @@
           ]
         },
         {
-          "product_id": 9791235293526,
           "id": 12640417743190,
+          "product_id": 9791235293526,
           "name": "style",
           "position": 2,
           "values": [
