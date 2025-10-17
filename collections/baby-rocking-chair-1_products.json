@@ -3251,8 +3251,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821856235862",
       "variants": [
         {
-          "id": 51323898986838,
           "product_id": 9821856235862,
+          "id": 51323898986838,
           "title": "Pink",
           "price": "231.95",
           "position": 1,
@@ -3281,8 +3281,8 @@
       ],
       "options": [
         {
-          "id": 12676849959254,
           "product_id": 9821856235862,
+          "id": 12676849959254,
           "name": "Color",
           "position": 1,
           "values": [
