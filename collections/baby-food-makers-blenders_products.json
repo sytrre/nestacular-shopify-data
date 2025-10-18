@@ -4,7 +4,7 @@
     "handle": "baby-food-makers-blenders",
     "title": "Baby Food Makers & Blenders",
     "body_html": "<p>Effortlessly create fresh, delicious, and nutrient-rich meals for your baby. Our range of all-in-one baby food makers can steam and blend fruits, vegetables, and more in one simple step, creating perfect purees every time. Take control of your baby's nutrition from their very first bite with these time-saving, modern kitchen essentials.</p>",
-    "products_count": 5
+    "products_count": 6
   },
   "products": [
     {
@@ -15,11 +15,11 @@
       "product_type": "",
       "created_at": "2025-09-12T09:07:47+01:00",
       "handle": "bebachef-fully-automatic-complementary-food-machine-integrated-baby-cooking-puffing-blender-with-scheduling-timing-functions",
-      "updated_at": "2025-10-11T13:45:19+01:00",
+      "updated_at": "2025-10-18T13:26:30+01:00",
       "published_at": "2025-09-12T09:17:55+01:00",
       "template_suffix": null,
       "published_scope": "web",
-      "tags": "automatic-baby-food-maker, Baby Food Makers, Baby Food Makers Blenders, baby-puffing-machine, baby-steamer-blender, bebachef-products, bpa-free-baby-appliance, compact-baby-kitchen, complementary-food-machine, detachable-baby-blender, digital-baby-cooker, HYP, infant-food-processor, life-event-grandparents-visit-extended-stay-setup, life-event-returning-to-work-mom-feeding-prep, life-event-transitioning-to-solid-foods-starter-bundle, life-event-winter-baby-registry-must-haves, multifunction-baby-feeder, programmable-baby-cooker, scheduled-baby-cooking, toddler-snack-maker, weaning-food-machine",
+      "tags": "automatic-baby-food-maker, Baby Food Makers, Baby Food Makers Blenders, baby-puffing-machine, baby-steamer-blender, bebachef-products, bpa-free-baby-appliance, compact-baby-kitchen, complementary-food-machine, detachable-baby-blender, digital-baby-cooker, HYP, infant-food-processor, life-event-grandparents-visit-extended-stay-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-transitioning-to-solid-foods-starter-bundle, life-event-winter-baby-registry-must-haves, multifunction-baby-feeder, programmable-baby-cooker, scheduled-baby-cooking, toddler-snack-maker, weaning-food-machine",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9815443046742",
       "variants": [
@@ -240,11 +240,11 @@
       "product_type": "0",
       "created_at": "2025-10-13T16:46:05+01:00",
       "handle": "instantmeal-electric-garlic-masher-wireless-baby-food-grinder-kitchen-blender",
-      "updated_at": "2025-10-14T04:46:14+01:00",
+      "updated_at": "2025-10-18T13:31:17+01:00",
       "published_at": "2025-10-13T16:52:57+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Food Machine, CJ",
+      "tags": "Baby Food Machine, CJ, life-event-nanny-caregiver-training-feeding-setup",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9888413090134",
       "variants": [
@@ -449,11 +449,11 @@
       "product_type": "Baby food supplement grinder",
       "created_at": "2025-08-31T07:56:27+01:00",
       "handle": "kerafyn-baby-food-supplement-grinder",
-      "updated_at": "2025-10-11T13:50:54+01:00",
+      "updated_at": "2025-10-18T13:31:41+01:00",
       "published_at": "2025-08-31T08:15:56+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby food supplement maker, baby meal preparation tool, Kerafyn baby food grinder, life-event-babysitters-emergency-feeding-kit, life-event-dual-household-co-parenting-feeding-essentials, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-transitioning-to-solid-foods-starter-bundle, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, manual baby food processor, portable baby food grinder",
+      "tags": "baby food supplement maker, baby meal preparation tool, Kerafyn baby food grinder, life-event-babysitters-emergency-feeding-kit, life-event-dual-household-co-parenting-feeding-essentials, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-transitioning-to-solid-foods-starter-bundle, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, manual baby food processor, portable baby food grinder",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9788957884758",
       "variants": [
@@ -603,6 +603,242 @@
         "width": 790,
         "height": 790,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Kerafyn_Baby_Food_Supplement_Grinder_1.jpg?v=1756624409",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9888437207382,
+      "title": "Manual Baby Food Chopper - Hand Pull Vegetable Cutter 400ml",
+      "body_html": "<h2>Manual Baby Food Chopper &amp; Vegetable Cutter</h2>\n\n<p>The Bowliffy Baby Food Supplement Machine is a manual food processor designed for parents who want control over meal preparation without electricity. This hand-pulled chopper features stainless steel blades and a 400ml capacity bowl, making it suitable for preparing baby food, chopping vegetables, and mashing garlic.</p>\n\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618369956984.jpg?v=1760371117\" alt=\"Bowliffy Baby Food Supplement Machine - Hand-Pulled Vegetable Cutter &amp; Garlic Masher\" style=\"float: none;\"></div>\n\n<h2>Key Features</h2>\n<ul>\n<li>Hand-pulled mechanism for effortless chopping and mashing</li>\n<li>Sharp stainless-steel blades ensure quick and even cutting</li>\n<li>Compact, lightweight design ideal for small kitchens or travel</li>\n<li>Transparent bowl for easy ingredient monitoring</li>\n<li>Multi-purpose use: perfect for baby food, vegetables, fruits, and garlic</li>\n<li>Non-slip base keeps the bowl stable during use</li>\n<li>Easy-to-clean components for daily convenience</li>\n</ul>\n\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618369956993.jpg?v=1760371117\" alt=\"Bowliffy Baby Food Supplement Machine - Hand-Pulled Vegetable Cutter &amp; Garlic Masher\" style=\"float: none;\"></div>\n\n<h2>How to Use</h2>\n<p>Add your desired ingredients to the bowl, secure the lid, and pull the handle to achieve your preferred texture — from coarse chopping to fine mashing. Clean immediately after use for optimal hygiene.</p>\n\n<h2>Product Specifications</h2>\n<ul>\n<li>Material: Food-grade plastic bowl with stainless-steel blades</li>\n<li>Capacity: 400ml</li>\n<li>Operation: Manual hand-pulled mechanism</li>\n<li>Colors: Available in Green and Pink</li>\n<li>Suitable for: Baby food preparation, vegetable chopping, and garlic mashing</li>\n<li>Package Includes: 1 Bowliffy Baby Food Supplement Machine</li>\n</ul>\n\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618369956982.jpg?v=1760371113\" alt=\"Bowliffy Baby Food Supplement Machine - Hand-Pulled Vegetable Cutter &amp; Garlic Masher\" style=\"float: none;\"></div>\n\n<h2>Benefits of Manual Food Processing</h2>\n<p>This manual food processor offers complete control over your baby's meals with a simple, safe, and efficient design. Unlike electric alternatives, it provides quiet operation, portability, and eco-friendly convenience — suitable for home or travel. The sturdy build and ergonomic design make it a practical kitchen tool for health-conscious families.</p>\n\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You've found a hidden discount code! Use code \"TTD\" at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-10-13T16:58:26+01:00",
+      "handle": "bowliffy-baby-food-supplement-machine-hand-pulled-vegetable-cutter-garlic-masher",
+      "updated_at": "2025-10-18T13:34:18+01:00",
+      "published_at": "2025-10-13T17:04:31+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "400ml-food-chopper, Baby Food Machine, baby-food-maker, CJ, compact-food-processor, garlic-masher, hand-powered-chopper, hand-pull-chopper, infant-food-prep, life-event-nanny-caregiver-training-feeding-setup, manual-baby-food-processor, manual-food-chopper, non-electric-chopper, portable-food-processor, pull-string-chopper, stainless-steel-blade-chopper, travel-baby-food-maker, vegetable-chopper",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9888437207382",
+      "variants": [
+        {
+          "id": 51557996462422,
+          "product_id": 9888437207382,
+          "title": "Green / 900ml",
+          "price": "27.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "37.95",
+          "option1": "Green",
+          "option2": "900ml",
+          "option3": null,
+          "created_at": "2025-10-13T16:58:34+01:00",
+          "updated_at": "2025-10-13T17:11:15+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 345,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJCJ107924101AZ",
+          "weight": 345.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53819942568278,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51557996462422",
+          "image_id": 67517311746390
+        },
+        {
+          "id": 51557996495190,
+          "product_id": 9888437207382,
+          "title": "Pink / 900ml",
+          "price": "27.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "37.95",
+          "option1": "Pink",
+          "option2": "900ml",
+          "option3": null,
+          "created_at": "2025-10-13T16:58:34+01:00",
+          "updated_at": "2025-10-13T17:03:41+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 345,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJCJ107924102BY",
+          "weight": 345.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53819942601046,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51557996495190",
+          "image_id": 67517311779158
+        },
+        {
+          "id": 51557996527958,
+          "product_id": 9888437207382,
+          "title": "White / 900ml",
+          "price": "27.95",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "37.95",
+          "option1": "White",
+          "option2": "900ml",
+          "option3": null,
+          "created_at": "2025-10-13T16:58:34+01:00",
+          "updated_at": "2025-10-13T17:04:19+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 345,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJCJ107924103CX",
+          "weight": 345.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53819942633814,
+          "inventory_quantity": 40000,
+          "old_inventory_quantity": 40000,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51557996527958",
+          "image_id": 67517311811926
+        }
+      ],
+      "options": [
+        {
+          "id": 12754166481238,
+          "product_id": 9888437207382,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Green",
+            "Pink",
+            "White"
+          ]
+        },
+        {
+          "id": 12754166514006,
+          "product_id": 9888437207382,
+          "name": "style",
+          "position": 2,
+          "values": [
+            "900ml"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67517310566742,
+          "alt": "White and red kitchen chopper with a clear container on a white background",
+          "position": 1,
+          "product_id": 9888437207382,
+          "created_at": "2025-10-13T16:58:28+01:00",
+          "updated_at": "2025-10-13T17:01:14+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517310566742",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618369956991.jpg?v=1760371110",
+          "variant_ids": []
+        },
+        {
+          "id": 67517311418710,
+          "alt": "White and red hand chopper on a white background",
+          "position": 2,
+          "product_id": 9888437207382,
+          "created_at": "2025-10-13T16:58:30+01:00",
+          "updated_at": "2025-10-13T17:01:21+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517311418710",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618369956994.jpg?v=1760371113",
+          "variant_ids": []
+        },
+        {
+          "id": 67517311549782,
+          "alt": "Pink and clear hand chopper on a white background",
+          "position": 3,
+          "product_id": 9888437207382,
+          "created_at": "2025-10-13T16:58:31+01:00",
+          "updated_at": "2025-10-13T17:01:32+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517311549782",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618369956982.jpg?v=1760371113",
+          "variant_ids": []
+        },
+        {
+          "id": 67517311582550,
+          "alt": "Handheld food chopper with green lid and clear container on a white background",
+          "position": 4,
+          "product_id": 9888437207382,
+          "created_at": "2025-10-13T16:58:32+01:00",
+          "updated_at": "2025-10-13T17:01:38+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517311582550",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618369956992.jpg?v=1760371115",
+          "variant_ids": []
+        },
+        {
+          "id": 67517311746390,
+          "alt": "Blender container with green lid and white attachments on a white background",
+          "position": 5,
+          "product_id": 9888437207382,
+          "created_at": "2025-10-13T16:58:34+01:00",
+          "updated_at": "2025-10-13T17:01:44+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517311746390",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618369956984.jpg?v=1760371117",
+          "variant_ids": [
+            51557996462422
+          ]
+        },
+        {
+          "id": 67517311779158,
+          "alt": "Pink and clear kitchen chopper with a white attachment on a white background",
+          "position": 6,
+          "product_id": 9888437207382,
+          "created_at": "2025-10-13T16:58:34+01:00",
+          "updated_at": "2025-10-13T17:01:52+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517311779158",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618369956993.jpg?v=1760371117",
+          "variant_ids": [
+            51557996495190
+          ]
+        },
+        {
+          "id": 67517311811926,
+          "alt": "White and red kitchen chopper with a clear container on a white background",
+          "position": 7,
+          "product_id": 9888437207382,
+          "created_at": "2025-10-13T16:58:34+01:00",
+          "updated_at": "2025-10-13T17:01:59+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/67517311811926",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618369956991_cde592c2-aa85-4296-bf7f-46f509a03030.jpg?v=1760371117",
+          "variant_ids": [
+            51557996527958
+          ]
+        }
+      ],
+      "image": {
+        "id": 67517310566742,
+        "alt": "White and red kitchen chopper with a clear container on a white background",
+        "position": 1,
+        "product_id": 9888437207382,
+        "created_at": "2025-10-13T16:58:28+01:00",
+        "updated_at": "2025-10-13T17:01:14+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/67517310566742",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1618369956991.jpg?v=1760371110",
         "variant_ids": []
       }
     },
@@ -1171,8 +1407,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 5,
-    "products_in_page": 5,
+    "total_products": 6,
+    "products_in_page": 6,
     "has_next_page": false,
     "has_previous_page": false
   }
