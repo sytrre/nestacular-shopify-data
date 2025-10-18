@@ -62986,8 +62986,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214781782",
       "variants": [
         {
-          "id": 51084624101718,
           "product_id": 9765214781782,
+          "id": 51084624101718,
           "title": "13-Pebble",
           "price": "24.28",
           "position": 1,
@@ -63014,8 +63014,8 @@
           "image_id": 65933322682710
         },
         {
-          "id": 51084624134486,
           "product_id": 9765214781782,
+          "id": 51084624134486,
           "title": "10-Powder-Rose",
           "price": "24.81",
           "position": 2,
@@ -63042,8 +63042,8 @@
           "image_id": 65933322912086
         },
         {
-          "id": 51084624167254,
           "product_id": 9765214781782,
+          "id": 51084624167254,
           "title": "14-",
           "price": "24.52",
           "position": 3,
@@ -63070,8 +63070,8 @@
           "image_id": 65933322944854
         },
         {
-          "id": 51084624200022,
           "product_id": 9765214781782,
+          "id": 51084624200022,
           "title": "11-Dasty-Lilac",
           "price": "24.76",
           "position": 4,
@@ -63098,8 +63098,8 @@
           "image_id": 65933322977622
         },
         {
-          "id": 51084624232790,
           "product_id": 9765214781782,
+          "id": 51084624232790,
           "title": "12-Beach-Sand",
           "price": "25.04",
           "position": 5,
@@ -63128,8 +63128,8 @@
       ],
       "options": [
         {
-          "id": 12609650327894,
           "product_id": 9765214781782,
+          "id": 12609650327894,
           "name": "Color",
           "position": 1,
           "values": [
@@ -86129,7 +86129,7 @@
       "product_type": "Spoon Feeder Bottle",
       "created_at": "2025-09-01T12:15:00+01:00",
       "handle": "totnest-baby-spoon-feeder-bottle",
-      "updated_at": "2025-09-16T13:34:27+01:00",
+      "updated_at": "2025-10-18T20:12:22+01:00",
       "published_at": "2025-09-01T12:15:20+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -86149,7 +86149,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-01T12:15:15+01:00",
-          "updated_at": "2025-09-01T13:06:45+01:00",
+          "updated_at": "2025-10-18T20:12:21+01:00",
           "taxable": false,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -86160,8 +86160,8 @@
           "weight": 150.0,
           "weight_unit": "g",
           "inventory_item_id": 53401690341718,
-          "inventory_quantity": 11545,
-          "old_inventory_quantity": 11545,
+          "inventory_quantity": 11544,
+          "old_inventory_quantity": 11544,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51196290138454",
           "image_id": 66241074200918
         },
@@ -86233,7 +86233,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-01T12:15:15+01:00",
-          "updated_at": "2025-09-01T13:06:48+01:00",
+          "updated_at": "2025-10-18T20:12:22+01:00",
           "taxable": false,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -86244,8 +86244,8 @@
           "weight": 150.0,
           "weight_unit": "g",
           "inventory_item_id": 53401690440022,
-          "inventory_quantity": 10919,
-          "old_inventory_quantity": 10919,
+          "inventory_quantity": 10918,
+          "old_inventory_quantity": 10918,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51196290236758",
           "image_id": 66241074299222
         },
