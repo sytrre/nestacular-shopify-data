@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-19T14:18:59.177695Z",
+  "generated": "2025-10-19T14:40:50.096526Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -20,6 +20,7 @@
       "baby-bottles": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-bottles_products.json",
       "baby-bottles-accessories": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-bottles-accessories_products.json",
       "baby-food-makers-blenders": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-food-makers-blenders_products.json",
+      "baby-furniture": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-furniture_products.json",
       "baby-rocking-chair": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-rocking-chair_products.json",
       "baby-rocking-chair-1": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-rocking-chair-1_products.json",
       "baby-shower-gifts": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-shower-gifts_products.json",
