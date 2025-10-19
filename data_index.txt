@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-10-19T12:40:00.367406Z
+Generated: 2025-10-19T13:25:37.759306Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (82 collections) ===
+=== COLLECTION PRODUCT FILES (83 collections) ===
 
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
@@ -90,6 +90,7 @@ BLOGS (1 pages):
 • stainless-steel-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/stainless-steel-bottles_products.json
 • stainless-steel-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/stainless-steel-tableware_products.json
 • suction-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/suction-tableware_products.json
+• teething-self-feeding-milestone-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/teething-self-feeding-milestone-kit_products.json
 • thanksgiving-family-gathering-toddler-setup: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/thanksgiving-family-gathering-toddler-setup_products.json
 • toddler-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-chair_products.json
 • toddler-independence-milestone-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-independence-milestone-kit_products.json

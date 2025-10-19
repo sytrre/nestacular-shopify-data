@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-19T12:40:00.367406Z",
+  "generated": "2025-10-19T13:25:37.759306Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -87,6 +87,7 @@
       "stainless-steel-bottles": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/stainless-steel-bottles_products.json",
       "stainless-steel-tableware": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/stainless-steel-tableware_products.json",
       "suction-tableware": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/suction-tableware_products.json",
+      "teething-self-feeding-milestone-kit": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/teething-self-feeding-milestone-kit_products.json",
       "thanksgiving-family-gathering-toddler-setup": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/thanksgiving-family-gathering-toddler-setup_products.json",
       "toddler-chair": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-chair_products.json",
       "toddler-independence-milestone-kit": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-independence-milestone-kit_products.json",

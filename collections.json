@@ -3750,6 +3750,46 @@
       }
     },
     {
+      "id": 662066102614,
+      "handle": "teething-self-feeding-milestone-kit",
+      "title": "Teething & Self-Feeding Milestone Kit",
+      "updated_at": "2025-10-19T14:07:40+01:00",
+      "body_html": "Essential soft utensils, training spoons, and gentle feeding tools designed for babies learning to self-feed during the teething phase around 6-12 months.",
+      "published_at": "2025-10-19T14:07:40+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "silicone"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "soft"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "training spoon"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "feeding spoon"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "toddler"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/662066102614"
+    },
+    {
       "id": 658049958230,
       "handle": "thanksgiving-family-gathering-toddler-setup",
       "title": "Thanksgiving Family Gathering Toddler Setup",
@@ -4342,8 +4382,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 82,
-    "items_in_page": 82,
+    "total_items": 83,
+    "items_in_page": 83,
     "has_next_page": false,
     "has_previous_page": false
   }
