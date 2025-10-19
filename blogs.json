@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-19T12:14:30+01:00",
+      "updated_at": "2025-10-19T12:36:02+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -753,30 +753,44 @@
           "title": "Eco-Friendly Baby Tableware: Sustainable Options That Last",
           "created_at": "2025-10-05T02:41:56+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-05T02:41:56+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T12:36:02+01:00",
+          "summary_html": "<p>Discover the safest and most sustainable baby tableware options—from bamboo and silicone to wheat straw and stainless steel. This comprehensive guide compares eco-friendly materials, costs, durability, and health benefits, helping parents make informed, planet-friendly choices for their baby’s feeding journey.</p>",
           "template_suffix": "article",
           "handle": "eco-friendly-baby-tableware-sustainable-options-that-last",
           "tags": "Baby Tableware",
-          "admin_graphql_api_id": "gid://shopify/Article/610682110294"
+          "admin_graphql_api_id": "gid://shopify/Article/610682110294",
+          "image": {
+            "created_at": "2025-10-19T12:35:28+01:00",
+            "alt": "Mother feeding her toddler with eco-friendly bamboo spoon and silicone divided plates",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_d69e2a92-59bd-4958-88b6-085870c721ae.jpg?v=1760873729"
+          }
         },
         {
           "id": 610682011990,
           "title": "Color-Changing Baby Spoons: Do They Really Prevent Burns?",
           "created_at": "2025-10-05T01:50:59+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-05T01:50:59+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T12:31:30+01:00",
+          "summary_html": "<p>Color-changing baby spoons use thermochromic technology to visually alert parents when food is too hot—reducing infant mouth burns by up to 68%. This evidence-based guide explores how these spoons work, their effectiveness, limitations, and how they fit into a broader feeding safety strategy. Learn when and how to use them for maximum benefit.</p>",
           "template_suffix": "article",
           "handle": "color-changing-baby-spoons-do-they-really-prevent-burns",
           "tags": "Baby Tableware",
-          "admin_graphql_api_id": "gid://shopify/Article/610682011990"
+          "admin_graphql_api_id": "gid://shopify/Article/610682011990",
+          "image": {
+            "created_at": "2025-10-19T12:31:29+01:00",
+            "alt": "A mother checks her toddler's food temperature with a color-changing spoon.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_07e0877f-91c5-4f92-9a66-d408ccf8f69e.jpg?v=1760873490"
+          }
         },
         {
           "id": 610681586006,
@@ -786,48 +800,62 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-10-04T21:09:02+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T12:25:13+01:00",
+          "summary_html": "<p>Dishwasher-safe baby tableware can save parents up to 45 minutes a day in cleaning time while ensuring optimal hygiene and safety for little ones. This comprehensive guide explores the best dishwasher-safe materials, top product picks, proper care techniques, and expert tips to simplify your mealtime routine and extend the life of your baby feeding gear.</p>",
           "template_suffix": "article",
           "handle": "dishwasher-safe-baby-tableware-time-saving-solutions-for-busy-parents",
           "tags": "Baby Tableware",
-          "admin_graphql_api_id": "gid://shopify/Article/610681586006"
+          "admin_graphql_api_id": "gid://shopify/Article/610681586006",
+          "image": {
+            "created_at": "2025-10-19T12:25:12+01:00",
+            "alt": "Baby plates, cups, and utensils, clean and safe for the dishwasher.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_c363e5e3-c00b-41ac-9148-fb1abf3ead63.png?v=1760873113"
+          }
         },
         {
           "id": 610681553238,
           "title": "Baby Feeding Mat vs Individual Plates: Pros, Cons & Best Options",
           "created_at": "2025-10-04T20:56:11+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-04T20:56:11+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T12:20:11+01:00",
+          "summary_html": "<p>Choosing between a feeding mat and individual plates can shape your baby’s mealtime experience, cleanup routine, and developmental growth. This in-depth guide compares both options, from suction stability and mess control to portion teaching and long-term usability—helping parents decide which suits their family best.</p>",
           "template_suffix": "article",
           "handle": "baby-feeding-mat-vs-individual-plates-pros-cons-best-options",
           "tags": "Baby Tableware",
-          "admin_graphql_api_id": "gid://shopify/Article/610681553238"
+          "admin_graphql_api_id": "gid://shopify/Article/610681553238",
+          "image": {
+            "created_at": "2025-10-19T12:19:48+01:00",
+            "alt": "Divided plate versus individual plates for a toddler's meal.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_dee32271-d72d-4be2-8408-b914b90a6b65.png?v=1760872790"
+          }
         },
         {
           "id": 610681487702,
           "title": "Microwave Safe Baby Bowls: What Materials Are Safe to Heat",
           "created_at": "2025-10-04T20:30:21+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-19T12:14:30+01:00",
+          "updated_at": "2025-10-19T12:20:53+01:00",
           "summary_html": "<p>Microwave safety for baby bowls is essential to ensure your little one’s health. Learn which materials are microwave-safe, how to properly heat baby food, and how to avoid common safety mistakes. Discover expert tips and recommended products to keep your baby safe while feeding.</p>",
           "template_suffix": "article",
           "handle": "microwave-safe-baby-bowls-what-materials-are-safe-to-heat",
           "tags": "Baby Tableware",
           "admin_graphql_api_id": "gid://shopify/Article/610681487702",
           "image": {
-            "created_at": "2025-10-19T12:14:29+01:00",
+            "created_at": "2025-10-19T12:20:53+01:00",
             "alt": "A baby's food being tested for safe microwave temperature.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_17cbb9db-7a00-41c3-a8b3-36936d903911.jpg?v=1760872470"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_df754d82-1df3-428c-9e73-60102f687deb.jpg?v=1760872853"
           }
         },
         {
