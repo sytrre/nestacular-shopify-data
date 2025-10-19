@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-19T12:36:02+01:00",
+      "updated_at": "2025-10-19T13:06:48+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -663,60 +663,88 @@
           "title": "Baby Feeding Positions: From Newborn to Self-Feeding Toddler",
           "created_at": "2025-10-05T23:06:27+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-05T23:06:27+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T13:06:48+01:00",
+          "summary_html": "<p><strong data-start=\"255\" data-end=\"377\">Proper feeding posture can reduce choking risk by up to 40%—but are you positioning your baby correctly at each stage?</strong> From newborn cradling to toddler independence, this comprehensive guide walks you through evidence-based feeding positions for every age, including expert tips, equipment recommendations, and common mistakes to avoid. Learn how the 90-90-90 rule can transform your child’s eating habits and why foot support is the most overlooked mealtime essential.</p>",
           "template_suffix": "article",
           "handle": "baby-feeding-positions-from-newborn-to-self-feeding-toddler",
           "tags": "Baby Feeding Stages",
-          "admin_graphql_api_id": "gid://shopify/Article/610687615318"
+          "admin_graphql_api_id": "gid://shopify/Article/610687615318",
+          "image": {
+            "created_at": "2025-10-19T13:06:31+01:00",
+            "alt": "Mother feeding baby, showing different positions and ages.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_f3db53c1-b610-464b-98cf-6e61888dd303.png?v=1760875593"
+          }
         },
         {
           "id": 610687254870,
           "title": "Introducing Solids at 4 vs 6 Months: What Research Says",
           "created_at": "2025-10-05T21:23:33+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-05T21:45:41+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T13:02:08+01:00",
+          "summary_html": "<p><strong data-start=\"168\" data-end=\"265\">Wondering when to start your baby on solid foods—4 months, 6 months, or somewhere in between?</strong> This comprehensive, evidence-based guide breaks down the latest global health recommendations, digestive development science, allergy prevention strategies, and developmental readiness signs. Whether you're doing baby-led weaning or purees, learn when <em data-start=\"518\" data-end=\"524\">your</em> baby is truly ready, how to introduce solids safely, and what red flags to watch for—plus practical gear tips and DIY feeding solutions.</p>",
           "template_suffix": "article",
           "handle": "introducing-solids-at-4-vs-6-months-what-research-says",
           "tags": "Baby Feeding Stages",
-          "admin_graphql_api_id": "gid://shopify/Article/610687254870"
+          "admin_graphql_api_id": "gid://shopify/Article/610687254870",
+          "image": {
+            "created_at": "2025-10-19T13:01:19+01:00",
+            "alt": "Two images of woman feeding baby at different ages.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_aebd0cdc-40d2-41ed-9474-ae5da9af6b96.png?v=1760875281"
+          }
         },
         {
           "id": 610687189334,
           "title": "How to Choose Baby's First Spoon: Material, Size & Safety Guide",
           "created_at": "2025-10-05T20:52:44+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-05T20:58:34+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T12:56:45+01:00",
+          "summary_html": "<p>Choosing your baby’s first spoon is more than a practical purchase—it’s a key step in encouraging safe, comfortable, and confident self-feeding. This expert guide explores spoon materials, sizes, safety features, and developmental milestones to help parents make informed choices. Discover the pros and cons of popular spoon types, when to transition between stages, and what to do if your baby resists spoon feeding. Includes product comparisons, DIY alternatives, cleaning tips, and expert safety guidance.</p>",
           "template_suffix": "article",
           "handle": "how-to-choose-babys-first-spoon-material-size-safety-guide",
           "tags": "Baby Feeding Stages",
-          "admin_graphql_api_id": "gid://shopify/Article/610687189334"
+          "admin_graphql_api_id": "gid://shopify/Article/610687189334",
+          "image": {
+            "created_at": "2025-10-19T12:56:26+01:00",
+            "alt": "Two parents feeding twin babies with spoons",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_a557cabe-a1d6-4700-96dd-afea6f48aab3.jpg?v=1760874987"
+          }
         },
         {
           "id": 610684043606,
           "title": "Baby Feeding Milestones: What to Expect Month by Month",
           "created_at": "2025-10-05T16:15:58+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-05T16:15:58+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T12:51:25+01:00",
+          "summary_html": "<p>Navigate your baby’s first-year feeding journey with this comprehensive, month-by-month guide. From newborn milk needs to self-feeding with solids, learn what to expect, how to recognize developmental readiness, and which tools and strategies support safe, healthy progress. Perfect for parents seeking expert-backed, practical advice tailored to every stage of feeding.</p>",
           "template_suffix": "article",
           "handle": "baby-feeding-milestones-what-to-expect-month-by-month",
           "tags": "Baby Feeding Stages",
-          "admin_graphql_api_id": "gid://shopify/Article/610684043606"
+          "admin_graphql_api_id": "gid://shopify/Article/610684043606",
+          "image": {
+            "created_at": "2025-10-19T12:51:02+01:00",
+            "alt": "Mother rubbing toddler's cheeks after food in a white kitchen",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_5b7bc21f-7ce1-4550-8d45-635e46774cb9.png?v=1760874664"
+          }
         },
         {
           "id": 610682175830,
@@ -726,27 +754,41 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-10-05T15:37:35+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T12:46:45+01:00",
+          "summary_html": "<p>Help your baby make a smooth and healthy transition from bottles to regular cups with this expert-backed guide. Learn when to start, how to choose the right training cups, and what milestones to expect from 6 to 18 months. Plus, discover practical tips, safety advice, and global recommendations to support your child’s development and independence during this important stage.</p>",
           "template_suffix": "article",
           "handle": "when-can-babies-use-regular-cups-transitioning-from-bottles",
           "tags": "Baby Feeding Stages",
-          "admin_graphql_api_id": "gid://shopify/Article/610682175830"
+          "admin_graphql_api_id": "gid://shopify/Article/610682175830",
+          "image": {
+            "created_at": "2025-10-19T12:46:44+01:00",
+            "alt": "Blonde woman handing a cup to a toddler as a ginger woman smiles next to the baby in a white kitchen setting.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_fa73bb3d-ba03-4d26-8d4c-5bf6823b3a4a.png?v=1760874405"
+          }
         },
         {
           "id": 610682143062,
           "title": "Baby Feeding Schedule by Age: Newborn to 12 Months Complete Guide",
           "created_at": "2025-10-05T02:56:21+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-05T02:56:21+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T12:45:51+01:00",
+          "summary_html": "<p>From newborn nutrition to solid food milestones, this month-by-month baby feeding guide offers expert-backed advice for every stage of your child’s first year. Learn how much, how often, and what to feed your baby—plus essential safety tips, product recommendations, and personalized schedule planning to support confident parenting.</p>",
           "template_suffix": "article",
           "handle": "baby-feeding-schedule-by-age-newborn-to-12-months-complete-guide",
           "tags": "Baby Feeding Stages",
-          "admin_graphql_api_id": "gid://shopify/Article/610682143062"
+          "admin_graphql_api_id": "gid://shopify/Article/610682143062",
+          "image": {
+            "created_at": "2025-10-19T12:40:31+01:00",
+            "alt": "A mother reviews her baby's feeding schedule while her toddler drinks from a cup.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_cd166480-2f82-4a85-9276-aa83466331f3.png?v=1760874033"
+          }
         },
         {
           "id": 610682110294,
