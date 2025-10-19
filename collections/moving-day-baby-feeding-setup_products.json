@@ -236,7 +236,7 @@
       "product_type": "",
       "created_at": "2025-08-18T22:52:35+01:00",
       "handle": "delightful-3-piece-baby-feeding-set-adorable-cartoon-bear-bowl-spoon-fork-for-joyful-mealtimes",
-      "updated_at": "2025-10-18T13:24:14+01:00",
+      "updated_at": "2025-10-19T00:45:23+01:00",
       "published_at": "2025-08-18T22:52:36+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -9163,8 +9163,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214781782",
       "variants": [
         {
-          "product_id": 9765214781782,
           "id": 51084624101718,
+          "product_id": 9765214781782,
           "title": "13-Pebble",
           "price": "24.28",
           "position": 1,
@@ -9191,8 +9191,8 @@
           "image_id": 65933322682710
         },
         {
-          "product_id": 9765214781782,
           "id": 51084624134486,
+          "product_id": 9765214781782,
           "title": "10-Powder-Rose",
           "price": "24.81",
           "position": 2,
@@ -9219,8 +9219,8 @@
           "image_id": 65933322912086
         },
         {
-          "product_id": 9765214781782,
           "id": 51084624167254,
+          "product_id": 9765214781782,
           "title": "14-",
           "price": "24.52",
           "position": 3,
@@ -9247,8 +9247,8 @@
           "image_id": 65933322944854
         },
         {
-          "product_id": 9765214781782,
           "id": 51084624200022,
+          "product_id": 9765214781782,
           "title": "11-Dasty-Lilac",
           "price": "24.76",
           "position": 4,
@@ -9275,8 +9275,8 @@
           "image_id": 65933322977622
         },
         {
-          "product_id": 9765214781782,
           "id": 51084624232790,
+          "product_id": 9765214781782,
           "title": "12-Beach-Sand",
           "price": "25.04",
           "position": 5,
@@ -9305,8 +9305,8 @@
       ],
       "options": [
         {
-          "product_id": 9765214781782,
           "id": 12609650327894,
+          "product_id": 9765214781782,
           "name": "Color",
           "position": 1,
           "values": [

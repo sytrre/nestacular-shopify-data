@@ -14504,7 +14504,7 @@
       "product_type": "0",
       "created_at": "2025-10-13T16:58:26+01:00",
       "handle": "bowliffy-baby-food-supplement-machine-hand-pulled-vegetable-cutter-garlic-masher",
-      "updated_at": "2025-10-18T13:34:18+01:00",
+      "updated_at": "2025-10-19T00:48:49+01:00",
       "published_at": "2025-10-13T17:04:31+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -45556,7 +45556,7 @@
       "product_type": "Baby Bottle Warmer",
       "created_at": "2025-08-31T16:57:50+01:00",
       "handle": "dr-green-portable-baby-bottle-warmer",
-      "updated_at": "2025-10-18T12:50:11+01:00",
+      "updated_at": "2025-10-19T00:50:21+01:00",
       "published_at": "2025-09-01T06:04:45+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -49354,8 +49354,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214781782",
       "variants": [
         {
-          "product_id": 9765214781782,
           "id": 51084624101718,
+          "product_id": 9765214781782,
           "title": "13-Pebble",
           "price": "24.28",
           "position": 1,
@@ -49382,8 +49382,8 @@
           "image_id": 65933322682710
         },
         {
-          "product_id": 9765214781782,
           "id": 51084624134486,
+          "product_id": 9765214781782,
           "title": "10-Powder-Rose",
           "price": "24.81",
           "position": 2,
@@ -49410,8 +49410,8 @@
           "image_id": 65933322912086
         },
         {
-          "product_id": 9765214781782,
           "id": 51084624167254,
+          "product_id": 9765214781782,
           "title": "14-",
           "price": "24.52",
           "position": 3,
@@ -49438,8 +49438,8 @@
           "image_id": 65933322944854
         },
         {
-          "product_id": 9765214781782,
           "id": 51084624200022,
+          "product_id": 9765214781782,
           "title": "11-Dasty-Lilac",
           "price": "24.76",
           "position": 4,
@@ -49466,8 +49466,8 @@
           "image_id": 65933322977622
         },
         {
-          "product_id": 9765214781782,
           "id": 51084624232790,
+          "product_id": 9765214781782,
           "title": "12-Beach-Sand",
           "price": "25.04",
           "position": 5,
@@ -49496,8 +49496,8 @@
       ],
       "options": [
         {
-          "product_id": 9765214781782,
           "id": 12609650327894,
+          "product_id": 9765214781782,
           "name": "Color",
           "position": 1,
           "values": [
@@ -67783,7 +67783,7 @@
       "product_type": "Baby Bib",
       "created_at": "2025-09-01T13:20:14+01:00",
       "handle": "doodlebabe-silicone-baby-bib",
-      "updated_at": "2025-10-18T12:49:20+01:00",
+      "updated_at": "2025-10-19T00:49:37+01:00",
       "published_at": "2025-09-01T13:20:48+01:00",
       "template_suffix": null,
       "published_scope": "global",
