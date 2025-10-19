@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-19T10:30:04+01:00",
+      "updated_at": "2025-10-19T12:14:30+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -816,27 +816,41 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-10-04T20:30:21+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T12:14:30+01:00",
+          "summary_html": "<p>Microwave safety for baby bowls is essential to ensure your little one’s health. Learn which materials are microwave-safe, how to properly heat baby food, and how to avoid common safety mistakes. Discover expert tips and recommended products to keep your baby safe while feeding.</p>",
           "template_suffix": "article",
           "handle": "microwave-safe-baby-bowls-what-materials-are-safe-to-heat",
           "tags": "Baby Tableware",
-          "admin_graphql_api_id": "gid://shopify/Article/610681487702"
+          "admin_graphql_api_id": "gid://shopify/Article/610681487702",
+          "image": {
+            "created_at": "2025-10-19T12:14:29+01:00",
+            "alt": "A baby's food being tested for safe microwave temperature.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_17cbb9db-7a00-41c3-a8b3-36936d903911.jpg?v=1760872470"
+          }
         },
         {
           "id": 610681454934,
           "title": "Divided Plates for Toddlers: Teaching Food Variety and Portions",
           "created_at": "2025-10-04T20:16:52+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-04T20:16:52+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T12:06:39+01:00",
+          "summary_html": "<p>Divided plates are a game-changer for toddler feeding, helping improve portion control, encourage a variety of foods, and support developmental milestones. Studies show that these plates can boost vegetable consumption by 24%, reduce food waste by 30%, and enhance toddlers' self-regulation skills. With recommendations for age-appropriate portion sizes, material safety, and top product picks, this guide offers practical advice for parents aiming to establish healthy eating habits from an early age.</p>",
           "template_suffix": "article",
           "handle": "divided-plates-for-toddlers-teaching-food-variety-and-portions",
           "tags": "Baby Tableware",
-          "admin_graphql_api_id": "gid://shopify/Article/610681454934"
+          "admin_graphql_api_id": "gid://shopify/Article/610681454934",
+          "image": {
+            "created_at": "2025-10-19T12:06:14+01:00",
+            "alt": "A young mother feeding her toddler a healthy meal.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_00b24934-92a1-4831-9d73-3bb10d05febe.png?v=1760871975"
+          }
         },
         {
           "id": 610681061718,
