@@ -3631,8 +3631,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9871233417558",
       "variants": [
         {
-          "id": 51506980749654,
           "product_id": 9871233417558,
+          "id": 51506980749654,
           "title": "Beige Double Plate",
           "price": "98.85",
           "position": 1,
@@ -3659,8 +3659,8 @@
           "image_id": 67402105782614
         },
         {
-          "id": 51506980782422,
           "product_id": 9871233417558,
+          "id": 51506980782422,
           "title": "Beige Leather Case",
           "price": "101.95",
           "position": 2,
@@ -3687,8 +3687,8 @@
           "image_id": 67402105815382
         },
         {
-          "id": 51506980815190,
           "product_id": 9871233417558,
+          "id": 51506980815190,
           "title": "Beige Single Plate",
           "price": "98.65",
           "position": 3,
@@ -3715,8 +3715,8 @@
           "image_id": 67402105848150
         },
         {
-          "id": 51506980847958,
           "product_id": 9871233417558,
+          "id": 51506980847958,
           "title": "Blue Double Plate",
           "price": "98.85",
           "position": 4,
@@ -3743,8 +3743,8 @@
           "image_id": 67402105880918
         },
         {
-          "id": 51506980880726,
           "product_id": 9871233417558,
+          "id": 51506980880726,
           "title": "Blue Leather Case",
           "price": "101.95",
           "position": 5,
@@ -3771,8 +3771,8 @@
           "image_id": 67402105913686
         },
         {
-          "id": 51506980913494,
           "product_id": 9871233417558,
+          "id": 51506980913494,
           "title": "Blue Single Plate",
           "price": "98.65",
           "position": 6,
@@ -3799,8 +3799,8 @@
           "image_id": 67402105946454
         },
         {
-          "id": 51506980946262,
           "product_id": 9871233417558,
+          "id": 51506980946262,
           "title": "Pink Double Plate",
           "price": "98.85",
           "position": 7,
@@ -3827,8 +3827,8 @@
           "image_id": 67402105979222
         },
         {
-          "id": 51506980979030,
           "product_id": 9871233417558,
+          "id": 51506980979030,
           "title": "Pink Leather Case",
           "price": "101.95",
           "position": 8,
@@ -3855,8 +3855,8 @@
           "image_id": 67402106011990
         },
         {
-          "id": 51506981011798,
           "product_id": 9871233417558,
+          "id": 51506981011798,
           "title": "Pink Single Plate",
           "price": "98.65",
           "position": 9,
@@ -3885,8 +3885,8 @@
       ],
       "options": [
         {
-          "id": 12734502273366,
           "product_id": 9871233417558,
+          "id": 12734502273366,
           "name": "Specification",
           "position": 1,
           "values": [
