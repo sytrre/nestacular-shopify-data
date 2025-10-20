@@ -1180,8 +1180,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793337065814",
       "variants": [
         {
-          "id": 51204709744982,
           "product_id": 9793337065814,
+          "id": 51204709744982,
           "title": "125ml 0to January",
           "price": "50.25",
           "position": 1,
@@ -1208,8 +1208,8 @@
           "image_id": 66259658768726
         },
         {
-          "id": 51204709777750,
           "product_id": 9793337065814,
+          "id": 51204709777750,
           "title": "260ml 1to 3 Months",
           "price": "52.73",
           "position": 2,
@@ -1236,8 +1236,8 @@
           "image_id": 66259658801494
         },
         {
-          "id": 51204709810518,
           "product_id": 9793337065814,
+          "id": 51204709810518,
           "title": "330ml 3to 6 Months",
           "price": "55.21",
           "position": 3,
@@ -1266,8 +1266,8 @@
       ],
       "options": [
         {
-          "id": 12642927673686,
           "product_id": 9793337065814,
+          "id": 12642927673686,
           "name": "Capacity",
           "position": 1,
           "values": [
