@@ -1867,8 +1867,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9888437207382",
       "variants": [
         {
-          "id": 51557996462422,
           "product_id": 9888437207382,
+          "id": 51557996462422,
           "title": "Green / 900ml",
           "price": "27.95",
           "position": 1,
@@ -1895,8 +1895,8 @@
           "image_id": 67517311746390
         },
         {
-          "id": 51557996495190,
           "product_id": 9888437207382,
+          "id": 51557996495190,
           "title": "Pink / 900ml",
           "price": "27.95",
           "position": 2,
@@ -1923,8 +1923,8 @@
           "image_id": 67517311779158
         },
         {
-          "id": 51557996527958,
           "product_id": 9888437207382,
+          "id": 51557996527958,
           "title": "White / 900ml",
           "price": "27.95",
           "position": 3,
@@ -1953,8 +1953,8 @@
       ],
       "options": [
         {
-          "id": 12754166481238,
           "product_id": 9888437207382,
+          "id": 12754166481238,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1964,8 +1964,8 @@
           ]
         },
         {
-          "id": 12754166514006,
           "product_id": 9888437207382,
+          "id": 12754166514006,
           "name": "style",
           "position": 2,
           "values": [

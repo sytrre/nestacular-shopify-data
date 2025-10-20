@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-20T14:01:13+01:00",
+      "updated_at": "2025-10-20T15:15:35+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -486,42 +486,63 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-10-09T08:41:07+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-20T15:15:35+01:00",
+          "summary_html": "<p data-start=\"192\" data-end=\"462\">Messy mealtimes? Discover why food-grade silicone bibs with deep food-catching pockets are a must-have for baby-led weaning and self-feeding. This guide covers everything from developmental benefits to safety standards, product recommendations, and expert cleaning tips.</p>",
           "template_suffix": "article",
           "handle": "silicone-bibs-with-food-catcher-game-changers-for-self-feeding",
           "tags": "Baby Bibs, Baby Mess Management",
-          "admin_graphql_api_id": "gid://shopify/Article/610714288470"
+          "admin_graphql_api_id": "gid://shopify/Article/610714288470",
+          "image": {
+            "created_at": "2025-10-20T15:15:33+01:00",
+            "alt": "messy toddler in high chair with silicone bib",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_1db2b31d-b351-4d9f-8607-c2c1530c0398.png?v=1760969735"
+          }
         },
         {
           "id": 610714157398,
           "title": "Waterproof Baby Bibs: Top 15 That Actually Keep Clothes Dry",
           "created_at": "2025-10-09T08:25:49+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-09T08:25:49+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-20T15:09:37+01:00",
+          "summary_html": "<p><strong data-start=\"172\" data-end=\"230\">Feeding your baby shouldn’t mean mountains of laundry.</strong> Discover the top 15 waterproof baby bibs that combine safety, style, and mess-free convenience. From BPA-free silicone to cotton-backed designs, this comprehensive guide helps you find the perfect bib for every feeding stage—from first purées to toddler independence. Learn how to choose bibs based on materials, certifications, and baby sensitivities while exploring expert tips for care, eco-friendliness, and maximum value.</p>",
           "template_suffix": "article",
           "handle": "waterproof-baby-bibs-top-15-that-actually-keep-clothes-dry",
           "tags": "Baby Bibs, Baby Mess Management",
-          "admin_graphql_api_id": "gid://shopify/Article/610714157398"
+          "admin_graphql_api_id": "gid://shopify/Article/610714157398",
+          "image": {
+            "created_at": "2025-10-20T15:09:21+01:00",
+            "alt": "Toddler in waterproof bib drinks water.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_ef5c6d9b-76f1-4fbd-9731-0443c3e8b36f.png?v=1760969363"
+          }
         },
         {
           "id": 610714091862,
           "title": "Best Baby Bibs 2025: Silicone vs Cloth vs Disposable Compared",
           "created_at": "2025-10-09T08:13:39+01:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-09T08:13:39+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-20T15:05:02+01:00",
+          "summary_html": "<p>Messy mealtimes are no match for the right baby bib. Whether you’re navigating baby-led weaning or battling teething drool, this expert guide compares silicone, cloth, and disposable bibs across durability, safety, and cost. With tailored advice for families in the UK, US, Canada, Australia, and Europe, discover how to build the perfect bib collection for every feeding stage—from newborn spills to toddler food fights.</p>",
           "template_suffix": "article",
           "handle": "best-baby-bibs-2025-silicone-vs-cloth-vs-disposable-compared",
           "tags": "Baby Bibs, Baby Mess Management",
-          "admin_graphql_api_id": "gid://shopify/Article/610714091862"
+          "admin_graphql_api_id": "gid://shopify/Article/610714091862",
+          "image": {
+            "created_at": "2025-10-20T15:03:56+01:00",
+            "alt": "A green silicone bib, a patterned cloth bib, and a disposable bib",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_988f3ee2-8830-4616-87b1-2fd306872b75.png?v=1760969037"
+          }
         },
         {
           "id": 610704523606,
