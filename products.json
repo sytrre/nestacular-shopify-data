@@ -4970,8 +4970,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830124781910",
       "variants": [
         {
-          "id": 51354950041942,
           "product_id": 9830124781910,
+          "id": 51354950041942,
           "title": "Green / Basic edition",
           "price": "125.95",
           "position": 1,
@@ -4998,8 +4998,8 @@
           "image_id": 66965115240790
         },
         {
-          "id": 51354950074710,
           "product_id": 9830124781910,
+          "id": 51354950074710,
           "title": "Green / Deluxe Edition",
           "price": "128.95",
           "position": 2,
@@ -5026,8 +5026,8 @@
           "image_id": 66965115273558
         },
         {
-          "id": 51354950107478,
           "product_id": 9830124781910,
+          "id": 51354950107478,
           "title": "Green / Exclusive edition",
           "price": "129.45",
           "position": 3,
@@ -5054,8 +5054,8 @@
           "image_id": 66965115306326
         },
         {
-          "id": 51354950140246,
           "product_id": 9830124781910,
+          "id": 51354950140246,
           "title": "Green / Standard edition",
           "price": "127.45",
           "position": 4,
@@ -5082,8 +5082,8 @@
           "image_id": 66965115339094
         },
         {
-          "id": 51354950173014,
           "product_id": 9830124781910,
+          "id": 51354950173014,
           "title": "Green / Supreme Edition",
           "price": "130.55",
           "position": 5,
@@ -5110,8 +5110,8 @@
           "image_id": 66965115371862
         },
         {
-          "id": 51354950205782,
           "product_id": 9830124781910,
+          "id": 51354950205782,
           "title": "Red / Basic edition",
           "price": "125.95",
           "position": 6,
@@ -5138,8 +5138,8 @@
           "image_id": 66965115404630
         },
         {
-          "id": 51354950238550,
           "product_id": 9830124781910,
+          "id": 51354950238550,
           "title": "Red / Deluxe Edition",
           "price": "128.95",
           "position": 7,
@@ -5166,8 +5166,8 @@
           "image_id": 66965115437398
         },
         {
-          "id": 51354950271318,
           "product_id": 9830124781910,
+          "id": 51354950271318,
           "title": "Red / Exclusive edition",
           "price": "129.45",
           "position": 8,
@@ -5194,8 +5194,8 @@
           "image_id": 66965115470166
         },
         {
-          "id": 51354950304086,
           "product_id": 9830124781910,
+          "id": 51354950304086,
           "title": "Red / Standard edition",
           "price": "127.45",
           "position": 9,
@@ -5222,8 +5222,8 @@
           "image_id": 66965115502934
         },
         {
-          "id": 51354950336854,
           "product_id": 9830124781910,
+          "id": 51354950336854,
           "title": "Red / Supreme Edition",
           "price": "130.55",
           "position": 10,
@@ -5252,8 +5252,8 @@
       ],
       "options": [
         {
-          "id": 12686777450838,
           "product_id": 9830124781910,
+          "id": 12686777450838,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5262,8 +5262,8 @@
           ]
         },
         {
-          "id": 12686777483606,
           "product_id": 9830124781910,
+          "id": 12686777483606,
           "name": "style",
           "position": 2,
           "values": [
