@@ -4,7 +4,7 @@
     "handle": "bottle-accessories",
     "title": "Bottle Accessories",
     "body_html": "<p>Find all the essential add-ons to complete your bottle-feeding system. This collection includes everything you need for a safe, hygienic, and convenient routine, from replacement teats in various flow rates to electric sterilisers, bottle warmers, and specially designed cleaning tools. Perfect your setup with these must-have accessories.</p>",
-    "products_count": 20
+    "products_count": 21
   },
   "products": [
     {
@@ -1848,6 +1848,220 @@
         "width": 800,
         "height": 800,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/ca625b10-4a7b-4b67-be85-b3c75992dffc_trans.jpg?v=1756728987",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9791107891542,
+      "title": "GiggleBuds Portable Baby Bottle Warmer & Cooler – Insulated Travel Bag",
+      "body_html": "<h2>Portable Baby Bottle Cooler &amp; Warmer for Travel</h2>\n\n<p>Keep your baby's milk at the perfect temperature anytime with the <strong>GiggleBuds Portable Baby Bottle Cooler &amp; Warmer</strong>. Designed with a <strong>thermostatic heating system</strong>, this innovative bag can <strong>warm or cool bottles</strong> efficiently, making it ideal for <strong>travel, outings, or daycare</strong>.</p>\n\n<p>Crafted from <strong>durable, insulated materials</strong>, the GiggleBuds bag ensures safe and consistent temperature control while being lightweight and easy to carry. Its <strong>universal design</strong> fits most standard baby bottles, offering convenience for busy parents on the go.</p>\n\n<h3>Temperature Control Technology</h3>\n<p>The thermostatic heating and cooling system maintains optimal milk temperature whether you need to warm a chilled bottle or keep a warm bottle at serving temperature. This dual-function capability eliminates the need for separate heating and cooling accessories, streamlining your baby feeding routine during travel or daily outings.</p>\n\n<h3>Designed for Mobility</h3>\n<p>The lightweight construction and compact design make this bottle bag easy to pack in diaper bags, strollers, or carry separately. The insulated materials provide reliable temperature retention without adding bulk, making it practical for parents managing multiple items while caring for their baby.</p>\n\n<h3>Universal Bottle Compatibility</h3>\n<p>Compatible with most standard baby bottles, this warmer and cooler eliminates compatibility concerns. Whether you use wide-neck, narrow-neck, or specialty bottles, the universal fit accommodates various bottle sizes and shapes, providing flexibility for different feeding preferences.</p>\n\n<p><strong>Key Features:</strong></p>\n<ul>\n<li><p><strong>Thermostatic Heating &amp; Cooling:</strong> Keeps milk warm or cool as needed.</p></li>\n<li><p><strong>Portable &amp; Lightweight:</strong> Perfect for travel and outdoor use.</p></li>\n<li><p><strong>Universal Fit:</strong> Compatible with most baby bottles.</p></li>\n<li><p><strong>Safe &amp; Durable:</strong> Made from high-quality, insulating materials.</p></li>\n<li><p><strong>Parent-Friendly:</strong> Easy to use for stress-free feeding anytime.</p></li>\n</ul>\n\n<p>Enjoy <strong>safe, convenient, and versatile feeding</strong> with the <strong>GiggleBuds Portable Baby Bottle Cooler &amp; Warmer</strong>, your perfect travel companion.</p>\n\n<p><img alt=\"GiggleBuds Portable Baby Bottle Cooler &amp; Warmer\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2d95d748-dfa2-4ea5-85d4-338bc4f2ba8d.jpg?v=1756706039\"></p>\n<p><img alt=\"GiggleBuds Portable Baby Bottle Cooler &amp; Warmer\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/428db859-f157-4c5b-833a-3e32ca4ac0c5.jpg?v=1756706045\"></p>\n<p><img alt=\"GiggleBuds Portable Baby Bottle Cooler &amp; Warmer\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/94da268a-6546-45fc-9516-bd11ad598f3a.jpg?v=1756706045\"></p>",
+      "vendor": "Nestacular",
+      "product_type": "Cooler & Warmer",
+      "created_at": "2025-09-01T06:53:50+01:00",
+      "handle": "gigglebuds-portable-baby-bottle-cooler-warmer",
+      "updated_at": "2025-10-21T15:01:48+01:00",
+      "published_at": "2025-09-01T06:54:03+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Baby Bottle Cooler & Warmer, car-travel-baby-feeding, daycare-bottle-storage, dual-function-bottle-warmer, gigglebuds, gigglebuds-bottle-warmer, insulated-baby-accessories, insulated-bottle-bag, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, life-event-winter-baby-registry-must-haves, on-the-go-bottle-heating, outdoor-baby-feeding-gear, portable-baby-feeding-accessories, portable-bottle-warmer, stroller-bottle-warmer, temperature-control-bottle-bag, Thermostatic Bottle Bag, thermostatic-baby-gear, Travel Baby Feeding, Universal Baby Bottle Heater, universal-bottle-warmer",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9791107891542",
+      "variants": [
+        {
+          "id": 51194509525334,
+          "product_id": 9791107891542,
+          "title": "Blue",
+          "price": "26.00",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "33.80",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T06:54:01+01:00",
+          "updated_at": "2025-09-01T07:08:18+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 116,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE131843501AZ",
+          "weight": 116.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53399099474262,
+          "inventory_quantity": 40259,
+          "old_inventory_quantity": 40259,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51194509525334",
+          "image_id": 66236487893334
+        },
+        {
+          "id": 51194509558102,
+          "product_id": 9791107891542,
+          "title": "Pink",
+          "price": "25.65",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "33.80",
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T06:54:01+01:00",
+          "updated_at": "2025-09-01T07:08:17+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 116,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE131843502BY",
+          "weight": 116.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53399099507030,
+          "inventory_quantity": 39831,
+          "old_inventory_quantity": 39831,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51194509558102",
+          "image_id": 66236487926102
+        },
+        {
+          "id": 51194509590870,
+          "product_id": 9791107891542,
+          "title": "Green",
+          "price": "25.65",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "33.80",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-01T06:54:01+01:00",
+          "updated_at": "2025-09-01T07:08:16+01:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 116,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE131843503CX",
+          "weight": 116.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53399099539798,
+          "inventory_quantity": 41586,
+          "old_inventory_quantity": 41586,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51194509590870",
+          "image_id": 66236487958870
+        }
+      ],
+      "options": [
+        {
+          "id": 12640264487254,
+          "product_id": 9791107891542,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Blue",
+            "Pink",
+            "Green"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66236486353238,
+          "alt": "GiggleBuds Portable Baby Bottle Cooler & Warmer",
+          "position": 1,
+          "product_id": 9791107891542,
+          "created_at": "2025-09-01T06:53:52+01:00",
+          "updated_at": "2025-09-01T06:57:16+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66236486353238",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/7f33552d-ecce-4d18-b2ba-6c18546e75dd.jpg?v=1756706036",
+          "variant_ids": []
+        },
+        {
+          "id": 66236486451542,
+          "alt": "GiggleBuds Portable Baby Bottle Cooler & Warmer",
+          "position": 2,
+          "product_id": 9791107891542,
+          "created_at": "2025-09-01T06:53:54+01:00",
+          "updated_at": "2025-09-01T06:57:21+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66236486451542",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/746ae0d0-e495-4f0d-8ada-777d06a476be.jpg?v=1756706037",
+          "variant_ids": []
+        },
+        {
+          "id": 66236487139670,
+          "alt": "GiggleBuds Portable Baby Bottle Cooler & Warmer",
+          "position": 3,
+          "product_id": 9791107891542,
+          "created_at": "2025-09-01T06:53:56+01:00",
+          "updated_at": "2025-09-01T06:57:26+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66236487139670",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2d95d748-dfa2-4ea5-85d4-338bc4f2ba8d.jpg?v=1756706039",
+          "variant_ids": []
+        },
+        {
+          "id": 66236487893334,
+          "alt": "GiggleBuds Portable Baby Bottle Cooler & Warmer",
+          "position": 4,
+          "product_id": 9791107891542,
+          "created_at": "2025-09-01T06:54:01+01:00",
+          "updated_at": "2025-09-01T06:57:31+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66236487893334",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/428db859-f157-4c5b-833a-3e32ca4ac0c5.jpg?v=1756706045",
+          "variant_ids": [
+            51194509525334
+          ]
+        },
+        {
+          "id": 66236487926102,
+          "alt": "GiggleBuds Portable Baby Bottle Cooler & Warmer",
+          "position": 5,
+          "product_id": 9791107891542,
+          "created_at": "2025-09-01T06:54:01+01:00",
+          "updated_at": "2025-09-01T06:57:35+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66236487926102",
+          "width": 382,
+          "height": 244,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/d403e413-219c-4b09-9778-dbbd98fa7dbc.jpg?v=1756706045",
+          "variant_ids": [
+            51194509558102
+          ]
+        },
+        {
+          "id": 66236487958870,
+          "alt": "GiggleBuds Portable Baby Bottle Cooler & Warmer",
+          "position": 6,
+          "product_id": 9791107891542,
+          "created_at": "2025-09-01T06:54:01+01:00",
+          "updated_at": "2025-09-01T06:57:40+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/66236487958870",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/94da268a-6546-45fc-9516-bd11ad598f3a.jpg?v=1756706045",
+          "variant_ids": [
+            51194509590870
+          ]
+        }
+      ],
+      "image": {
+        "id": 66236486353238,
+        "alt": "GiggleBuds Portable Baby Bottle Cooler & Warmer",
+        "position": 1,
+        "product_id": 9791107891542,
+        "created_at": "2025-09-01T06:53:52+01:00",
+        "updated_at": "2025-09-01T06:57:16+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/66236486353238",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/7f33552d-ecce-4d18-b2ba-6c18546e75dd.jpg?v=1756706036",
         "variant_ids": []
       }
     },
@@ -5985,8 +6199,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 20,
-    "products_in_page": 20,
+    "total_products": 21,
+    "products_in_page": 21,
     "has_next_page": false,
     "has_previous_page": false
   }
