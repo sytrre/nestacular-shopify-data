@@ -3172,8 +3172,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790063444310",
       "variants": [
         {
-          "product_id": 9790063444310,
           "id": 51191062823254,
+          "product_id": 9790063444310,
           "title": "Black",
           "price": "19.56",
           "position": 1,
@@ -3200,8 +3200,8 @@
           "image_id": 66228868284758
         },
         {
-          "product_id": 9790063444310,
           "id": 51191062856022,
+          "product_id": 9790063444310,
           "title": "Navy Blue",
           "price": "19.56",
           "position": 2,
@@ -3228,8 +3228,8 @@
           "image_id": 66228868317526
         },
         {
-          "product_id": 9790063444310,
           "id": 51191062888790,
+          "product_id": 9790063444310,
           "title": "Pink",
           "price": "19.56",
           "position": 3,
@@ -3256,8 +3256,8 @@
           "image_id": 66228868350294
         },
         {
-          "product_id": 9790063444310,
           "id": 51191062921558,
+          "product_id": 9790063444310,
           "title": "Red",
           "price": "19.56",
           "position": 4,
@@ -3284,8 +3284,8 @@
           "image_id": 66228868383062
         },
         {
-          "product_id": 9790063444310,
           "id": 51191062954326,
+          "product_id": 9790063444310,
           "title": "Green",
           "price": "19.56",
           "position": 5,
@@ -3312,8 +3312,8 @@
           "image_id": 66228868415830
         },
         {
-          "product_id": 9790063444310,
           "id": 51191062987094,
+          "product_id": 9790063444310,
           "title": "Grey",
           "price": "19.56",
           "position": 6,
@@ -3340,8 +3340,8 @@
           "image_id": 66228868448598
         },
         {
-          "product_id": 9790063444310,
           "id": 51191063019862,
+          "product_id": 9790063444310,
           "title": "Hook",
           "price": "19.57",
           "position": 7,
@@ -3370,8 +3370,8 @@
       ],
       "options": [
         {
-          "product_id": 9790063444310,
           "id": 12638993285462,
+          "product_id": 9790063444310,
           "name": "Color",
           "position": 1,
           "values": [
