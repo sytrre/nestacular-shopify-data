@@ -15,11 +15,11 @@
       "product_type": "",
       "created_at": "2025-09-12T09:07:47+01:00",
       "handle": "bebachef-fully-automatic-complementary-food-machine-integrated-baby-cooking-puffing-blender-with-scheduling-timing-functions",
-      "updated_at": "2025-10-18T13:26:30+01:00",
+      "updated_at": "2025-10-21T15:26:41+01:00",
       "published_at": "2025-09-12T09:17:55+01:00",
       "template_suffix": null,
       "published_scope": "web",
-      "tags": "automatic-baby-food-maker, Baby Food Makers, Baby Food Makers Blenders, baby-puffing-machine, baby-steamer-blender, bebachef-products, bpa-free-baby-appliance, compact-baby-kitchen, complementary-food-machine, detachable-baby-blender, digital-baby-cooker, HYP, infant-food-processor, life-event-grandparents-visit-extended-stay-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-transitioning-to-solid-foods-starter-bundle, life-event-winter-baby-registry-must-haves, multifunction-baby-feeder, programmable-baby-cooker, scheduled-baby-cooking, toddler-snack-maker, weaning-food-machine",
+      "tags": "automatic-baby-food-maker, Baby Food Makers, Baby Food Makers Blenders, baby-puffing-machine, baby-steamer-blender, bebachef-products, bpa-free-baby-appliance, compact-baby-kitchen, complementary-food-machine, detachable-baby-blender, digital-baby-cooker, HYP, infant-food-processor, life-event-grandparents-visit-extended-stay-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-pediatrician-recommended-weaning-transition-set, life-event-returning-to-work-mom-feeding-prep, life-event-transitioning-to-solid-foods-starter-bundle, life-event-winter-baby-registry-must-haves, multifunction-baby-feeder, programmable-baby-cooker, scheduled-baby-cooking, toddler-snack-maker, weaning-food-machine",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9815443046742",
       "variants": [
@@ -449,11 +449,11 @@
       "product_type": "Baby food supplement grinder",
       "created_at": "2025-08-31T07:56:27+01:00",
       "handle": "kerafyn-baby-food-supplement-grinder",
-      "updated_at": "2025-10-19T16:03:00+01:00",
+      "updated_at": "2025-10-21T15:32:25+01:00",
       "published_at": "2025-08-31T08:15:56+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby food supplement maker, baby meal preparation tool, Kerafyn baby food grinder, life-event-babysitters-emergency-feeding-kit, life-event-dual-household-co-parenting-feeding-essentials, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, manual baby food processor, portable baby food grinder",
+      "tags": "baby food supplement maker, baby meal preparation tool, Kerafyn baby food grinder, life-event-babysitters-emergency-feeding-kit, life-event-dual-household-co-parenting-feeding-essentials, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, manual baby food processor, portable baby food grinder",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9788957884758",
       "variants": [
@@ -614,17 +614,17 @@
       "product_type": "0",
       "created_at": "2025-10-13T16:58:26+01:00",
       "handle": "bowliffy-baby-food-supplement-machine-hand-pulled-vegetable-cutter-garlic-masher",
-      "updated_at": "2025-10-19T16:05:51+01:00",
+      "updated_at": "2025-10-21T15:35:23+01:00",
       "published_at": "2025-10-13T17:04:31+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "400ml-food-chopper, Baby Food Machine, baby-food-maker, CJ, compact-food-processor, garlic-masher, hand-powered-chopper, hand-pull-chopper, infant-food-prep, life-event-nanny-caregiver-training-feeding-setup, life-event-thanksgiving-grandparents-house-baby-essentials, manual-baby-food-processor, manual-food-chopper, non-electric-chopper, portable-food-processor, pull-string-chopper, stainless-steel-blade-chopper, travel-baby-food-maker, vegetable-chopper",
+      "tags": "400ml-food-chopper, Baby Food Machine, baby-food-maker, CJ, compact-food-processor, garlic-masher, hand-powered-chopper, hand-pull-chopper, infant-food-prep, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-thanksgiving-grandparents-house-baby-essentials, manual-baby-food-processor, manual-food-chopper, non-electric-chopper, portable-food-processor, pull-string-chopper, stainless-steel-blade-chopper, travel-baby-food-maker, vegetable-chopper",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9888437207382",
       "variants": [
         {
-          "product_id": 9888437207382,
           "id": 51557996462422,
+          "product_id": 9888437207382,
           "title": "Green / 900ml",
           "price": "27.95",
           "position": 1,
@@ -651,8 +651,8 @@
           "image_id": 67517311746390
         },
         {
-          "product_id": 9888437207382,
           "id": 51557996495190,
+          "product_id": 9888437207382,
           "title": "Pink / 900ml",
           "price": "27.95",
           "position": 2,
@@ -679,8 +679,8 @@
           "image_id": 67517311779158
         },
         {
-          "product_id": 9888437207382,
           "id": 51557996527958,
+          "product_id": 9888437207382,
           "title": "White / 900ml",
           "price": "27.95",
           "position": 3,
@@ -709,8 +709,8 @@
       ],
       "options": [
         {
-          "product_id": 9888437207382,
           "id": 12754166481238,
+          "product_id": 9888437207382,
           "name": "Color",
           "position": 1,
           "values": [
@@ -720,8 +720,8 @@
           ]
         },
         {
-          "product_id": 9888437207382,
           "id": 12754166514006,
+          "product_id": 9888437207382,
           "name": "style",
           "position": 2,
           "values": [
