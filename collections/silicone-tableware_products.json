@@ -36315,8 +36315,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9846900785494",
       "variants": [
         {
-          "product_id": 9846900785494,
           "id": 51417603768662,
+          "product_id": 9846900785494,
           "title": "A",
           "price": "20.95",
           "position": 1,
@@ -36343,8 +36343,8 @@
           "image_id": 67145639592278
         },
         {
-          "product_id": 9846900785494,
           "id": 51417603801430,
+          "product_id": 9846900785494,
           "title": "B",
           "price": "20.85",
           "position": 2,
@@ -36371,8 +36371,8 @@
           "image_id": 67145639625046
         },
         {
-          "product_id": 9846900785494,
           "id": 51417603834198,
+          "product_id": 9846900785494,
           "title": "C",
           "price": "20.95",
           "position": 3,
@@ -36399,8 +36399,8 @@
           "image_id": 67145639657814
         },
         {
-          "product_id": 9846900785494,
           "id": 51417603866966,
+          "product_id": 9846900785494,
           "title": "D",
           "price": "20.95",
           "position": 4,
@@ -36427,8 +36427,8 @@
           "image_id": 67145639690582
         },
         {
-          "product_id": 9846900785494,
           "id": 51417603899734,
+          "product_id": 9846900785494,
           "title": "E",
           "price": "20.95",
           "position": 5,
@@ -36457,8 +36457,8 @@
       ],
       "options": [
         {
-          "product_id": 9846900785494,
           "id": 12706264449366,
+          "product_id": 9846900785494,
           "name": "Color",
           "position": 1,
           "values": [
