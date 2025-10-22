@@ -62554,8 +62554,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9826166341974",
       "variants": [
         {
-          "product_id": 9826166341974,
           "id": 51340491686230,
+          "product_id": 9826166341974,
           "title": "Electric Luxury Pink / AU",
           "price": "100.95",
           "position": 1,
@@ -62582,8 +62582,8 @@
           "image_id": 66906604699990
         },
         {
-          "product_id": 9826166341974,
           "id": 51340491718998,
+          "product_id": 9826166341974,
           "title": "Electric Luxury Pink / EU",
           "price": "100.95",
           "position": 2,
@@ -62610,8 +62610,8 @@
           "image_id": 66906604699990
         },
         {
-          "product_id": 9826166341974,
           "id": 51340491751766,
+          "product_id": 9826166341974,
           "title": "Electric Luxury Pink / UK",
           "price": "100.95",
           "position": 3,
@@ -62638,8 +62638,8 @@
           "image_id": 66906604699990
         },
         {
-          "product_id": 9826166341974,
           "id": 51340491784534,
+          "product_id": 9826166341974,
           "title": "Electric Luxury Pink / US",
           "price": "100.95",
           "position": 4,
@@ -62666,8 +62666,8 @@
           "image_id": 66906604699990
         },
         {
-          "product_id": 9826166341974,
           "id": 51340491817302,
+          "product_id": 9826166341974,
           "title": "Luxury Brown / AU",
           "price": "100.95",
           "position": 5,
@@ -62694,8 +62694,8 @@
           "image_id": 66906604732758
         },
         {
-          "product_id": 9826166341974,
           "id": 51340491850070,
+          "product_id": 9826166341974,
           "title": "Luxury Brown / EU",
           "price": "100.95",
           "position": 6,
@@ -62722,8 +62722,8 @@
           "image_id": 66906604732758
         },
         {
-          "product_id": 9826166341974,
           "id": 51340491882838,
+          "product_id": 9826166341974,
           "title": "Luxury Brown / UK",
           "price": "100.95",
           "position": 7,
@@ -62750,8 +62750,8 @@
           "image_id": 66906604732758
         },
         {
-          "product_id": 9826166341974,
           "id": 51340491915606,
+          "product_id": 9826166341974,
           "title": "Luxury Brown / US",
           "price": "100.95",
           "position": 8,
@@ -62778,8 +62778,8 @@
           "image_id": 66906604732758
         },
         {
-          "product_id": 9826166341974,
           "id": 51340491948374,
+          "product_id": 9826166341974,
           "title": "Luxury Gray / AU",
           "price": "100.95",
           "position": 9,
@@ -62806,8 +62806,8 @@
           "image_id": 66906604765526
         },
         {
-          "product_id": 9826166341974,
           "id": 51340491981142,
+          "product_id": 9826166341974,
           "title": "Luxury Gray / EU",
           "price": "100.95",
           "position": 10,
@@ -62834,8 +62834,8 @@
           "image_id": 66906604765526
         },
         {
-          "product_id": 9826166341974,
           "id": 51340492013910,
+          "product_id": 9826166341974,
           "title": "Luxury Gray / UK",
           "price": "100.95",
           "position": 11,
@@ -62862,8 +62862,8 @@
           "image_id": 66906604765526
         },
         {
-          "product_id": 9826166341974,
           "id": 51340492046678,
+          "product_id": 9826166341974,
           "title": "Luxury Gray / US",
           "price": "100.95",
           "position": 12,
@@ -62890,8 +62890,8 @@
           "image_id": 66906604765526
         },
         {
-          "product_id": 9826166341974,
           "id": 51340492079446,
+          "product_id": 9826166341974,
           "title": "Luxury Green / AU",
           "price": "100.95",
           "position": 13,
@@ -62918,8 +62918,8 @@
           "image_id": 66906604798294
         },
         {
-          "product_id": 9826166341974,
           "id": 51340492112214,
+          "product_id": 9826166341974,
           "title": "Luxury Green / EU",
           "price": "100.95",
           "position": 14,
@@ -62946,8 +62946,8 @@
           "image_id": 66906604798294
         },
         {
-          "product_id": 9826166341974,
           "id": 51340492144982,
+          "product_id": 9826166341974,
           "title": "Luxury Green / UK",
           "price": "100.95",
           "position": 15,
@@ -62974,8 +62974,8 @@
           "image_id": 66906604798294
         },
         {
-          "product_id": 9826166341974,
           "id": 51340492177750,
+          "product_id": 9826166341974,
           "title": "Luxury Green / US",
           "price": "100.95",
           "position": 16,
@@ -63004,8 +63004,8 @@
       ],
       "options": [
         {
-          "product_id": 9826166341974,
           "id": 12682037395798,
+          "product_id": 9826166341974,
           "name": "Color",
           "position": 1,
           "values": [
@@ -63016,8 +63016,8 @@
           ]
         },
         {
-          "product_id": 9826166341974,
           "id": 12682037428566,
+          "product_id": 9826166341974,
           "name": "The power plug",
           "position": 2,
           "values": [
