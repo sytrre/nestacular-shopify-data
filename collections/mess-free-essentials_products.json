@@ -34639,8 +34639,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866520658262",
       "variants": [
         {
-          "product_id": 9866520658262,
           "id": 51489269842262,
+          "product_id": 9866520658262,
           "title": "Natural Wood",
           "price": "76.95",
           "position": 1,
@@ -34669,8 +34669,8 @@
       ],
       "options": [
         {
-          "product_id": 9866520658262,
           "id": 12728974836054,
+          "product_id": 9866520658262,
           "name": "Color",
           "position": 1,
           "values": [
