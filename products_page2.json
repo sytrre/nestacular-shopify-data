@@ -41151,8 +41151,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9727459754326",
       "variants": [
         {
-          "id": 50917564481878,
           "product_id": 9727459754326,
+          "id": 50917564481878,
           "title": "Beige yellow / 100x210cm",
           "price": "24.95",
           "position": 1,
@@ -41179,8 +41179,8 @@
           "image_id": 64459667898710
         },
         {
-          "id": 50917564514646,
           "product_id": 9727459754326,
+          "id": 50917564514646,
           "title": "Beige yellow / 90x210cm",
           "price": "23.95",
           "position": 2,
@@ -41207,8 +41207,8 @@
           "image_id": 64459667898710
         },
         {
-          "id": 50917564547414,
           "product_id": 9727459754326,
+          "id": 50917564547414,
           "title": "Black / 100x210cm",
           "price": "24.95",
           "position": 3,
@@ -41235,8 +41235,8 @@
           "image_id": 64459667833174
         },
         {
-          "id": 50917564580182,
           "product_id": 9727459754326,
+          "id": 50917564580182,
           "title": "Black / 90x210cm",
           "price": "23.95",
           "position": 4,
@@ -41263,8 +41263,8 @@
           "image_id": 64459667833174
         },
         {
-          "id": 50917564612950,
           "product_id": 9727459754326,
+          "id": 50917564612950,
           "title": "Blue / 100x210cm",
           "price": "24.95",
           "position": 5,
@@ -41291,8 +41291,8 @@
           "image_id": 64459667931478
         },
         {
-          "id": 50917564645718,
           "product_id": 9727459754326,
+          "id": 50917564645718,
           "title": "Blue / 90x210cm",
           "price": "23.95",
           "position": 6,
@@ -41319,8 +41319,8 @@
           "image_id": 64459667931478
         },
         {
-          "id": 50917564678486,
           "product_id": 9727459754326,
+          "id": 50917564678486,
           "title": "Coffee / 100x210cm",
           "price": "24.95",
           "position": 7,
@@ -41347,8 +41347,8 @@
           "image_id": 64459667800406
         },
         {
-          "id": 50917564711254,
           "product_id": 9727459754326,
+          "id": 50917564711254,
           "title": "Coffee / 90x210cm",
           "price": "23.95",
           "position": 8,
@@ -41375,8 +41375,8 @@
           "image_id": 64459667800406
         },
         {
-          "id": 50917564744022,
           "product_id": 9727459754326,
+          "id": 50917564744022,
           "title": "Pink / 100x210cm",
           "price": "24.95",
           "position": 9,
@@ -41403,8 +41403,8 @@
           "image_id": 64459667865942
         },
         {
-          "id": 50917564776790,
           "product_id": 9727459754326,
+          "id": 50917564776790,
           "title": "Pink / 90x210cm",
           "price": "23.95",
           "position": 10,
@@ -41433,8 +41433,8 @@
       ],
       "options": [
         {
-          "id": 12563964625238,
           "product_id": 9727459754326,
+          "id": 12563964625238,
           "name": "Color",
           "position": 1,
           "values": [
@@ -41446,8 +41446,8 @@
           ]
         },
         {
-          "id": 12563964658006,
           "product_id": 9727459754326,
+          "id": 12563964658006,
           "name": "Size",
           "position": 2,
           "values": [
@@ -43017,7 +43017,7 @@
       "product_type": "Baby Dining Chair",
       "created_at": "2025-08-24T10:12:30+01:00",
       "handle": "go-bag-baby-chair-cover-portable-feeding-harness",
-      "updated_at": "2025-10-21T15:03:48+01:00",
+      "updated_at": "2025-10-22T03:10:44+01:00",
       "published_at": "2025-08-24T10:20:33+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -43169,7 +43169,7 @@
       "product_type": "0",
       "created_at": "2025-09-01T06:49:17+01:00",
       "handle": "foldable-baby-chair-bag-on-the-go-mealtime-safety-seat",
-      "updated_at": "2025-10-21T15:00:32+01:00",
+      "updated_at": "2025-10-22T03:52:59+01:00",
       "published_at": "2025-09-01T06:49:27+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -101043,7 +101043,7 @@
       "product_type": "Baby Bib",
       "created_at": "2025-08-26T11:04:59+01:00",
       "handle": "full-coverage-baby-bib-smock-high-chair-feeding-gown",
-      "updated_at": "2025-10-21T15:01:14+01:00",
+      "updated_at": "2025-10-22T03:08:17+01:00",
       "published_at": "2025-08-26T11:32:54+01:00",
       "template_suffix": null,
       "published_scope": "global",
