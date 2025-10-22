@@ -4068,8 +4068,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9740372803926",
       "variants": [
         {
-          "product_id": 9740372803926,
           "id": 50985490350422,
+          "product_id": 9740372803926,
           "title": "default",
           "price": "30.95",
           "position": 1,
@@ -4098,8 +4098,8 @@
       ],
       "options": [
         {
-          "product_id": 9740372803926,
           "id": 12580328669526,
+          "product_id": 9740372803926,
           "name": "default",
           "position": 1,
           "values": [
