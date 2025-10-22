@@ -49847,8 +49847,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9732537581910",
       "variants": [
         {
-          "product_id": 9732537581910,
           "id": 50949477794134,
+          "product_id": 9732537581910,
           "title": "1 Style",
           "price": "30.95",
           "position": 1,
@@ -49875,8 +49875,8 @@
           "image_id": 64644396941654
         },
         {
-          "product_id": 9732537581910,
           "id": 50949477826902,
+          "product_id": 9732537581910,
           "title": "2 Style",
           "price": "30.95",
           "position": 2,
@@ -49903,8 +49903,8 @@
           "image_id": 64644396974422
         },
         {
-          "product_id": 9732537581910,
           "id": 50949477859670,
+          "product_id": 9732537581910,
           "title": "3 Style",
           "price": "30.95",
           "position": 3,
@@ -49931,8 +49931,8 @@
           "image_id": 64644398350678
         },
         {
-          "product_id": 9732537581910,
           "id": 50949477892438,
+          "product_id": 9732537581910,
           "title": "4 Style",
           "price": "30.95",
           "position": 4,
@@ -49959,8 +49959,8 @@
           "image_id": 64644398874966
         },
         {
-          "product_id": 9732537581910,
           "id": 50949477925206,
+          "product_id": 9732537581910,
           "title": "5 Style",
           "price": "30.95",
           "position": 5,
@@ -49987,8 +49987,8 @@
           "image_id": 64644397957462
         },
         {
-          "product_id": 9732537581910,
           "id": 50949477957974,
+          "product_id": 9732537581910,
           "title": "6 Style",
           "price": "30.95",
           "position": 6,
@@ -50015,8 +50015,8 @@
           "image_id": 64644396482902
         },
         {
-          "product_id": 9732537581910,
           "id": 50949477990742,
+          "product_id": 9732537581910,
           "title": "7 Style",
           "price": "30.95",
           "position": 7,
@@ -50043,8 +50043,8 @@
           "image_id": 64644397498710
         },
         {
-          "product_id": 9732537581910,
           "id": 50949478023510,
+          "product_id": 9732537581910,
           "title": "8 Style",
           "price": "30.95",
           "position": 8,
@@ -50071,8 +50071,8 @@
           "image_id": 64644397367638
         },
         {
-          "product_id": 9732537581910,
           "id": 50949478056278,
+          "product_id": 9732537581910,
           "title": "9 Style",
           "price": "30.95",
           "position": 9,
@@ -50101,8 +50101,8 @@
       ],
       "options": [
         {
-          "product_id": 9732537581910,
           "id": 12570835878230,
+          "product_id": 9732537581910,
           "name": "style",
           "position": 1,
           "values": [
