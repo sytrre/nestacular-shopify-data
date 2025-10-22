@@ -17212,8 +17212,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793807057238",
       "variants": [
         {
-          "id": 51206551372118,
           "product_id": 9793807057238,
+          "id": 51206551372118,
           "title": "Ocean flower",
           "price": "28.67",
           "position": 1,
@@ -17240,8 +17240,8 @@
           "image_id": 66262974693718
         },
         {
-          "id": 51206551404886,
           "product_id": 9793807057238,
+          "id": 51206551404886,
           "title": "Blue plaid",
           "price": "28.67",
           "position": 2,
@@ -17268,8 +17268,8 @@
           "image_id": 66262974726486
         },
         {
-          "id": 51206551437654,
           "product_id": 9793807057238,
+          "id": 51206551437654,
           "title": "Red plaid",
           "price": "28.67",
           "position": 3,
@@ -17298,8 +17298,8 @@
       ],
       "options": [
         {
-          "id": 12643540402518,
           "product_id": 9793807057238,
+          "id": 12643540402518,
           "name": "Color",
           "position": 1,
           "values": [
