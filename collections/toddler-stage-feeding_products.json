@@ -54972,8 +54972,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852924723542",
       "variants": [
         {
-          "id": 51441907007830,
           "product_id": 9852924723542,
+          "id": 51441907007830,
           "title": "Thick Large",
           "price": "19.95",
           "position": 1,
@@ -55000,8 +55000,8 @@
           "image_id": 67229971513686
         },
         {
-          "id": 51441907040598,
           "product_id": 9852924723542,
+          "id": 51441907040598,
           "title": "Thickened Small Size",
           "price": "19.55",
           "position": 2,
@@ -55030,8 +55030,8 @@
       ],
       "options": [
         {
-          "id": 12713530229078,
           "product_id": 9852924723542,
+          "id": 12713530229078,
           "name": "Specifications",
           "position": 1,
           "values": [
