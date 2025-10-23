@@ -4,9 +4,205 @@
     "handle": "luxury-baby-gifts",
     "title": "Luxury Baby Gifts",
     "body_html": "<p>For a truly special occasion, explore our range of luxury baby gifts. Featuring our most premium products, iconic designs, and beautiful gift-ready packaging, these are presents to be treasured.</p>",
-    "products_count": 8
+    "products_count": 9
   },
   "products": [
+    {
+      "id": 9910506389846,
+      "title": "Baubbly Baby Shower Candy Bottles – Cute Fillable Party Favors",
+      "body_html": "<p>Baubbly Baby Shower Candy Bottles bring charm and sweetness to every celebration. Designed in an adorable feeder-style bottle shape, these fillable containers make the perfect party favor for baby showers, baptisms, or birthdays. Whether it’s for “It’s a Boy” or “It’s a Girl,” these delightful bottles add a memorable touch to your event decor.</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Baubbly Baby Shower Candy Bottles – Cute Fillable Party Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S413e605ae3134ad98d96484995875a4co.webp?v=1761233098\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Smart Design Features</span></strong></p>\n<p><strong>* </strong>Fillable bottle design perfect for candies, mints, or small treats</p>\n<p><strong>* </strong>Durable plastic construction with clear body and colorful cap options</p>\n<p><strong>* </strong>Compact and lightweight for easy display or gifting</p>\n<p><strong>* </strong>Feeder-inspired shape adds a playful, themed touch to party tables</p>\n<p><strong>* </strong>Suitable for baby showers, gender reveals, infant baptisms, and birthdays</p>\n<p><strong>* </strong>Reusable and easy to refill for multiple occasions</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Baubbly Baby Shower Candy Bottles – Cute Fillable Party Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sa77adbf4bead4ead8b976021ae4218b1H.webp?v=1761233098\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Setup and Usage</span><br></strong><br>Fill bottles with your favorite candy or small trinkets. Decorate with ribbons or stickers to match your theme. Arrange on dessert tables, in gift baskets, or as individual favors for guests. After use, simply clean and store for your next celebration.</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Baubbly Baby Shower Candy Bottles – Cute Fillable Party Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S707192ed747d4657bc460b64b49e5529m.webp?v=1761233098\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Product Specifications</span><br></strong><br>Material: High-quality plastic construction<br>Dimensions: Compact mini bottle size<br>Colors: Blue, Pink, or Clear<br>Style: Fillable candy bottle design<br>Suitable for: Baby showers, baptisms, birthdays, and gender reveal parties<br>Package: Available in sets of multiple bottles</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Baubbly Baby Shower Candy Bottles – Cute Fillable Party Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sd5d959b4797243adb65e58345e43ff63j.webp?v=1761233098\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Why Choose Baubbly Candy Bottles</span><br></strong><br>Baubbly Candy Bottles combine practicality with playful design, making them ideal for festive occasions. Their reusable structure reduces waste while maintaining a polished, charming look. Perfect for event planners and DIY decorators alike, they help transform ordinary favors into keepsake-worthy gifts that delight guests and honor the special moment.</p>\n<p> </p>\n<p> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "",
+      "created_at": "2025-10-23T16:24:54+01:00",
+      "handle": "candy-bottle-for-baby-shower-fillable-mini-bottle-feeder-style-candy-gift-box-its-a-boy-girl-infant-baptism-birthday-party-decor",
+      "updated_at": "2025-10-23T16:33:05+01:00",
+      "published_at": null,
+      "template_suffix": null,
+      "published_scope": "web",
+      "tags": "Baby Bottles, baby shower gift",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9910506389846",
+      "variants": [
+        {
+          "product_id": 9910506389846,
+          "id": 51650263515478,
+          "title": "Pink",
+          "price": "18.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "24.95",
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-23T16:24:55+01:00",
+          "updated_at": "2025-10-23T16:32:05+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "dsers-fulfillment-service",
+          "grams": 19,
+          "inventory_management": "dsers-fulfillment-service",
+          "requires_shipping": true,
+          "sku": "14:1052",
+          "weight": 0.019,
+          "weight_unit": "kg",
+          "inventory_item_id": 53928028504406,
+          "inventory_quantity": 13,
+          "old_inventory_quantity": 13,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51650263515478",
+          "image_id": 67701758198102
+        },
+        {
+          "product_id": 9910506389846,
+          "id": 51650263548246,
+          "title": "Blue",
+          "price": "18.95",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "24.95",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-23T16:24:55+01:00",
+          "updated_at": "2025-10-23T16:32:28+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "dsers-fulfillment-service",
+          "grams": 19,
+          "inventory_management": "dsers-fulfillment-service",
+          "requires_shipping": true,
+          "sku": "14:173",
+          "weight": 0.019,
+          "weight_unit": "kg",
+          "inventory_item_id": 53928028537174,
+          "inventory_quantity": 4,
+          "old_inventory_quantity": 4,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51650263548246",
+          "image_id": 67701758230870
+        }
+      ],
+      "options": [
+        {
+          "product_id": 9910506389846,
+          "id": 12780353192278,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Pink",
+            "Blue"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67701758034262,
+          "alt": "Two decorative bottles with pink and blue lids, each featuring a small figurine inside, on a blurred background.",
+          "position": 1,
+          "product_id": 9910506389846,
+          "created_at": "2025-10-23T16:24:56+01:00",
+          "updated_at": "2025-10-23T16:30:12+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55504463397206",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S46cd75be171746c39bcaf958ac9986e4N.webp?v=1761233098",
+          "variant_ids": []
+        },
+        {
+          "id": 67701758067030,
+          "alt": "Clear jar with blue lid and decorative ribbon, pink container in the background",
+          "position": 2,
+          "product_id": 9910506389846,
+          "created_at": "2025-10-23T16:24:56+01:00",
+          "updated_at": "2025-10-23T16:30:19+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55504463429974",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sa77adbf4bead4ead8b976021ae4218b1H.webp?v=1761233098",
+          "variant_ids": []
+        },
+        {
+          "id": 67701758099798,
+          "alt": "Decorative baby bottle-shaped jars with candies and ribbons on a blurred background",
+          "position": 3,
+          "product_id": 9910506389846,
+          "created_at": "2025-10-23T16:24:56+01:00",
+          "updated_at": "2025-10-23T16:30:26+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55504463462742",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sc5bce53f44e74548b4d48349f47804a6E.webp?v=1761233098",
+          "variant_ids": []
+        },
+        {
+          "id": 67701758132566,
+          "alt": "Pink baby teether with a lace bow in a glass jar on a white surface.",
+          "position": 4,
+          "product_id": 9910506389846,
+          "created_at": "2025-10-23T16:24:56+01:00",
+          "updated_at": "2025-10-23T16:30:32+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55504463495510",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Se3411c38b6d843c6a2271526c182789ec.webp?v=1761233098",
+          "variant_ids": []
+        },
+        {
+          "id": 67701758165334,
+          "alt": "Packaged set of pink and clear baby bottles with dimensions indicated.",
+          "position": 5,
+          "product_id": 9910506389846,
+          "created_at": "2025-10-23T16:24:56+01:00",
+          "updated_at": "2025-10-23T16:30:38+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55504463528278",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S413e605ae3134ad98d96484995875a4co.webp?v=1761233098",
+          "variant_ids": []
+        },
+        {
+          "id": 67701758198102,
+          "alt": "Pink baby bottle-shaped container with decorative elements on a white background",
+          "position": 6,
+          "product_id": 9910506389846,
+          "created_at": "2025-10-23T16:24:56+01:00",
+          "updated_at": "2025-10-23T16:30:45+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55504463561046",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sd5d959b4797243adb65e58345e43ff63j.webp?v=1761233098",
+          "variant_ids": [
+            51650263515478
+          ]
+        },
+        {
+          "id": 67701758230870,
+          "alt": "Baby bottle with blue butterfly design on a white background",
+          "position": 7,
+          "product_id": 9910506389846,
+          "created_at": "2025-10-23T16:24:56+01:00",
+          "updated_at": "2025-10-23T16:30:52+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55504463593814",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S707192ed747d4657bc460b64b49e5529m.webp?v=1761233098",
+          "variant_ids": [
+            51650263548246
+          ]
+        }
+      ],
+      "image": {
+        "id": 67701758034262,
+        "alt": "Two decorative bottles with pink and blue lids, each featuring a small figurine inside, on a blurred background.",
+        "position": 1,
+        "product_id": 9910506389846,
+        "created_at": "2025-10-23T16:24:56+01:00",
+        "updated_at": "2025-10-23T16:30:12+01:00",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/55504463397206",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S46cd75be171746c39bcaf958ac9986e4N.webp?v=1761233098",
+        "variant_ids": []
+      }
+    },
     {
       "id": 9910420865366,
       "title": "Beauty and the Beast Balloons – Enchanting Birthday & Baby Shower Décor",
@@ -4667,12 +4863,12 @@
     {
       "id": 9910488957270,
       "title": "PinkK Baby Shower Candy Bottles – Cute Gender Reveal Favors",
-      "body_html": "<p>PinkK Baby Shower Candy Bottles bring charm and elegance to your special celebration, offering the perfect favor for guests at baby showers, gender reveal parties, and birthdays. These adorable bottles combine thoughtful design with high-quality materials to create a sweet, memorable touch for your event décor.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sb845c4f2e84544ce8b029ae952300fedu.webp?v=1761232383\" alt=\"PinkK Baby Shower Candy Bottles – Cute Gender Reveal Favors\" style=\"float: none;\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Smart Design Features</span></strong></p>\n<ul>\n<li>\n<p><strong>Adorable baby bottle design</strong> adds a playful and festive element to any celebration</p>\n</li>\n<li>\n<p><strong>Available in pink and blue</strong> to perfectly match your baby shower theme</p>\n</li>\n<li>\n<p><strong>Durable plastic construction</strong> ensures long-lasting use and easy handling</p>\n</li>\n<li>\n<p><strong>Lightweight and reusable</strong>, ideal for filling with candies, chocolates, or small keepsakes</p>\n</li>\n<li>\n<p><strong>Optional bow and tag decorations</strong> add an extra touch of personalization</p>\n</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S3557b655dae44664a92a2c56bea1acaaV.webp?v=1761232384\" alt=\"PinkK Baby Shower Candy Bottles – Cute Gender Reveal Favors\" style=\"float: none;\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Setup and Usage</span></strong></p>\n<ol>\n<li>\n<p>Open bottle lid and fill with small candies or treats.</p>\n</li>\n<li>\n<p>Decorate with ribbons or stickers for a custom look.</p>\n</li>\n<li>\n<p>Arrange bottles on tables or add to guest favor bags.</p>\n</li>\n<li>\n<p>Reuse after the party for cute storage or decoration.</p>\n</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S30bc170b8f43485a8d2487f811c76c1fZ.webp?v=1761232383\" alt=\"PinkK Baby Shower Candy Bottles – Cute Gender Reveal Favors\" style=\"float: none;\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Product Specifications</span></strong></p>\n<ul>\n<li>\n<p><strong>Material:</strong> Premium food-safe plastic</p>\n</li>\n<li>\n<p><strong>Quantity Options:</strong> 12 or 24 pieces per set</p>\n</li>\n<li>\n<p><strong>Colors:</strong> Pink or Blue</p>\n</li>\n<li>\n<p><strong>Size:</strong> Compact for easy gifting</p>\n</li>\n<li>\n<p><strong>Occasions:</strong> Baby showers, birthdays, and gender reveal parties</p>\n</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sfc154d7bfbf3477387d05545b478267eG.webp?v=1761232383\" alt=\"PinkK Baby Shower Candy Bottles – Cute Gender Reveal Favors\" style=\"float: none;\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Why Choose These Bottles</span><br></strong><br>PinkK’s Baby Shower Candy Bottles offer a delightful way to thank your guests while elevating your party aesthetic. Whether you’re celebrating a baby girl, baby boy, or keeping it a surprise, these bottles blend sweetness with elegance. Their reusable, durable design makes them a cherished keepsake long after the event.</p>\n<p> </p>\n<p> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "body_html": "<p>PinkK Baby Shower Candy Bottles bring charm and elegance to your special celebration, offering the perfect favor for guests at baby showers, gender reveal parties, and birthdays. These adorable bottles combine thoughtful design with high-quality materials to create a sweet, memorable touch for your event décor.</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"PinkK Baby Shower Candy Bottles – Cute Gender Reveal Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sb845c4f2e84544ce8b029ae952300fedu.webp?v=1761232383\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Smart Design Features</span></strong></p>\n<p><strong><span style=\"color: rgb(0, 0, 0);\">* </span>Adorable baby bottle design</strong> adds a playful and festive element to any celebration</p>\n<p><strong><span style=\"color: rgb(0, 0, 0);\">* </span>Available in pink and blue</strong> to perfectly match your baby shower theme</p>\n<p><strong><span style=\"color: rgb(0, 0, 0);\">* </span>Durable plastic construction</strong> ensures long-lasting use and easy handling</p>\n<p><strong><span style=\"color: rgb(0, 0, 0);\">* </span>Lightweight and reusable</strong>, ideal for filling with candies, chocolates, or small keepsakes</p>\n<p><strong><span style=\"color: rgb(0, 0, 0);\">* </span>Optional bow and tag decorations</strong> add an extra touch of personalization</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"PinkK Baby Shower Candy Bottles – Cute Gender Reveal Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S3557b655dae44664a92a2c56bea1acaaV.webp?v=1761232384\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Setup and Usage</span></strong></p>\n<p>1. Open bottle lid and fill with small candies or treats.</p>\n<p>2. Decorate with ribbons or stickers for a custom look.</p>\n<p>3. Arrange bottles on tables or add to guest favor bags.</p>\n<p>4. Reuse after the party for cute storage or decoration.</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"PinkK Baby Shower Candy Bottles – Cute Gender Reveal Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S30bc170b8f43485a8d2487f811c76c1fZ.webp?v=1761232383\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Product Specifications</span></strong></p>\n<p><strong><span style=\"color: rgb(0, 0, 0);\">* </span>Material:</strong> Premium food-safe plastic</p>\n<p><strong><span style=\"color: rgb(0, 0, 0);\">* </span>Quantity Options:</strong> 12 or 24 pieces per set</p>\n<p><strong><span style=\"color: rgb(0, 0, 0);\">* </span>Colors:</strong> Pink or Blue</p>\n<p><strong><span style=\"color: rgb(0, 0, 0);\">* </span>Size:</strong> Compact for easy gifting</p>\n<p><strong><span style=\"color: rgb(0, 0, 0);\">* </span>Occasions:</strong> Baby showers, birthdays, and gender reveal parties</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"PinkK Baby Shower Candy Bottles – Cute Gender Reveal Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sfc154d7bfbf3477387d05545b478267eG.webp?v=1761232383\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Why Choose These Bottles</span><br></strong><br>PinkK’s Baby Shower Candy Bottles offer a delightful way to thank your guests while elevating your party aesthetic. Whether you’re celebrating a baby girl, baby boy, or keeping it a surprise, these bottles blend sweetness with elegance. Their reusable, durable design makes them a cherished keepsake long after the event.</p>\n<p> </p>\n<p> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
       "vendor": "Nestacular",
       "product_type": "",
       "created_at": "2025-10-23T16:12:59+01:00",
       "handle": "12-24pcs-baby-shower-bottle-blue-pink-candy-gift-packaging-boxes-baby-shower-favors-for-guests-birthday-gender-reveal-supplies",
-      "updated_at": "2025-10-23T16:22:58+01:00",
+      "updated_at": "2025-10-23T16:24:27+01:00",
       "published_at": null,
       "template_suffix": null,
       "published_scope": "web",
@@ -6743,8 +6939,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 8,
-    "products_in_page": 8,
+    "total_products": 9,
+    "products_in_page": 9,
     "has_next_page": false,
     "has_previous_page": false
   }
