@@ -15616,7 +15616,7 @@
           "product_id": 9794051277142,
           "created_at": "2025-09-02T19:47:45+01:00",
           "updated_at": "2025-09-02T19:54:48+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66265194037590",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54509872054614",
           "width": 750,
           "height": 1000,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c85dffe2-5058-4b0a-b86c-dc4e81b962e2.jpg?v=1756838867",
@@ -15629,7 +15629,7 @@
           "product_id": 9794051277142,
           "created_at": "2025-09-02T19:47:48+01:00",
           "updated_at": "2025-09-02T19:54:53+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66265194791254",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54509872546134",
           "width": 750,
           "height": 1000,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/44daa021-ee66-4e83-852a-66ff88c8a15c.jpg?v=1756838872",
@@ -15642,7 +15642,7 @@
           "product_id": 9794051277142,
           "created_at": "2025-09-02T19:47:51+01:00",
           "updated_at": "2025-09-02T19:54:58+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66265194987862",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54509872742742",
           "width": 750,
           "height": 1000,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/e8178b3b-c693-4116-aa3a-99fe0a3ce128.jpg?v=1756838875",
@@ -15655,7 +15655,7 @@
           "product_id": 9794051277142,
           "created_at": "2025-09-02T19:47:53+01:00",
           "updated_at": "2025-09-02T19:55:02+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66265196691798",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54509872873814",
           "width": 750,
           "height": 1000,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/e61420fc-9e9f-4aac-aeed-9a0a33f29a16.jpg?v=1756838876",
@@ -15668,7 +15668,7 @@
           "product_id": 9794051277142,
           "created_at": "2025-09-02T19:47:53+01:00",
           "updated_at": "2025-09-02T19:55:06+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66265196822870",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54509873004886",
           "width": 750,
           "height": 1000,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/aabefc4e-c272-4688-b324-911761464ce4.jpg?v=1756838876",
@@ -15684,7 +15684,7 @@
         "product_id": 9794051277142,
         "created_at": "2025-09-02T19:47:45+01:00",
         "updated_at": "2025-09-02T19:54:48+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/66265194037590",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/54509872054614",
         "width": 750,
         "height": 1000,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c85dffe2-5058-4b0a-b86c-dc4e81b962e2.jpg?v=1756838867",
@@ -24220,8 +24220,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9910586245462",
       "variants": [
         {
-          "id": 51650690679126,
           "product_id": 9910586245462,
+          "id": 51650690679126,
           "title": "other / other",
           "price": "28.95",
           "position": 1,
@@ -24250,8 +24250,8 @@
       ],
       "options": [
         {
-          "id": 12780447007062,
           "product_id": 9910586245462,
+          "id": 12780447007062,
           "name": "Color",
           "position": 1,
           "values": [
@@ -24259,8 +24259,8 @@
           ]
         },
         {
-          "id": 12780447039830,
           "product_id": 9910586245462,
+          "id": 12780447039830,
           "name": "Gift Box Size",
           "position": 2,
           "values": [

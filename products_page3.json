@@ -5033,8 +5033,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9910586245462",
       "variants": [
         {
-          "id": 51650690679126,
           "product_id": 9910586245462,
+          "id": 51650690679126,
           "title": "other / other",
           "price": "28.95",
           "position": 1,
@@ -5063,8 +5063,8 @@
       ],
       "options": [
         {
-          "id": 12780447007062,
           "product_id": 9910586245462,
+          "id": 12780447007062,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5072,8 +5072,8 @@
           ]
         },
         {
-          "id": 12780447039830,
           "product_id": 9910586245462,
+          "id": 12780447039830,
           "name": "Gift Box Size",
           "position": 2,
           "values": [
