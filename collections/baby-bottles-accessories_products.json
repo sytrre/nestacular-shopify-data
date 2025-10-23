@@ -3936,8 +3936,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791673205078",
       "variants": [
         {
-          "id": 51197269180758,
           "product_id": 9791673205078,
+          "id": 51197269180758,
           "title": "Blue Suction Cup",
           "price": "18.53",
           "position": 1,
@@ -3964,8 +3964,8 @@
           "image_id": 66244534567254
         },
         {
-          "id": 51197269213526,
           "product_id": 9791673205078,
+          "id": 51197269213526,
           "title": "Green Suction Cup",
           "price": "18.53",
           "position": 2,
@@ -3992,8 +3992,8 @@
           "image_id": 66244534600022
         },
         {
-          "id": 51197269246294,
           "product_id": 9791673205078,
+          "id": 51197269246294,
           "title": "Pink Suction Cup",
           "price": "18.53",
           "position": 3,
@@ -4020,8 +4020,8 @@
           "image_id": 66244534632790
         },
         {
-          "id": 51197269279062,
           "product_id": 9791673205078,
+          "id": 51197269279062,
           "title": "Yellow Suction Cup",
           "price": "18.53",
           "position": 4,
@@ -4048,8 +4048,8 @@
           "image_id": 66244534665558
         },
         {
-          "id": 51197269311830,
           "product_id": 9791673205078,
+          "id": 51197269311830,
           "title": "White Suction Cup",
           "price": "18.53",
           "position": 5,
@@ -4076,8 +4076,8 @@
           "image_id": 66244534698326
         },
         {
-          "id": 51197269344598,
           "product_id": 9791673205078,
+          "id": 51197269344598,
           "title": "2pc",
           "price": "17.71",
           "position": 6,
@@ -4106,8 +4106,8 @@
       ],
       "options": [
         {
-          "id": 12640932233558,
           "product_id": 9791673205078,
+          "id": 12640932233558,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5320,8 +5320,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791075483990",
       "variants": [
         {
-          "id": 51194368459094,
           "product_id": 9791075483990,
+          "id": 51194368459094,
           "title": "Pink / 360ml",
           "price": "41.44",
           "position": 1,
@@ -5348,8 +5348,8 @@
           "image_id": 66236079997270
         },
         {
-          "id": 51194368491862,
           "product_id": 9791075483990,
+          "id": 51194368491862,
           "title": "Blue / 360ml",
           "price": "41.44",
           "position": 2,
@@ -5376,8 +5376,8 @@
           "image_id": 66236080030038
         },
         {
-          "id": 51194368524630,
           "product_id": 9791075483990,
+          "id": 51194368524630,
           "title": "Pink / 240ml",
           "price": "39.04",
           "position": 3,
@@ -5404,8 +5404,8 @@
           "image_id": 66236080062806
         },
         {
-          "id": 51194368557398,
           "product_id": 9791075483990,
+          "id": 51194368557398,
           "title": "Beige / 360ml",
           "price": "42.69",
           "position": 4,
@@ -5432,8 +5432,8 @@
           "image_id": 66236080095574
         },
         {
-          "id": 51194368590166,
           "product_id": 9791075483990,
+          "id": 51194368590166,
           "title": "Beige / 240ml",
           "price": "41.44",
           "position": 5,
@@ -5460,8 +5460,8 @@
           "image_id": 66236080128342
         },
         {
-          "id": 51194368622934,
           "product_id": 9791075483990,
+          "id": 51194368622934,
           "title": "Red / 360ml",
           "price": "41.44",
           "position": 6,
@@ -5488,8 +5488,8 @@
           "image_id": 66236080161110
         },
         {
-          "id": 51194368655702,
           "product_id": 9791075483990,
+          "id": 51194368655702,
           "title": "Red / 240ml",
           "price": "39.04",
           "position": 7,
@@ -5518,8 +5518,8 @@
       ],
       "options": [
         {
-          "id": 12640227721558,
           "product_id": 9791075483990,
+          "id": 12640227721558,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5530,8 +5530,8 @@
           ]
         },
         {
-          "id": 12640227754326,
           "product_id": 9791075483990,
+          "id": 12640227754326,
           "name": "Size",
           "position": 2,
           "values": [
