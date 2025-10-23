@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-23T11:40:40.134123Z",
+  "generated": "2025-10-23T12:47:43.432530Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -43,6 +43,7 @@
       "cups-and-drinkware": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/cups-and-drinkware_products.json",
       "cutlery-and-utensils": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/cutlery-and-utensils_products.json",
       "daycare-ready-feeding-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/daycare-ready-feeding-essentials_products.json",
+      "fall-sports-season-sideline-baby-feeding-kit": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/fall-sports-season-sideline-baby-feeding-kit_products.json",
       "first-birthday-gifts": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/first-birthday-gifts_products.json",
       "first-stage-feeding": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/first-stage-feeding_products.json",
       "foldable-baby-chair": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/foldable-baby-chair_products.json",

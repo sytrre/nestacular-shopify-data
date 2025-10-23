@@ -256,8 +256,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791345033558",
       "variants": [
         {
-          "id": 51196001648982,
           "product_id": 9791345033558,
+          "id": 51196001648982,
           "title": "Pink / 280ml",
           "price": "49.05",
           "position": 1,
@@ -284,8 +284,8 @@
           "image_id": 66240190153046
         },
         {
-          "id": 51196001681750,
           "product_id": 9791345033558,
+          "id": 51196001681750,
           "title": "Green / 160ml",
           "price": "49.05",
           "position": 2,
@@ -312,8 +312,8 @@
           "image_id": 66240190185814
         },
         {
-          "id": 51196001714518,
           "product_id": 9791345033558,
+          "id": 51196001714518,
           "title": "Green / 280ml",
           "price": "49.05",
           "position": 3,
@@ -340,8 +340,8 @@
           "image_id": 66240190218582
         },
         {
-          "id": 51196001747286,
           "product_id": 9791345033558,
+          "id": 51196001747286,
           "title": "Pink / 160ml",
           "price": "49.05",
           "position": 4,
@@ -370,8 +370,8 @@
       ],
       "options": [
         {
-          "id": 12640548847958,
           "product_id": 9791345033558,
+          "id": 12640548847958,
           "name": "Color",
           "position": 1,
           "values": [
@@ -380,8 +380,8 @@
           ]
         },
         {
-          "id": 12640548880726,
           "product_id": 9791345033558,
+          "id": 12640548880726,
           "name": "Size",
           "position": 2,
           "values": [
@@ -533,17 +533,17 @@
     },
     {
       "id": 9792650248534,
-      "title": "HeartBabe Silicone Baby Feeding Bottle – Soft, Safe Breast Milk Nursing Bottle for Infants ✅",
-      "body_html": "<p data-start=\"200\" data-end=\"470\">Give your baby a natural and safe feeding experience with the <strong data-start=\"262\" data-end=\"304\">HeartBabe Silicone Baby Feeding Bottle</strong>. Made from <strong data-start=\"316\" data-end=\"347\">premium food-grade silicone</strong>, this bottle is <strong data-start=\"364\" data-end=\"392\">BPA-free, soft, and safe</strong>, closely mimicking the natural feel of a mother’s breast for easy latching.</p>\n<p data-start=\"472\" data-end=\"879\">Designed to reduce colic, gas, and spit-up, the <strong data-start=\"520\" data-end=\"546\">anti-colic vent system</strong> ensures smooth milk flow and a more comfortable feeding experience. The <strong data-start=\"619\" data-end=\"642\">wide-caliber design</strong> makes cleaning and filling simple, while the <strong data-start=\"688\" data-end=\"713\">soft, squeezable body</strong> allows parents to gently control milk flow. Perfect for newborns and infants, HeartBabe provides <strong data-start=\"811\" data-end=\"857\">a comforting, mother-like feeding solution</strong> for growing babies.</p>\n<h3 data-start=\"472\" data-end=\"879\"><strong data-start=\"890\" data-end=\"909\"> Key Features</strong></h3>\n<ul data-start=\"912\" data-end=\"1278\">\n<li data-start=\"912\" data-end=\"985\">\n<p data-start=\"914\" data-end=\"985\"><strong data-start=\"914\" data-end=\"939\">Soft Silicone Bottle:</strong> Gentle, squeezable design for easy feeding.</p>\n</li>\n<li data-start=\"986\" data-end=\"1059\">\n<p data-start=\"988\" data-end=\"1059\"><strong data-start=\"988\" data-end=\"1008\">Safe &amp; BPA-Free:</strong> Made with food-grade silicone for baby’s health.</p>\n</li>\n<li data-start=\"1060\" data-end=\"1136\">\n<p data-start=\"1062\" data-end=\"1136\"><strong data-start=\"1062\" data-end=\"1093\">Natural Breast-Like Nipple:</strong> Helps with easy latching and transition.</p>\n</li>\n<li data-start=\"1137\" data-end=\"1206\">\n<p data-start=\"1139\" data-end=\"1206\"><strong data-start=\"1139\" data-end=\"1166\">Anti-Colic Vent System:</strong> Reduces gas, spit-up, and discomfort.</p>\n</li>\n<li data-start=\"1207\" data-end=\"1278\">\n<p data-start=\"1209\" data-end=\"1278\"><strong data-start=\"1209\" data-end=\"1227\">Easy to Clean:</strong> Wide-mouth design for quick filling and washing.</p>\n</li>\n</ul>",
+      "title": "HeartBabe Silicone Baby Bottle – Soft BPA-Free Anti-Colic Feeding",
+      "body_html": "<h2>HeartBabe Silicone Baby Feeding Bottle</h2>\n\n<p>The <strong>HeartBabe Silicone Baby Feeding Bottle</strong> provides a natural feeding experience for infants. Made from <strong>premium food-grade silicone</strong>, this bottle is <strong>BPA-free, soft, and safe</strong>, closely mimicking the natural feel of a mother's breast for easy latching and smooth transitions between breast and bottle feeding.</p>\n\n<p>The <strong>anti-colic vent system</strong> reduces colic, gas, and spit-up by ensuring smooth milk flow during feeding. The <strong>wide-caliber design</strong> simplifies cleaning and filling, while the <strong>soft, squeezable body</strong> allows parents to gently control milk flow based on their baby's feeding pace. Suitable for newborns and infants, this bottle offers a comforting, mother-like feeding solution.</p>\n\n<h3><strong>Key Features</strong></h3>\n<ul>\n<li>\n<strong>Soft Silicone Bottle:</strong> Gentle, squeezable design for easy feeding.</li>\n<li>\n<strong>Safe &amp; BPA-Free:</strong> Made with food-grade silicone for baby's health.</li>\n<li>\n<strong>Natural Breast-Like Nipple:</strong> Helps with easy latching and transition.</li>\n<li>\n<strong>Anti-Colic Vent System:</strong> Reduces gas, spit-up, and discomfort.</li>\n<li>\n<strong>Easy to Clean:</strong> Wide-mouth design for quick filling and washing.</li>\n</ul>\n\n<h3>Why Choose Silicone Baby Bottles?</h3>\n<p>Food-grade silicone offers superior safety and durability compared to traditional plastic bottles. The soft, squeezable material allows for controlled feeding, making it easier to pace milk flow according to your baby's needs. The natural flexibility of silicone creates a breast-like feeding experience that helps reduce nipple confusion.</p>\n\n<h3>Anti-Colic Technology</h3>\n<p>The integrated vent system minimizes air intake during feeding, which helps prevent common feeding issues like gas, colic, and reflux. This design promotes a more comfortable feeding experience and can lead to better digestion and less fussiness after meals.</p>\n\n<h3>Easy Maintenance</h3>\n<p>The wide-mouth opening makes the HeartBabe bottle simple to fill with breast milk or formula and easy to clean thoroughly. The silicone material is heat-resistant and can be sterilized, ensuring proper hygiene for your baby's feeding routine.</p>",
       "vendor": "Nestacular",
       "product_type": "Baby Feeding Bottle",
       "created_at": "2025-09-02T05:31:05+01:00",
       "handle": "heartbabe-silicone-baby-bottle",
-      "updated_at": "2025-10-21T15:31:26+01:00",
+      "updated_at": "2025-10-23T13:08:35+01:00",
       "published_at": "2025-09-02T05:31:12+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "anti-colic design. Safe, BPA-free, HeartBabe Silicone Baby Bottle – Soft, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, natural breast milk feeding bottle for newborns & infants.",
+      "tags": "0-6-months-feeding, anti-colic design. Safe, baby-feeding-essentials, BPA-free, breast-like-nipple-bottle, breast-milk-bottle, breastfeeding-transition-bottle, colic-reducing-bottle, food-grade-silicone-bottle, HeartBabe Silicone Baby Bottle – Soft, infant-nursing-bottle, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, natural breast milk feeding bottle for newborns & infants., newborn-bottle-feeding, newborn-feeding-bottle, silicone-baby-bottle, silicone-nursing-bottle, soft-nipple-baby-bottle, squeezable-baby-bottle, wide-neck-baby-bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9792650248534",
       "variants": [

@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-10-23T11:40:40.134123Z
+Generated: 2025-10-23T12:47:43.432530Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (84 collections) ===
+=== COLLECTION PRODUCT FILES (85 collections) ===
 
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
@@ -46,6 +46,7 @@ BLOGS (1 pages):
 • cups-and-drinkware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/cups-and-drinkware_products.json
 • cutlery-and-utensils: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/cutlery-and-utensils_products.json
 • daycare-ready-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/daycare-ready-feeding-essentials_products.json
+• fall-sports-season-sideline-baby-feeding-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/fall-sports-season-sideline-baby-feeding-kit_products.json
 • first-birthday-gifts: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/first-birthday-gifts_products.json
 • first-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/first-stage-feeding_products.json
 • foldable-baby-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/foldable-baby-chair_products.json
