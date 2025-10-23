@@ -4,7 +4,7 @@
     "handle": "baby-bottles-accessories",
     "title": "Baby Bottles & Accessories",
     "body_html": "<p>Welcome to our complete collection of baby bottles and accessories. We've curated the very best options from trusted brands, focusing on safety, ergonomic design, and a modern aesthetic. Whether you're looking for a bottle made from a specific material like glass or silicone, a solution for colic, or essential cleaning tools, you'll find it here. Explore our range to build the perfect feeding system for your family.</p>",
-    "products_count": 99
+    "products_count": 100
   },
   "products": [
     {
@@ -3570,8 +3570,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9910506389846",
       "variants": [
         {
-          "id": 51650263515478,
           "product_id": 9910506389846,
+          "id": 51650263515478,
           "title": "Pink",
           "price": "18.95",
           "position": 1,
@@ -3598,8 +3598,8 @@
           "image_id": 67701758198102
         },
         {
-          "id": 51650263548246,
           "product_id": 9910506389846,
+          "id": 51650263548246,
           "title": "Blue",
           "price": "18.95",
           "position": 2,
@@ -3628,8 +3628,8 @@
       ],
       "options": [
         {
-          "id": 12780353192278,
           "product_id": 9910506389846,
+          "id": 12780353192278,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25359,7 +25359,7 @@
           "product_id": 9791839699286,
           "created_at": "2025-09-01T16:48:39+01:00",
           "updated_at": "2025-09-01T18:31:29+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245969084758",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491663466838",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/187970663411.jpg?v=1756741721",
@@ -25372,7 +25372,7 @@
           "product_id": 9791839699286,
           "created_at": "2025-09-01T16:48:41+01:00",
           "updated_at": "2025-09-01T18:31:34+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245969379670",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491663958358",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2873987907203.jpg?v=1756741723",
@@ -25385,7 +25385,7 @@
           "product_id": 9791839699286,
           "created_at": "2025-09-01T16:48:42+01:00",
           "updated_at": "2025-09-01T18:31:42+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245969674582",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491664122198",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2588659490551.jpg?v=1756741724",
@@ -25398,7 +25398,7 @@
           "product_id": 9791839699286,
           "created_at": "2025-09-01T16:48:44+01:00",
           "updated_at": "2025-09-01T18:31:47+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245969871190",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491664318806",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4161074578167.jpg?v=1756741726",
@@ -25411,7 +25411,7 @@
           "product_id": 9791839699286,
           "created_at": "2025-09-01T16:48:45+01:00",
           "updated_at": "2025-09-01T18:31:52+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245970133334",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491664515414",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/604635033846.jpg?v=1756741727",
@@ -25424,7 +25424,7 @@
           "product_id": 9791839699286,
           "created_at": "2025-09-01T16:48:47+01:00",
           "updated_at": "2025-09-01T18:31:58+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245971083606",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491665531222",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/9292153221452.jpg?v=1756741729",
@@ -25437,7 +25437,7 @@
           "product_id": 9791839699286,
           "created_at": "2025-09-01T16:48:51+01:00",
           "updated_at": "2025-09-01T18:32:03+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245971804502",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491666088278",
           "width": 750,
           "height": 750,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1778332120047.jpg?v=1756741734",
@@ -25452,7 +25452,7 @@
           "product_id": 9791839699286,
           "created_at": "2025-09-01T16:48:51+01:00",
           "updated_at": "2025-09-01T18:32:08+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245971837270",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491666121046",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2581602588200.jpg?v=1756741734",
@@ -25467,7 +25467,7 @@
           "product_id": 9791839699286,
           "created_at": "2025-09-01T16:48:51+01:00",
           "updated_at": "2025-09-01T18:32:13+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245971870038",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491666153814",
           "width": 750,
           "height": 750,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3287771283312.jpg?v=1756741734",
@@ -25483,7 +25483,7 @@
         "product_id": 9791839699286,
         "created_at": "2025-09-01T16:48:39+01:00",
         "updated_at": "2025-09-01T18:31:29+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/66245969084758",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/54491663466838",
         "width": 800,
         "height": 800,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/187970663411.jpg?v=1756741721",
@@ -32214,6 +32214,208 @@
       }
     },
     {
+      "id": 9910586245462,
+      "title": "Vanerra Baby Shower Candy Bottles – Cute Feeding Favors",
+      "body_html": "<p>Vanerra Baby Shower Candy Bottles are a charming addition to any celebration. Designed in a mini feeding bottle style, these 24-piece sets make perfect party favors, prize giveaways, or decorative touches for baby showers, birthdays, and gender reveal parties.</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Vanerra Baby Shower Candy Bottles – Cute Feeding Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S2e4eac7f15284e8bb055effac9bf0899O.webp?v=1761236157\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Smart Design Features</span><br><br></strong></p>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>* </strong></span>Mini bottle design ideal for candies, small treats, or trinkets</p>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>* </strong></span>Durable plastic construction for repeated use or display</p>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>* </strong></span>Adorable feeding bottle shape adds playful, thematic charm</p>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>* </strong></span>Compact and lightweight for easy handling and table arrangement</p>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>* </strong></span>Suitable for baby showers, birthdays, gender reveals, and party prizes</p>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>* </strong></span>Reusable and refillable for multiple celebrations</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Vanerra Baby Shower Candy Bottles – Cute Feeding Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S984960da42b14a90b5981a3401db2511T.webp?v=1761236155\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Setup and Usage</span><br></strong><br>Fill bottles with candy, small toys, or other treats. Decorate with ribbons, stickers, or tags to match your theme. Display on dessert tables, in gift baskets, or hand out individually to guests. After the event, wash and reuse for future celebrations.</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Vanerra Baby Shower Candy Bottles – Cute Feeding Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sbd70bec0975e4a578f679a3c02202f12z.webp?v=1761236154\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Product Specifications</span><br></strong><br>Material: High-quality plastic<br>Dimensions: Mini feeding bottle size<br>Colors: Blue, Pink, or Clear<br>Package: 24-piece set<br>Style: Feeding bottle candy container<br>Suitable for: Baby showers, birthdays, and gender reveal parties</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"Vanerra Baby Shower Candy Bottles – Cute Feeding Favors\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S4a2d69a317e44a08a0964ff7883fffa9r.webp?v=1761236154\"></div>\n<p><strong><br><span style=\"color: rgb(0, 0, 0);\">Why Choose Vanerra Candy Bottles</span><br></strong><br>Vanerra Candy Bottles combine adorable design with practical functionality. Their reusable structure reduces waste while keeping celebrations colorful and engaging. Perfect for party planners, parents, and DIY decorators, these bottles help make any event memorable and fun.</p>\n<p> </p>\n<p> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "",
+      "created_at": "2025-10-23T17:15:50+01:00",
+      "handle": "24-pcs-candy-bottles-baby-shower-gift-boxes-feeding-bottle-design-small-plastic-containers-party-favors-prizes-decorative",
+      "updated_at": "2025-10-23T17:23:56+01:00",
+      "published_at": null,
+      "template_suffix": null,
+      "published_scope": "web",
+      "tags": "birthday-party-kit",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9910586245462",
+      "variants": [
+        {
+          "id": 51650690679126,
+          "product_id": 9910586245462,
+          "title": "other / other",
+          "price": "28.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "32.95",
+          "option1": "other",
+          "option2": "other",
+          "option3": null,
+          "created_at": "2025-10-23T17:15:52+01:00",
+          "updated_at": "2025-10-23T17:23:28+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "dsers-fulfillment-service",
+          "grams": 231,
+          "inventory_management": "dsers-fulfillment-service",
+          "requires_shipping": true,
+          "sku": "14:10#other;200323261:4#other",
+          "weight": 0.231,
+          "weight_unit": "kg",
+          "inventory_item_id": 53928534802774,
+          "inventory_quantity": 994,
+          "old_inventory_quantity": 994,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51650690679126",
+          "image_id": 67702548791638
+        }
+      ],
+      "options": [
+        {
+          "id": 12780447007062,
+          "product_id": 9910586245462,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "other"
+          ]
+        },
+        {
+          "id": 12780447039830,
+          "product_id": 9910586245462,
+          "name": "Gift Box Size",
+          "position": 2,
+          "values": [
+            "other"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67702548791638,
+          "alt": "Clear plastic device with blue cap held by a hand on a white background",
+          "position": 1,
+          "product_id": 9910586245462,
+          "created_at": "2025-10-23T17:15:52+01:00",
+          "updated_at": "2025-10-23T17:21:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55505234100566",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sbd70bec0975e4a578f679a3c02202f12z.webp?v=1761236154",
+          "variant_ids": [
+            51650690679126
+          ]
+        },
+        {
+          "id": 67702548824406,
+          "alt": "Glass dropper bottle with measurements on a white background",
+          "position": 2,
+          "product_id": 9910586245462,
+          "created_at": "2025-10-23T17:15:52+01:00",
+          "updated_at": "2025-10-23T17:21:55+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55505234133334",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S4af3f310acdf45efa9330a6329b62264f.webp?v=1761236155",
+          "variant_ids": []
+        },
+        {
+          "id": 67702548857174,
+          "alt": "Large empty bottle with a dropper and multiple small bottles with blue caps on a white background",
+          "position": 3,
+          "product_id": 9910586245462,
+          "created_at": "2025-10-23T17:15:52+01:00",
+          "updated_at": "2025-10-23T17:22:04+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55505234166102",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S5562830ab0834e85bad89b5d4caf7ccfR.webp?v=1761236155",
+          "variant_ids": []
+        },
+        {
+          "id": 67702548889942,
+          "alt": "Set of clear baby bottles with blue caps on a white background",
+          "position": 4,
+          "product_id": 9910586245462,
+          "created_at": "2025-10-23T17:15:52+01:00",
+          "updated_at": "2025-10-23T17:22:10+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55505234198870",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S46434b63355247b7aa75520b2dfbf89c7.webp?v=1761236155",
+          "variant_ids": []
+        },
+        {
+          "id": 67702548922710,
+          "alt": "White bottle cap with blue base on a black background",
+          "position": 5,
+          "product_id": 9910586245462,
+          "created_at": "2025-10-23T17:15:52+01:00",
+          "updated_at": "2025-10-23T17:22:18+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55505234231638",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S203510c102ba461f8d76ec4a500ef1d6e.webp?v=1761236155",
+          "variant_ids": []
+        },
+        {
+          "id": 67702548955478,
+          "alt": "Set of clear bottles with blue and white caps on a white background",
+          "position": 6,
+          "product_id": 9910586245462,
+          "created_at": "2025-10-23T17:15:52+01:00",
+          "updated_at": "2025-10-23T17:22:26+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55505234264406",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S4a2d69a317e44a08a0964ff7883fffa9r.webp?v=1761236154",
+          "variant_ids": []
+        },
+        {
+          "id": 67702548988246,
+          "alt": "Two children sitting at a table with bottles and toys, engaged in an activity.",
+          "position": 7,
+          "product_id": 9910586245462,
+          "created_at": "2025-10-23T17:15:52+01:00",
+          "updated_at": "2025-10-23T17:22:34+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55505234297174",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S2e4eac7f15284e8bb055effac9bf0899O.webp?v=1761236157",
+          "variant_ids": []
+        },
+        {
+          "id": 67702549021014,
+          "alt": "Woman and young child playing with colorful toys in a bright room",
+          "position": 8,
+          "product_id": 9910586245462,
+          "created_at": "2025-10-23T17:15:52+01:00",
+          "updated_at": "2025-10-23T17:22:41+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55505234329942",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S984960da42b14a90b5981a3401db2511T.webp?v=1761236155",
+          "variant_ids": []
+        },
+        {
+          "id": 67702549053782,
+          "alt": "Set of clear bottles with blue caps on a white background",
+          "position": 9,
+          "product_id": 9910586245462,
+          "created_at": "2025-10-23T17:15:52+01:00",
+          "updated_at": "2025-10-23T17:22:49+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55505234362710",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sb604c763d5064ef7bf6696909e95b95ec.webp?v=1761236155",
+          "variant_ids": []
+        }
+      ],
+      "image": {
+        "id": 67702548791638,
+        "alt": "Clear plastic device with blue cap held by a hand on a white background",
+        "position": 1,
+        "product_id": 9910586245462,
+        "created_at": "2025-10-23T17:15:52+01:00",
+        "updated_at": "2025-10-23T17:21:47+01:00",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/55505234100566",
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sbd70bec0975e4a578f679a3c02202f12z.webp?v=1761236154",
+        "variant_ids": [
+          51650690679126
+        ]
+      }
+    },
+    {
       "id": 9791386255702,
       "title": "Viora Tots Squeeze Feeding Bottle – Silicone Baby Bowl for Milk & Solid Food",
       "body_html": "<p data-start=\"124\" data-end=\"408\">Make feeding time easier and safer with the <strong data-start=\"199\" data-end=\"236\">Viora Tots Squeeze Feeding Bottle</strong>. Designed from <strong data-start=\"252\" data-end=\"285\">food-grade, BPA-free silicone</strong>, this versatile baby bowl allows infants and toddlers to enjoy milk, purees, cereals, and soft solid foods without mess.</p>\n<p data-start=\"410\" data-end=\"721\">The <strong data-start=\"414\" data-end=\"432\">squeeze design</strong> makes it easy for parents or toddlers to control portions, while the <strong data-start=\"502\" data-end=\"528\">soft silicone material</strong> is gentle on gums. Its lightweight, portable, and easy-to-clean construction ensures convenience both at home and on-the-go. Perfect for encouraging self-feeding and supplementing nutrition.</p>\n<p data-start=\"723\" data-end=\"742\"><strong data-start=\"723\" data-end=\"740\">Key Features:</strong></p>\n<ul data-start=\"743\" data-end=\"1055\">\n<li data-start=\"743\" data-end=\"798\">\n<p data-start=\"745\" data-end=\"798\"><strong data-start=\"745\" data-end=\"772\">Safe Silicone Material:</strong> BPA-free and non-toxic.</p>\n</li>\n<li data-start=\"799\" data-end=\"873\">\n<p data-start=\"801\" data-end=\"873\"><strong data-start=\"801\" data-end=\"822\">Multi-Use Feeder:</strong> Ideal for milk, purees, cereals, and soft foods.</p>\n</li>\n<li data-start=\"874\" data-end=\"936\">\n<p data-start=\"876\" data-end=\"936\"><strong data-start=\"876\" data-end=\"895\">Squeeze Design:</strong> Easy portion control and self-feeding.</p>\n</li>\n<li data-start=\"937\" data-end=\"984\">\n<p data-start=\"939\" data-end=\"984\"><strong data-start=\"939\" data-end=\"957\">Soft &amp; Gentle:</strong> Perfect for infant gums.</p>\n</li>\n<li data-start=\"985\" data-end=\"1055\">\n<p data-start=\"987\" data-end=\"1055\"><strong data-start=\"987\" data-end=\"1016\">Easy to Clean &amp; Portable:</strong> Dishwasher safe and travel-friendly.</p>\n</li>\n</ul>\n<p data-start=\"1057\" data-end=\"1160\">Simplify feeding and make mealtime enjoyable with the <strong data-start=\"1111\" data-end=\"1157\">Viora Tots Silicone Squeeze Feeding Bottle</strong>.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/e35de3b7-70ca-4257-9321-042dddd0f298.jpg?v=1756725500\" alt=\"Viora Tots Squeeze Feeding Bottle\" style=\"float: none;\"></div>\n<p data-start=\"1057\" data-end=\"1160\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f5f84c5e-185e-43d0-b3a5-70fa614de6da.jpg?v=1756725501\" alt=\"Viora Tots Squeeze Feeding Bottle\"></p>\n<p data-start=\"1057\" data-end=\"1160\"> </p>",
@@ -34126,8 +34328,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 99,
-    "products_in_page": 99,
+    "total_products": 100,
+    "products_in_page": 100,
     "has_next_page": false,
     "has_previous_page": false
   }
