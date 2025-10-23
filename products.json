@@ -37494,8 +37494,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791666094422",
       "variants": [
         {
-          "id": 51197238083926,
           "product_id": 9791666094422,
+          "id": 51197238083926,
           "title": "Purple",
           "price": "44.04",
           "position": 1,
@@ -37522,8 +37522,8 @@
           "image_id": 66244465295702
         },
         {
-          "id": 51197238116694,
           "product_id": 9791666094422,
+          "id": 51197238116694,
           "title": "Red",
           "price": "44.04",
           "position": 2,
@@ -37550,8 +37550,8 @@
           "image_id": 66244465328470
         },
         {
-          "id": 51197238149462,
           "product_id": 9791666094422,
+          "id": 51197238149462,
           "title": "Blue",
           "price": "44.04",
           "position": 3,
@@ -37578,8 +37578,8 @@
           "image_id": 66244465361238
         },
         {
-          "id": 51197238182230,
           "product_id": 9791666094422,
+          "id": 51197238182230,
           "title": "Pink",
           "price": "44.04",
           "position": 4,
@@ -37608,8 +37608,8 @@
       ],
       "options": [
         {
-          "id": 12640923386198,
           "product_id": 9791666094422,
+          "id": 12640923386198,
           "name": "Color",
           "position": 1,
           "values": [
@@ -38344,8 +38344,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9881421316438",
       "variants": [
         {
-          "id": 51532578685270,
           "product_id": 9881421316438,
+          "id": 51532578685270,
           "title": "Flat head for night use [Comes with storage box + anti-drop chain",
           "price": "18.95",
           "position": 1,
@@ -38372,8 +38372,8 @@
           "image_id": 67453171106134
         },
         {
-          "id": 51532578718038,
           "product_id": 9881421316438,
+          "id": 51532578718038,
           "title": "(2 pieces) Daily use + Night use [Comes with storage box + anti-drop chain",
           "price": "18.95",
           "position": 2,
@@ -38400,8 +38400,8 @@
           "image_id": 67453171138902
         },
         {
-          "id": 51532578750806,
           "product_id": 9881421316438,
+          "id": 51532578750806,
           "title": "Daily-use round head [Comes with storage box + anti-drop chain",
           "price": "18.95",
           "position": 3,
@@ -38430,8 +38430,8 @@
       ],
       "options": [
         {
-          "id": 12745863168342,
           "product_id": 9881421316438,
+          "id": 12745863168342,
           "name": "SPECS",
           "position": 1,
           "values": [
@@ -60120,8 +60120,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9837631701334",
       "variants": [
         {
-          "id": 51383408197974,
           "product_id": 9837631701334,
+          "id": 51383408197974,
           "title": "Black Gold",
           "price": "185.95",
           "position": 1,
@@ -60148,8 +60148,8 @@
           "image_id": 67055379218774
         },
         {
-          "id": 51383408230742,
           "product_id": 9837631701334,
+          "id": 51383408230742,
           "title": "Milk Coffee Color",
           "price": "185.95",
           "position": 2,
@@ -60176,8 +60176,8 @@
           "image_id": 67055379251542
         },
         {
-          "id": 51383408263510,
           "product_id": 9837631701334,
+          "id": 51383408263510,
           "title": "Milk Shake Powder",
           "price": "185.95",
           "position": 3,
@@ -60204,8 +60204,8 @@
           "image_id": 67055379284310
         },
         {
-          "id": 51383408296278,
           "product_id": 9837631701334,
+          "id": 51383408296278,
           "title": "Ocean Blue",
           "price": "185.95",
           "position": 4,
@@ -60232,8 +60232,8 @@
           "image_id": 67055379317078
         },
         {
-          "id": 51383408329046,
           "product_id": 9837631701334,
+          "id": 51383408329046,
           "title": "Platinum Gray",
           "price": "185.95",
           "position": 5,
@@ -60262,8 +60262,8 @@
       ],
       "options": [
         {
-          "id": 12695425679702,
           "product_id": 9837631701334,
+          "id": 12695425679702,
           "name": "Color",
           "position": 1,
           "values": [
@@ -70135,29 +70135,29 @@
       "product_type": "",
       "created_at": "2025-10-23T15:13:25+01:00",
       "handle": "2-set-baby-bowl-portable-stainless-steel-toddler-bowl-with-removable-silicone-shell-and-2-silicone-spoons-for-baby-food-feeding",
-      "updated_at": "2025-10-23T15:21:26+01:00",
+      "updated_at": "2025-10-23T15:22:19+01:00",
       "published_at": null,
       "template_suffix": null,
       "published_scope": "web",
       "tags": "Baby Tableware, Baby Tableware Set",
-      "status": "draft",
+      "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9910325281110",
       "variants": [
         {
           "id": 51649593147734,
           "product_id": 9910325281110,
           "title": "blue orange 2 sets",
-          "price": "12.91",
+          "price": "44.95",
           "position": 1,
           "inventory_policy": "deny",
-          "compare_at_price": "12.91",
+          "compare_at_price": "54.95",
           "option1": "blue orange 2 sets",
           "option2": null,
           "option3": null,
           "created_at": "2025-10-23T15:13:27+01:00",
-          "updated_at": "2025-10-23T15:13:27+01:00",
+          "updated_at": "2025-10-23T15:21:59+01:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "dsers-fulfillment-service",
           "grams": 460,
           "inventory_management": "dsers-fulfillment-service",
@@ -81620,8 +81620,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792648970582",
       "variants": [
         {
-          "id": 51201109721430,
           "product_id": 9792648970582,
+          "id": 51201109721430,
           "title": "Blue / 180ml",
           "price": "17.59",
           "position": 1,
@@ -81648,8 +81648,8 @@
           "image_id": 66252991693142
         },
         {
-          "id": 51201109754198,
           "product_id": 9792648970582,
+          "id": 51201109754198,
           "title": "Blue / 240ml",
           "price": "17.59",
           "position": 2,
@@ -81676,8 +81676,8 @@
           "image_id": 66252991725910
         },
         {
-          "id": 51201109786966,
           "product_id": 9792648970582,
+          "id": 51201109786966,
           "title": "Blue / 300ml",
           "price": "17.59",
           "position": 3,
@@ -81704,8 +81704,8 @@
           "image_id": 66252991758678
         },
         {
-          "id": 51201109819734,
           "product_id": 9792648970582,
+          "id": 51201109819734,
           "title": "Brown / 180ml",
           "price": "17.59",
           "position": 4,
@@ -81732,8 +81732,8 @@
           "image_id": 66252991791446
         },
         {
-          "id": 51201109852502,
           "product_id": 9792648970582,
+          "id": 51201109852502,
           "title": "Brown / 240ml",
           "price": "17.59",
           "position": 5,
@@ -81760,8 +81760,8 @@
           "image_id": 66252991824214
         },
         {
-          "id": 51201109885270,
           "product_id": 9792648970582,
+          "id": 51201109885270,
           "title": "Brown / 300ml",
           "price": "17.59",
           "position": 6,
@@ -81790,8 +81790,8 @@
       ],
       "options": [
         {
-          "id": 12642095956310,
           "product_id": 9792648970582,
+          "id": 12642095956310,
           "name": "Color",
           "position": 1,
           "values": [
@@ -81800,8 +81800,8 @@
           ]
         },
         {
-          "id": 12642095989078,
           "product_id": 9792648970582,
+          "id": 12642095989078,
           "name": "Capacity size",
           "position": 2,
           "values": [
@@ -95119,8 +95119,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791093571926",
       "variants": [
         {
-          "id": 51194441367894,
           "product_id": 9791093571926,
+          "id": 51194441367894,
           "title": "Picture color",
           "price": "60.95",
           "position": 1,
@@ -95149,8 +95149,8 @@
       ],
       "options": [
         {
-          "id": 12640248594774,
           "product_id": 9791093571926,
+          "id": 12640248594774,
           "name": "Color",
           "position": 1,
           "values": [
@@ -97645,8 +97645,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9910200828246",
       "variants": [
         {
-          "id": 51649258127702,
           "product_id": 9910200828246,
+          "id": 51649258127702,
           "title": "Powder blue",
           "price": "58.95",
           "position": 1,
@@ -97673,8 +97673,8 @@
           "image_id": 67699525943638
         },
         {
-          "id": 51649258160470,
           "product_id": 9910200828246,
+          "id": 51649258160470,
           "title": "Bean green",
           "price": "58.95",
           "position": 2,
@@ -97701,8 +97701,8 @@
           "image_id": 67699526107478
         },
         {
-          "id": 51649258193238,
           "product_id": 9910200828246,
+          "id": 51649258193238,
           "title": "Brown",
           "price": "58.95",
           "position": 3,
@@ -97729,8 +97729,8 @@
           "image_id": 67699526500694
         },
         {
-          "id": 51649258226006,
           "product_id": 9910200828246,
+          "id": 51649258226006,
           "title": "Powder Blue Sheep",
           "price": "61.95",
           "position": 4,
@@ -97757,8 +97757,8 @@
           "image_id": 67699526140246
         },
         {
-          "id": 51649258258774,
           "product_id": 9910200828246,
+          "id": 51649258258774,
           "title": "Bean Green Sheep",
           "price": "61.95",
           "position": 5,
@@ -97785,8 +97785,8 @@
           "image_id": 67699526173014
         },
         {
-          "id": 51649258291542,
           "product_id": 9910200828246,
+          "id": 51649258291542,
           "title": "Pink Bowl",
           "price": "58.95",
           "position": 6,
@@ -97813,8 +97813,8 @@
           "image_id": 67699526205782
         },
         {
-          "id": 51649258324310,
           "product_id": 9910200828246,
+          "id": 51649258324310,
           "title": "Yellow Sheep",
           "price": "61.95",
           "position": 7,
@@ -97841,8 +97841,8 @@
           "image_id": 67699526336854
         },
         {
-          "id": 51649258357078,
           "product_id": 9910200828246,
+          "id": 51649258357078,
           "title": "Beige Bowl",
           "price": "58.95",
           "position": 8,
@@ -97869,8 +97869,8 @@
           "image_id": 67699526238550
         },
         {
-          "id": 51649258389846,
           "product_id": 9910200828246,
+          "id": 51649258389846,
           "title": "Marble Sheep",
           "price": "61.95",
           "position": 9,
@@ -97897,8 +97897,8 @@
           "image_id": 67699526271318
         },
         {
-          "id": 51649258422614,
           "product_id": 9910200828246,
+          "id": 51649258422614,
           "title": "Deep Pink Sheep",
           "price": "61.95",
           "position": 10,
@@ -97925,8 +97925,8 @@
           "image_id": 67699526369622
         },
         {
-          "id": 51649258455382,
           "product_id": 9910200828246,
+          "id": 51649258455382,
           "title": "Deep Pink",
           "price": "58.95",
           "position": 11,
@@ -97953,8 +97953,8 @@
           "image_id": 67699526304086
         },
         {
-          "id": 51649258488150,
           "product_id": 9910200828246,
+          "id": 51649258488150,
           "title": "Orange",
           "price": "58.95",
           "position": 12,
@@ -97981,8 +97981,8 @@
           "image_id": 67699526074710
         },
         {
-          "id": 51649258520918,
           "product_id": 9910200828246,
+          "id": 51649258520918,
           "title": "Blue Bowl",
           "price": "58.95",
           "position": 13,
@@ -98009,8 +98009,8 @@
           "image_id": 67699526402390
         },
         {
-          "id": 51649258553686,
           "product_id": 9910200828246,
+          "id": 51649258553686,
           "title": "Light gray",
           "price": "58.95",
           "position": 14,
@@ -98037,8 +98037,8 @@
           "image_id": 67699525976406
         },
         {
-          "id": 51649258586454,
           "product_id": 9910200828246,
+          "id": 51649258586454,
           "title": "Dark purple",
           "price": "58.95",
           "position": 15,
@@ -98065,8 +98065,8 @@
           "image_id": 67699526435158
         },
         {
-          "id": 51649258619222,
           "product_id": 9910200828246,
+          "id": 51649258619222,
           "title": "Marble Bowl",
           "price": "58.95",
           "position": 16,
@@ -98093,8 +98093,8 @@
           "image_id": 67699526467926
         },
         {
-          "id": 51649258651990,
           "product_id": 9910200828246,
+          "id": 51649258651990,
           "title": "Yellow Bowl",
           "price": "58.95",
           "position": 17,
@@ -98121,8 +98121,8 @@
           "image_id": 67699526009174
         },
         {
-          "id": 51649258684758,
           "product_id": 9910200828246,
+          "id": 51649258684758,
           "title": "Khaki",
           "price": "58.95",
           "position": 18,
@@ -98149,8 +98149,8 @@
           "image_id": 67699526533462
         },
         {
-          "id": 51649258717526,
           "product_id": 9910200828246,
+          "id": 51649258717526,
           "title": "Blue Sheep",
           "price": "61.95",
           "position": 19,
@@ -98179,8 +98179,8 @@
       ],
       "options": [
         {
-          "id": 12780001034582,
           "product_id": 9910200828246,
+          "id": 12780001034582,
           "name": "Color",
           "position": 1,
           "values": [
@@ -99178,7 +99178,7 @@
     "current_page": 1,
     "total_pages": 3,
     "items_per_page": 250,
-    "total_items": 528,
+    "total_items": 530,
     "items_in_page": 250,
     "has_next_page": true,
     "has_previous_page": false,

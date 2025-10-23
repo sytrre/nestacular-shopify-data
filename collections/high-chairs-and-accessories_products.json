@@ -13132,8 +13132,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791093571926",
       "variants": [
         {
-          "id": 51194441367894,
           "product_id": 9791093571926,
+          "id": 51194441367894,
           "title": "Picture color",
           "price": "60.95",
           "position": 1,
@@ -13162,8 +13162,8 @@
       ],
       "options": [
         {
-          "id": 12640248594774,
           "product_id": 9791093571926,
+          "id": 12640248594774,
           "name": "Color",
           "position": 1,
           "values": [
