@@ -2756,8 +2756,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9637405688150",
       "variants": [
         {
-          "product_id": 9637405688150,
           "id": 50513587437910,
+          "product_id": 9637405688150,
           "title": "Neutral red / 53-110cm",
           "price": "30.95",
           "position": 1,
@@ -2784,8 +2784,8 @@
           "image_id": 62715261124950
         },
         {
-          "product_id": 9637405688150,
           "id": 50513587470678,
+          "product_id": 9637405688150,
           "title": "Neutral blue / 53-110cm",
           "price": "30.95",
           "position": 2,
@@ -2812,8 +2812,8 @@
           "image_id": 62715261157718
         },
         {
-          "product_id": 9637405688150,
           "id": 50513587503446,
+          "product_id": 9637405688150,
           "title": "Neutral black / 53-110cm",
           "price": "30.95",
           "position": 3,
@@ -2840,8 +2840,8 @@
           "image_id": 62715260469590
         },
         {
-          "product_id": 9637405688150,
           "id": 50513587536214,
+          "product_id": 9637405688150,
           "title": "Neutral silver / 53-110cm",
           "price": "30.95",
           "position": 4,
@@ -2870,8 +2870,8 @@
       ],
       "options": [
         {
-          "product_id": 9637405688150,
           "id": 12451294118230,
+          "product_id": 9637405688150,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2882,8 +2882,8 @@
           ]
         },
         {
-          "product_id": 9637405688150,
           "id": 12451294150998,
+          "product_id": 9637405688150,
           "name": "Length",
           "position": 2,
           "values": [
