@@ -6324,8 +6324,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870977532246",
       "variants": [
         {
-          "product_id": 9870977532246,
           "id": 51505806967126,
+          "product_id": 9870977532246,
           "title": "Blue PVC Soft cushion",
           "price": "164.95",
           "position": 1,
@@ -6352,8 +6352,8 @@
           "image_id": 67400485962070
         },
         {
-          "product_id": 9870977532246,
           "id": 51505806999894,
+          "product_id": 9870977532246,
           "title": "Pink PVC Soft cushion",
           "price": "164.95",
           "position": 2,
@@ -6380,8 +6380,8 @@
           "image_id": 67400485994838
         },
         {
-          "product_id": 9870977532246,
           "id": 51505807032662,
+          "product_id": 9870977532246,
           "title": "Purple PU Soft cushion",
           "price": "166.95",
           "position": 3,
@@ -6408,8 +6408,8 @@
           "image_id": 67400486027606
         },
         {
-          "product_id": 9870977532246,
           "id": 51505807065430,
+          "product_id": 9870977532246,
           "title": "White PU Soft cushion",
           "price": "168.95",
           "position": 4,
@@ -6438,8 +6438,8 @@
       ],
       "options": [
         {
-          "product_id": 9870977532246,
           "id": 12734180819286,
+          "product_id": 9870977532246,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6458,7 +6458,7 @@
           "product_id": 9870977532246,
           "created_at": "2025-10-07T14:33:54+01:00",
           "updated_at": "2025-10-07T14:41:57+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67400483570006",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55238880362838",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2fecac37-9186-4efa-9bff-ed4f9ff18427.jpg?v=1759844037",
@@ -6471,7 +6471,7 @@
           "product_id": 9870977532246,
           "created_at": "2025-10-07T14:34:00+01:00",
           "updated_at": "2025-10-07T14:42:03+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67400485896534",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55238882459990",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/659a8336-ca78-4d46-b078-ed7eca79c550.jpg?v=1759844043",
@@ -6484,7 +6484,7 @@
           "product_id": 9870977532246,
           "created_at": "2025-10-07T14:34:01+01:00",
           "updated_at": "2025-10-07T14:42:10+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67400485929302",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55238882525526",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/6b0f5e78-013a-4f0a-bfac-608a8177fce8.jpg?v=1759844045",
@@ -6497,7 +6497,7 @@
           "product_id": 9870977532246,
           "created_at": "2025-10-07T14:34:02+01:00",
           "updated_at": "2025-10-07T14:42:17+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67400485962070",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55238882558294",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/482119dd-dc5b-48e5-b44b-c3bebe0e3441.jpg?v=1759844046",
@@ -6512,7 +6512,7 @@
           "product_id": 9870977532246,
           "created_at": "2025-10-07T14:34:02+01:00",
           "updated_at": "2025-10-07T14:42:24+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67400485994838",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55238882591062",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/506b47f0-429c-4299-8fce-a1bf4e5255e7.jpg?v=1759844045",
@@ -6527,7 +6527,7 @@
           "product_id": 9870977532246,
           "created_at": "2025-10-07T14:34:02+01:00",
           "updated_at": "2025-10-07T14:42:31+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67400486027606",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55238882623830",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/e3be5625-8c4e-4fff-8aa3-d26f640d2463.jpg?v=1759844046",
@@ -6542,7 +6542,7 @@
           "product_id": 9870977532246,
           "created_at": "2025-10-07T14:34:02+01:00",
           "updated_at": "2025-10-07T14:42:37+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67400486060374",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55238882656598",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/235ab4d9-ff5c-4a4d-ba7e-c21762fc498e.jpg?v=1759844045",
@@ -6558,7 +6558,7 @@
         "product_id": 9870977532246,
         "created_at": "2025-10-07T14:33:54+01:00",
         "updated_at": "2025-10-07T14:41:57+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/67400483570006",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/55238880362838",
         "width": 800,
         "height": 800,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2fecac37-9186-4efa-9bff-ed4f9ff18427.jpg?v=1759844037",

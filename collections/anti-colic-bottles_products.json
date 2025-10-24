@@ -522,8 +522,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791345033558",
       "variants": [
         {
-          "id": 51196001648982,
           "product_id": 9791345033558,
+          "id": 51196001648982,
           "title": "Pink / 280ml",
           "price": "49.05",
           "position": 1,
@@ -550,8 +550,8 @@
           "image_id": 66240190153046
         },
         {
-          "id": 51196001681750,
           "product_id": 9791345033558,
+          "id": 51196001681750,
           "title": "Green / 160ml",
           "price": "49.05",
           "position": 2,
@@ -578,8 +578,8 @@
           "image_id": 66240190185814
         },
         {
-          "id": 51196001714518,
           "product_id": 9791345033558,
+          "id": 51196001714518,
           "title": "Green / 280ml",
           "price": "49.05",
           "position": 3,
@@ -606,8 +606,8 @@
           "image_id": 66240190218582
         },
         {
-          "id": 51196001747286,
           "product_id": 9791345033558,
+          "id": 51196001747286,
           "title": "Pink / 160ml",
           "price": "49.05",
           "position": 4,
@@ -636,8 +636,8 @@
       ],
       "options": [
         {
-          "id": 12640548847958,
           "product_id": 9791345033558,
+          "id": 12640548847958,
           "name": "Color",
           "position": 1,
           "values": [
@@ -646,8 +646,8 @@
           ]
         },
         {
-          "id": 12640548880726,
           "product_id": 9791345033558,
+          "id": 12640548880726,
           "name": "Size",
           "position": 2,
           "values": [
@@ -2912,7 +2912,7 @@
           "product_id": 9791840420182,
           "created_at": "2025-09-01T16:49:15+01:00",
           "updated_at": "2025-09-01T18:42:45+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245978456406",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491672314198",
           "width": 369,
           "height": 391,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/139066294613.jpg?v=1756741757",
@@ -2925,7 +2925,7 @@
           "product_id": 9791840420182,
           "created_at": "2025-09-01T16:49:16+01:00",
           "updated_at": "2025-09-01T18:42:50+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245978685782",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491672641878",
           "width": 738,
           "height": 733,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/216088775284.jpg?v=1756741759",
@@ -2938,7 +2938,7 @@
           "product_id": 9791840420182,
           "created_at": "2025-09-01T16:49:18+01:00",
           "updated_at": "2025-09-01T18:42:55+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245978849622",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491672772950",
           "width": 485,
           "height": 543,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2214016547299.jpg?v=1756741760",
@@ -2951,7 +2951,7 @@
           "product_id": 9791840420182,
           "created_at": "2025-09-01T16:49:19+01:00",
           "updated_at": "2025-09-01T18:43:00+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245979177302",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491673264470",
           "width": 744,
           "height": 775,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/544307526564.jpg?v=1756741762",
@@ -2964,7 +2964,7 @@
           "product_id": 9791840420182,
           "created_at": "2025-09-01T16:49:28+01:00",
           "updated_at": "2025-09-01T18:43:04+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245982454102",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491676148054",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/543668169915.jpg?v=1756741771",
@@ -2979,7 +2979,7 @@
           "product_id": 9791840420182,
           "created_at": "2025-09-01T16:49:28+01:00",
           "updated_at": "2025-09-01T18:43:08+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245982486870",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491676180822",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3266530468246.jpg?v=1756741771",
@@ -2994,7 +2994,7 @@
           "product_id": 9791840420182,
           "created_at": "2025-09-01T16:49:28+01:00",
           "updated_at": "2025-09-01T18:43:14+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245982519638",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491676213590",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/21467185913680.jpg?v=1756741771",
@@ -3009,7 +3009,7 @@
           "product_id": 9791840420182,
           "created_at": "2025-09-01T16:49:28+01:00",
           "updated_at": "2025-09-01T18:43:20+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245982552406",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491676246358",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/927640032847.jpg?v=1756741771",
@@ -3024,7 +3024,7 @@
           "product_id": 9791840420182,
           "created_at": "2025-09-01T16:49:28+01:00",
           "updated_at": "2025-09-01T18:43:27+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245982585174",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491676279126",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3516544745313.jpg?v=1756741771",
@@ -3039,7 +3039,7 @@
           "product_id": 9791840420182,
           "created_at": "2025-09-01T16:49:28+01:00",
           "updated_at": "2025-09-01T18:43:37+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/66245982617942",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54491676311894",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/571340496894.jpg?v=1756741771",
@@ -3055,7 +3055,7 @@
         "product_id": 9791840420182,
         "created_at": "2025-09-01T16:49:15+01:00",
         "updated_at": "2025-09-01T18:42:45+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/66245978456406",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/54491672314198",
         "width": 369,
         "height": 391,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/139066294613.jpg?v=1756741757",
