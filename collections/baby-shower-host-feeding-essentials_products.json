@@ -13565,8 +13565,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9846487286102",
       "variants": [
         {
-          "product_id": 9846487286102,
           "id": 51415756112214,
+          "product_id": 9846487286102,
           "title": "Green / Cover to tray to storage bag",
           "price": "74.95",
           "position": 1,
@@ -13593,8 +13593,8 @@
           "image_id": 67142842351958
         },
         {
-          "product_id": 9846487286102,
           "id": 51415756144982,
+          "product_id": 9846487286102,
           "title": "Grey / Cover to tray to storage bag",
           "price": "74.95",
           "position": 2,
@@ -13621,8 +13621,8 @@
           "image_id": 67142842384726
         },
         {
-          "product_id": 9846487286102,
           "id": 51415756177750,
+          "product_id": 9846487286102,
           "title": "Pink / Cover to tray to storage bag",
           "price": "74.95",
           "position": 3,
@@ -13651,8 +13651,8 @@
       ],
       "options": [
         {
-          "product_id": 9846487286102,
           "id": 12705780105558,
+          "product_id": 9846487286102,
           "name": "Color",
           "position": 1,
           "values": [
@@ -13662,8 +13662,8 @@
           ]
         },
         {
-          "product_id": 9846487286102,
           "id": 12705780138326,
+          "product_id": 9846487286102,
           "name": "style",
           "position": 2,
           "values": [
@@ -13679,7 +13679,7 @@
           "product_id": 9846487286102,
           "created_at": "2025-09-26T12:59:34+01:00",
           "updated_at": "2025-09-26T13:02:26+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67142840615254",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55000474714454",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1620196501768.jpg?v=1758887977",
@@ -13692,7 +13692,7 @@
           "product_id": 9846487286102,
           "created_at": "2025-09-26T12:59:36+01:00",
           "updated_at": "2025-09-26T13:02:39+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67142841958742",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55000475992406",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1620196501793.jpg?v=1758887979",
@@ -13705,7 +13705,7 @@
           "product_id": 9846487286102,
           "created_at": "2025-09-26T12:59:38+01:00",
           "updated_at": "2025-09-26T13:02:58+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67142842024278",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55000476123478",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1620196501792.jpg?v=1758887980",
@@ -13718,7 +13718,7 @@
           "product_id": 9846487286102,
           "created_at": "2025-09-26T12:59:39+01:00",
           "updated_at": "2025-09-26T13:03:11+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67142842351958",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55000476451158",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1620196501741.jpg?v=1758887982",
@@ -13733,7 +13733,7 @@
           "product_id": 9846487286102,
           "created_at": "2025-09-26T12:59:39+01:00",
           "updated_at": "2025-09-26T13:03:23+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67142842384726",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55000476483926",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1620196501743.jpg?v=1758887982",
@@ -13748,7 +13748,7 @@
           "product_id": 9846487286102,
           "created_at": "2025-09-26T12:59:39+01:00",
           "updated_at": "2025-09-26T13:03:40+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/67142842417494",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55000476516694",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1620196501768_e1ddd08b-5f21-4aa3-a16f-57e8b6e8d6a1.jpg?v=1758887982",
@@ -13764,7 +13764,7 @@
         "product_id": 9846487286102,
         "created_at": "2025-09-26T12:59:34+01:00",
         "updated_at": "2025-09-26T13:02:26+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/67142840615254",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/55000474714454",
         "width": 800,
         "height": 800,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1620196501768.jpg?v=1758887977",
@@ -14040,17 +14040,17 @@
     {
       "id": 9912315576662,
       "title": "SILISHAPE Silicone Baby Teether Toy - Soft Brain-Boosting Gift",
-      "body_html": "<p data-end=\"309\" data-start=\"0\"><strong data-end=\"66\" data-start=\"0\">SILISHAPE Silicone Baby Teether Toy – Soft Brain-Boosting Gift</strong> combines safe, engaging design with sensory-stimulating textures to support your infant’s early development. This thoughtfully crafted toy encourages exploration, coordination, and cognitive growth while keeping little hands busy and happy.</p>\n<p data-end=\"309\" data-start=\"0\" style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Hda400915a7c04fb19575b05a5e2caa3ep.webp?v=1761303865\" alt=\"Set of geometric-shaped toys in various colors with dimensions indicated.\"></p>\n<p data-end=\"338\" data-start=\"311\"><strong data-end=\"336\" data-start=\"311\"><br><span style=\"color: rgb(0, 0, 0);\">Smart Design Features</span><br><br></strong></p>\n<ul data-end=\"777\" data-start=\"339\">\n<li data-end=\"413\" data-start=\"339\">\n<p data-end=\"413\" data-start=\"341\"><strong data-end=\"370\" data-start=\"341\">Soft, deformable silicone</strong> for safe chewing and tactile exploration</p>\n</li>\n<li data-end=\"488\" data-start=\"414\">\n<p data-end=\"488\" data-start=\"416\"><strong data-end=\"443\" data-start=\"416\">Bright, engaging colors</strong> stimulate visual development and attention</p>\n</li>\n<li data-end=\"557\" data-start=\"489\">\n<p data-end=\"557\" data-start=\"491\"><strong data-end=\"511\" data-start=\"491\">Ergonomic shapes</strong> easy for tiny hands to grasp and manipulate</p>\n</li>\n<li data-end=\"628\" data-start=\"558\">\n<p data-end=\"628\" data-start=\"560\"><strong data-end=\"581\" data-start=\"560\">Textured surfaces</strong> promote sensory learning and teething relief</p>\n</li>\n<li data-end=\"713\" data-start=\"629\">\n<p data-end=\"713\" data-start=\"631\"><strong data-end=\"663\" data-start=\"631\">Portable, lightweight design</strong> ideal for on-the-go play or stroller attachment</p>\n</li>\n<li data-end=\"777\" data-start=\"714\">\n<p data-end=\"777\" data-start=\"716\"><strong data-end=\"746\" data-start=\"716\">Durable, BPA-free material</strong> ensures safety for daily use</p>\n</li>\n</ul>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Hbb61d8881d4a4bce865727eaad0ed0a8x.webp?v=1761303865\" alt=\"Pink silicone teething ring with multiple shapes on a white background\"></p>\n<p data-end=\"800\" data-start=\"779\"><strong data-end=\"798\" data-start=\"779\"><br><span style=\"color: rgb(0, 0, 0);\">Setup and Usage</span></strong></p>\n<ol data-end=\"996\" data-start=\"801\">\n<li data-end=\"839\" data-start=\"801\">\n<p data-end=\"839\" data-start=\"804\">Wash thoroughly before first use.</p>\n</li>\n<li data-end=\"891\" data-start=\"840\">\n<p data-end=\"891\" data-start=\"843\">Hand to baby for supervised play and teething.</p>\n</li>\n<li data-end=\"954\" data-start=\"892\">\n<p data-end=\"954\" data-start=\"895\">Clean after each use with warm soapy water or sterilizer.</p>\n</li>\n<li data-end=\"996\" data-start=\"955\">\n<p data-end=\"996\" data-start=\"958\">Inspect regularly for wear and tear.</p>\n</li>\n</ol>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Hfafa89f6155f4bb28e1404ca3cb1abedZ.webp?v=1761303865\" alt=\"Baby Shower Gifts Deformable Soft Silicone Baby Toys Exercise The Brain Fidget Toys For Newborns Infant Baby Teether Toys\"></p>\n<p data-end=\"1026\" data-start=\"998\"><strong data-end=\"1024\" data-start=\"998\"><br><span style=\"color: rgb(0, 0, 0);\">Product Specifications</span></strong></p>\n<ul data-end=\"1265\" data-start=\"1027\">\n<li data-end=\"1074\" data-start=\"1027\">\n<p data-end=\"1074\" data-start=\"1029\"><strong data-end=\"1042\" data-start=\"1029\">Material:</strong> Food-grade silicone, BPA-free</p>\n</li>\n<li data-end=\"1118\" data-start=\"1075\">\n<p data-end=\"1118\" data-start=\"1077\"><strong data-end=\"1092\" data-start=\"1077\">Dimensions:</strong> 12 x 8 x 3 cm (approx.)</p>\n</li>\n<li data-end=\"1170\" data-start=\"1119\">\n<p data-end=\"1170\" data-start=\"1121\"><strong data-end=\"1132\" data-start=\"1121\">Colors:</strong> Multicolor sensory-friendly palette</p>\n</li>\n<li data-end=\"1225\" data-start=\"1171\">\n<p data-end=\"1225\" data-start=\"1173\"><strong data-end=\"1190\" data-start=\"1173\">Suitable for:</strong> Newborns and infants 0–12 months</p>\n</li>\n<li data-end=\"1265\" data-start=\"1226\">\n<p data-end=\"1265\" data-start=\"1228\"><strong data-end=\"1240\" data-start=\"1228\">Package:</strong> 1 silicone teether toy</p>\n</li>\n</ul>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/He7a85a66eb194a6aaccedb93e8d5fbc9T.webp?v=1761303865\" alt=\"White molecular model on a white background\"></p>\n<p data-end=\"1292\" data-start=\"1267\"><strong data-end=\"1290\" data-start=\"1267\"><br><span style=\"color: rgb(0, 0, 0);\">Why Choose This Toy</span></strong></p>\n<ul data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"1564\" data-start=\"1293\">\n<li data-end=\"1347\" data-start=\"1293\">\n<p data-end=\"1347\" data-start=\"1295\">Encourages early sensory and cognitive development</p>\n</li>\n<li data-end=\"1396\" data-start=\"1348\">\n<p data-end=\"1396\" data-start=\"1350\">Provides safe relief for teething discomfort</p>\n</li>\n<li data-end=\"1448\" data-start=\"1397\">\n<p data-end=\"1448\" data-start=\"1399\">Lightweight and portable for travel or home use</p>\n</li>\n<li data-end=\"1507\" data-start=\"1449\">\n<p data-end=\"1507\" data-start=\"1451\">Easy-to-clean, long-lasting design enhances daily play</p>\n</li>\n<li data-is-last-node=\"\" data-end=\"1564\" data-start=\"1508\">\n<p data-is-last-node=\"\" data-end=\"1564\" data-start=\"1510\">Bright colors and fun textures make learning enjoyable</p>\n</li>\n</ul>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Hb8f3d8f72b2949c48f0c52b91f05350fo.webp?v=1761303866\" alt=\"Beige molecular model on a white background\"></p>\n<p> </p>\n<p> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "body_html": "<p data-end=\"309\" data-start=\"0\"><strong data-end=\"66\" data-start=\"0\">SILISHAPE Silicone Baby Teether Toy – Soft Brain-Boosting Gift</strong> combines safe, engaging design with sensory-stimulating textures to support your infant’s early development. This thoughtfully crafted toy encourages exploration, coordination, and cognitive growth while keeping little hands busy and happy.</p>\n<p data-end=\"309\" data-start=\"0\" style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Hda400915a7c04fb19575b05a5e2caa3ep.webp?v=1761303865\" alt=\"Set of geometric-shaped toys in various colors with dimensions indicated.\"></p>\n<p data-end=\"338\" data-start=\"311\"><strong data-end=\"336\" data-start=\"311\"><br><span style=\"color: rgb(0, 0, 0);\">Smart Design Features</span><br><br></strong></p>\n<p data-end=\"413\" data-start=\"341\"><strong data-end=\"370\" data-start=\"341\">* Soft, deformable silicone</strong> for safe chewing and tactile exploration</p>\n<p data-end=\"488\" data-start=\"416\"><strong data-end=\"443\" data-start=\"416\"><strong data-end=\"370\" data-start=\"341\">* </strong>Bright, engaging colors</strong> stimulate visual development and attention</p>\n<p data-end=\"557\" data-start=\"491\"><strong data-end=\"511\" data-start=\"491\"><strong data-end=\"370\" data-start=\"341\">* </strong>Ergonomic shapes</strong> easy for tiny hands to grasp and manipulate</p>\n<p data-end=\"628\" data-start=\"560\"><strong data-end=\"581\" data-start=\"560\"><strong data-end=\"370\" data-start=\"341\">* </strong>Textured surfaces</strong> promote sensory learning and teething relief</p>\n<p data-end=\"713\" data-start=\"631\"><strong data-end=\"663\" data-start=\"631\"><strong data-end=\"370\" data-start=\"341\">* </strong>Portable, lightweight design</strong> ideal for on-the-go play or stroller attachment</p>\n<p data-end=\"777\" data-start=\"716\"><strong data-end=\"746\" data-start=\"716\"><strong data-end=\"370\" data-start=\"341\">* </strong>Durable, BPA-free material</strong> ensures safety for daily use</p>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Hbb61d8881d4a4bce865727eaad0ed0a8x.webp?v=1761303865\" alt=\"Pink silicone teething ring with multiple shapes on a white background\"></p>\n<p data-end=\"800\" data-start=\"779\"><strong data-end=\"798\" data-start=\"779\"><br><span style=\"color: rgb(0, 0, 0);\">Setup and Usage</span></strong></p>\n<p data-end=\"839\" data-start=\"804\">1. Wash thoroughly before first use.</p>\n<p data-end=\"891\" data-start=\"843\">2. Hand to baby for supervised play and teething.</p>\n<p data-end=\"954\" data-start=\"895\">3. Clean after each use with warm soapy water or sterilizer.</p>\n<p data-end=\"996\" data-start=\"958\">4. Inspect regularly for wear and tear.</p>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Hfafa89f6155f4bb28e1404ca3cb1abedZ.webp?v=1761303865\" alt=\"Baby Shower Gifts Deformable Soft Silicone Baby Toys Exercise The Brain Fidget Toys For Newborns Infant Baby Teether Toys\"></p>\n<p data-end=\"1026\" data-start=\"998\"><strong data-end=\"1024\" data-start=\"998\"><br><span style=\"color: rgb(0, 0, 0);\">Product Specifications</span></strong></p>\n<p data-end=\"1074\" data-start=\"1029\"><strong data-end=\"1042\" data-start=\"1029\"><strong data-end=\"370\" data-start=\"341\">* </strong>Material:</strong> Food-grade silicone, BPA-free</p>\n<p data-end=\"1118\" data-start=\"1077\"><strong data-end=\"1092\" data-start=\"1077\"><strong data-end=\"370\" data-start=\"341\">* </strong>Dimensions:</strong> 12 x 8 x 3 cm (approx.)</p>\n<p data-end=\"1170\" data-start=\"1121\"><strong data-end=\"1132\" data-start=\"1121\"><strong data-end=\"370\" data-start=\"341\">* </strong>Colors:</strong> Multicolor sensory-friendly palette</p>\n<p data-end=\"1225\" data-start=\"1173\"><strong data-end=\"1190\" data-start=\"1173\"><strong data-end=\"370\" data-start=\"341\">* </strong>Suitable for:</strong> Newborns and infants 0–12 months</p>\n<p data-end=\"1265\" data-start=\"1228\"><strong data-end=\"1240\" data-start=\"1228\"><strong data-end=\"370\" data-start=\"341\">* </strong>Package:</strong> 1 silicone teether toy</p>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/He7a85a66eb194a6aaccedb93e8d5fbc9T.webp?v=1761303865\" alt=\"White molecular model on a white background\"></p>\n<p data-end=\"1292\" data-start=\"1267\"><strong data-end=\"1290\" data-start=\"1267\"><br><span style=\"color: rgb(0, 0, 0);\">Why Choose This Toy</span></strong></p>\n<p data-end=\"1347\" data-start=\"1295\"><strong data-end=\"370\" data-start=\"341\">* </strong>Encourages early sensory and cognitive development</p>\n<p data-end=\"1396\" data-start=\"1350\"><strong data-end=\"370\" data-start=\"341\">* </strong>Provides safe relief for teething discomfort</p>\n<p data-end=\"1448\" data-start=\"1399\"><strong data-end=\"370\" data-start=\"341\">* </strong>Lightweight and portable for travel or home use</p>\n<p data-end=\"1507\" data-start=\"1451\"><strong data-end=\"370\" data-start=\"341\">* </strong>Easy-to-clean, long-lasting design enhances daily play</p>\n<p data-is-last-node=\"\" data-end=\"1564\" data-start=\"1510\"><strong data-end=\"370\" data-start=\"341\">* </strong>Bright colors and fun textures make learning enjoyable</p>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Hb8f3d8f72b2949c48f0c52b91f05350fo.webp?v=1761303866\" alt=\"Beige molecular model on a white background\"></p>\n<p> </p>\n<p> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
       "vendor": "Nestacular",
       "product_type": "",
       "created_at": "2025-10-24T12:04:21+01:00",
       "handle": "baby-shower-gifts-deformable-soft-silicone-baby-toys-exercise-the-brain-fidget-toys-for-newborns-infant-baby-teether-toys",
-      "updated_at": "2025-10-24T12:17:08+01:00",
-      "published_at": null,
+      "updated_at": "2025-10-24T12:23:08+01:00",
+      "published_at": "2025-10-24T12:20:05+01:00",
       "template_suffix": null,
-      "published_scope": "web",
+      "published_scope": "global",
       "tags": "baby shower gift",
-      "status": "draft",
+      "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9912315576662",
       "variants": [
         {
