@@ -84496,8 +84496,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789932667222",
       "variants": [
         {
-          "id": 51190249718102,
           "product_id": 9789932667222,
+          "id": 51190249718102,
           "title": "Style A",
           "price": "67.32",
           "position": 1,
@@ -84524,8 +84524,8 @@
           "image_id": 66225336713558
         },
         {
-          "id": 51190249750870,
           "product_id": 9789932667222,
+          "id": 51190249750870,
           "title": "Style B",
           "price": "67.32",
           "position": 2,
@@ -84552,8 +84552,8 @@
           "image_id": 66225336746326
         },
         {
-          "id": 51190249783638,
           "product_id": 9789932667222,
+          "id": 51190249783638,
           "title": "Style C",
           "price": "67.32",
           "position": 3,
@@ -84582,8 +84582,8 @@
       ],
       "options": [
         {
-          "id": 12638785143126,
           "product_id": 9789932667222,
+          "id": 12638785143126,
           "name": "style",
           "position": 1,
           "values": [
