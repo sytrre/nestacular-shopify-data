@@ -11159,8 +11159,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791345033558",
       "variants": [
         {
-          "product_id": 9791345033558,
           "id": 51196001648982,
+          "product_id": 9791345033558,
           "title": "Pink / 280ml",
           "price": "49.05",
           "position": 1,
@@ -11187,8 +11187,8 @@
           "image_id": 66240190153046
         },
         {
-          "product_id": 9791345033558,
           "id": 51196001681750,
+          "product_id": 9791345033558,
           "title": "Green / 160ml",
           "price": "49.05",
           "position": 2,
@@ -11215,8 +11215,8 @@
           "image_id": 66240190185814
         },
         {
-          "product_id": 9791345033558,
           "id": 51196001714518,
+          "product_id": 9791345033558,
           "title": "Green / 280ml",
           "price": "49.05",
           "position": 3,
@@ -11243,8 +11243,8 @@
           "image_id": 66240190218582
         },
         {
-          "product_id": 9791345033558,
           "id": 51196001747286,
+          "product_id": 9791345033558,
           "title": "Pink / 160ml",
           "price": "49.05",
           "position": 4,
@@ -11273,8 +11273,8 @@
       ],
       "options": [
         {
-          "product_id": 9791345033558,
           "id": 12640548847958,
+          "product_id": 9791345033558,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11283,8 +11283,8 @@
           ]
         },
         {
-          "product_id": 9791345033558,
           "id": 12640548880726,
+          "product_id": 9791345033558,
           "name": "Size",
           "position": 2,
           "values": [
@@ -62817,8 +62817,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791385338198",
       "variants": [
         {
-          "product_id": 9791385338198,
           "id": 51196292596054,
+          "product_id": 9791385338198,
           "title": "Pink",
           "price": "17.05",
           "position": 1,
@@ -62845,8 +62845,8 @@
           "image_id": 66241098678614
         },
         {
-          "product_id": 9791385338198,
           "id": 51196292628822,
+          "product_id": 9791385338198,
           "title": "Blue",
           "price": "17.05",
           "position": 2,
@@ -62873,8 +62873,8 @@
           "image_id": 66241098711382
         },
         {
-          "product_id": 9791385338198,
           "id": 51196292661590,
+          "product_id": 9791385338198,
           "title": "Orange",
           "price": "17.05",
           "position": 3,
@@ -62903,8 +62903,8 @@
       ],
       "options": [
         {
-          "product_id": 9791385338198,
           "id": 12640601112918,
+          "product_id": 9791385338198,
           "name": "Color",
           "position": 1,
           "values": [
