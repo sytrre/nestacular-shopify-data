@@ -31759,8 +31759,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765170184534",
       "variants": [
         {
-          "id": 51084379750742,
           "product_id": 9765170184534,
+          "id": 51084379750742,
           "title": "Blue Bowl",
           "price": "3.59",
           "position": 1,
@@ -31787,8 +31787,8 @@
           "image_id": 65932724109654
         },
         {
-          "id": 51084379783510,
           "product_id": 9765170184534,
+          "id": 51084379783510,
           "title": "Red Bowl",
           "price": "3.63",
           "position": 2,
@@ -31815,8 +31815,8 @@
           "image_id": 65932724339030
         },
         {
-          "id": 51084379816278,
           "product_id": 9765170184534,
+          "id": 51084379816278,
           "title": "Yellow Bowl",
           "price": "3.63",
           "position": 3,
@@ -31845,8 +31845,8 @@
       ],
       "options": [
         {
-          "id": 12609595933014,
           "product_id": 9765170184534,
+          "id": 12609595933014,
           "name": "Color",
           "position": 1,
           "values": [
@@ -32656,8 +32656,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9806019166550",
       "variants": [
         {
-          "product_id": 9806019166550,
           "id": 51256349458774,
+          "product_id": 9806019166550,
           "title": "Baby feeding Set Green",
           "price": "40.95",
           "position": 1,
@@ -32686,8 +32686,8 @@
       ],
       "options": [
         {
-          "product_id": 9806019166550,
           "id": 12657907958102,
+          "product_id": 9806019166550,
           "name": "Baby Feeding Set",
           "position": 1,
           "values": [

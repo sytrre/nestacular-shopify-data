@@ -4,7 +4,7 @@
     "handle": "baby-shower-host-feeding-essentials",
     "title": "Baby Shower Host Feeding Essentials",
     "body_html": "Perfect gift collection for new parents featuring essential feeding items every baby shower host needs to celebrate the upcoming arrival.",
-    "products_count": 38
+    "products_count": 39
   },
   "products": [
     {
@@ -5508,6 +5508,158 @@
         "width": 800,
         "height": 800,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/119ac029-6efa-45ab-8b5a-abef809db2d5.jpg?v=1759841377",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9916384280918,
+      "title": "HatBear 10Pcs Graduation Bear Set – Cute Gift Bouquet",
+      "body_html": "<p>HatBear 10Pcs Graduation Bear Set – Cute Gift Bouquet adds a heartwarming touch to any celebration. Thoughtfully crafted with soft plush bears dressed in graduation hats, this delightful bouquet makes the perfect keepsake for baby showers, graduations, birthdays, or party favors.</p>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S94bd704466ac472db1254cf9fc067ae7v.webp?v=1761476516\" alt=\"Person holding a bouquet of flowers with graduation caps on top, text 'STRONG AND PRACTICAL' above.\"></p>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>Smart Design Features</strong></span><br><br>• Set includes 10 adorable plush graduation bears in coordinated colors<br>• Bears come arranged with cloth flowers for a charming bouquet effect<br>• Made with soft, high-quality fabric for a premium feel<br>• Perfect as graduation gifts, baby shower favors, or table décor<br>• Compact, lightweight design ideal for gifting or decoration<br>• Eye-catching presentation that suits any joyful occasion</p>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sea8bd5bc842047c88efd0920af7de6b3L.webp?v=1761476516\" alt=\"Graduation-themed teddy bear with cap and tassel, surrounded by gift ideas.\"></p>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>Setup and Usage</strong></span><br><br>Display the bouquet as a centerpiece at celebrations<br>Distribute individual bears as gifts or party favors<br>Pair with cards, balloons, or other decorations for a complete look<br>Store in a cool, dry place to preserve plush quality</p>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S287c1a52b09e4db5811e32c22e6c0937B.webp?v=1761476516\" alt=\"Set of white dog figurines wearing black graduation caps and gowns with red tassels.\"></p>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>Product Specifications</strong></span><br><br>Material: Soft plush fabric and decorative cloth flowers<br>Quantity: 10 pieces per set<br>Design: Graduation-themed plush bears with matching bouquet arrangement<br>Colors: Mixed pastel or themed color options<br>Use: Baby gifts, graduation favors, party décor, or souvenirs<br>Packaging: Gift-ready bouquet presentation</p>\n<p style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sdf75a26fdb9042a0897746d17de0626eL.webp?v=1761476516\" alt=\"Graduation-themed plush bear with cap and gown, surrounded by close-up insets.\"></p>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>Why Choose This Set</strong></span><br><br>Adorable design that adds warmth and charm to any event<br>High-quality plush materials ensure long-lasting softness<br>Perfect for gifting or as elegant party table décor<br>Versatile bouquet presentation ideal for multiple occasions<br>A thoughtful and memorable gift that celebrates special moments<br></p>\n<p> </p>\n<p> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "",
+      "created_at": "2025-10-26T11:01:52+00:00",
+      "handle": "10-pcs-graduation-hat-bear-baby-gifts-party-favors-cloth-flower-bouquet",
+      "updated_at": "2025-10-26T11:09:39+00:00",
+      "published_at": "2025-10-26T11:08:58+00:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "baby gift, Baby Gift Ideas, baby shower gift, baby-gifts, Birthday Gift, bubcloud-gift-box, collection-baby-gifts-under-250, first birthday gift, full moon baby gift, gift for new parents, giftidea, Holiday baby gifts, new-parent-gift, newborn gift set",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9916384280918",
+      "variants": [
+        {
+          "id": 51675187642710,
+          "product_id": 9916384280918,
+          "title": "Assorted Color",
+          "price": "29.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "39.95",
+          "option1": "Assorted Color",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-26T11:01:53+00:00",
+          "updated_at": "2025-10-26T11:07:58+00:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "dsers-fulfillment-service",
+          "grams": 97,
+          "inventory_management": "dsers-fulfillment-service",
+          "requires_shipping": true,
+          "sku": "14:4#Assorted Color",
+          "weight": 0.097,
+          "weight_unit": "kg",
+          "inventory_item_id": 53955778838870,
+          "inventory_quantity": 976,
+          "old_inventory_quantity": 976,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51675187642710",
+          "image_id": 67816896004438
+        }
+      ],
+      "options": [
+        {
+          "id": 12787248333142,
+          "product_id": 9916384280918,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Assorted Color"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67816895840598,
+          "alt": "Graduation-themed teddy bear with cap and tassel, surrounded by gift ideas.",
+          "position": 1,
+          "product_id": 9916384280918,
+          "created_at": "2025-10-26T11:01:53+00:00",
+          "updated_at": "2025-10-26T11:05:44+00:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55553998487894",
+          "width": 1002,
+          "height": 1002,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sea8bd5bc842047c88efd0920af7de6b3L.webp?v=1761476516",
+          "variant_ids": []
+        },
+        {
+          "id": 67816895873366,
+          "alt": "Graduation-themed teddy bear in a bouquet with pink wrapping on a light background",
+          "position": 2,
+          "product_id": 9916384280918,
+          "created_at": "2025-10-26T11:01:53+00:00",
+          "updated_at": "2025-10-26T11:05:51+00:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55553998520662",
+          "width": 1002,
+          "height": 1002,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S47399f5b541b4b33b342d244dd4bad2fj.webp?v=1761476515",
+          "variant_ids": []
+        },
+        {
+          "id": 67816895906134,
+          "alt": "Close-up of a plush toy with red, black, and white colors on a white background",
+          "position": 3,
+          "product_id": 9916384280918,
+          "created_at": "2025-10-26T11:01:53+00:00",
+          "updated_at": "2025-10-26T11:05:59+00:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55553998553430",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S3740c89ac240430c9337ade4e16ae33eu.webp?v=1761476517",
+          "variant_ids": []
+        },
+        {
+          "id": 67816895938902,
+          "alt": "Graduation-themed plush bear with cap and gown, surrounded by close-up insets.",
+          "position": 4,
+          "product_id": 9916384280918,
+          "created_at": "2025-10-26T11:01:53+00:00",
+          "updated_at": "2025-10-26T11:06:12+00:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55553998586198",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sdf75a26fdb9042a0897746d17de0626eL.webp?v=1761476516",
+          "variant_ids": []
+        },
+        {
+          "id": 67816895971670,
+          "alt": "Person holding a bouquet of flowers with graduation caps on top, text 'STRONG AND PRACTICAL' above.",
+          "position": 5,
+          "product_id": 9916384280918,
+          "created_at": "2025-10-26T11:01:53+00:00",
+          "updated_at": "2025-10-26T11:06:20+00:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55553998618966",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S94bd704466ac472db1254cf9fc067ae7v.webp?v=1761476516",
+          "variant_ids": []
+        },
+        {
+          "id": 67816896004438,
+          "alt": "Set of white dog figurines wearing black graduation caps and gowns with red tassels.",
+          "position": 6,
+          "product_id": 9916384280918,
+          "created_at": "2025-10-26T11:01:53+00:00",
+          "updated_at": "2025-10-26T11:06:27+00:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55553998651734",
+          "width": 1600,
+          "height": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S287c1a52b09e4db5811e32c22e6c0937B.webp?v=1761476516",
+          "variant_ids": [
+            51675187642710
+          ]
+        }
+      ],
+      "image": {
+        "id": 67816895840598,
+        "alt": "Graduation-themed teddy bear with cap and tassel, surrounded by gift ideas.",
+        "position": 1,
+        "product_id": 9916384280918,
+        "created_at": "2025-10-26T11:01:53+00:00",
+        "updated_at": "2025-10-26T11:05:44+00:00",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/55553998487894",
+        "width": 1002,
+        "height": 1002,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sea8bd5bc842047c88efd0920af7de6b3L.webp?v=1761476516",
         "variant_ids": []
       }
     },
@@ -16732,8 +16884,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 38,
-    "products_in_page": 38,
+    "total_products": 39,
+    "products_in_page": 39,
     "has_next_page": false,
     "has_previous_page": false
   }
