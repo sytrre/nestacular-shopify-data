@@ -8740,8 +8740,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9907515392342",
       "variants": [
         {
-          "id": 51638612164950,
           "product_id": 9907515392342,
+          "id": 51638612164950,
           "title": "pink / 12pcs",
           "price": "23.95",
           "position": 1,
@@ -8768,8 +8768,8 @@
           "image_id": 67678224351574
         },
         {
-          "id": 51638612197718,
           "product_id": 9907515392342,
+          "id": 51638612197718,
           "title": "white / 12pcs",
           "price": "23.95",
           "position": 2,
@@ -8796,8 +8796,8 @@
           "image_id": 67678224384342
         },
         {
-          "id": 51638612230486,
           "product_id": 9907515392342,
+          "id": 51638612230486,
           "title": "blue / 12pcs",
           "price": "23.95",
           "position": 3,
@@ -8826,8 +8826,8 @@
       ],
       "options": [
         {
-          "id": 12776916582742,
           "product_id": 9907515392342,
+          "id": 12776916582742,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8837,8 +8837,8 @@
           ]
         },
         {
-          "id": 12776916615510,
           "product_id": 9907515392342,
+          "id": 12776916615510,
           "name": "Gift Box Size",
           "position": 2,
           "values": [
