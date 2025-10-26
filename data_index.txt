@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-10-26T11:39:54.699596Z
+Generated: 2025-10-26T12:41:14.961460Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (85 collections) ===
+=== COLLECTION PRODUCT FILES (87 collections) ===
 
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
@@ -49,6 +49,7 @@ BLOGS (1 pages):
 • fall-sports-season-sideline-baby-feeding-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/fall-sports-season-sideline-baby-feeding-kit_products.json
 • first-birthday-gifts: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/first-birthday-gifts_products.json
 • first-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/first-stage-feeding_products.json
+• flu-season-immune-support-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/flu-season-immune-support-feeding-essentials_products.json
 • foldable-baby-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/foldable-baby-chair_products.json
 • food-storage-containers: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/food-storage-containers_products.json
 • gifts-sets: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/gifts-sets_products.json
@@ -72,6 +73,7 @@ BLOGS (1 pages):
 • newborn-bottle-sets: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/newborn-bottle-sets_products.json
 • nursery-furniture: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/nursery-furniture_products.json
 • on-the-go-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/on-the-go-feeding_products.json
+• parent-teacher-conference-week-lunch-prep-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/parent-teacher-conference-week-lunch-prep-kit_products.json
 • placemats: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/placemats_products.json
 • plates-and-bowls: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/plates-and-bowls_products.json
 • pumpkin-patch-apple-picking-portable-baby-gear: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/pumpkin-patch-apple-picking-portable-baby-gear_products.json
