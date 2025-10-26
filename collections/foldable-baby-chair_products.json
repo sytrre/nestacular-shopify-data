@@ -1140,8 +1140,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9837704511830",
       "variants": [
         {
-          "product_id": 9837704511830,
           "id": 51383547232598,
+          "product_id": 9837704511830,
           "title": "Gemstone Green",
           "price": "245.95",
           "position": 1,
@@ -1168,8 +1168,8 @@
           "image_id": 67055563964758
         },
         {
-          "product_id": 9837704511830,
           "id": 51383547265366,
+          "product_id": 9837704511830,
           "title": "Ground Coffee",
           "price": "245.95",
           "position": 2,
@@ -1196,8 +1196,8 @@
           "image_id": 67055563997526
         },
         {
-          "product_id": 9837704511830,
           "id": 51383547298134,
+          "product_id": 9837704511830,
           "title": "Mocha Gray",
           "price": "245.95",
           "position": 3,
@@ -1226,8 +1226,8 @@
       ],
       "options": [
         {
-          "product_id": 9837704511830,
           "id": 12695506157910,
+          "product_id": 9837704511830,
           "name": "Color",
           "position": 1,
           "values": [
