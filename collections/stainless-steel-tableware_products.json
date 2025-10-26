@@ -2949,8 +2949,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9910325281110",
       "variants": [
         {
-          "id": 51649593147734,
           "product_id": 9910325281110,
+          "id": 51649593147734,
           "title": "blue orange 2 sets",
           "price": "44.95",
           "position": 1,
@@ -2979,8 +2979,8 @@
       ],
       "options": [
         {
-          "id": 12780143673686,
           "product_id": 9910325281110,
+          "id": 12780143673686,
           "name": "Color",
           "position": 1,
           "values": [
