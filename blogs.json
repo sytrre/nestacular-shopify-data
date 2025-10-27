@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-27T12:30:09+00:00",
+      "updated_at": "2025-10-27T19:57:56+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,28 @@
       "tags": "High Chairs, Baby Tableware, Baby Bottles, Baby Bottle Feeding, Baby Mess Management, Baby Bibs, Baby Feeding Stages, Guide, Tips, Baby-Led Weaning, Thoughtful Baby Gift Giving, Thoughtful Baby Gift Giving & Registry Building, Baby Feeding Gift Guides & Registry Essentials, Sustainable & Eco-Conscious Baby Feeding, Premium Baby Gift Guides & Registry Building, Baby Shower & Gift Giving Guide, Gift Giving & Baby Shower Essentials, Gift Guides & Baby Shower Essentials, Baby-Led Weaning & First Foods, High Chair Selection & Feeding Furniture, Gift Guides & Baby Registry Essentials, Non-Toxic Baby Products & Material Safety, Gift Guides for New Parents",
       "admin_graphql_api_id": "gid://shopify/Blog/116861632854",
       "articles": [
+        {
+          "id": 610871345494,
+          "title": "6 Dr. Brown's Baby Bottle Alternatives (That Won't Make You Hate Washing Up)",
+          "created_at": "2025-10-27T19:54:39+00:00",
+          "blog_id": 116861632854,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
+          "published_at": "2025-10-27T19:57:13+00:00",
+          "updated_at": "2025-10-27T19:57:56+00:00",
+          "summary_html": "<p><meta charset=\"utf-8\">Are you tired of scrubbing five separate parts every time you wash a Dr. Brown's bottle? You're not alone. We compiled a list of the 6 best anti-colic alternatives that offer the same gas and reflux relief without the frustrating cleaning routine, including our top picks for easy-to-clean silicone and glass options.</p>",
+          "template_suffix": "article",
+          "handle": "6-dr-browns-baby-bottle-alternatives-that-wont-make-you-hate-washing-up",
+          "tags": "Baby Bottles",
+          "admin_graphql_api_id": "gid://shopify/Article/610871345494",
+          "image": {
+            "created_at": "2025-10-27T19:57:55+00:00",
+            "alt": "6 Dr. Brown's Baby Bottle Alternatives",
+            "width": 1248,
+            "height": 832,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/6-dr-browns-baby-bottle-alternatives-that-wont-make-you-hate-washing-up_95bd040e-66e3-4630-b67a-ce38662a93db.png?v=1761595076"
+          }
+        },
         {
           "id": 610842935638,
           "title": "Grandparent Baby Gift Guide: Luxury Feeding Essentials That Feel Tailored, Last, and Truly Get Used",
