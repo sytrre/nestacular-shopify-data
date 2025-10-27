@@ -12406,8 +12406,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791835373910",
       "variants": [
         {
-          "id": 51197690741078,
           "product_id": 9791835373910,
+          "id": 51197690741078,
           "title": "Brown / Brown Nipple Cover",
           "price": "30.19",
           "position": 1,
@@ -12434,8 +12434,8 @@
           "image_id": 66245917540694
         },
         {
-          "id": 51197690773846,
           "product_id": 9791835373910,
+          "id": 51197690773846,
           "title": "Brown / Brown Straw Cover",
           "price": "30.19",
           "position": 2,
@@ -12462,8 +12462,8 @@
           "image_id": 66245917573462
         },
         {
-          "id": 51197690806614,
           "product_id": 9791835373910,
+          "id": 51197690806614,
           "title": "Brown / Brown Nipple Cover Straw Cover",
           "price": "30.64",
           "position": 3,
@@ -12492,8 +12492,8 @@
       ],
       "options": [
         {
-          "id": 12641114259798,
           "product_id": 9791835373910,
+          "id": 12641114259798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12501,8 +12501,8 @@
           ]
         },
         {
-          "id": 12641114292566,
           "product_id": 9791835373910,
+          "id": 12641114292566,
           "name": "Capacity",
           "position": 2,
           "values": [
@@ -29818,8 +29818,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793335361878",
       "variants": [
         {
-          "id": 51204704633174,
           "product_id": 9793335361878,
+          "id": 51204704633174,
           "title": "Pink",
           "price": "47.65",
           "position": 1,
@@ -29846,8 +29846,8 @@
           "image_id": 66259650511190
         },
         {
-          "id": 51204704665942,
           "product_id": 9793335361878,
+          "id": 51204704665942,
           "title": "Yellow",
           "price": "47.65",
           "position": 2,
@@ -29874,8 +29874,8 @@
           "image_id": 66259650543958
         },
         {
-          "id": 51204704698710,
           "product_id": 9793335361878,
+          "id": 51204704698710,
           "title": "Nude pink",
           "price": "47.65",
           "position": 3,
@@ -29902,8 +29902,8 @@
           "image_id": 66259650576726
         },
         {
-          "id": 51204704731478,
           "product_id": 9793335361878,
+          "id": 51204704731478,
           "title": "Marble",
           "price": "47.65",
           "position": 4,
@@ -29930,8 +29930,8 @@
           "image_id": 66259650609494
         },
         {
-          "id": 51204704764246,
           "product_id": 9793335361878,
+          "id": 51204704764246,
           "title": "Purple",
           "price": "47.65",
           "position": 5,
@@ -29960,8 +29960,8 @@
       ],
       "options": [
         {
-          "id": 12642925642070,
           "product_id": 9793335361878,
+          "id": 12642925642070,
           "name": "Color",
           "position": 1,
           "values": [
