@@ -2909,7 +2909,7 @@
       "product_type": "",
       "created_at": "2025-10-23T13:32:48+01:00",
       "handle": "baby-tableware-set-feeding-bowl-dinner-plate-cup-bibs-spoon-fork-bamboo-wooden-childrens-feeding-dishes-sets-bpa-free-non-slip",
-      "updated_at": "2025-10-26T12:31:06+00:00",
+      "updated_at": "2025-10-27T00:31:20+00:00",
       "published_at": "2025-10-24T10:19:21+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -20118,7 +20118,7 @@
       "product_type": "",
       "created_at": "2025-10-23T15:13:25+01:00",
       "handle": "2-set-baby-bowl-portable-stainless-steel-toddler-bowl-with-removable-silicone-shell-and-2-silicone-spoons-for-baby-food-feeding",
-      "updated_at": "2025-10-26T12:21:04+00:00",
+      "updated_at": "2025-10-27T00:21:10+00:00",
       "published_at": "2025-10-24T10:19:25+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -20127,8 +20127,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9910325281110",
       "variants": [
         {
-          "product_id": 9910325281110,
           "id": 51649593147734,
+          "product_id": 9910325281110,
           "title": "blue orange 2 sets",
           "price": "44.95",
           "position": 1,
@@ -20157,8 +20157,8 @@
       ],
       "options": [
         {
-          "product_id": 9910325281110,
           "id": 12780143673686,
+          "product_id": 9910325281110,
           "name": "Color",
           "position": 1,
           "values": [

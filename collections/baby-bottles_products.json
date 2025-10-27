@@ -3810,7 +3810,7 @@
       "product_type": "",
       "created_at": "2025-10-23T16:24:54+01:00",
       "handle": "candy-bottle-for-baby-shower-fillable-mini-bottle-feeder-style-candy-gift-box-its-a-boy-girl-infant-baptism-birthday-party-decor",
-      "updated_at": "2025-10-26T12:14:03+00:00",
+      "updated_at": "2025-10-26T23:48:39+00:00",
       "published_at": "2025-10-24T10:15:46+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -8731,7 +8731,7 @@
       "product_type": "",
       "created_at": "2025-10-22T15:09:59+01:00",
       "handle": "12pcs-baby-bottle-baby-shower-favor-plastic-candy-bottle-mini-feeding-bottle-for-birthday-baby-shower-gift-decor",
-      "updated_at": "2025-10-26T12:28:17+00:00",
+      "updated_at": "2025-10-26T23:51:38+00:00",
       "published_at": "2025-10-24T10:19:09+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -8740,8 +8740,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9907515392342",
       "variants": [
         {
-          "product_id": 9907515392342,
           "id": 51638612164950,
+          "product_id": 9907515392342,
           "title": "pink / 12pcs",
           "price": "23.95",
           "position": 1,
@@ -8768,8 +8768,8 @@
           "image_id": 67678224351574
         },
         {
-          "product_id": 9907515392342,
           "id": 51638612197718,
+          "product_id": 9907515392342,
           "title": "white / 12pcs",
           "price": "23.95",
           "position": 2,
@@ -8796,8 +8796,8 @@
           "image_id": 67678224384342
         },
         {
-          "product_id": 9907515392342,
           "id": 51638612230486,
+          "product_id": 9907515392342,
           "title": "blue / 12pcs",
           "price": "23.95",
           "position": 3,
@@ -8826,8 +8826,8 @@
       ],
       "options": [
         {
-          "product_id": 9907515392342,
           "id": 12776916582742,
+          "product_id": 9907515392342,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8837,8 +8837,8 @@
           ]
         },
         {
-          "product_id": 9907515392342,
           "id": 12776916615510,
+          "product_id": 9907515392342,
           "name": "Gift Box Size",
           "position": 2,
           "values": [
@@ -14907,7 +14907,7 @@
       "product_type": "",
       "created_at": "2025-10-26T12:11:02+00:00",
       "handle": "12-pcs-baby-bottle-candy-box-favors-boxes-shower-decorations-bottles-bulk-party-feeding-for",
-      "updated_at": "2025-10-26T12:20:51+00:00",
+      "updated_at": "2025-10-27T00:11:11+00:00",
       "published_at": "2025-10-26T12:19:03+00:00",
       "template_suffix": null,
       "published_scope": "global",
