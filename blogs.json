@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-28T12:00:23+00:00",
+      "updated_at": "2025-10-28T13:10:35+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,28 @@
       "tags": "High Chairs, Baby Bottles, Baby Tableware, Baby Bottle Feeding, Baby Mess Management, Baby Bibs, Baby Feeding Stages, Guide, Tips, Baby-Led Weaning, Thoughtful Baby Gift Giving, Thoughtful Baby Gift Giving & Registry Building, Baby Feeding Gift Guides & Registry Essentials, Sustainable & Eco-Conscious Baby Feeding, Premium Baby Gift Guides & Registry Building, Baby Shower & Gift Giving Guide, Gift Giving & Baby Shower Essentials, Gift Guides & Baby Shower Essentials, Baby-Led Weaning & First Foods, High Chair Selection & Feeding Furniture, Gift Guides & Baby Registry Essentials, Non-Toxic Baby Products & Material Safety, Gift Guides for New Parents",
       "admin_graphql_api_id": "gid://shopify/Blog/116861632854",
       "articles": [
+        {
+          "id": 610876031318,
+          "title": "5 Comotomo Bottle Alternatives (For a More Stable & Affordable Feed)",
+          "created_at": "2025-10-28T12:54:32+00:00",
+          "blog_id": 116861632854,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
+          "published_at": null,
+          "updated_at": "2025-10-28T13:07:20+00:00",
+          "summary_html": "<p>Comotomo bottles are beloved for their soft silicone feel and breast-like design—but their top-heavy tipping issue and premium price often leave parents searching for alternatives. This in-depth guide compares the best Comotomo alternatives available in the UK, including options that solve stability problems, improve anti-colic performance, and offer better value. From hybrid silicone bottles like Boon Nursh to premium soft options like HeartBabe, discover which design fits your feeding style, budget, and baby’s needs—complete with expert insights, real parent feedback, and safety guidance.</p>",
+          "template_suffix": "article",
+          "handle": "5-comotomo-bottle-alternatives-for-a-more-stable-affordable-feed",
+          "tags": "Baby Bottles",
+          "admin_graphql_api_id": "gid://shopify/Article/610876031318",
+          "image": {
+            "created_at": "2025-10-28T13:07:06+00:00",
+            "alt": "babies and various baby bottles",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_58b3a427-4b56-41cf-9491-1be4796e3311.png?v=1761656827"
+          }
+        },
         {
           "id": 610871607638,
           "title": "Comotomo vs Nanobebe Baby Bottles: Which is Actually Better for Breastfed Babies",
@@ -357,18 +379,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-28T11:55:20+00:00",
+          "updated_at": "2025-10-28T13:10:35+00:00",
           "summary_html": "<p>Choosing the safest baby bottle in 2025 requires more than comparing cute designs—it’s about protecting your baby’s health. This comprehensive guide covers everything parents need to know about bottle safety, materials, and performance across the U.S., U.K., Canada, Australia, and beyond. Learn how glass, silicone, stainless steel, and BPA-free plastic bottles compare in safety and sustainability, explore anti-colic technologies proven to reduce fussing, and get expert-backed cleaning and sterilization protocols. Includes top product recommendations, age-specific feeding guidance, and essential safety alerts for parents worldwide.</p>",
           "template_suffix": "article",
-          "handle": "best-baby-bottles-complete-buying-guide-amp-reviews",
+          "handle": "best-baby-bottles-complete-buying-guide-reviews",
           "tags": "Baby Bottle Feeding, Baby Bottles",
           "admin_graphql_api_id": "gid://shopify/Article/610716025174",
           "image": {
-            "created_at": "2025-10-28T11:55:05+00:00",
+            "created_at": "2025-10-28T13:10:33+00:00",
             "alt": "Newborn baby drinks from bottle, brush nearby",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_2bdfc072-f1c9-44f2-9ef3-bf515ae6e35d.png?v=1761652507"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7f75e979-b835-47d7-b241-288968f036bc.png?v=1761657035"
           }
         },
         {
