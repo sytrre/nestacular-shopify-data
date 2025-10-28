@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-28T13:30:46+00:00",
+      "updated_at": "2025-10-28T14:51:04+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "High Chairs, Baby Bottles, Baby Tableware, Baby Bottle Feeding, Baby Mess Management, Baby Bibs, Baby Feeding Stages, Guide, Tips, Baby-Led Weaning, Thoughtful Baby Gift Giving, Thoughtful Baby Gift Giving & Registry Building, Baby Feeding Gift Guides & Registry Essentials, Sustainable & Eco-Conscious Baby Feeding, Premium Baby Gift Guides & Registry Building, Baby Shower & Gift Giving Guide, Gift Giving & Baby Shower Essentials, Gift Guides & Baby Shower Essentials, Baby-Led Weaning & First Foods, High Chair Selection & Feeding Furniture, Gift Guides & Baby Registry Essentials, Non-Toxic Baby Products & Material Safety, Gift Guides for New Parents",
       "admin_graphql_api_id": "gid://shopify/Blog/116861632854",
       "articles": [
+        {
+          "id": 610876981590,
+          "title": "5 Stokke Tripp Trapp Alternatives (That Won't Destroy Your Budget)",
+          "created_at": "2025-10-28T14:51:04+00:00",
+          "blog_id": 116861632854,
+          "author": "Valentine Okpala",
+          "user_id": 114325520726,
+          "published_at": null,
+          "updated_at": "2025-10-28T14:51:04+00:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "5-stokke-tripp-trapp-alternatives-that-wont-destroy-your-budget",
+          "tags": "High Chairs",
+          "admin_graphql_api_id": "gid://shopify/Article/610876981590"
+        },
         {
           "id": 610876358998,
           "title": "Tommee Tippee vs. MAM Anti-Colic Bottles: Full Comparison",
