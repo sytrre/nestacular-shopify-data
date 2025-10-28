@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-28T14:51:04+00:00",
+      "updated_at": "2025-10-28T15:23:14+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -33,15 +33,22 @@
           "title": "Tommee Tippee vs. MAM Anti-Colic Bottles: Full Comparison",
           "created_at": "2025-10-28T13:30:46+00:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-28T13:30:46+00:00",
-          "summary_html": "",
+          "updated_at": "2025-10-28T15:23:14+00:00",
+          "summary_html": "<p>Tommee Tippee and MAM dominate the UK’s baby bottle market—but which one truly helps with colic? This comprehensive comparison breaks down how each bottle’s anti-colic system works, which design suits breastfed babies, and how they stack up on ease of cleaning, price, and safety. Plus, explore a premium glass alternative for parents avoiding plastic. Based on clinical research and expert guidance, this honest review helps you choose the right bottle for your baby’s comfort and your peace of mind.</p>",
           "template_suffix": "article",
           "handle": "tommee-tippee-vs-mam-anti-colic-bottles-full-comparison",
           "tags": "Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610876358998"
+          "admin_graphql_api_id": "gid://shopify/Article/610876358998",
+          "image": {
+            "created_at": "2025-10-28T15:22:36+00:00",
+            "alt": "babies drinking milk from Tommee Tippee and MAM bottles.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_97c5723e-36e8-4004-b3cb-b5f5a2447c95.png?v=1761664957"
+          }
         },
         {
           "id": 610876031318,
@@ -51,18 +58,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-28T13:28:00+00:00",
+          "updated_at": "2025-10-28T15:03:55+00:00",
           "summary_html": "<p>Comotomo bottles are beloved for their soft silicone feel and breast-like design—but their top-heavy tipping issue and premium price often leave parents searching for alternatives. This in-depth guide compares the best Comotomo alternatives available in the UK, including options that solve stability problems, improve anti-colic performance, and offer better value. From hybrid silicone bottles like Boon Nursh to premium soft options like HeartBabe, discover which design fits your feeding style, budget, and baby’s needs—complete with expert insights, real parent feedback, and safety guidance.</p>",
           "template_suffix": "article",
           "handle": "5-comotomo-bottle-alternatives-for-a-more-stable-affordable-feed",
           "tags": "Baby Bottles",
           "admin_graphql_api_id": "gid://shopify/Article/610876031318",
           "image": {
-            "created_at": "2025-10-28T13:26:18+00:00",
+            "created_at": "2025-10-28T15:03:53+00:00",
             "alt": "babies and various baby bottles",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7f3f3eb5-bdef-42c8-92d1-7a9a1c99b849.png?v=1761657980"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_42deeda1-843c-4644-8778-0ff236a47181.png?v=1761663835"
           }
         },
         {
@@ -73,18 +80,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-10-28T02:00:01+00:00",
-          "updated_at": "2025-10-28T02:00:01+00:00",
+          "updated_at": "2025-10-28T15:09:48+00:00",
           "summary_html": "<p><meta charset=\"utf-8\">The ultimate bottle showdown: Comotomo and Nanobebe are the two titans of \"breast-like\" feeding, but which one truly makes the transition easier for a breastfed baby? We compare them head-to-head on latch, material, cleaning, and common parent complaints to determine the best choice, and reveal <b>our</b> top-rated, smarter alternative.</p>",
           "template_suffix": "article",
           "handle": "comotomo-vs-nanobebe-baby-bottles-which-is-actually-better-for-breastfed-babies",
           "tags": "Baby Bottles",
           "admin_graphql_api_id": "gid://shopify/Article/610871607638",
           "image": {
-            "created_at": "2025-10-27T21:02:39+00:00",
+            "created_at": "2025-10-28T15:09:47+00:00",
             "alt": "Comotomo vs Nanobebe Baby Bottles",
             "width": 1248,
             "height": 832,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/comotomo-vs-nanobebe-baby-bottles-which-is-actually-better-for-breastfed-babies.png?v=1761598961"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/comotomo-vs-nanobebe-baby-bottles-which-is-actually-better-for-breastfed-babies_d42381d8-fff4-40fb-b784-86f1ab59816d.png?v=1761664188"
           }
         },
         {
@@ -95,18 +102,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-10-27T19:57:13+00:00",
-          "updated_at": "2025-10-27T19:57:56+00:00",
+          "updated_at": "2025-10-28T14:57:08+00:00",
           "summary_html": "<p><meta charset=\"utf-8\">Are you tired of scrubbing five separate parts every time you wash a Dr. Brown's bottle? You're not alone. We compiled a list of the 6 best anti-colic alternatives that offer the same gas and reflux relief without the frustrating cleaning routine, including our top picks for easy-to-clean silicone and glass options.</p>",
           "template_suffix": "article",
           "handle": "6-dr-browns-baby-bottle-alternatives-that-wont-make-you-hate-washing-up",
           "tags": "Baby Bottles",
           "admin_graphql_api_id": "gid://shopify/Article/610871345494",
           "image": {
-            "created_at": "2025-10-27T19:57:55+00:00",
+            "created_at": "2025-10-28T14:57:07+00:00",
             "alt": "6 Dr. Brown's Baby Bottle Alternatives",
             "width": 1248,
             "height": 832,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/6-dr-browns-baby-bottle-alternatives-that-wont-make-you-hate-washing-up_95bd040e-66e3-4630-b67a-ce38662a93db.png?v=1761595076"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/6-dr-browns-baby-bottle-alternatives-that-wont-make-you-hate-washing-up_139d6d66-9171-4d48-9ae7-4ec8d8d9c662.png?v=1761663428"
           }
         },
         {
