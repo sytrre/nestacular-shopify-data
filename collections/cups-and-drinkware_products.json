@@ -1268,8 +1268,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649494870",
       "variants": [
         {
-          "product_id": 9792649494870,
           "id": 51201112146262,
+          "product_id": 9792649494870,
           "title": "Blue / 240ML",
           "price": "17.74",
           "position": 1,
@@ -1296,8 +1296,8 @@
           "image_id": 66252998803798
         },
         {
-          "product_id": 9792649494870,
           "id": 51201112179030,
+          "product_id": 9792649494870,
           "title": "Blue / 180ML",
           "price": "17.74",
           "position": 2,
@@ -1324,8 +1324,8 @@
           "image_id": 66252998836566
         },
         {
-          "product_id": 9792649494870,
           "id": 51201112211798,
+          "product_id": 9792649494870,
           "title": "Pink / 240ML",
           "price": "17.74",
           "position": 3,
@@ -1352,8 +1352,8 @@
           "image_id": 66252998869334
         },
         {
-          "product_id": 9792649494870,
           "id": 51201112244566,
+          "product_id": 9792649494870,
           "title": "Pink / 180ML",
           "price": "17.74",
           "position": 4,
@@ -1382,8 +1382,8 @@
       ],
       "options": [
         {
-          "product_id": 9792649494870,
           "id": 12642096578902,
+          "product_id": 9792649494870,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1392,8 +1392,8 @@
           ]
         },
         {
-          "product_id": 9792649494870,
           "id": 12642096611670,
+          "product_id": 9792649494870,
           "name": "style",
           "position": 2,
           "values": [
