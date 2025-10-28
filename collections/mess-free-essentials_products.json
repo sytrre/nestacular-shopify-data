@@ -8940,8 +8940,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793335361878",
       "variants": [
         {
-          "product_id": 9793335361878,
           "id": 51204704633174,
+          "product_id": 9793335361878,
           "title": "Pink",
           "price": "47.65",
           "position": 1,
@@ -8968,8 +8968,8 @@
           "image_id": 66259650511190
         },
         {
-          "product_id": 9793335361878,
           "id": 51204704665942,
+          "product_id": 9793335361878,
           "title": "Yellow",
           "price": "47.65",
           "position": 2,
@@ -8996,8 +8996,8 @@
           "image_id": 66259650543958
         },
         {
-          "product_id": 9793335361878,
           "id": 51204704698710,
+          "product_id": 9793335361878,
           "title": "Nude pink",
           "price": "47.65",
           "position": 3,
@@ -9024,8 +9024,8 @@
           "image_id": 66259650576726
         },
         {
-          "product_id": 9793335361878,
           "id": 51204704731478,
+          "product_id": 9793335361878,
           "title": "Marble",
           "price": "47.65",
           "position": 4,
@@ -9052,8 +9052,8 @@
           "image_id": 66259650609494
         },
         {
-          "product_id": 9793335361878,
           "id": 51204704764246,
+          "product_id": 9793335361878,
           "title": "Purple",
           "price": "47.65",
           "position": 5,
@@ -9082,8 +9082,8 @@
       ],
       "options": [
         {
-          "product_id": 9793335361878,
           "id": 12642925642070,
+          "product_id": 9793335361878,
           "name": "Color",
           "position": 1,
           "values": [
