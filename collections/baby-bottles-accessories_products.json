@@ -8239,8 +8239,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790026678614",
       "variants": [
         {
-          "id": 51190903013718,
           "product_id": 9790026678614,
+          "id": 51190903013718,
           "title": "8000 MA Fast Charge",
           "price": "50.25",
           "position": 1,
@@ -8269,8 +8269,8 @@
       ],
       "options": [
         {
-          "id": 12638937088342,
           "product_id": 9790026678614,
+          "id": 12638937088342,
           "name": "Color",
           "position": 1,
           "values": [
