@@ -4100,8 +4100,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9823443485014",
       "variants": [
         {
-          "id": 51329815445846,
           "product_id": 9823443485014,
+          "id": 51329815445846,
           "title": "Blue / Flagship / EU",
           "price": "171.95",
           "position": 1,
@@ -4128,8 +4128,8 @@
           "image_id": 66853055693142
         },
         {
-          "id": 51329815478614,
           "product_id": 9823443485014,
+          "id": 51329815478614,
           "title": "Blue / Flagship / US",
           "price": "171.95",
           "position": 2,
@@ -4156,8 +4156,8 @@
           "image_id": 66853055693142
         },
         {
-          "id": 51329815511382,
           "product_id": 9823443485014,
+          "id": 51329815511382,
           "title": "Blue / Regular / EU",
           "price": "165.95",
           "position": 3,
@@ -4184,8 +4184,8 @@
           "image_id": 66853055725910
         },
         {
-          "id": 51329815544150,
           "product_id": 9823443485014,
+          "id": 51329815544150,
           "title": "Blue / Regular / US",
           "price": "165.95",
           "position": 4,
@@ -4212,8 +4212,8 @@
           "image_id": 66853055725910
         },
         {
-          "id": 51329815576918,
           "product_id": 9823443485014,
+          "id": 51329815576918,
           "title": "Blue / Standard / EU",
           "price": "167.95",
           "position": 5,
@@ -4240,8 +4240,8 @@
           "image_id": 66853055758678
         },
         {
-          "id": 51329815609686,
           "product_id": 9823443485014,
+          "id": 51329815609686,
           "title": "Blue / Standard / US",
           "price": "167.95",
           "position": 6,
@@ -4268,8 +4268,8 @@
           "image_id": 66853055758678
         },
         {
-          "id": 51329815642454,
           "product_id": 9823443485014,
+          "id": 51329815642454,
           "title": "Grey / Flagship / EU",
           "price": "171.95",
           "position": 7,
@@ -4296,8 +4296,8 @@
           "image_id": 66853055791446
         },
         {
-          "id": 51329815675222,
           "product_id": 9823443485014,
+          "id": 51329815675222,
           "title": "Grey / Flagship / US",
           "price": "171.95",
           "position": 8,
@@ -4324,8 +4324,8 @@
           "image_id": 66853055791446
         },
         {
-          "id": 51329815707990,
           "product_id": 9823443485014,
+          "id": 51329815707990,
           "title": "Grey / Regular / EU",
           "price": "165.95",
           "position": 9,
@@ -4352,8 +4352,8 @@
           "image_id": 66853055824214
         },
         {
-          "id": 51329815740758,
           "product_id": 9823443485014,
+          "id": 51329815740758,
           "title": "Grey / Regular / US",
           "price": "165.95",
           "position": 10,
@@ -4380,8 +4380,8 @@
           "image_id": 66853055824214
         },
         {
-          "id": 51329815773526,
           "product_id": 9823443485014,
+          "id": 51329815773526,
           "title": "Grey / Standard / EU",
           "price": "167.95",
           "position": 11,
@@ -4408,8 +4408,8 @@
           "image_id": 66853055856982
         },
         {
-          "id": 51329815806294,
           "product_id": 9823443485014,
+          "id": 51329815806294,
           "title": "Grey / Standard / US",
           "price": "167.95",
           "position": 12,
@@ -4436,8 +4436,8 @@
           "image_id": 66853055856982
         },
         {
-          "id": 51329815839062,
           "product_id": 9823443485014,
+          "id": 51329815839062,
           "title": "Pink / Flagship / EU",
           "price": "171.95",
           "position": 13,
@@ -4464,8 +4464,8 @@
           "image_id": 66853055889750
         },
         {
-          "id": 51329815871830,
           "product_id": 9823443485014,
+          "id": 51329815871830,
           "title": "Pink / Flagship / US",
           "price": "171.95",
           "position": 14,
@@ -4492,8 +4492,8 @@
           "image_id": 66853055889750
         },
         {
-          "id": 51329815904598,
           "product_id": 9823443485014,
+          "id": 51329815904598,
           "title": "Pink / Regular / EU",
           "price": "165.95",
           "position": 15,
@@ -4520,8 +4520,8 @@
           "image_id": 66853055922518
         },
         {
-          "id": 51329815937366,
           "product_id": 9823443485014,
+          "id": 51329815937366,
           "title": "Pink / Regular / US",
           "price": "165.95",
           "position": 16,
@@ -4548,8 +4548,8 @@
           "image_id": 66853055922518
         },
         {
-          "id": 51329815970134,
           "product_id": 9823443485014,
+          "id": 51329815970134,
           "title": "Pink / Standard / EU",
           "price": "167.95",
           "position": 17,
@@ -4576,8 +4576,8 @@
           "image_id": 66853055955286
         },
         {
-          "id": 51329816002902,
           "product_id": 9823443485014,
+          "id": 51329816002902,
           "title": "Pink / Standard / US",
           "price": "167.95",
           "position": 18,
@@ -4606,8 +4606,8 @@
       ],
       "options": [
         {
-          "id": 12678728909142,
           "product_id": 9823443485014,
+          "id": 12678728909142,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4617,8 +4617,8 @@
           ]
         },
         {
-          "id": 12678728941910,
           "product_id": 9823443485014,
+          "id": 12678728941910,
           "name": "style",
           "position": 2,
           "values": [
@@ -4628,8 +4628,8 @@
           ]
         },
         {
-          "id": 12678728974678,
           "product_id": 9823443485014,
+          "id": 12678728974678,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
@@ -13934,8 +13934,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790149787990",
       "variants": [
         {
-          "id": 51191260053846,
           "product_id": 9790149787990,
+          "id": 51191260053846,
           "title": "Verde 2pcs",
           "price": "21.50",
           "position": 1,
@@ -13962,8 +13962,8 @@
           "image_id": 66229112570198
         },
         {
-          "id": 51191260086614,
           "product_id": 9790149787990,
+          "id": 51191260086614,
           "title": "Pink Amarelo packaging",
           "price": "21.88",
           "position": 2,
@@ -13990,8 +13990,8 @@
           "image_id": 66229112602966
         },
         {
-          "id": 51191260119382,
           "product_id": 9790149787990,
+          "id": 51191260119382,
           "title": "Pinkblue packaging",
           "price": "21.50",
           "position": 3,
@@ -14018,8 +14018,8 @@
           "image_id": 66229112635734
         },
         {
-          "id": 51191260152150,
           "product_id": 9790149787990,
+          "id": 51191260152150,
           "title": "Blue with packaging",
           "price": "21.51",
           "position": 4,
@@ -14046,8 +14046,8 @@
           "image_id": 66229112668502
         },
         {
-          "id": 51191260184918,
           "product_id": 9790149787990,
+          "id": 51191260184918,
           "title": "Rosa 2pcs",
           "price": "21.50",
           "position": 5,
@@ -14074,8 +14074,8 @@
           "image_id": 66229112701270
         },
         {
-          "id": 51191260217686,
           "product_id": 9790149787990,
+          "id": 51191260217686,
           "title": "Branco 2pcs",
           "price": "21.50",
           "position": 6,
@@ -14102,8 +14102,8 @@
           "image_id": 66229112734038
         },
         {
-          "id": 51191260250454,
           "product_id": 9790149787990,
+          "id": 51191260250454,
           "title": "Pink with packaging",
           "price": "21.51",
           "position": 7,
@@ -14130,8 +14130,8 @@
           "image_id": 66229112766806
         },
         {
-          "id": 51191260283222,
           "product_id": 9790149787990,
+          "id": 51191260283222,
           "title": "Amarelo",
           "price": "21.40",
           "position": 8,
@@ -14158,8 +14158,8 @@
           "image_id": 66229112799574
         },
         {
-          "id": 51191260315990,
           "product_id": 9790149787990,
+          "id": 51191260315990,
           "title": "Azul",
           "price": "21.40",
           "position": 9,
@@ -14186,8 +14186,8 @@
           "image_id": 66229112832342
         },
         {
-          "id": 51191260348758,
           "product_id": 9790149787990,
+          "id": 51191260348758,
           "title": "Yellow with packaging",
           "price": "21.51",
           "position": 10,
@@ -14214,8 +14214,8 @@
           "image_id": 66229112865110
         },
         {
-          "id": 51191260381526,
           "product_id": 9790149787990,
+          "id": 51191260381526,
           "title": "Azul 2pcs",
           "price": "21.50",
           "position": 11,
@@ -14242,8 +14242,8 @@
           "image_id": 66229112897878
         },
         {
-          "id": 51191260414294,
           "product_id": 9790149787990,
+          "id": 51191260414294,
           "title": "Amarelo 2pcs",
           "price": "21.50",
           "position": 12,
@@ -14270,8 +14270,8 @@
           "image_id": 66229112930646
         },
         {
-          "id": 51191260447062,
           "product_id": 9790149787990,
+          "id": 51191260447062,
           "title": "Verde",
           "price": "21.40",
           "position": 13,
@@ -14298,8 +14298,8 @@
           "image_id": 66229112963414
         },
         {
-          "id": 51191260479830,
           "product_id": 9790149787990,
+          "id": 51191260479830,
           "title": "Green with packaging",
           "price": "21.40",
           "position": 14,
@@ -14326,8 +14326,8 @@
           "image_id": 66229112996182
         },
         {
-          "id": 51191260512598,
           "product_id": 9790149787990,
+          "id": 51191260512598,
           "title": "Branco",
           "price": "21.40",
           "position": 15,
@@ -14354,8 +14354,8 @@
           "image_id": 66229113028950
         },
         {
-          "id": 51191260545366,
           "product_id": 9790149787990,
+          "id": 51191260545366,
           "title": "Amarelo Blue packaging",
           "price": "21.50",
           "position": 16,
@@ -14382,8 +14382,8 @@
           "image_id": 66229113061718
         },
         {
-          "id": 51191260578134,
           "product_id": 9790149787990,
+          "id": 51191260578134,
           "title": "Rosa",
           "price": "21.40",
           "position": 17,
@@ -14410,8 +14410,8 @@
           "image_id": 66229113094486
         },
         {
-          "id": 51191260610902,
           "product_id": 9790149787990,
+          "id": 51191260610902,
           "title": "Orangegreen packaging",
           "price": "21.88",
           "position": 18,
@@ -14438,8 +14438,8 @@
           "image_id": 66229113127254
         },
         {
-          "id": 51191260643670,
           "product_id": 9790149787990,
+          "id": 51191260643670,
           "title": "Pink white packaging",
           "price": "21.50",
           "position": 19,
@@ -14466,8 +14466,8 @@
           "image_id": 66229113160022
         },
         {
-          "id": 51191260676438,
           "product_id": 9790149787990,
+          "id": 51191260676438,
           "title": "White with packaging",
           "price": "21.51",
           "position": 20,
@@ -14494,8 +14494,8 @@
           "image_id": 66229113192790
         },
         {
-          "id": 51191260709206,
           "product_id": 9790149787990,
+          "id": 51191260709206,
           "title": "Verde Blue packaging",
           "price": "21.50",
           "position": 21,
@@ -14524,8 +14524,8 @@
       ],
       "options": [
         {
-          "id": 12639092474198,
           "product_id": 9790149787990,
+          "id": 12639092474198,
           "name": "Color",
           "position": 1,
           "values": [
