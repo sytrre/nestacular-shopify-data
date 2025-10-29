@@ -28936,8 +28936,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9794048622934",
       "variants": [
         {
-          "product_id": 9794048622934,
           "id": 51207836926294,
+          "product_id": 9794048622934,
           "title": "Pink",
           "price": "16.70",
           "position": 1,
@@ -28964,8 +28964,8 @@
           "image_id": 66265176736086
         },
         {
-          "product_id": 9794048622934,
           "id": 51207836959062,
+          "product_id": 9794048622934,
           "title": "Blue",
           "price": "16.70",
           "position": 2,
@@ -28992,8 +28992,8 @@
           "image_id": 66265176768854
         },
         {
-          "product_id": 9794048622934,
           "id": 51207836991830,
+          "product_id": 9794048622934,
           "title": "Sky Blue",
           "price": "16.70",
           "position": 3,
@@ -29020,8 +29020,8 @@
           "image_id": 66265176801622
         },
         {
-          "product_id": 9794048622934,
           "id": 51207837024598,
+          "product_id": 9794048622934,
           "title": "Yellow",
           "price": "16.70",
           "position": 4,
@@ -29048,8 +29048,8 @@
           "image_id": 66265176834390
         },
         {
-          "product_id": 9794048622934,
           "id": 51207837057366,
+          "product_id": 9794048622934,
           "title": "Red",
           "price": "16.70",
           "position": 5,
@@ -29076,8 +29076,8 @@
           "image_id": 66265176867158
         },
         {
-          "product_id": 9794048622934,
           "id": 51207837090134,
+          "product_id": 9794048622934,
           "title": "Green",
           "price": "16.70",
           "position": 6,
@@ -29106,8 +29106,8 @@
       ],
       "options": [
         {
-          "product_id": 9794048622934,
           "id": 12643883876694,
+          "product_id": 9794048622934,
           "name": "Color",
           "position": 1,
           "values": [
@@ -53255,8 +53255,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791346573654",
       "variants": [
         {
-          "id": 51196011708758,
           "product_id": 9791346573654,
+          "id": 51196011708758,
           "title": "Blue",
           "price": "16.71",
           "position": 1,
@@ -53283,8 +53283,8 @@
           "image_id": 66240231899478
         },
         {
-          "id": 51196011741526,
           "product_id": 9791346573654,
+          "id": 51196011741526,
           "title": "Yellow",
           "price": "17.51",
           "position": 2,
@@ -53311,8 +53311,8 @@
           "image_id": 66240231932246
         },
         {
-          "id": 51196011774294,
           "product_id": 9791346573654,
+          "id": 51196011774294,
           "title": "Small green",
           "price": "16.44",
           "position": 3,
@@ -53339,8 +53339,8 @@
           "image_id": 66240231965014
         },
         {
-          "id": 51196011807062,
           "product_id": 9791346573654,
+          "id": 51196011807062,
           "title": "Small pink",
           "price": "16.44",
           "position": 4,
@@ -53367,8 +53367,8 @@
           "image_id": 66240231997782
         },
         {
-          "id": 51196011839830,
           "product_id": 9791346573654,
+          "id": 51196011839830,
           "title": "Pink 3pieces set opp",
           "price": "17.51",
           "position": 5,
@@ -53397,8 +53397,8 @@
       ],
       "options": [
         {
-          "id": 12640550748502,
           "product_id": 9791346573654,
+          "id": 12640550748502,
           "name": "Color",
           "position": 1,
           "values": [
