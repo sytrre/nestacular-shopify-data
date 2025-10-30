@@ -17,8 +17,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916384280918",
       "variants": [
         {
-          "id": 51675187642710,
           "product_id": 9916384280918,
+          "id": 51675187642710,
           "title": "Assorted Color",
           "price": "29.95",
           "position": 1,
@@ -47,8 +47,8 @@
       ],
       "options": [
         {
-          "id": 12787248333142,
           "product_id": 9916384280918,
+          "id": 12787248333142,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37467,7 +37467,7 @@
       "product_type": "Baby Wooden Seat",
       "created_at": "2025-08-24T10:26:13+01:00",
       "handle": "convertible-high-chair-to-table-set-baby-toddler-dining-chair",
-      "updated_at": "2025-10-23T13:26:50+01:00",
+      "updated_at": "2025-10-30T11:20:13+00:00",
       "published_at": "2025-08-24T10:35:02+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -37479,7 +37479,7 @@
           "id": 51128705646934,
           "product_id": 9776323985750,
           "title": "Beige",
-          "price": "225.95",
+          "price": "165.95",
           "position": 1,
           "inventory_policy": "deny",
           "compare_at_price": "275.95",
@@ -37487,7 +37487,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-24T10:26:22+01:00",
-          "updated_at": "2025-08-24T10:33:08+01:00",
+          "updated_at": "2025-10-30T11:19:43+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -37507,7 +37507,7 @@
           "id": 51128705679702,
           "product_id": 9776323985750,
           "title": "Green",
-          "price": "225.95",
+          "price": "165.95",
           "position": 2,
           "inventory_policy": "deny",
           "compare_at_price": "275.95",
@@ -37515,7 +37515,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-24T10:26:22+01:00",
-          "updated_at": "2025-08-24T10:33:57+01:00",
+          "updated_at": "2025-10-30T11:19:57+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -37535,7 +37535,7 @@
           "id": 51128705712470,
           "product_id": 9776323985750,
           "title": "Grey",
-          "price": "225.95",
+          "price": "165.95",
           "position": 3,
           "inventory_policy": "deny",
           "compare_at_price": "275.95",
@@ -37543,7 +37543,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-24T10:26:22+01:00",
-          "updated_at": "2025-08-24T10:34:40+01:00",
+          "updated_at": "2025-10-30T11:20:13+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -39561,8 +39561,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916357214550",
       "variants": [
         {
-          "product_id": 9916357214550,
           "id": 51675046969686,
+          "product_id": 9916357214550,
           "title": "style A",
           "price": "23.95",
           "position": 1,
@@ -39591,8 +39591,8 @@
       ],
       "options": [
         {
-          "product_id": 9916357214550,
           "id": 12787216515414,
+          "product_id": 9916357214550,
           "name": "Color",
           "position": 1,
           "values": [
@@ -51261,8 +51261,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792651854166",
       "variants": [
         {
-          "product_id": 9792651854166,
           "id": 51201125450070,
+          "product_id": 9792651854166,
           "title": "Pink",
           "price": "44.53",
           "position": 1,
@@ -51289,8 +51289,8 @@
           "image_id": 66253041336662
         },
         {
-          "product_id": 9792651854166,
           "id": 51201125482838,
+          "product_id": 9792651854166,
           "title": "Blue",
           "price": "44.53",
           "position": 2,
@@ -51319,8 +51319,8 @@
       ],
       "options": [
         {
-          "product_id": 9792651854166,
           "id": 12642099265878,
+          "product_id": 9792651854166,
           "name": "Color",
           "position": 1,
           "values": [
@@ -60270,8 +60270,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821550543190",
       "variants": [
         {
-          "product_id": 9821550543190,
           "id": 51322923680086,
+          "product_id": 9821550543190,
           "title": "All Blue Breathable Toy Holder",
           "price": "232.95",
           "position": 1,
@@ -60298,8 +60298,8 @@
           "image_id": 66788044669270
         },
         {
-          "product_id": 9821550543190,
           "id": 51322923712854,
+          "product_id": 9821550543190,
           "title": "All black breathable music",
           "price": "232.95",
           "position": 2,
@@ -60326,8 +60326,8 @@
           "image_id": 66788044702038
         },
         {
-          "product_id": 9821550543190,
           "id": 51322923745622,
+          "product_id": 9821550543190,
           "title": "All blue breathable music",
           "price": "236.95",
           "position": 3,
@@ -60354,8 +60354,8 @@
           "image_id": 66788044734806
         },
         {
-          "product_id": 9821550543190,
           "id": 51322923778390,
+          "product_id": 9821550543190,
           "title": "All blue through music",
           "price": "232.95",
           "position": 4,
@@ -60382,8 +60382,8 @@
           "image_id": 66788044767574
         },
         {
-          "product_id": 9821550543190,
           "id": 51322923811158,
+          "product_id": 9821550543190,
           "title": "All gray cotton music set",
           "price": "236.95",
           "position": 5,
@@ -60410,8 +60410,8 @@
           "image_id": 66788044800342
         },
         {
-          "product_id": 9821550543190,
           "id": 51322923843926,
+          "product_id": 9821550543190,
           "title": "All pink Breathable toy holder",
           "price": "232.95",
           "position": 6,
@@ -60438,8 +60438,8 @@
           "image_id": 66788044833110
         },
         {
-          "product_id": 9821550543190,
           "id": 51322923876694,
+          "product_id": 9821550543190,
           "title": "All pink breathable music",
           "price": "232.95",
           "position": 7,
@@ -60466,8 +60466,8 @@
           "image_id": 66788044865878
         },
         {
-          "product_id": 9821550543190,
           "id": 51322923909462,
+          "product_id": 9821550543190,
           "title": "All pink breathable music set",
           "price": "236.95",
           "position": 8,
@@ -60494,8 +60494,8 @@
           "image_id": 66788044898646
         },
         {
-          "product_id": 9821550543190,
           "id": 51322923942230,
+          "product_id": 9821550543190,
           "title": "Beige cotton cloth",
           "price": "232.95",
           "position": 9,
@@ -60522,8 +60522,8 @@
           "image_id": 66788044931414
         },
         {
-          "product_id": 9821550543190,
           "id": 51322923974998,
+          "product_id": 9821550543190,
           "title": "Black cotton music toy stand",
           "price": "234.95",
           "position": 10,
@@ -60550,8 +60550,8 @@
           "image_id": 66788044964182
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924007766,
+          "product_id": 9821550543190,
           "title": "Blue Breathable Rocking Chair",
           "price": "237.95",
           "position": 11,
@@ -60578,8 +60578,8 @@
           "image_id": 66788044996950
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924040534,
+          "product_id": 9821550543190,
           "title": "Blue Breathable music toy",
           "price": "234.95",
           "position": 12,
@@ -60606,8 +60606,8 @@
           "image_id": 66788045029718
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924073302,
+          "product_id": 9821550543190,
           "title": "Breathable Chair Blue",
           "price": "230.95",
           "position": 13,
@@ -60634,8 +60634,8 @@
           "image_id": 66788045062486
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924106070,
+          "product_id": 9821550543190,
           "title": "Cotton diamond blue",
           "price": "233.95",
           "position": 14,
@@ -60662,8 +60662,8 @@
           "image_id": 66788045095254
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924138838,
+          "product_id": 9821550543190,
           "title": "Early education chair",
           "price": "242.95",
           "position": 15,
@@ -60690,8 +60690,8 @@
           "image_id": 66788045128022
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924171606,
+          "product_id": 9821550543190,
           "title": "Grey cotton cloth",
           "price": "285.95",
           "position": 16,
@@ -60718,8 +60718,8 @@
           "image_id": 66788045160790
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924204374,
+          "product_id": 9821550543190,
           "title": "Grey cotton music toy stand",
           "price": "234.95",
           "position": 17,
@@ -60746,8 +60746,8 @@
           "image_id": 66788045193558
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924237142,
+          "product_id": 9821550543190,
           "title": "Mibai and Toys",
           "price": "231.95",
           "position": 18,
@@ -60774,8 +60774,8 @@
           "image_id": 66788045226326
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924269910,
+          "product_id": 9821550543190,
           "title": "Old rocking chair",
           "price": "229.95",
           "position": 19,
@@ -60802,8 +60802,8 @@
           "image_id": 66788045259094
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924302678,
+          "product_id": 9821550543190,
           "title": "Pink Breathable Rocking chair",
           "price": "237.95",
           "position": 20,
@@ -60830,8 +60830,8 @@
           "image_id": 66788045291862
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924335446,
+          "product_id": 9821550543190,
           "title": "Pink Breathable music toy",
           "price": "234.95",
           "position": 21,
@@ -60858,8 +60858,8 @@
           "image_id": 66788045324630
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924368214,
+          "product_id": 9821550543190,
           "title": "Powder breathable chair",
           "price": "230.95",
           "position": 22,
@@ -60886,8 +60886,8 @@
           "image_id": 66788045357398
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924400982,
+          "product_id": 9821550543190,
           "title": "Red Breathable Chair",
           "price": "230.95",
           "position": 23,
@@ -60914,8 +60914,8 @@
           "image_id": 66788045390166
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924433750,
+          "product_id": 9821550543190,
           "title": "Red Breathable rocking chair",
           "price": "237.95",
           "position": 24,
@@ -60942,8 +60942,8 @@
           "image_id": 66788045422934
         },
         {
-          "product_id": 9821550543190,
           "id": 51322924466518,
+          "product_id": 9821550543190,
           "title": "Red Net Breathable music",
           "price": "232.95",
           "position": 25,
@@ -60972,8 +60972,8 @@
       ],
       "options": [
         {
-          "product_id": 9821550543190,
           "id": 12676454220118,
+          "product_id": 9821550543190,
           "name": "style",
           "position": 1,
           "values": [
@@ -76412,7 +76412,7 @@
       "product_type": "0",
       "created_at": "2025-10-07T13:49:32+01:00",
       "handle": "assillo-baby-feeding-chair-portable-foldable-dining-solution-for-home",
-      "updated_at": "2025-10-23T14:30:57+01:00",
+      "updated_at": "2025-10-30T11:29:59+00:00",
       "published_at": "2025-10-07T13:57:04+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -76424,7 +76424,7 @@
           "id": 51505350705494,
           "product_id": 9870873297238,
           "title": "Blue",
-          "price": "137.95",
+          "price": "107.95",
           "position": 1,
           "inventory_policy": "deny",
           "compare_at_price": "237.95",
@@ -76432,7 +76432,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-10-07T13:49:43+01:00",
-          "updated_at": "2025-10-07T13:54:52+01:00",
+          "updated_at": "2025-10-30T11:29:24+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -76452,7 +76452,7 @@
           "id": 51505350738262,
           "product_id": 9870873297238,
           "title": "Green",
-          "price": "137.95",
+          "price": "107.95",
           "position": 2,
           "inventory_policy": "deny",
           "compare_at_price": "237.95",
@@ -76460,7 +76460,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-10-07T13:49:43+01:00",
-          "updated_at": "2025-10-07T13:55:34+01:00",
+          "updated_at": "2025-10-30T11:29:36+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -76480,7 +76480,7 @@
           "id": 51505350771030,
           "product_id": 9870873297238,
           "title": "Khaki",
-          "price": "137.95",
+          "price": "107.95",
           "position": 3,
           "inventory_policy": "deny",
           "compare_at_price": "237.95",
@@ -76488,7 +76488,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-10-07T13:49:43+01:00",
-          "updated_at": "2025-10-07T13:56:12+01:00",
+          "updated_at": "2025-10-30T11:29:48+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -76508,7 +76508,7 @@
           "id": 51505350803798,
           "product_id": 9870873297238,
           "title": "Pink",
-          "price": "137.95",
+          "price": "107.95",
           "position": 4,
           "inventory_policy": "deny",
           "compare_at_price": "237.95",
@@ -76516,7 +76516,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-10-07T13:49:43+01:00",
-          "updated_at": "2025-10-07T13:56:50+01:00",
+          "updated_at": "2025-10-30T11:29:59+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -76962,7 +76962,7 @@
       "product_type": "0",
       "created_at": "2025-10-10T14:34:02+01:00",
       "handle": "komforty-portable-childrens-dining-table-foldable-mealtime-solution-for-kids",
-      "updated_at": "2025-10-23T13:30:04+01:00",
+      "updated_at": "2025-10-30T11:26:50+00:00",
       "published_at": "2025-10-10T14:40:40+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -76974,7 +76974,7 @@
           "id": 51534091452758,
           "product_id": 9882241499478,
           "title": "Brown",
-          "price": "165.95",
+          "price": "120.95",
           "position": 1,
           "inventory_policy": "deny",
           "compare_at_price": "235.95",
@@ -76982,7 +76982,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:38:03+01:00",
+          "updated_at": "2025-10-30T11:26:14+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -77002,7 +77002,7 @@
           "id": 51534091485526,
           "product_id": 9882241499478,
           "title": "Dark green",
-          "price": "165.95",
+          "price": "120.95",
           "position": 2,
           "inventory_policy": "deny",
           "compare_at_price": "235.95",
@@ -77010,7 +77010,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:39:10+01:00",
+          "updated_at": "2025-10-30T11:26:27+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -77030,7 +77030,7 @@
           "id": 51534091518294,
           "product_id": 9882241499478,
           "title": "Ginger pink",
-          "price": "165.95",
+          "price": "120.95",
           "position": 3,
           "inventory_policy": "deny",
           "compare_at_price": "235.95",
@@ -77038,7 +77038,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:39:50+01:00",
+          "updated_at": "2025-10-30T11:26:39+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -77058,7 +77058,7 @@
           "id": 51534091551062,
           "product_id": 9882241499478,
           "title": "Grey",
-          "price": "165.95",
+          "price": "120.95",
           "position": 4,
           "inventory_policy": "deny",
           "compare_at_price": "235.95",
@@ -77066,7 +77066,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-10-10T14:34:10+01:00",
-          "updated_at": "2025-10-10T14:40:27+01:00",
+          "updated_at": "2025-10-30T11:26:51+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -90486,7 +90486,7 @@
       "product_type": "0",
       "created_at": "2025-09-01T06:04:05+01:00",
       "handle": "baby-dining-chair-adjustable-adjustable-toddler-dining-seat",
-      "updated_at": "2025-10-26T12:31:35+00:00",
+      "updated_at": "2025-10-30T11:24:40+00:00",
       "published_at": "2025-09-01T06:04:22+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -90498,7 +90498,7 @@
           "id": 51194323861846,
           "product_id": 9791059984726,
           "title": "Flagship Avocado Green",
-          "price": "210.95",
+          "price": "120.95",
           "position": 1,
           "inventory_policy": "deny",
           "compare_at_price": "260.95",
@@ -90506,7 +90506,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-01T06:04:18+01:00",
-          "updated_at": "2025-09-01T06:09:01+01:00",
+          "updated_at": "2025-10-30T11:23:36+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -90526,7 +90526,7 @@
           "id": 51194323894614,
           "product_id": 9791059984726,
           "title": "Flagship Dark Blue",
-          "price": "210.95",
+          "price": "120.95",
           "position": 2,
           "inventory_policy": "deny",
           "compare_at_price": "260.95",
@@ -90534,7 +90534,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-01T06:04:18+01:00",
-          "updated_at": "2025-09-01T06:09:38+01:00",
+          "updated_at": "2025-10-30T11:23:46+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -90554,7 +90554,7 @@
           "id": 51194323927382,
           "product_id": 9791059984726,
           "title": "Flagship Graffiti Cloud Green",
-          "price": "211.45",
+          "price": "120.95",
           "position": 3,
           "inventory_policy": "deny",
           "compare_at_price": "261.45",
@@ -90562,7 +90562,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-01T06:04:18+01:00",
-          "updated_at": "2025-09-01T06:10:12+01:00",
+          "updated_at": "2025-10-30T11:23:58+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -90582,7 +90582,7 @@
           "id": 51194323960150,
           "product_id": 9791059984726,
           "title": "Flagship Graffiti Pink",
-          "price": "211.45",
+          "price": "120.95",
           "position": 4,
           "inventory_policy": "deny",
           "compare_at_price": "261.45",
@@ -90590,7 +90590,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-01T06:04:18+01:00",
-          "updated_at": "2025-09-01T06:10:48+01:00",
+          "updated_at": "2025-10-30T11:24:10+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -90610,7 +90610,7 @@
           "id": 51194323992918,
           "product_id": 9791059984726,
           "title": "Flagship Khaki",
-          "price": "210.95",
+          "price": "120.95",
           "position": 5,
           "inventory_policy": "deny",
           "compare_at_price": "260.95",
@@ -90618,7 +90618,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-01T06:04:18+01:00",
-          "updated_at": "2025-09-01T06:11:24+01:00",
+          "updated_at": "2025-10-30T11:24:22+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -90638,7 +90638,7 @@
           "id": 51194324025686,
           "product_id": 9791059984726,
           "title": "Flagship Mist Pink",
-          "price": "210.95",
+          "price": "122.95",
           "position": 6,
           "inventory_policy": "deny",
           "compare_at_price": "260.95",
@@ -90646,7 +90646,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-01T06:04:18+01:00",
-          "updated_at": "2025-09-01T06:12:03+01:00",
+          "updated_at": "2025-10-30T11:24:41+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
