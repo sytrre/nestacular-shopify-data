@@ -15,17 +15,17 @@
       "product_type": "Baby Bottle Brush",
       "created_at": "2025-09-01T09:31:28+01:00",
       "handle": "babella-360-silicone-bottle-brush",
-      "updated_at": "2025-10-26T12:24:45+00:00",
+      "updated_at": "2025-10-30T12:25:24+00:00",
       "published_at": "2025-09-01T09:31:41+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "360 Rotating Bottle Brush, Baby Bottle Brush, baby-feeding-hygiene, bacteria-resistant-brush, bottle-cleaning-brush, bpa-free-baby-products, compact-bottle-cleaner, durable-silicone-brush, easy-grip-cleaning-brush, ergonomic-baby-brush, feeding-bottle-maintenance, Hygienic Bottle Cleaning Brush, Infant Feeding Accessories, life-event-baby-shower-host-feeding-essentials, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, newborn-bottle-care, non-scratch-cleaning-tools, quick-dry-bottle-brush, rotating-handle-brush, Silicone Nipple Cleaner, soft-bristle-cleaner, versatile-bottle-brush",
+      "tags": "360 Rotating Bottle Brush, Baby Bottle Brush, baby-feeding-hygiene, bacteria-resistant-brush, bottle-cleaning-brush, bpa-free-baby-products, compact-bottle-cleaner, durable-silicone-brush, easy-grip-cleaning-brush, ergonomic-baby-brush, feeding-bottle-maintenance, Hygienic Bottle Cleaning Brush, Infant Feeding Accessories, life-event-adoption-finalization-celebration-feeding-bundle, life-event-baby-shower-host-feeding-essentials, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-returning-to-work-mom-feeding-prep, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, newborn-bottle-care, non-scratch-cleaning-tools, quick-dry-bottle-brush, rotating-handle-brush, Silicone Nipple Cleaner, soft-bristle-cleaner, versatile-bottle-brush",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791245320534",
       "variants": [
         {
-          "id": 51195416346966,
           "product_id": 9791245320534,
+          "id": 51195416346966,
           "title": "Grey / Suit",
           "price": "17.34",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 66239087149398
         },
         {
-          "id": 51195416379734,
           "product_id": 9791245320534,
+          "id": 51195416379734,
           "title": "Blue / Suit",
           "price": "17.34",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 66239087182166
         },
         {
-          "id": 51195416412502,
           "product_id": 9791245320534,
+          "id": 51195416412502,
           "title": "Pink / Suit",
           "price": "17.34",
           "position": 3,
@@ -110,8 +110,8 @@
       ],
       "options": [
         {
-          "id": 12640430031190,
           "product_id": 9791245320534,
+          "id": 12640430031190,
           "name": "Color",
           "position": 1,
           "values": [
@@ -121,8 +121,8 @@
           ]
         },
         {
-          "id": 12640430063958,
           "product_id": 9791245320534,
+          "id": 12640430063958,
           "name": "style",
           "position": 2,
           "values": [
@@ -251,11 +251,11 @@
       "product_type": "0",
       "created_at": "2025-09-29T12:17:28+01:00",
       "handle": "bbet-360-rotating-baby-nipple-brush-durable-efficient-easy-to-grip-design-essential-cleaning-tool-for-bottles-nipples-infant-feeding-supplies",
-      "updated_at": "2025-10-26T12:26:32+00:00",
+      "updated_at": "2025-10-30T12:27:22+00:00",
       "published_at": "2025-09-29T12:22:34+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "360-degree-brush, baby-bottle-brush, baby-feeding-accessories, bbet, bottle-cleaning-tools, CJ, ergonomic-bottle-brush, food-grade-baby-brush, infant-feeding-supplies, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, newborn-essentials, nipple-cleaning-brush, pacifier-brush, quick-dry-bottle-brush, rotating-bottle-brush, soft-bristle-brush, travel-baby-brush",
+      "tags": "360-degree-brush, baby-bottle-brush, baby-feeding-accessories, bbet, bottle-cleaning-tools, CJ, ergonomic-bottle-brush, food-grade-baby-brush, infant-feeding-supplies, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, newborn-essentials, nipple-cleaning-brush, pacifier-brush, quick-dry-bottle-brush, rotating-bottle-brush, soft-bristle-brush, travel-baby-brush",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9852460073302",
       "variants": [
@@ -607,17 +607,17 @@
     },
     {
       "id": 9791181783382,
-      "title": "HoneyBuds Food-Grade Silicone Baby Nipple – Safe & Soft Feeding Nipple for Infants",
-      "body_html": "<p data-start=\"139\" data-end=\"421\">Ensure a safe and comfortable feeding experience with the <strong data-start=\"228\" data-end=\"273\">HoneyBuds Food-Grade Silicone Baby Nipple</strong>. Made from <strong data-start=\"285\" data-end=\"315\">premium, BPA-free silicone</strong>, this nipple is soft, durable, and gentle on your baby’s gums, making it ideal for infants of all ages.</p>\n<p data-start=\"423\" data-end=\"769\">The <strong data-start=\"427\" data-end=\"453\">realistic, soft design</strong> promotes smooth milk flow and helps babies transition seamlessly between breastfeeding and bottle feeding. Its <strong data-start=\"565\" data-end=\"589\">durable construction</strong> ensures long-lasting use while maintaining hygiene and safety. Perfect for newborns and infants, the HoneyBuds nipple makes every feeding session safe, natural, and stress-free.</p>\n<p data-start=\"771\" data-end=\"790\"><strong data-start=\"771\" data-end=\"788\">Key Features:</strong></p>\n<ul data-start=\"791\" data-end=\"1158\">\n<li data-start=\"791\" data-end=\"865\">\n<p data-start=\"793\" data-end=\"865\"><strong data-start=\"793\" data-end=\"822\">Safe Food-Grade Silicone:</strong> BPA-free, non-toxic, and gentle on gums.</p>\n</li>\n<li data-start=\"866\" data-end=\"945\">\n<p data-start=\"868\" data-end=\"945\"><strong data-start=\"868\" data-end=\"896\">Soft &amp; Realistic Design:</strong> Mimics natural breastfeeding for easy feeding.</p>\n</li>\n<li data-start=\"946\" data-end=\"1018\">\n<p data-start=\"948\" data-end=\"1018\"><strong data-start=\"948\" data-end=\"969\">Smooth Milk Flow:</strong> Reduces colic and ensures comfortable feeding.</p>\n</li>\n<li data-start=\"1019\" data-end=\"1090\">\n<p data-start=\"1021\" data-end=\"1090\"><strong data-start=\"1021\" data-end=\"1048\">Durable &amp; Long-Lasting:</strong> Maintains quality through repeated use.</p>\n</li>\n<li data-start=\"1091\" data-end=\"1158\">\n<p data-start=\"1093\" data-end=\"1158\"><strong data-start=\"1093\" data-end=\"1113\">Infant-Friendly:</strong> Suitable for newborns and growing infants.</p>\n</li>\n</ul>\n<p data-start=\"1160\" data-end=\"1275\">Provide your baby with a safe, natural feeding experience with the <strong data-start=\"1227\" data-end=\"1272\">HoneyBuds Food-Grade Silicone Baby Nipple</strong>.</p>\n<p data-start=\"1160\" data-end=\"1275\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/857567232367_8b1045a2-f305-4ea6-93d4-07197fbfc497.jpg?v=1756711840\" alt=\"HoneyBuds Food-Grade Silicone Baby Nipple\"></p>\n<p data-start=\"1160\" data-end=\"1275\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3260136149531.jpg?v=1756711840\" alt=\"HoneyBuds Food-Grade Silicone Baby Nipple\"></p>\n<p data-start=\"1160\" data-end=\"1275\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5421514057576.jpg?v=1756711839\" alt=\"HoneyBuds Food-Grade Silicone Baby Nipple\"></p>",
+      "title": "HoneyBuds Silicone Baby Nipple – BPA-Free Soft Feeding Nipple",
+      "body_html": "<h2>HoneyBuds Food-Grade Silicone Baby Nipple</h2>\n<p>The <strong>HoneyBuds Food-Grade Silicone Baby Nipple</strong> provides a safe and comfortable feeding solution for your infant. Made from <strong>premium, BPA-free silicone</strong>, this nipple is soft, durable, and gentle on your baby's gums, making it ideal for infants of all ages.</p>\n\n<h2>Natural Breastfeeding Experience</h2>\n<p>The <strong>realistic, soft design</strong> promotes smooth milk flow and helps babies transition seamlessly between breastfeeding and bottle feeding. Its <strong>durable construction</strong> ensures long-lasting use while maintaining hygiene and safety. Perfect for newborns and infants, the HoneyBuds nipple makes every feeding session safe, natural, and stress-free.</p>\n\n<h2>Key Features</h2>\n<ul>\n<li>\n<strong>Safe Food-Grade Silicone:</strong> BPA-free, non-toxic, and gentle on gums.</li>\n<li>\n<strong>Soft &amp; Realistic Design:</strong> Mimics natural breastfeeding for easy feeding.</li>\n<li>\n<strong>Smooth Milk Flow:</strong> Reduces colic and ensures comfortable feeding.</li>\n<li>\n<strong>Durable &amp; Long-Lasting:</strong> Maintains quality through repeated use.</li>\n<li>\n<strong>Infant-Friendly:</strong> Suitable for newborns and growing infants.</li>\n</ul>\n\n<h2>Safe, Non-Toxic Materials</h2>\n<p>Crafted from food-grade silicone, this baby nipple is completely free from BPA, phthalates, and other harmful chemicals. The soft material is gentle on developing gums while providing the durability needed for daily use. The non-toxic construction ensures your baby's safety during every feeding.</p>\n\n<h2>Designed for Easy Transition</h2>\n<p>The realistic shape and texture help infants transition smoothly between breast and bottle feeding. The natural feel reduces nipple confusion and encourages acceptance, making feeding time easier for both parents and babies. The smooth milk flow design helps prevent gas and colic by controlling the feeding pace.</p>\n\n<p>Provide your baby with a safe, natural feeding experience with the <strong>HoneyBuds Food-Grade Silicone Baby Nipple</strong>.</p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/857567232367_8b1045a2-f305-4ea6-93d4-07197fbfc497.jpg?v=1756711840\" alt=\"HoneyBuds Food-Grade Silicone Baby Nipple\"></p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3260136149531.jpg?v=1756711840\" alt=\"HoneyBuds Food-Grade Silicone Baby Nipple\"></p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5421514057576.jpg?v=1756711839\" alt=\"HoneyBuds Food-Grade Silicone Baby Nipple\"></p>",
       "vendor": "Nestacular",
       "product_type": "Baby Nipple",
       "created_at": "2025-09-01T08:30:28+01:00",
       "handle": "honeybuds-silicone-baby-nipple",
-      "updated_at": "2025-10-26T12:31:38+00:00",
+      "updated_at": "2025-10-30T12:32:25+00:00",
       "published_at": "2025-09-01T08:30:40+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "BPA-Free Baby Nipple, Food-Grade Baby Feeder, Infant Feeding Nipple, life-event-babysitters-emergency-feeding-kit, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, Silicone Baby Nipple, Soft Baby Nipple",
+      "tags": "Anti-Colic Baby Nipple, Baby Bottle Accessories, Baby Feeding Supplies, Bottle Feeding Essentials, Bottle Nipple Replacement, BPA-Free Baby Nipple, Breast-Like Nipple, Breastfeeding Transition Nipple, Food-Grade Baby Feeder, Gum-Friendly Nipple, HoneyBuds Baby Products, Hygienic Baby Feeding, Infant Feeding Nipple, life-event-adoption-finalization-celebration-feeding-bundle, life-event-babysitters-emergency-feeding-kit, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, Natural Feel Baby Nipple, Newborn Bottle Nipple, Non-Toxic Baby Nipple, Reusable Baby Nipple, Silicone Baby Nipple, Slow Flow Nipple, Soft Baby Nipple",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791181783382",
       "variants": [
@@ -872,17 +872,17 @@
     },
     {
       "id": 9791156584790,
-      "title": "JollyBean Liquid Silicone Baby Nipple – Soft, Realistic Simulation Feeding for Infants",
-      "body_html": "<p data-end=\"436\" data-start=\"143\">Ensure a natural and comfortable feeding experience with the <strong data-end=\"276\" data-start=\"235\">JollyBean Liquid Silicone Baby Nipple</strong>. Made from <strong data-end=\"326\" data-start=\"288\">high-quality, soft liquid silicone</strong>, this nipple closely <strong data-end=\"380\" data-start=\"348\">simulates the natural breast</strong>, making it perfect for infants during bottle feeding.</p>\n<p data-end=\"760\" data-start=\"438\">The <strong data-end=\"462\" data-start=\"442\">realistic design</strong> promotes smooth milk flow, reduces colic, and helps babies transition between breastfeeding and bottle feeding seamlessly. Its <strong data-end=\"620\" data-start=\"590\">durable, BPA-free material</strong> ensures safety and long-lasting use. Ideal for newborns and infants, the JollyBean nipple makes feeding gentle, natural, and stress-free.</p>\n<p data-end=\"781\" data-start=\"762\"><strong data-end=\"779\" data-start=\"762\">Key Features:</strong></p>\n<ul data-end=\"1129\" data-start=\"782\">\n<li data-end=\"846\" data-start=\"782\">\n<p data-end=\"846\" data-start=\"784\"><strong data-end=\"809\" data-start=\"784\">Soft Liquid Silicone:</strong> Gentle and safe for infants’ gums.</p>\n</li>\n<li data-end=\"926\" data-start=\"847\">\n<p data-end=\"926\" data-start=\"849\"><strong data-end=\"874\" data-start=\"849\">Realistic Simulation:</strong> Mimics natural breastfeeding for easy transition.</p>\n</li>\n<li data-end=\"987\" data-start=\"927\">\n<p data-end=\"987\" data-start=\"929\"><strong data-end=\"950\" data-start=\"929\">Smooth Milk Flow:</strong> Helps reduce colic and discomfort.</p>\n</li>\n<li data-end=\"1057\" data-start=\"988\">\n<p data-end=\"1057\" data-start=\"990\"><strong data-end=\"1013\" data-start=\"990\">BPA-Free &amp; Durable:</strong> Non-toxic and long-lasting for daily use.</p>\n</li>\n<li data-end=\"1129\" data-start=\"1058\">\n<p data-end=\"1129\" data-start=\"1060\"><strong data-end=\"1080\" data-start=\"1060\">Infant-Friendly:</strong> Suitable for newborns and infants of all ages.</p>\n</li>\n</ul>\n<p data-end=\"1268\" data-start=\"1131\">Provide a safe and natural feeding experience with the <strong data-end=\"1227\" data-start=\"1186\">JollyBean Liquid Silicone Baby Nipple</strong>, designed for comfort and convenience.</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"JollyBean Liquid Silicone Baby Nipple\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/89919bfb-4859-4656-a243-06487a8f12f5.jpg?v=1756710290\"></div>\n<p data-end=\"1268\" data-start=\"1131\"><img alt=\"JollyBean Liquid Silicone Baby Nipple\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/32046bea-59f6-4c3a-862f-0a372e4a873a_trans.jpg?v=1756709531\"></p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"JollyBean Liquid Silicone Baby Nipple\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/7b61554d-08fd-4d23-993c-49f69d049968.jpg?v=1756709530\"></div>",
+      "title": "JollyBean Liquid Silicone Baby Nipple - Soft BPA-Free Realistic",
+      "body_html": "<h2>JollyBean Liquid Silicone Baby Nipple - Natural Feeding Solution</h2>\n\n<p>The <strong>JollyBean Liquid Silicone Baby Nipple</strong> provides a natural and comfortable feeding experience for infants. Crafted from <strong>high-quality, soft liquid silicone</strong>, this nipple closely <strong>simulates the natural breast</strong>, making it an ideal choice for bottle feeding while maintaining the familiarity of breastfeeding.</p>\n\n<h3>Designed for Comfort and Natural Transition</h3>\n\n<p>The <strong>realistic design</strong> promotes smooth milk flow, actively reduces colic, and helps babies transition seamlessly between breastfeeding and bottle feeding. The soft liquid silicone material is gentle on infants' sensitive gums while providing the familiar texture and feel of natural feeding. This thoughtful design minimizes feeding disruptions and reduces discomfort during mealtimes.</p>\n\n<p>Made from <strong>durable, BPA-free material</strong>, the JollyBean nipple ensures both safety and long-lasting use for daily feeding routines. The non-toxic composition meets rigorous safety standards, giving parents confidence in every feeding session. Suitable for newborns and infants of all ages, this nipple makes feeding gentle, natural, and stress-free for both baby and caregiver.</p>\n\n<h3>Key Features:</h3>\n<ul>\n<li>\n<strong>Soft Liquid Silicone:</strong> Gentle and safe for infants' gums.</li>\n<li>\n<strong>Realistic Simulation:</strong> Mimics natural breastfeeding for easy transition.</li>\n<li>\n<strong>Smooth Milk Flow:</strong> Helps reduce colic and discomfort.</li>\n<li>\n<strong>BPA-Free &amp; Durable:</strong> Non-toxic and long-lasting for daily use.</li>\n<li>\n<strong>Infant-Friendly:</strong> Suitable for newborns and infants of all ages.</li>\n</ul>\n\n<p>The JollyBean nipple's advanced design addresses common feeding challenges. The controlled milk flow prevents overfeeding and reduces air intake, which are primary causes of colic and gas in infants. The soft silicone construction flexes naturally during feeding, replicating the breast's movement and promoting healthy oral development.</p>\n\n<p>Provide a safe and natural feeding experience with the <strong>JollyBean Liquid Silicone Baby Nipple</strong>, designed for comfort and convenience in every feeding session.</p>\n\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"JollyBean Liquid Silicone Baby Nipple\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/89919bfb-4859-4656-a243-06487a8f12f5.jpg?v=1756710290\"></div>\n<p><img alt=\"JollyBean Liquid Silicone Baby Nipple\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/32046bea-59f6-4c3a-862f-0a372e4a873a_trans.jpg?v=1756709531\"></p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"JollyBean Liquid Silicone Baby Nipple\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/7b61554d-08fd-4d23-993c-49f69d049968.jpg?v=1756709530\"></div>",
       "vendor": "Nestacular",
       "product_type": "Baby Nipple",
       "created_at": "2025-09-01T07:52:01+01:00",
       "handle": "jollybean-liquid-silicone-baby-nipple",
-      "updated_at": "2025-10-26T12:32:08+00:00",
+      "updated_at": "2025-10-30T12:32:48+00:00",
       "published_at": "2025-09-01T07:52:14+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "BPA-Free Baby Nipple, Infant Feeding Nipple, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, Liquid Silicone Baby Nipple, Realistic Baby Bottle Nipple, Soft Baby Feeder",
+      "tags": "anti-colic-baby-nipple, baby-bottle-accessories, baby-feeding-accessories, bottle-feeding-essentials, BPA-Free Baby Nipple, breast-shaped-nipple, breast-to-bottle-transition-nipple, breastfeeding-supplement-nipple, gum-safe-nipple, Infant Feeding Nipple, jollybean-baby-products, jollybean-nipple, life-event-adoption-finalization-celebration-feeding-bundle, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, Liquid Silicone Baby Nipple, natural-feel-baby-nipple, newborn-bottle-nipple, Realistic Baby Bottle Nipple, safe-baby-feeding, silicone-bottle-nipple, slow-flow-nipple, Soft Baby Feeder",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791156584790",
       "variants": [
@@ -1120,11 +1120,11 @@
       "product_type": "Baby Bottle Brush Set",
       "created_at": "2025-09-01T08:08:03+01:00",
       "handle": "littlesprout-silicone-baby-bottle-brush-set",
-      "updated_at": "2025-10-26T12:34:30+00:00",
+      "updated_at": "2025-10-30T12:35:05+00:00",
       "published_at": "2025-09-01T08:08:13+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Bottle Drying Rack, BPA-Free Baby Cleaning Set, Infant Feeding Brush Set, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, Nipple Cleaner, Silicone Baby Bottle Brush",
+      "tags": "Baby Bottle Drying Rack, BPA-Free Baby Cleaning Set, Infant Feeding Brush Set, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, Nipple Cleaner, Silicone Baby Bottle Brush",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791165464918",
       "variants": [
@@ -1334,11 +1334,11 @@
       "product_type": "Baby Bottle Brush Set",
       "created_at": "2025-09-01T11:26:31+01:00",
       "handle": "littlewinks-baby-bottle-brush-set",
-      "updated_at": "2025-10-26T12:34:33+00:00",
+      "updated_at": "2025-10-30T12:35:08+00:00",
       "published_at": "2025-09-01T11:26:43+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Bottle Brush, Baby Bottle Cleaning Set, Baby Feeding Accessories, Glass Bottle Brush, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, Nipple Cleaner",
+      "tags": "Baby Bottle Brush, Baby Bottle Cleaning Set, Baby Feeding Accessories, Glass Bottle Brush, life-event-adoption-finalization-celebration-feeding-bundle, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, Nipple Cleaner",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791346114902",
       "variants": [
