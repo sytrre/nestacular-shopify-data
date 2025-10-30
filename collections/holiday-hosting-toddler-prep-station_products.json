@@ -2011,8 +2011,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825545355606",
       "variants": [
         {
-          "id": 51338753868118,
           "product_id": 9825545355606,
+          "id": 51338753868118,
           "title": "Green",
           "price": "80.95",
           "position": 1,
@@ -2041,8 +2041,8 @@
       ],
       "options": [
         {
-          "id": 12681326199126,
           "product_id": 9825545355606,
+          "id": 12681326199126,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4312,8 +4312,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9860510941526",
       "variants": [
         {
-          "id": 51468894273878,
           "product_id": 9860510941526,
+          "id": 51468894273878,
           "title": "Green",
           "price": "44.95",
           "position": 1,
@@ -4340,8 +4340,8 @@
           "image_id": 67299324952918
         },
         {
-          "id": 51468894306646,
           "product_id": 9860510941526,
+          "id": 51468894306646,
           "title": "Grey",
           "price": "44.95",
           "position": 2,
@@ -4368,8 +4368,8 @@
           "image_id": 67299324985686
         },
         {
-          "id": 51468894339414,
           "product_id": 9860510941526,
+          "id": 51468894339414,
           "title": "Pink",
           "price": "44.95",
           "position": 3,
@@ -4396,8 +4396,8 @@
           "image_id": 67299325018454
         },
         {
-          "id": 51468894372182,
           "product_id": 9860510941526,
+          "id": 51468894372182,
           "title": "Purple",
           "price": "44.95",
           "position": 4,
@@ -4426,8 +4426,8 @@
       ],
       "options": [
         {
-          "id": 12722216599894,
           "product_id": 9860510941526,
+          "id": 12722216599894,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4544,8 +4544,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649363798",
       "variants": [
         {
-          "id": 51201111753046,
           "product_id": 9792649363798,
+          "id": 51201111753046,
           "title": "Pink",
           "price": "15.44",
           "position": 1,
@@ -4572,8 +4572,8 @@
           "image_id": 66252997493078
         },
         {
-          "id": 51201111785814,
           "product_id": 9792649363798,
+          "id": 51201111785814,
           "title": "Green small",
           "price": "15.44",
           "position": 2,
@@ -4600,8 +4600,8 @@
           "image_id": 66252997525846
         },
         {
-          "id": 51201111818582,
           "product_id": 9792649363798,
+          "id": 51201111818582,
           "title": "Dark green small",
           "price": "15.44",
           "position": 3,
@@ -4628,8 +4628,8 @@
           "image_id": 66252997558614
         },
         {
-          "id": 51201111851350,
           "product_id": 9792649363798,
+          "id": 51201111851350,
           "title": "Purple small",
           "price": "15.44",
           "position": 4,
@@ -4658,8 +4658,8 @@
       ],
       "options": [
         {
-          "id": 12642096447830,
           "product_id": 9792649363798,
+          "id": 12642096447830,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5184,8 +5184,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791457427798",
       "variants": [
         {
-          "id": 51196520202582,
           "product_id": 9791457427798,
+          "id": 51196520202582,
           "title": "Pink",
           "price": "20.79",
           "position": 1,
@@ -5212,8 +5212,8 @@
           "image_id": 66242096496982
         },
         {
-          "id": 51196520235350,
           "product_id": 9791457427798,
+          "id": 51196520235350,
           "title": "Green",
           "price": "20.79",
           "position": 2,
@@ -5240,8 +5240,8 @@
           "image_id": 66242096529750
         },
         {
-          "id": 51196520268118,
           "product_id": 9791457427798,
+          "id": 51196520268118,
           "title": "Blue",
           "price": "20.79",
           "position": 3,
@@ -5270,8 +5270,8 @@
       ],
       "options": [
         {
-          "id": 12640681460054,
           "product_id": 9791457427798,
+          "id": 12640681460054,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5385,8 +5385,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9805951697238",
       "variants": [
         {
-          "id": 51255845323094,
           "product_id": 9805951697238,
+          "id": 51255845323094,
           "title": "Εααααα Elegant Purple [basic Model] Height Unadjustable",
           "price": "120.95",
           "position": 1,
@@ -5413,8 +5413,8 @@
           "image_id": 66367372558678
         },
         {
-          "id": 51255845355862,
           "product_id": 9805951697238,
+          "id": 51255845355862,
           "title": "Elegant Purple [upgraded Version] Adjustable Height + Double Plates",
           "price": "120.95",
           "position": 2,
@@ -5441,8 +5441,8 @@
           "image_id": 66367372558678
         },
         {
-          "id": 51255845388630,
           "product_id": 9805951697238,
+          "id": 51255845388630,
           "title": "Dream Blue [luxury Edition] Adjustable Height + Leather Case",
           "price": "120.95",
           "position": 3,
@@ -5469,8 +5469,8 @@
           "image_id": 66367301091670
         },
         {
-          "id": 51255845421398,
           "product_id": 9805951697238,
+          "id": 51255845421398,
           "title": "Purple [luxury Edition] Adjustable Height + Leather Case",
           "price": "120.95",
           "position": 4,
@@ -5497,8 +5497,8 @@
           "image_id": 66367372558678
         },
         {
-          "id": 51255845454166,
           "product_id": 9805951697238,
+          "id": 51255845454166,
           "title": "Lemon Yellow [upgraded Version] Adjustable Height + Double Plates",
           "price": "120.95",
           "position": 5,
@@ -5525,8 +5525,8 @@
           "image_id": 66367266554198
         },
         {
-          "id": 51255845486934,
           "product_id": 9805951697238,
+          "id": 51255845486934,
           "title": "Lemon Yellow [flagship Model] Adjustable Height + Leather Case + Double Plates",
           "price": "120.95",
           "position": 6,
@@ -5553,8 +5553,8 @@
           "image_id": 66367266554198
         },
         {
-          "id": 51255845519702,
           "product_id": 9805951697238,
+          "id": 51255845519702,
           "title": "Blue [flagship Model] Adjustable Height + Leather Case + Double Plates",
           "price": "120.95",
           "position": 7,
@@ -5581,8 +5581,8 @@
           "image_id": 66367301091670
         },
         {
-          "id": 51255845552470,
           "product_id": 9805951697238,
+          "id": 51255845552470,
           "title": "Εααααα Lemon Yellow [luxury Edition]",
           "price": "120.95",
           "position": 8,
@@ -5609,8 +5609,8 @@
           "image_id": 66367266554198
         },
         {
-          "id": 51255845585238,
           "product_id": 9805951697238,
+          "id": 51255845585238,
           "title": "Lemon Yellow [basic Model] Height Unadjustable -",
           "price": "120.95",
           "position": 9,
@@ -5639,8 +5639,8 @@
       ],
       "options": [
         {
-          "id": 12657815290198,
           "product_id": 9805951697238,
+          "id": 12657815290198,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6465,8 +6465,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791059984726",
       "variants": [
         {
-          "id": 51194323861846,
           "product_id": 9791059984726,
+          "id": 51194323861846,
           "title": "Flagship Avocado Green",
           "price": "120.95",
           "position": 1,
@@ -6493,8 +6493,8 @@
           "image_id": 66235919040854
         },
         {
-          "id": 51194323894614,
           "product_id": 9791059984726,
+          "id": 51194323894614,
           "title": "Flagship Dark Blue",
           "price": "120.95",
           "position": 2,
@@ -6521,8 +6521,8 @@
           "image_id": 66235919073622
         },
         {
-          "id": 51194323927382,
           "product_id": 9791059984726,
+          "id": 51194323927382,
           "title": "Flagship Graffiti Cloud Green",
           "price": "120.95",
           "position": 3,
@@ -6549,8 +6549,8 @@
           "image_id": 66235919106390
         },
         {
-          "id": 51194323960150,
           "product_id": 9791059984726,
+          "id": 51194323960150,
           "title": "Flagship Graffiti Pink",
           "price": "120.95",
           "position": 4,
@@ -6577,8 +6577,8 @@
           "image_id": 66235919139158
         },
         {
-          "id": 51194323992918,
           "product_id": 9791059984726,
+          "id": 51194323992918,
           "title": "Flagship Khaki",
           "price": "120.95",
           "position": 5,
@@ -6605,8 +6605,8 @@
           "image_id": 66235919171926
         },
         {
-          "id": 51194324025686,
           "product_id": 9791059984726,
+          "id": 51194324025686,
           "title": "Flagship Mist Pink",
           "price": "122.95",
           "position": 6,
@@ -6635,8 +6635,8 @@
       ],
       "options": [
         {
-          "id": 12640209994070,
           "product_id": 9791059984726,
+          "id": 12640209994070,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7731,8 +7731,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828531601750",
       "variants": [
         {
-          "id": 51347037782358,
           "product_id": 9828531601750,
+          "id": 51347037782358,
           "title": "Beige",
           "price": "105.95",
           "position": 1,
@@ -7761,8 +7761,8 @@
       ],
       "options": [
         {
-          "id": 12684777947478,
           "product_id": 9828531601750,
+          "id": 12684777947478,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7870,8 +7870,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9881936232790",
       "variants": [
         {
-          "id": 51533625786710,
           "product_id": 9881936232790,
+          "id": 51533625786710,
           "title": "Blue Upgraded Version - Height Adjustment [Foot pedal + Strap",
           "price": "88.95",
           "position": 1,
@@ -7898,8 +7898,8 @@
           "image_id": 67454096146774
         },
         {
-          "id": 51533625819478,
           "product_id": 9881936232790,
+          "id": 51533625819478,
           "title": "Pink upgraded version - Height adjustment [Foot pedal + strap",
           "price": "88.95",
           "position": 2,
@@ -7926,8 +7926,8 @@
           "image_id": 67454096179542
         },
         {
-          "id": 51533625852246,
           "product_id": 9881936232790,
+          "id": 51533625852246,
           "title": "The Upgraded Khaki Version - Height Adjustment [footrests + Straps]",
           "price": "88.95",
           "position": 3,
@@ -7956,8 +7956,8 @@
       ],
       "options": [
         {
-          "id": 12746423959894,
           "product_id": 9881936232790,
+          "id": 12746423959894,
           "name": "color",
           "position": 1,
           "values": [

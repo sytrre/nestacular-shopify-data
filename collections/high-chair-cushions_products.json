@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9841111073110",
       "variants": [
         {
-          "id": 51392714998102,
           "product_id": 9841111073110,
+          "id": 51392714998102,
           "title": "Blue Elephant",
           "price": "41.95",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 67078643908950
         },
         {
-          "id": 51392715030870,
           "product_id": 9841111073110,
+          "id": 51392715030870,
           "title": "Pink Rainbow",
           "price": "41.95",
           "position": 2,
@@ -82,8 +82,8 @@
       ],
       "options": [
         {
-          "id": 12699199635798,
           "product_id": 9841111073110,
+          "id": 12699199635798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1655,8 +1655,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792650084694",
       "variants": [
         {
-          "id": 51201116602710,
           "product_id": 9792650084694,
+          "id": 51201116602710,
           "title": "Gray",
           "price": "28.71",
           "position": 1,
@@ -1685,8 +1685,8 @@
       ],
       "options": [
         {
-          "id": 12642097234262,
           "product_id": 9792650084694,
+          "id": 12642097234262,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2695,8 +2695,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830293504342",
       "variants": [
         {
-          "id": 51355326939478,
           "product_id": 9830293504342,
+          "id": 51355326939478,
           "title": "Orange",
           "price": "95.95",
           "position": 1,
@@ -2723,8 +2723,8 @@
           "image_id": 66966511616342
         },
         {
-          "id": 51355326972246,
           "product_id": 9830293504342,
+          "id": 51355326972246,
           "title": "Red",
           "price": "95.95",
           "position": 2,
@@ -2753,8 +2753,8 @@
       ],
       "options": [
         {
-          "id": 12686961639766,
           "product_id": 9830293504342,
+          "id": 12686961639766,
           "name": "Color",
           "position": 1,
           "values": [

@@ -758,8 +758,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9881936232790",
       "variants": [
         {
-          "id": 51533625786710,
           "product_id": 9881936232790,
+          "id": 51533625786710,
           "title": "Blue Upgraded Version - Height Adjustment [Foot pedal + Strap",
           "price": "88.95",
           "position": 1,
@@ -786,8 +786,8 @@
           "image_id": 67454096146774
         },
         {
-          "id": 51533625819478,
           "product_id": 9881936232790,
+          "id": 51533625819478,
           "title": "Pink upgraded version - Height adjustment [Foot pedal + strap",
           "price": "88.95",
           "position": 2,
@@ -814,8 +814,8 @@
           "image_id": 67454096179542
         },
         {
-          "id": 51533625852246,
           "product_id": 9881936232790,
+          "id": 51533625852246,
           "title": "The Upgraded Khaki Version - Height Adjustment [footrests + Straps]",
           "price": "88.95",
           "position": 3,
@@ -844,8 +844,8 @@
       ],
       "options": [
         {
-          "id": 12746423959894,
           "product_id": 9881936232790,
+          "id": 12746423959894,
           "name": "color",
           "position": 1,
           "values": [
