@@ -9516,8 +9516,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916357214550",
       "variants": [
         {
-          "product_id": 9916357214550,
           "id": 51675046969686,
+          "product_id": 9916357214550,
           "title": "style A",
           "price": "23.95",
           "position": 1,
@@ -9546,8 +9546,8 @@
       ],
       "options": [
         {
-          "product_id": 9916357214550,
           "id": 12787216515414,
+          "product_id": 9916357214550,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18592,8 +18592,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9912227070294",
       "variants": [
         {
-          "id": 51658078519638,
           "product_id": 9912227070294,
+          "id": 51658078519638,
           "title": "Style-1 / 12INCH",
           "price": "18.95",
           "position": 1,
@@ -18620,8 +18620,8 @@
           "image_id": 67716635001174
         },
         {
-          "id": 51658078552406,
           "product_id": 9912227070294,
+          "id": 51658078552406,
           "title": "mixed / 12INCH",
           "price": "18.95",
           "position": 2,
@@ -18648,8 +18648,8 @@
           "image_id": 67716635033942
         },
         {
-          "id": 51658078585174,
           "product_id": 9912227070294,
+          "id": 51658078585174,
           "title": "Style-3 / 12INCH",
           "price": "18.95",
           "position": 3,
@@ -18676,8 +18676,8 @@
           "image_id": 67716635066710
         },
         {
-          "id": 51658078617942,
           "product_id": 9912227070294,
+          "id": 51658078617942,
           "title": "Style-2 / 12INCH",
           "price": "18.95",
           "position": 4,
@@ -18706,8 +18706,8 @@
       ],
       "options": [
         {
-          "id": 12782333821270,
           "product_id": 9912227070294,
+          "id": 12782333821270,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18718,8 +18718,8 @@
           ]
         },
         {
-          "id": 12782333854038,
           "product_id": 9912227070294,
+          "id": 12782333854038,
           "name": "Ballon Size",
           "position": 2,
           "values": [
