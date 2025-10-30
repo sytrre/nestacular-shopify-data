@@ -96585,8 +96585,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9823505711446",
       "variants": [
         {
-          "id": 51330197684566,
           "product_id": 9823505711446,
+          "id": 51330197684566,
           "title": "Dark Grey",
           "price": "1146.95",
           "position": 1,
@@ -96613,8 +96613,8 @@
           "image_id": 66855010566486
         },
         {
-          "id": 51330197717334,
           "product_id": 9823505711446,
+          "id": 51330197717334,
           "title": "Dolphin",
           "price": "1146.95",
           "position": 2,
@@ -96641,8 +96641,8 @@
           "image_id": 66855010599254
         },
         {
-          "id": 51330197750102,
           "product_id": 9823505711446,
+          "id": 51330197750102,
           "title": "Mint Green",
           "price": "1146.95",
           "position": 3,
@@ -96669,8 +96669,8 @@
           "image_id": 66855010632022
         },
         {
-          "id": 51330197782870,
           "product_id": 9823505711446,
+          "id": 51330197782870,
           "title": "Sand",
           "price": "1146.95",
           "position": 4,
@@ -96699,8 +96699,8 @@
       ],
       "options": [
         {
-          "id": 12678810534230,
           "product_id": 9823505711446,
+          "id": 12678810534230,
           "name": "Color",
           "position": 1,
           "values": [
