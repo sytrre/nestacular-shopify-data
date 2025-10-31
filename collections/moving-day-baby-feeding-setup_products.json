@@ -1011,8 +1011,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765170053462",
       "variants": [
         {
-          "product_id": 9765170053462,
           "id": 51084378210646,
+          "product_id": 9765170053462,
           "title": "Spoon",
           "price": "11.99",
           "position": 1,
@@ -1039,8 +1039,8 @@
           "image_id": 65932730597718
         },
         {
-          "product_id": 9765170053462,
           "id": 51084378243414,
+          "product_id": 9765170053462,
           "title": "Pink",
           "price": "24.00",
           "position": 2,
@@ -1067,8 +1067,8 @@
           "image_id": 65932730827094
         },
         {
-          "product_id": 9765170053462,
           "id": 51084378276182,
+          "product_id": 9765170053462,
           "title": "Green",
           "price": "23.52",
           "position": 3,
@@ -1095,8 +1095,8 @@
           "image_id": 65932730859862
         },
         {
-          "product_id": 9765170053462,
           "id": 51084378308950,
+          "product_id": 9765170053462,
           "title": "Blue",
           "price": "22.95",
           "position": 4,
@@ -1123,8 +1123,8 @@
           "image_id": 65932730892630
         },
         {
-          "product_id": 9765170053462,
           "id": 51084378341718,
+          "product_id": 9765170053462,
           "title": "Beige",
           "price": "23.57",
           "position": 5,
@@ -1153,8 +1153,8 @@
       ],
       "options": [
         {
-          "product_id": 9765170053462,
           "id": 12609595801942,
+          "product_id": 9765170053462,
           "name": "Color",
           "position": 1,
           "values": [

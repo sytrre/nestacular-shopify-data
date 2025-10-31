@@ -1180,8 +1180,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776098017622",
       "variants": [
         {
-          "product_id": 9776098017622,
           "id": 51128181883222,
+          "product_id": 9776098017622,
           "title": "Blue / Glass 150ml",
           "price": "42.95",
           "position": 1,
@@ -1208,8 +1208,8 @@
           "image_id": 66087737295190
         },
         {
-          "product_id": 9776098017622,
           "id": 51128181915990,
+          "product_id": 9776098017622,
           "title": "Blue / Ppsu150ml",
           "price": "48.95",
           "position": 2,
@@ -1236,8 +1236,8 @@
           "image_id": 66087737295190
         },
         {
-          "product_id": 9776098017622,
           "id": 51128181948758,
+          "product_id": 9776098017622,
           "title": "Blue / Ppsu240ml",
           "price": "51.95",
           "position": 3,
@@ -1264,8 +1264,8 @@
           "image_id": 66087737295190
         },
         {
-          "product_id": 9776098017622,
           "id": 51128181981526,
+          "product_id": 9776098017622,
           "title": "Blue / Ppsu300ml",
           "price": "54.95",
           "position": 4,
@@ -1292,8 +1292,8 @@
           "image_id": 66087737295190
         },
         {
-          "product_id": 9776098017622,
           "id": 51128182014294,
+          "product_id": 9776098017622,
           "title": "Pink / Glass 150ml",
           "price": "42.95",
           "position": 5,
@@ -1320,8 +1320,8 @@
           "image_id": 66087737327958
         },
         {
-          "product_id": 9776098017622,
           "id": 51128182047062,
+          "product_id": 9776098017622,
           "title": "Pink / Ppsu150ml",
           "price": "48.95",
           "position": 6,
@@ -1348,8 +1348,8 @@
           "image_id": 66087737327958
         },
         {
-          "product_id": 9776098017622,
           "id": 51128182079830,
+          "product_id": 9776098017622,
           "title": "Pink / Ppsu240ml",
           "price": "51.95",
           "position": 7,
@@ -1376,8 +1376,8 @@
           "image_id": 66087737327958
         },
         {
-          "product_id": 9776098017622,
           "id": 51128182112598,
+          "product_id": 9776098017622,
           "title": "Pink / Ppsu300ml",
           "price": "54.95",
           "position": 8,
@@ -1406,8 +1406,8 @@
       ],
       "options": [
         {
-          "product_id": 9776098017622,
           "id": 12622535950678,
+          "product_id": 9776098017622,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1416,8 +1416,8 @@
           ]
         },
         {
-          "product_id": 9776098017622,
           "id": 12622535983446,
+          "product_id": 9776098017622,
           "name": "Size",
           "position": 2,
           "values": [
@@ -2349,8 +2349,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790004232534",
       "variants": [
         {
-          "product_id": 9790004232534,
           "id": 51190803530070,
+          "product_id": 9790004232534,
           "title": "Blue",
           "price": "36.21",
           "position": 1,
@@ -2377,8 +2377,8 @@
           "image_id": 66227227459926
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803562838,
+          "product_id": 9790004232534,
           "title": "Coffee",
           "price": "36.21",
           "position": 2,
@@ -2405,8 +2405,8 @@
           "image_id": 66227227492694
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803595606,
+          "product_id": 9790004232534,
           "title": "Rose Red",
           "price": "36.21",
           "position": 3,
@@ -2433,8 +2433,8 @@
           "image_id": 66227227525462
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803628374,
+          "product_id": 9790004232534,
           "title": "Rose Red2",
           "price": "36.21",
           "position": 4,
@@ -2461,8 +2461,8 @@
           "image_id": 66227227558230
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803661142,
+          "product_id": 9790004232534,
           "title": "Pink",
           "price": "36.21",
           "position": 5,
@@ -2489,8 +2489,8 @@
           "image_id": 66227227590998
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803693910,
+          "product_id": 9790004232534,
           "title": "cyan",
           "price": "36.21",
           "position": 6,
@@ -2517,8 +2517,8 @@
           "image_id": 66227227623766
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803726678,
+          "product_id": 9790004232534,
           "title": "Cyan2",
           "price": "36.21",
           "position": 7,
@@ -2547,8 +2547,8 @@
       ],
       "options": [
         {
-          "product_id": 9790004232534,
           "id": 12638902321494,
+          "product_id": 9790004232534,
           "name": "Color",
           "position": 1,
           "values": [

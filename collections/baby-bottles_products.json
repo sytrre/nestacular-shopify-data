@@ -2003,8 +2003,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791081480534",
       "variants": [
         {
-          "product_id": 9791081480534,
           "id": 51194394542422,
+          "product_id": 9791081480534,
           "title": "Orange",
           "price": "27.87",
           "position": 1,
@@ -2031,8 +2031,8 @@
           "image_id": 66236176662870
         },
         {
-          "product_id": 9791081480534,
           "id": 51194394575190,
+          "product_id": 9791081480534,
           "title": "Green",
           "price": "27.99",
           "position": 2,
@@ -2059,8 +2059,8 @@
           "image_id": 66236176695638
         },
         {
-          "product_id": 9791081480534,
           "id": 51194394607958,
+          "product_id": 9791081480534,
           "title": "Pink",
           "price": "27.87",
           "position": 3,
@@ -2089,8 +2089,8 @@
       ],
       "options": [
         {
-          "product_id": 9791081480534,
           "id": 12640234668374,
+          "product_id": 9791081480534,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2465,8 +2465,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791235129686",
       "variants": [
         {
-          "product_id": 9791235129686,
           "id": 51195357266262,
+          "product_id": 9791235129686,
           "title": "Pink A",
           "price": "39.58",
           "position": 1,
@@ -2493,8 +2493,8 @@
           "image_id": 66238943527254
         },
         {
-          "product_id": 9791235129686,
           "id": 51195357299030,
+          "product_id": 9791235129686,
           "title": "A",
           "price": "39.58",
           "position": 2,
@@ -2521,8 +2521,8 @@
           "image_id": 66238943560022
         },
         {
-          "product_id": 9791235129686,
           "id": 51195357331798,
+          "product_id": 9791235129686,
           "title": "Pink B",
           "price": "40.96",
           "position": 3,
@@ -2549,8 +2549,8 @@
           "image_id": 66238943592790
         },
         {
-          "product_id": 9791235129686,
           "id": 51195357364566,
+          "product_id": 9791235129686,
           "title": "B",
           "price": "40.96",
           "position": 4,
@@ -2579,8 +2579,8 @@
       ],
       "options": [
         {
-          "product_id": 9791235129686,
           "id": 12640417513814,
+          "product_id": 9791235129686,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4229,8 +4229,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776098017622",
       "variants": [
         {
-          "product_id": 9776098017622,
           "id": 51128181883222,
+          "product_id": 9776098017622,
           "title": "Blue / Glass 150ml",
           "price": "42.95",
           "position": 1,
@@ -4257,8 +4257,8 @@
           "image_id": 66087737295190
         },
         {
-          "product_id": 9776098017622,
           "id": 51128181915990,
+          "product_id": 9776098017622,
           "title": "Blue / Ppsu150ml",
           "price": "48.95",
           "position": 2,
@@ -4285,8 +4285,8 @@
           "image_id": 66087737295190
         },
         {
-          "product_id": 9776098017622,
           "id": 51128181948758,
+          "product_id": 9776098017622,
           "title": "Blue / Ppsu240ml",
           "price": "51.95",
           "position": 3,
@@ -4313,8 +4313,8 @@
           "image_id": 66087737295190
         },
         {
-          "product_id": 9776098017622,
           "id": 51128181981526,
+          "product_id": 9776098017622,
           "title": "Blue / Ppsu300ml",
           "price": "54.95",
           "position": 4,
@@ -4341,8 +4341,8 @@
           "image_id": 66087737295190
         },
         {
-          "product_id": 9776098017622,
           "id": 51128182014294,
+          "product_id": 9776098017622,
           "title": "Pink / Glass 150ml",
           "price": "42.95",
           "position": 5,
@@ -4369,8 +4369,8 @@
           "image_id": 66087737327958
         },
         {
-          "product_id": 9776098017622,
           "id": 51128182047062,
+          "product_id": 9776098017622,
           "title": "Pink / Ppsu150ml",
           "price": "48.95",
           "position": 6,
@@ -4397,8 +4397,8 @@
           "image_id": 66087737327958
         },
         {
-          "product_id": 9776098017622,
           "id": 51128182079830,
+          "product_id": 9776098017622,
           "title": "Pink / Ppsu240ml",
           "price": "51.95",
           "position": 7,
@@ -4425,8 +4425,8 @@
           "image_id": 66087737327958
         },
         {
-          "product_id": 9776098017622,
           "id": 51128182112598,
+          "product_id": 9776098017622,
           "title": "Pink / Ppsu300ml",
           "price": "54.95",
           "position": 8,
@@ -4455,8 +4455,8 @@
       ],
       "options": [
         {
-          "product_id": 9776098017622,
           "id": 12622535950678,
+          "product_id": 9776098017622,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4465,8 +4465,8 @@
           ]
         },
         {
-          "product_id": 9776098017622,
           "id": 12622535983446,
+          "product_id": 9776098017622,
           "name": "Size",
           "position": 2,
           "values": [
@@ -7228,8 +7228,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791165464918",
       "variants": [
         {
-          "product_id": 9791165464918,
           "id": 51195169145174,
+          "product_id": 9791165464918,
           "title": "Pink Baby Bottle Brush",
           "price": "18.62",
           "position": 1,
@@ -7256,8 +7256,8 @@
           "image_id": 66238025728342
         },
         {
-          "product_id": 9791165464918,
           "id": 51195169177942,
+          "product_id": 9791165464918,
           "title": "Green Baby Bottle Brush",
           "price": "18.62",
           "position": 2,
@@ -7284,8 +7284,8 @@
           "image_id": 66238025761110
         },
         {
-          "product_id": 9791165464918,
           "id": 51195169210710,
+          "product_id": 9791165464918,
           "title": "Yellow Baby Bottle Brush",
           "price": "18.62",
           "position": 3,
@@ -7314,8 +7314,8 @@
       ],
       "options": [
         {
-          "product_id": 9791165464918,
           "id": 12640339820886,
+          "product_id": 9791165464918,
           "name": "Color",
           "position": 1,
           "values": [
