@@ -12028,8 +12028,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9808213377366",
       "variants": [
         {
-          "product_id": 9808213377366,
           "id": 51266608005462,
+          "product_id": 9808213377366,
           "title": "Milk Coffee White",
           "price": "25.95",
           "position": 1,
@@ -12056,8 +12056,8 @@
           "image_id": 66396702802262
         },
         {
-          "product_id": 9808213377366,
           "id": 51266608038230,
+          "product_id": 9808213377366,
           "title": "Xinzi",
           "price": "25.95",
           "position": 2,
@@ -12086,8 +12086,8 @@
       ],
       "options": [
         {
-          "product_id": 9808213377366,
           "id": 12660623409494,
+          "product_id": 9808213377366,
           "name": "Color",
           "position": 1,
           "values": [
