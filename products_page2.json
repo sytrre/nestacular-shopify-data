@@ -54241,8 +54241,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9734413844822",
       "variants": [
         {
-          "product_id": 9734413844822,
           "id": 50957453132118,
+          "product_id": 9734413844822,
           "title": "Blue",
           "price": "19.95",
           "position": 1,
@@ -54271,8 +54271,8 @@
       ],
       "options": [
         {
-          "product_id": 9734413844822,
           "id": 12573216145750,
+          "product_id": 9734413844822,
           "name": "Color",
           "position": 1,
           "values": [
