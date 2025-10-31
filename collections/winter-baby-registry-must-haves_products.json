@@ -256,8 +256,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9888477479254",
       "variants": [
         {
-          "product_id": 9888477479254,
           "id": 51558136250710,
+          "product_id": 9888477479254,
           "title": "Blue",
           "price": "19.95",
           "position": 1,
@@ -284,8 +284,8 @@
           "image_id": 67517596827990
         },
         {
-          "product_id": 9888477479254,
           "id": 51558136283478,
+          "product_id": 9888477479254,
           "title": "Green",
           "price": "19.95",
           "position": 2,
@@ -312,8 +312,8 @@
           "image_id": 67517596860758
         },
         {
-          "product_id": 9888477479254,
           "id": 51558136316246,
+          "product_id": 9888477479254,
           "title": "White blue",
           "price": "19.95",
           "position": 3,
@@ -340,8 +340,8 @@
           "image_id": 67517596893526
         },
         {
-          "product_id": 9888477479254,
           "id": 51558136349014,
+          "product_id": 9888477479254,
           "title": "White pink",
           "price": "19.95",
           "position": 4,
@@ -368,8 +368,8 @@
           "image_id": 67517596926294
         },
         {
-          "product_id": 9888477479254,
           "id": 51558136381782,
+          "product_id": 9888477479254,
           "title": "White yellow",
           "price": "19.95",
           "position": 5,
@@ -398,8 +398,8 @@
       ],
       "options": [
         {
-          "product_id": 9888477479254,
           "id": 12754211733846,
+          "product_id": 9888477479254,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3422,8 +3422,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791081480534",
       "variants": [
         {
-          "product_id": 9791081480534,
           "id": 51194394542422,
+          "product_id": 9791081480534,
           "title": "Orange",
           "price": "27.87",
           "position": 1,
@@ -3450,8 +3450,8 @@
           "image_id": 66236176662870
         },
         {
-          "product_id": 9791081480534,
           "id": 51194394575190,
+          "product_id": 9791081480534,
           "title": "Green",
           "price": "27.99",
           "position": 2,
@@ -3478,8 +3478,8 @@
           "image_id": 66236176695638
         },
         {
-          "product_id": 9791081480534,
           "id": 51194394607958,
+          "product_id": 9791081480534,
           "title": "Pink",
           "price": "27.87",
           "position": 3,
@@ -3508,8 +3508,8 @@
       ],
       "options": [
         {
-          "product_id": 9791081480534,
           "id": 12640234668374,
+          "product_id": 9791081480534,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3688,8 +3688,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791235129686",
       "variants": [
         {
-          "product_id": 9791235129686,
           "id": 51195357266262,
+          "product_id": 9791235129686,
           "title": "Pink A",
           "price": "39.58",
           "position": 1,
@@ -3716,8 +3716,8 @@
           "image_id": 66238943527254
         },
         {
-          "product_id": 9791235129686,
           "id": 51195357299030,
+          "product_id": 9791235129686,
           "title": "A",
           "price": "39.58",
           "position": 2,
@@ -3744,8 +3744,8 @@
           "image_id": 66238943560022
         },
         {
-          "product_id": 9791235129686,
           "id": 51195357331798,
+          "product_id": 9791235129686,
           "title": "Pink B",
           "price": "40.96",
           "position": 3,
@@ -3772,8 +3772,8 @@
           "image_id": 66238943592790
         },
         {
-          "product_id": 9791235129686,
           "id": 51195357364566,
+          "product_id": 9791235129686,
           "title": "B",
           "price": "40.96",
           "position": 4,
@@ -3802,8 +3802,8 @@
       ],
       "options": [
         {
-          "product_id": 9791235129686,
           "id": 12640417513814,
+          "product_id": 9791235129686,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5069,8 +5069,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789376725334",
       "variants": [
         {
-          "product_id": 9789376725334,
           "id": 51187857424726,
+          "product_id": 9789376725334,
           "title": "Poultry",
           "price": "43.22",
           "position": 1,
@@ -5097,8 +5097,8 @@
           "image_id": 66221198147926
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857457494,
+          "product_id": 9789376725334,
           "title": "Owl",
           "price": "43.22",
           "position": 2,
@@ -5125,8 +5125,8 @@
           "image_id": 66221198180694
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857490262,
+          "product_id": 9789376725334,
           "title": "Batman",
           "price": "43.22",
           "position": 3,
@@ -5153,8 +5153,8 @@
           "image_id": 66221198213462
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857523030,
+          "product_id": 9789376725334,
           "title": "Flower Fairy",
           "price": "43.22",
           "position": 4,
@@ -5181,8 +5181,8 @@
           "image_id": 66221198246230
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857555798,
+          "product_id": 9789376725334,
           "title": "Universe",
           "price": "43.22",
           "position": 5,
@@ -5209,8 +5209,8 @@
           "image_id": 66221198278998
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857588566,
+          "product_id": 9789376725334,
           "title": "Green zoo",
           "price": "43.22",
           "position": 6,
@@ -5237,8 +5237,8 @@
           "image_id": 66221198311766
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857621334,
+          "product_id": 9789376725334,
           "title": "Green ball elephant",
           "price": "43.22",
           "position": 7,
@@ -5265,8 +5265,8 @@
           "image_id": 66221198344534
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857654102,
+          "product_id": 9789376725334,
           "title": "Car",
           "price": "43.22",
           "position": 8,
@@ -5293,8 +5293,8 @@
           "image_id": 66221198377302
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857686870,
+          "product_id": 9789376725334,
           "title": "Whale ocean",
           "price": "43.22",
           "position": 9,
@@ -5323,8 +5323,8 @@
       ],
       "options": [
         {
-          "product_id": 9789376725334,
           "id": 12638096392534,
+          "product_id": 9789376725334,
           "name": "Style",
           "position": 1,
           "values": [

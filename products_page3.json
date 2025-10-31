@@ -25363,8 +25363,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9735291470166",
       "variants": [
         {
-          "product_id": 9735291470166,
           "id": 50959540814166,
+          "product_id": 9735291470166,
           "title": "ET Wheel Micro Left Hand",
           "price": "50.95",
           "position": 1,
@@ -25391,8 +25391,8 @@
           "image_id": 64751593292118
         },
         {
-          "product_id": 9735291470166,
           "id": 50959540846934,
+          "product_id": 9735291470166,
           "title": "ET Wheel Micro Right Hand",
           "price": "50.95",
           "position": 2,
@@ -25419,8 +25419,8 @@
           "image_id": 64751593357654
         },
         {
-          "product_id": 9735291470166,
           "id": 50959540879702,
+          "product_id": 9735291470166,
           "title": "ET Wheel Universal Left Hand",
           "price": "55.95",
           "position": 3,
@@ -25447,8 +25447,8 @@
           "image_id": 64751593193814
         },
         {
-          "product_id": 9735291470166,
           "id": 50959540912470,
+          "product_id": 9735291470166,
           "title": "ET Wheel Universal Right Hand",
           "price": "48.95",
           "position": 4,
@@ -25477,8 +25477,8 @@
       ],
       "options": [
         {
-          "product_id": 9735291470166,
           "id": 12574158487894,
+          "product_id": 9735291470166,
           "name": "format",
           "position": 1,
           "values": [

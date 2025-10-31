@@ -3585,8 +3585,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870713815382",
       "variants": [
         {
-          "product_id": 9870713815382,
           "id": 51504809673046,
+          "product_id": 9870713815382,
           "title": "Blue / L",
           "price": "19.95",
           "position": 1,
@@ -3613,8 +3613,8 @@
           "image_id": 67399396196694
         },
         {
-          "product_id": 9870713815382,
           "id": 51504809705814,
+          "product_id": 9870713815382,
           "title": "Blue / M",
           "price": "19.90",
           "position": 2,
@@ -3641,8 +3641,8 @@
           "image_id": 67399396196694
         },
         {
-          "product_id": 9870713815382,
           "id": 51504809738582,
+          "product_id": 9870713815382,
           "title": "Blue / S",
           "price": "19.85",
           "position": 3,
@@ -3669,8 +3669,8 @@
           "image_id": 67399396196694
         },
         {
-          "product_id": 9870713815382,
           "id": 51504809771350,
+          "product_id": 9870713815382,
           "title": "Pink / L",
           "price": "19.95",
           "position": 4,
@@ -3697,8 +3697,8 @@
           "image_id": 67399396229462
         },
         {
-          "product_id": 9870713815382,
           "id": 51504809804118,
+          "product_id": 9870713815382,
           "title": "Pink / M",
           "price": "19.90",
           "position": 5,
@@ -3725,8 +3725,8 @@
           "image_id": 67399396229462
         },
         {
-          "product_id": 9870713815382,
           "id": 51504809836886,
+          "product_id": 9870713815382,
           "title": "Pink / S",
           "price": "19.85",
           "position": 6,
@@ -3755,8 +3755,8 @@
       ],
       "options": [
         {
-          "product_id": 9870713815382,
           "id": 12733861429590,
+          "product_id": 9870713815382,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3765,8 +3765,8 @@
           ]
         },
         {
-          "product_id": 9870713815382,
           "id": 12733861462358,
+          "product_id": 9870713815382,
           "name": "Size",
           "position": 2,
           "values": [
@@ -3882,8 +3882,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870824472918",
       "variants": [
         {
-          "id": 51505078501718,
           "product_id": 9870824472918,
+          "id": 51505078501718,
           "title": "Pink",
           "price": "19.95",
           "position": 1,
@@ -3910,8 +3910,8 @@
           "image_id": 67399828406614
         },
         {
-          "id": 51505078534486,
           "product_id": 9870824472918,
+          "id": 51505078534486,
           "title": "Purple",
           "price": "19.95",
           "position": 2,
@@ -3938,8 +3938,8 @@
           "image_id": 67399828439382
         },
         {
-          "id": 51505078567254,
           "product_id": 9870824472918,
+          "id": 51505078567254,
           "title": "cyan",
           "price": "19.95",
           "position": 3,
@@ -3968,8 +3968,8 @@
       ],
       "options": [
         {
-          "id": 12733996564822,
           "product_id": 9870824472918,
+          "id": 12733996564822,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8234,8 +8234,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791088460118",
       "variants": [
         {
-          "product_id": 9791088460118,
           "id": 51194420789590,
+          "product_id": 9791088460118,
           "title": "Pink",
           "price": "17.74",
           "position": 1,
@@ -8262,8 +8262,8 @@
           "image_id": 66236264055126
         },
         {
-          "product_id": 9791088460118,
           "id": 51194420822358,
+          "product_id": 9791088460118,
           "title": "Gray",
           "price": "17.74",
           "position": 2,
@@ -8292,8 +8292,8 @@
       ],
       "options": [
         {
-          "product_id": 9791088460118,
           "id": 12640242336086,
+          "product_id": 9791088460118,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9863,8 +9863,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791346442582",
       "variants": [
         {
-          "product_id": 9791346442582,
           "id": 51196011413846,
+          "product_id": 9791346442582,
           "title": "Blue",
           "price": "16.05",
           "position": 1,
@@ -9891,8 +9891,8 @@
           "image_id": 66240225608022
         },
         {
-          "product_id": 9791346442582,
           "id": 51196011446614,
+          "product_id": 9791346442582,
           "title": "Pink",
           "price": "16.05",
           "position": 2,
@@ -9919,8 +9919,8 @@
           "image_id": 66240225640790
         },
         {
-          "product_id": 9791346442582,
           "id": 51196011479382,
+          "product_id": 9791346442582,
           "title": "Green",
           "price": "16.05",
           "position": 3,
@@ -9949,8 +9949,8 @@
       ],
       "options": [
         {
-          "product_id": 9791346442582,
           "id": 12640550584662,
+          "product_id": 9791346442582,
           "name": "Color",
           "position": 1,
           "values": [
@@ -26809,8 +26809,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790004232534",
       "variants": [
         {
-          "product_id": 9790004232534,
           "id": 51190803530070,
+          "product_id": 9790004232534,
           "title": "Blue",
           "price": "36.21",
           "position": 1,
@@ -26837,8 +26837,8 @@
           "image_id": 66227227459926
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803562838,
+          "product_id": 9790004232534,
           "title": "Coffee",
           "price": "36.21",
           "position": 2,
@@ -26865,8 +26865,8 @@
           "image_id": 66227227492694
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803595606,
+          "product_id": 9790004232534,
           "title": "Rose Red",
           "price": "36.21",
           "position": 3,
@@ -26893,8 +26893,8 @@
           "image_id": 66227227525462
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803628374,
+          "product_id": 9790004232534,
           "title": "Rose Red2",
           "price": "36.21",
           "position": 4,
@@ -26921,8 +26921,8 @@
           "image_id": 66227227558230
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803661142,
+          "product_id": 9790004232534,
           "title": "Pink",
           "price": "36.21",
           "position": 5,
@@ -26949,8 +26949,8 @@
           "image_id": 66227227590998
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803693910,
+          "product_id": 9790004232534,
           "title": "cyan",
           "price": "36.21",
           "position": 6,
@@ -26977,8 +26977,8 @@
           "image_id": 66227227623766
         },
         {
-          "product_id": 9790004232534,
           "id": 51190803726678,
+          "product_id": 9790004232534,
           "title": "Cyan2",
           "price": "36.21",
           "position": 7,
@@ -27007,8 +27007,8 @@
       ],
       "options": [
         {
-          "product_id": 9790004232534,
           "id": 12638902321494,
+          "product_id": 9790004232534,
           "name": "Color",
           "position": 1,
           "values": [
@@ -27625,8 +27625,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791165464918",
       "variants": [
         {
-          "product_id": 9791165464918,
           "id": 51195169145174,
+          "product_id": 9791165464918,
           "title": "Pink Baby Bottle Brush",
           "price": "18.62",
           "position": 1,
@@ -27653,8 +27653,8 @@
           "image_id": 66238025728342
         },
         {
-          "product_id": 9791165464918,
           "id": 51195169177942,
+          "product_id": 9791165464918,
           "title": "Green Baby Bottle Brush",
           "price": "18.62",
           "position": 2,
@@ -27681,8 +27681,8 @@
           "image_id": 66238025761110
         },
         {
-          "product_id": 9791165464918,
           "id": 51195169210710,
+          "product_id": 9791165464918,
           "title": "Yellow Baby Bottle Brush",
           "price": "18.62",
           "position": 3,
@@ -27711,8 +27711,8 @@
       ],
       "options": [
         {
-          "product_id": 9791165464918,
           "id": 12640339820886,
+          "product_id": 9791165464918,
           "name": "Color",
           "position": 1,
           "values": [

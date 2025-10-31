@@ -1444,8 +1444,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791345033558",
       "variants": [
         {
-          "product_id": 9791345033558,
           "id": 51196001648982,
+          "product_id": 9791345033558,
           "title": "Pink / 280ml",
           "price": "49.05",
           "position": 1,
@@ -1472,8 +1472,8 @@
           "image_id": 66240190153046
         },
         {
-          "product_id": 9791345033558,
           "id": 51196001681750,
+          "product_id": 9791345033558,
           "title": "Green / 160ml",
           "price": "49.05",
           "position": 2,
@@ -1500,8 +1500,8 @@
           "image_id": 66240190185814
         },
         {
-          "product_id": 9791345033558,
           "id": 51196001714518,
+          "product_id": 9791345033558,
           "title": "Green / 280ml",
           "price": "49.05",
           "position": 3,
@@ -1528,8 +1528,8 @@
           "image_id": 66240190218582
         },
         {
-          "product_id": 9791345033558,
           "id": 51196001747286,
+          "product_id": 9791345033558,
           "title": "Pink / 160ml",
           "price": "49.05",
           "position": 4,
@@ -1558,8 +1558,8 @@
       ],
       "options": [
         {
-          "product_id": 9791345033558,
           "id": 12640548847958,
+          "product_id": 9791345033558,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1568,8 +1568,8 @@
           ]
         },
         {
-          "product_id": 9791345033558,
           "id": 12640548880726,
+          "product_id": 9791345033558,
           "name": "Size",
           "position": 2,
           "values": [
@@ -5626,8 +5626,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791088460118",
       "variants": [
         {
-          "product_id": 9791088460118,
           "id": 51194420789590,
+          "product_id": 9791088460118,
           "title": "Pink",
           "price": "17.74",
           "position": 1,
@@ -5654,8 +5654,8 @@
           "image_id": 66236264055126
         },
         {
-          "product_id": 9791088460118,
           "id": 51194420822358,
+          "product_id": 9791088460118,
           "title": "Gray",
           "price": "17.74",
           "position": 2,
@@ -5684,8 +5684,8 @@
       ],
       "options": [
         {
-          "product_id": 9791088460118,
           "id": 12640242336086,
+          "product_id": 9791088460118,
           "name": "Color",
           "position": 1,
           "values": [
@@ -27362,8 +27362,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789944791382",
       "variants": [
         {
-          "product_id": 9789944791382,
           "id": 51190325903702,
+          "product_id": 9789944791382,
           "title": "Blue / USB",
           "price": "40.19",
           "position": 1,
@@ -27390,8 +27390,8 @@
           "image_id": 66225595842902
         },
         {
-          "product_id": 9789944791382,
           "id": 51190325936470,
+          "product_id": 9789944791382,
           "title": "Green / USB",
           "price": "40.19",
           "position": 2,
@@ -27420,8 +27420,8 @@
       ],
       "options": [
         {
-          "product_id": 9789944791382,
           "id": 12638803067222,
+          "product_id": 9789944791382,
           "name": "Color",
           "position": 1,
           "values": [
@@ -27430,8 +27430,8 @@
           ]
         },
         {
-          "product_id": 9789944791382,
           "id": 12638803099990,
+          "product_id": 9789944791382,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
