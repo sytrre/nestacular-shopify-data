@@ -24896,8 +24896,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9841019486550",
       "variants": [
         {
-          "id": 51392566100310,
           "product_id": 9841019486550,
+          "id": 51392566100310,
           "title": "Blue Ordinary",
           "price": "80.95",
           "position": 1,
@@ -24924,8 +24924,8 @@
           "image_id": 67077865177430
         },
         {
-          "id": 51392566133078,
           "product_id": 9841019486550,
+          "id": 51392566133078,
           "title": "Blue flagship",
           "price": "82.95",
           "position": 2,
@@ -24952,8 +24952,8 @@
           "image_id": 67077865210198
         },
         {
-          "id": 51392566165846,
           "product_id": 9841019486550,
+          "id": 51392566165846,
           "title": "Blue upgrade",
           "price": "81.95",
           "position": 3,
@@ -24980,8 +24980,8 @@
           "image_id": 67077865242966
         },
         {
-          "id": 51392566198614,
           "product_id": 9841019486550,
+          "id": 51392566198614,
           "title": "Pink Ordinary",
           "price": "80.95",
           "position": 4,
@@ -25008,8 +25008,8 @@
           "image_id": 67077865275734
         },
         {
-          "id": 51392566231382,
           "product_id": 9841019486550,
+          "id": 51392566231382,
           "title": "Pink flagship",
           "price": "82.95",
           "position": 5,
@@ -25036,8 +25036,8 @@
           "image_id": 67077865308502
         },
         {
-          "id": 51392566264150,
           "product_id": 9841019486550,
+          "id": 51392566264150,
           "title": "Pink upgrade",
           "price": "81.95",
           "position": 6,
@@ -25066,8 +25066,8 @@
       ],
       "options": [
         {
-          "id": 12699103330646,
           "product_id": 9841019486550,
+          "id": 12699103330646,
           "name": "Color",
           "position": 1,
           "values": [
