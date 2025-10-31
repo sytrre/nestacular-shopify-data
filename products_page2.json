@@ -70122,7 +70122,7 @@
       "product_type": "0",
       "created_at": "2025-09-01T07:45:55+01:00",
       "handle": "inflatable-baby-support-seat-easy-to-carry-infant-chair",
-      "updated_at": "2025-10-30T11:46:57+00:00",
+      "updated_at": "2025-10-31T00:03:03+00:00",
       "published_at": "2025-09-01T07:46:13+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -70131,8 +70131,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791153439062",
       "variants": [
         {
-          "product_id": 9791153439062,
           "id": 51195089322326,
+          "product_id": 9791153439062,
           "title": "Extra Large Bear Base",
           "price": "44.95",
           "position": 1,
@@ -70159,8 +70159,8 @@
           "image_id": 66237304930646
         },
         {
-          "product_id": 9791153439062,
           "id": 51195089355094,
+          "product_id": 9791153439062,
           "title": "Large Bear Foundation",
           "price": "37.95",
           "position": 2,
@@ -70187,8 +70187,8 @@
           "image_id": 66237309223254
         },
         {
-          "product_id": 9791153439062,
           "id": 51195089387862,
+          "product_id": 9791153439062,
           "title": "Large Dinosaur Planet",
           "price": "37.95",
           "position": 3,
@@ -70215,8 +70215,8 @@
           "image_id": 66237309256022
         },
         {
-          "product_id": 9791153439062,
           "id": 51195089420630,
+          "product_id": 9791153439062,
           "title": "Large Love Rabbit Foundation",
           "price": "37.95",
           "position": 4,
@@ -70245,8 +70245,8 @@
       ],
       "options": [
         {
-          "product_id": 9791153439062,
           "id": 12640325894486,
+          "product_id": 9791153439062,
           "name": "Color",
           "position": 1,
           "values": [

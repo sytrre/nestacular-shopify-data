@@ -21306,7 +21306,7 @@
       "product_type": "0",
       "created_at": "2025-09-01T07:45:55+01:00",
       "handle": "inflatable-baby-support-seat-easy-to-carry-infant-chair",
-      "updated_at": "2025-10-30T11:46:57+00:00",
+      "updated_at": "2025-10-31T00:03:03+00:00",
       "published_at": "2025-09-01T07:46:13+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -21315,8 +21315,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791153439062",
       "variants": [
         {
-          "product_id": 9791153439062,
           "id": 51195089322326,
+          "product_id": 9791153439062,
           "title": "Extra Large Bear Base",
           "price": "44.95",
           "position": 1,
@@ -21343,8 +21343,8 @@
           "image_id": 66237304930646
         },
         {
-          "product_id": 9791153439062,
           "id": 51195089355094,
+          "product_id": 9791153439062,
           "title": "Large Bear Foundation",
           "price": "37.95",
           "position": 2,
@@ -21371,8 +21371,8 @@
           "image_id": 66237309223254
         },
         {
-          "product_id": 9791153439062,
           "id": 51195089387862,
+          "product_id": 9791153439062,
           "title": "Large Dinosaur Planet",
           "price": "37.95",
           "position": 3,
@@ -21399,8 +21399,8 @@
           "image_id": 66237309256022
         },
         {
-          "product_id": 9791153439062,
           "id": 51195089420630,
+          "product_id": 9791153439062,
           "title": "Large Love Rabbit Foundation",
           "price": "37.95",
           "position": 4,
@@ -21429,8 +21429,8 @@
       ],
       "options": [
         {
-          "product_id": 9791153439062,
           "id": 12640325894486,
+          "product_id": 9791153439062,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29681,7 +29681,7 @@
       "product_type": "0",
       "created_at": "2025-09-17T15:57:01+01:00",
       "handle": "woodynest-wooden-double-layer-solid-wood-baby-height-chair-durable-beech-construction-adjustable-design-essential-feeding-equipment-for-babies-toddlers",
-      "updated_at": "2025-10-30T14:47:44+00:00",
+      "updated_at": "2025-10-31T00:06:45+00:00",
       "published_at": "2025-09-17T16:02:18+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -29701,7 +29701,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-09-17T15:57:14+01:00",
-          "updated_at": "2025-10-30T14:47:45+00:00",
+          "updated_at": "2025-10-31T00:06:45+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -29712,8 +29712,8 @@
           "weight": 5220.0,
           "weight_unit": "g",
           "inventory_item_id": 53564438217046,
-          "inventory_quantity": 56,
-          "old_inventory_quantity": 56,
+          "inventory_quantity": 44,
+          "old_inventory_quantity": 44,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51339723276630",
           "image_id": 66903240507734
         }

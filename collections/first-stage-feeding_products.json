@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916384280918",
       "variants": [
         {
-          "product_id": 9916384280918,
           "id": 51675187642710,
+          "product_id": 9916384280918,
           "title": "Assorted Color",
           "price": "29.95",
           "position": 1,
@@ -54,8 +54,8 @@
       ],
       "options": [
         {
-          "product_id": 9916384280918,
           "id": 12787248333142,
+          "product_id": 9916384280918,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7380,7 +7380,7 @@
       "product_type": "Baby Nipple",
       "created_at": "2025-09-01T08:30:28+01:00",
       "handle": "honeybuds-silicone-baby-nipple",
-      "updated_at": "2025-10-30T12:32:25+00:00",
+      "updated_at": "2025-10-31T00:24:00+00:00",
       "published_at": "2025-09-01T08:30:40+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -7645,7 +7645,7 @@
       "product_type": "Baby Feeding Spoons",
       "created_at": "2025-09-02T05:30:29+01:00",
       "handle": "hugsy-baby-feeding-spoons",
-      "updated_at": "2025-10-30T12:32:34+00:00",
+      "updated_at": "2025-10-31T00:21:46+00:00",
       "published_at": "2025-09-02T05:30:38+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -8678,7 +8678,7 @@
       "product_type": "Baby Nipple",
       "created_at": "2025-09-01T07:52:01+01:00",
       "handle": "jollybean-liquid-silicone-baby-nipple",
-      "updated_at": "2025-10-30T12:32:48+00:00",
+      "updated_at": "2025-10-31T00:37:14+00:00",
       "published_at": "2025-09-01T07:52:14+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -26534,7 +26534,7 @@
       "product_type": "0",
       "created_at": "2025-09-01T07:45:55+01:00",
       "handle": "inflatable-baby-support-seat-easy-to-carry-infant-chair",
-      "updated_at": "2025-10-30T11:46:57+00:00",
+      "updated_at": "2025-10-31T00:03:03+00:00",
       "published_at": "2025-09-01T07:46:13+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -26543,8 +26543,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791153439062",
       "variants": [
         {
-          "product_id": 9791153439062,
           "id": 51195089322326,
+          "product_id": 9791153439062,
           "title": "Extra Large Bear Base",
           "price": "44.95",
           "position": 1,
@@ -26571,8 +26571,8 @@
           "image_id": 66237304930646
         },
         {
-          "product_id": 9791153439062,
           "id": 51195089355094,
+          "product_id": 9791153439062,
           "title": "Large Bear Foundation",
           "price": "37.95",
           "position": 2,
@@ -26599,8 +26599,8 @@
           "image_id": 66237309223254
         },
         {
-          "product_id": 9791153439062,
           "id": 51195089387862,
+          "product_id": 9791153439062,
           "title": "Large Dinosaur Planet",
           "price": "37.95",
           "position": 3,
@@ -26627,8 +26627,8 @@
           "image_id": 66237309256022
         },
         {
-          "product_id": 9791153439062,
           "id": 51195089420630,
+          "product_id": 9791153439062,
           "title": "Large Love Rabbit Foundation",
           "price": "37.95",
           "position": 4,
@@ -26657,8 +26657,8 @@
       ],
       "options": [
         {
-          "product_id": 9791153439062,
           "id": 12640325894486,
+          "product_id": 9791153439062,
           "name": "Color",
           "position": 1,
           "values": [
