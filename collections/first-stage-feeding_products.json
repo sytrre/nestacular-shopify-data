@@ -17521,8 +17521,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791836586326",
       "variants": [
         {
-          "product_id": 9791836586326,
           "id": 51197694837078,
+          "product_id": 9791836586326,
           "title": "Random color mixing / 1PCS",
           "price": "24.81",
           "position": 1,
@@ -17549,8 +17549,8 @@
           "image_id": 66245934154070
         },
         {
-          "product_id": 9791836586326,
           "id": 51197694869846,
+          "product_id": 9791836586326,
           "title": "Random color mixing / 5PCS",
           "price": "25.57",
           "position": 2,
@@ -17579,8 +17579,8 @@
       ],
       "options": [
         {
-          "product_id": 9791836586326,
           "id": 12641115636054,
+          "product_id": 9791836586326,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17588,8 +17588,8 @@
           ]
         },
         {
-          "product_id": 9791836586326,
           "id": 12641115668822,
+          "product_id": 9791836586326,
           "name": "quantity",
           "position": 2,
           "values": [
