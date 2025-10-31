@@ -2456,8 +2456,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214519638",
       "variants": [
         {
-          "product_id": 9765214519638,
           "id": 51084619055446,
+          "product_id": 9765214519638,
           "title": "Blue",
           "price": "26.42",
           "position": 1,
@@ -2484,8 +2484,8 @@
           "image_id": 66259654803798
         },
         {
-          "product_id": 9765214519638,
           "id": 51084619088214,
+          "product_id": 9765214519638,
           "title": "Pink",
           "price": "29.08",
           "position": 2,
@@ -2512,8 +2512,8 @@
           "image_id": 66259479920982
         },
         {
-          "product_id": 9765214519638,
           "id": 51084619120982,
+          "product_id": 9765214519638,
           "title": "Green",
           "price": "28.56",
           "position": 3,
@@ -2542,8 +2542,8 @@
       ],
       "options": [
         {
-          "product_id": 9765214519638,
           "id": 12609650065750,
+          "product_id": 9765214519638,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9430,8 +9430,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791063392598",
       "variants": [
         {
-          "product_id": 9791063392598,
           "id": 51194333299030,
+          "product_id": 9791063392598,
           "title": "S",
           "price": "31.29",
           "position": 1,
@@ -9458,8 +9458,8 @@
           "image_id": 66235947254102
         },
         {
-          "product_id": 9791063392598,
           "id": 51194333331798,
+          "product_id": 9791063392598,
           "title": "M",
           "price": "31.29",
           "position": 2,
@@ -9486,8 +9486,8 @@
           "image_id": 66235947286870
         },
         {
-          "product_id": 9791063392598,
           "id": 51194333364566,
+          "product_id": 9791063392598,
           "title": "L",
           "price": "31.29",
           "position": 3,
@@ -9514,8 +9514,8 @@
           "image_id": 66235947319638
         },
         {
-          "product_id": 9791063392598,
           "id": 51194333397334,
+          "product_id": 9791063392598,
           "title": "XL",
           "price": "31.29",
           "position": 4,
@@ -9544,8 +9544,8 @@
       ],
       "options": [
         {
-          "product_id": 9791063392598,
           "id": 12640213696854,
+          "product_id": 9791063392598,
           "name": "Size",
           "position": 1,
           "values": [
@@ -12170,8 +12170,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791245320534",
       "variants": [
         {
-          "product_id": 9791245320534,
           "id": 51195416346966,
+          "product_id": 9791245320534,
           "title": "Grey / Suit",
           "price": "17.34",
           "position": 1,
@@ -12198,8 +12198,8 @@
           "image_id": 66239087149398
         },
         {
-          "product_id": 9791245320534,
           "id": 51195416379734,
+          "product_id": 9791245320534,
           "title": "Blue / Suit",
           "price": "17.34",
           "position": 2,
@@ -12226,8 +12226,8 @@
           "image_id": 66239087182166
         },
         {
-          "product_id": 9791245320534,
           "id": 51195416412502,
+          "product_id": 9791245320534,
           "title": "Pink / Suit",
           "price": "17.34",
           "position": 3,
@@ -12256,8 +12256,8 @@
       ],
       "options": [
         {
-          "product_id": 9791245320534,
           "id": 12640430031190,
+          "product_id": 9791245320534,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12267,8 +12267,8 @@
           ]
         },
         {
-          "product_id": 9791245320534,
           "id": 12640430063958,
+          "product_id": 9791245320534,
           "name": "style",
           "position": 2,
           "values": [
@@ -38942,8 +38942,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649363798",
       "variants": [
         {
-          "product_id": 9792649363798,
           "id": 51201111753046,
+          "product_id": 9792649363798,
           "title": "Pink",
           "price": "15.44",
           "position": 1,
@@ -38970,8 +38970,8 @@
           "image_id": 66252997493078
         },
         {
-          "product_id": 9792649363798,
           "id": 51201111785814,
+          "product_id": 9792649363798,
           "title": "Green small",
           "price": "15.44",
           "position": 2,
@@ -38998,8 +38998,8 @@
           "image_id": 66252997525846
         },
         {
-          "product_id": 9792649363798,
           "id": 51201111818582,
+          "product_id": 9792649363798,
           "title": "Dark green small",
           "price": "15.44",
           "position": 3,
@@ -39026,8 +39026,8 @@
           "image_id": 66252997558614
         },
         {
-          "product_id": 9792649363798,
           "id": 51201111851350,
+          "product_id": 9792649363798,
           "title": "Purple small",
           "price": "15.44",
           "position": 4,
@@ -39056,8 +39056,8 @@
       ],
       "options": [
         {
-          "product_id": 9792649363798,
           "id": 12642096447830,
+          "product_id": 9792649363798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -74713,8 +74713,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791387074902",
       "variants": [
         {
-          "product_id": 9791387074902,
           "id": 51196297740630,
+          "product_id": 9791387074902,
           "title": "Light Green 2pcs",
           "price": "16.56",
           "position": 1,
@@ -74741,8 +74741,8 @@
           "image_id": 66241138295126
         },
         {
-          "product_id": 9791387074902,
           "id": 51196297773398,
+          "product_id": 9791387074902,
           "title": "Light Pink 2pcs",
           "price": "16.56",
           "position": 2,
@@ -74769,8 +74769,8 @@
           "image_id": 66241138327894
         },
         {
-          "product_id": 9791387074902,
           "id": 51196297806166,
+          "product_id": 9791387074902,
           "title": "Light Green",
           "price": "16.18",
           "position": 3,
@@ -74797,8 +74797,8 @@
           "image_id": 66241138360662
         },
         {
-          "product_id": 9791387074902,
           "id": 51196297838934,
+          "product_id": 9791387074902,
           "title": "Light Pink",
           "price": "16.18",
           "position": 4,
@@ -74827,8 +74827,8 @@
       ],
       "options": [
         {
-          "product_id": 9791387074902,
           "id": 12640603570518,
+          "product_id": 9791387074902,
           "name": "Color",
           "position": 1,
           "values": [

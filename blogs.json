@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-10-31T09:00:12+00:00",
+      "updated_at": "2025-10-31T12:11:33+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -21,12 +21,19 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-10-28T14:51:04+00:00",
-          "summary_html": "",
+          "updated_at": "2025-10-31T12:11:33+00:00",
+          "summary_html": "<p>The Stokke Tripp Trapp has set the standard for stylish, ergonomic high chairs since 1972—but its £365+ price tag leaves many parents searching for smarter options. This in-depth guide compares five top-rated wooden grow-with-me alternatives that deliver the same safety, comfort, and longevity at a fraction of the cost. From the budget-friendly Hauck Alpha+ to the premium-value BeechNest Convertible High Chair, discover which model fits your family, space, and budget best.</p>",
           "template_suffix": "article",
           "handle": "5-stokke-tripp-trapp-alternatives-that-wont-destroy-your-budget",
           "tags": "High Chairs",
-          "admin_graphql_api_id": "gid://shopify/Article/610876981590"
+          "admin_graphql_api_id": "gid://shopify/Article/610876981590",
+          "image": {
+            "created_at": "2025-10-31T12:11:32+00:00",
+            "alt": "Happy baby boy in wooden high chair, white kitchen",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_5a664764-6755-4972-a230-8000bfa43fae.png?v=1761912693"
+          }
         },
         {
           "id": 610876358998,
@@ -658,18 +665,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-20T15:30:49+01:00",
+          "updated_at": "2025-10-31T11:58:13+00:00",
           "summary_html": "<p>Long sleeve vs. regular baby bibs—what's really best for your child? This comprehensive guide explores the pros, cons, and ideal use cases for both bib styles. Learn how to choose based on your baby's age, feeding habits, climate, and mess levels. Plus, get product recommendations, stain-fighting tips, and expert-backed insights to simplify mealtime cleanup.</p>",
           "template_suffix": "article",
           "handle": "long-sleeve-bibs-vs-regular-when-you-need-full-coverage",
           "tags": "Baby Bibs, Baby Mess Management",
           "admin_graphql_api_id": "gid://shopify/Article/610714419542",
           "image": {
-            "created_at": "2025-10-20T15:29:50+01:00",
+            "created_at": "2025-10-31T11:58:12+00:00",
             "alt": "Cute baby in long-sleeved bib, messy eating, happy.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_596704a7-9e5e-45d4-81d1-ef993ae0f67a.jpg?v=1760970591"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_797a81ca-618e-42a5-8bf6-4386c38277f9.jpg?v=1761911893"
           }
         },
         {

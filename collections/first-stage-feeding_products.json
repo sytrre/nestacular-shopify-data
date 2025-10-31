@@ -2745,8 +2745,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649363798",
       "variants": [
         {
-          "product_id": 9792649363798,
           "id": 51201111753046,
+          "product_id": 9792649363798,
           "title": "Pink",
           "price": "15.44",
           "position": 1,
@@ -2773,8 +2773,8 @@
           "image_id": 66252997493078
         },
         {
-          "product_id": 9792649363798,
           "id": 51201111785814,
+          "product_id": 9792649363798,
           "title": "Green small",
           "price": "15.44",
           "position": 2,
@@ -2801,8 +2801,8 @@
           "image_id": 66252997525846
         },
         {
-          "product_id": 9792649363798,
           "id": 51201111818582,
+          "product_id": 9792649363798,
           "title": "Dark green small",
           "price": "15.44",
           "position": 3,
@@ -2829,8 +2829,8 @@
           "image_id": 66252997558614
         },
         {
-          "product_id": 9792649363798,
           "id": 51201111851350,
+          "product_id": 9792649363798,
           "title": "Purple small",
           "price": "15.44",
           "position": 4,
@@ -2859,8 +2859,8 @@
       ],
       "options": [
         {
-          "product_id": 9792649363798,
           "id": 12642096447830,
+          "product_id": 9792649363798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6512,8 +6512,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791387074902",
       "variants": [
         {
-          "product_id": 9791387074902,
           "id": 51196297740630,
+          "product_id": 9791387074902,
           "title": "Light Green 2pcs",
           "price": "16.56",
           "position": 1,
@@ -6540,8 +6540,8 @@
           "image_id": 66241138295126
         },
         {
-          "product_id": 9791387074902,
           "id": 51196297773398,
+          "product_id": 9791387074902,
           "title": "Light Pink 2pcs",
           "price": "16.56",
           "position": 2,
@@ -6568,8 +6568,8 @@
           "image_id": 66241138327894
         },
         {
-          "product_id": 9791387074902,
           "id": 51196297806166,
+          "product_id": 9791387074902,
           "title": "Light Green",
           "price": "16.18",
           "position": 3,
@@ -6596,8 +6596,8 @@
           "image_id": 66241138360662
         },
         {
-          "product_id": 9791387074902,
           "id": 51196297838934,
+          "product_id": 9791387074902,
           "title": "Light Pink",
           "price": "16.18",
           "position": 4,
@@ -6626,8 +6626,8 @@
       ],
       "options": [
         {
-          "product_id": 9791387074902,
           "id": 12640603570518,
+          "product_id": 9791387074902,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15136,8 +15136,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649036118",
       "variants": [
         {
-          "product_id": 9792649036118,
           "id": 51201111064918,
+          "product_id": 9792649036118,
           "title": "Blue",
           "price": "16.91",
           "position": 1,
@@ -15164,8 +15164,8 @@
           "image_id": 66252993954134
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111097686,
+          "product_id": 9792649036118,
           "title": "Pink",
           "price": "16.91",
           "position": 2,
@@ -15192,8 +15192,8 @@
           "image_id": 66252993986902
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111130454,
+          "product_id": 9792649036118,
           "title": "Antique Silver",
           "price": "16.91",
           "position": 3,
@@ -15220,8 +15220,8 @@
           "image_id": 66252994019670
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111163222,
+          "product_id": 9792649036118,
           "title": "Green",
           "price": "16.91",
           "position": 4,
@@ -15248,8 +15248,8 @@
           "image_id": 66252994052438
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111195990,
+          "product_id": 9792649036118,
           "title": "Antique Silver 3 net pockets",
           "price": "17.10",
           "position": 5,
@@ -15276,8 +15276,8 @@
           "image_id": 66252994085206
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111228758,
+          "product_id": 9792649036118,
           "title": "Blue 3 net pockets",
           "price": "17.10",
           "position": 6,
@@ -15304,8 +15304,8 @@
           "image_id": 66252994117974
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111261526,
+          "product_id": 9792649036118,
           "title": "Green 3 net pockets",
           "price": "17.10",
           "position": 7,
@@ -15332,8 +15332,8 @@
           "image_id": 66252994150742
         },
         {
-          "product_id": 9792649036118,
           "id": 51201111294294,
+          "product_id": 9792649036118,
           "title": "Pink 3 net pockets",
           "price": "17.10",
           "position": 8,
@@ -15362,8 +15362,8 @@
       ],
       "options": [
         {
-          "product_id": 9792649036118,
           "id": 12642096054614,
+          "product_id": 9792649036118,
           "name": "Color",
           "position": 1,
           "values": [
