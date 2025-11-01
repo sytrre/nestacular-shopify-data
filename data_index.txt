@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-11-01T11:40:13.355749Z
+Generated: 2025-11-01T12:40:49.488614Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (89 collections) ===
+=== COLLECTION PRODUCT FILES (92 collections) ===
 
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
@@ -32,6 +32,7 @@ BLOGS (1 pages):
 • baby-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-tableware_products.json
 • babys-first-halloween-party-prep: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/babys-first-halloween-party-prep_products.json
 • bamboo-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bamboo-tableware_products.json
+• baptism-christening-guest-gift-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baptism-christening-guest-gift-essentials_products.json
 • bear-party-decorations: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bear-party-decorations_products.json
 • bibs-and-coveralls: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bibs-and-coveralls_products.json
 • booster-seats-for-dining-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/booster-seats-for-dining-chairs_products.json
@@ -51,6 +52,7 @@ BLOGS (1 pages):
 • fall-sports-season-sideline-baby-feeding-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/fall-sports-season-sideline-baby-feeding-kit_products.json
 • first-birthday-gifts: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/first-birthday-gifts_products.json
 • first-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/first-stage-feeding_products.json
+• first-thanksgiving-meal-baby-feeding-setup: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/first-thanksgiving-meal-baby-feeding-setup_products.json
 • flu-season-immune-support-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/flu-season-immune-support-feeding-essentials_products.json
 • foldable-baby-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/foldable-baby-chair_products.json
 • food-storage-containers: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/food-storage-containers_products.json
@@ -101,6 +103,7 @@ BLOGS (1 pages):
 • toddler-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-chair_products.json
 • toddler-independence-milestone-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-independence-milestone-kit_products.json
 • toddler-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-stage-feeding_products.json
+• travel-baby-bottle: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-baby-bottle_products.json
 • travel-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-high-chairs_products.json
 • twins-multiples-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/twins-multiples-feeding-essentials_products.json
 • weaning-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weaning-stage-feeding_products.json
