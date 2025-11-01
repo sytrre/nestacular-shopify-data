@@ -45414,8 +45414,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9815569039702",
       "variants": [
         {
-          "product_id": 9815569039702,
           "id": 51293618012502,
+          "product_id": 9815569039702,
           "title": "White [single Cup, Single Blade, 316 Full Steel] 12 Pages, Blade Head, 300 Ml",
           "price": "29.95",
           "position": 1,
@@ -45442,8 +45442,8 @@
           "image_id": 66597175722326
         },
         {
-          "product_id": 9815569039702,
           "id": 51293618045270,
+          "product_id": 9815569039702,
           "title": "White [double Cups, Double Blades, 316 Full Steel] 12 Blade Head, 300 Ml",
           "price": "31.95",
           "position": 2,
@@ -45470,8 +45470,8 @@
           "image_id": 66597175722326
         },
         {
-          "product_id": 9815569039702,
           "id": 51293618078038,
+          "product_id": 9815569039702,
           "title": "Blue [double Cups, Double Blades, 316 All-steel] 12 Pages, Blade Head, 300 Ml",
           "price": "31.95",
           "position": 3,
@@ -45498,8 +45498,8 @@
           "image_id": 66596852367702
         },
         {
-          "product_id": 9815569039702,
           "id": 51293618110806,
+          "product_id": 9815569039702,
           "title": "Blue [single Cup, Single Blade, 316 All-steel] 12, Blade Head, 300 Ml",
           "price": "31.95",
           "position": 4,
@@ -45528,8 +45528,8 @@
       ],
       "options": [
         {
-          "product_id": 9815569039702,
           "id": 12668941926742,
+          "product_id": 9815569039702,
           "name": "color",
           "position": 1,
           "values": [
@@ -56768,8 +56768,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852560245078",
       "variants": [
         {
-          "product_id": 9852560245078,
           "id": 51440532685142,
+          "product_id": 9852560245078,
           "title": "Black",
           "price": "30.95",
           "position": 1,
@@ -56796,8 +56796,8 @@
           "image_id": 67226435027286
         },
         {
-          "product_id": 9852560245078,
           "id": 51440532717910,
+          "product_id": 9852560245078,
           "title": "Blue",
           "price": "30.95",
           "position": 2,
@@ -56824,8 +56824,8 @@
           "image_id": 67226435060054
         },
         {
-          "product_id": 9852560245078,
           "id": 51440532750678,
+          "product_id": 9852560245078,
           "title": "Grey",
           "price": "30.95",
           "position": 3,
@@ -56852,8 +56852,8 @@
           "image_id": 67226435092822
         },
         {
-          "product_id": 9852560245078,
           "id": 51440532783446,
+          "product_id": 9852560245078,
           "title": "Pink",
           "price": "30.95",
           "position": 4,
@@ -56882,8 +56882,8 @@
       ],
       "options": [
         {
-          "product_id": 9852560245078,
           "id": 12713097855318,
+          "product_id": 9852560245078,
           "name": "Color",
           "position": 1,
           "values": [
