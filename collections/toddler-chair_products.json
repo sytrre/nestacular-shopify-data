@@ -9498,8 +9498,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9827670851926",
       "variants": [
         {
-          "id": 51344608330070,
           "product_id": 9827670851926,
+          "id": 51344608330070,
           "title": "Avocado",
           "price": "182.95",
           "position": 1,
@@ -9526,8 +9526,8 @@
           "image_id": 66928956801366
         },
         {
-          "id": 51344608362838,
           "product_id": 9827670851926,
+          "id": 51344608362838,
           "title": "Dark Blue",
           "price": "182.95",
           "position": 2,
@@ -9554,8 +9554,8 @@
           "image_id": 66928956834134
         },
         {
-          "id": 51344608395606,
           "product_id": 9827670851926,
+          "id": 51344608395606,
           "title": "Khaki",
           "price": "182.95",
           "position": 3,
@@ -9582,8 +9582,8 @@
           "image_id": 66928956866902
         },
         {
-          "id": 51344608428374,
           "product_id": 9827670851926,
+          "id": 51344608428374,
           "title": "Pink",
           "price": "182.95",
           "position": 4,
@@ -9612,8 +9612,8 @@
       ],
       "options": [
         {
-          "id": 12683789664598,
           "product_id": 9827670851926,
+          "id": 12683789664598,
           "name": "Color",
           "position": 1,
           "values": [
