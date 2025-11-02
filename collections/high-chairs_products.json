@@ -20631,8 +20631,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844717453654",
       "variants": [
         {
-          "id": 51409298850134,
           "product_id": 9844717453654,
+          "id": 51409298850134,
           "title": "Coffee",
           "price": "114.95",
           "position": 1,
@@ -20659,8 +20659,8 @@
           "image_id": 67125506572630
         },
         {
-          "id": 51409298882902,
           "product_id": 9844717453654,
+          "id": 51409298882902,
           "title": "Grey",
           "price": "114.95",
           "position": 2,
@@ -20689,8 +20689,8 @@
       ],
       "options": [
         {
-          "id": 12703658344790,
           "product_id": 9844717453654,
+          "id": 12703658344790,
           "name": "Color",
           "position": 1,
           "values": [
