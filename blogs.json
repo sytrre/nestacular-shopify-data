@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-02T16:17:29+00:00",
+      "updated_at": "2025-11-02T17:39:03+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "High Chairs, Baby Bottles, Baby Tableware, Baby Bottle Feeding, Guide, Tips, Baby Mess Management, Baby Bibs, Baby Feeding Stages, Baby-Led Weaning, Thoughtful Baby Gift Giving, Thoughtful Baby Gifting Guide, Thoughtful Baby Gift Giving & Registry Building, Baby Feeding Gift Guides & Registry Essentials, Sustainable & Eco-Conscious Baby Feeding, Premium Baby Gift Guides & Registry Building, Baby Shower & Gift Giving Guide, Gift Giving & Baby Shower Essentials, Gift Guides & Baby Shower Essentials, Baby-Led Weaning & First Foods, High Chair Selection & Feeding Furniture, Gift Guides & Baby Registry Essentials, Non-Toxic Baby Products & Material Safety, Gift Guides for New Parents",
       "admin_graphql_api_id": "gid://shopify/Blog/116861632854",
       "articles": [
+        {
+          "id": 610911650134,
+          "title": "Lalo 'The Chair' vs. Stokke Clikk: Why You Might Need a Third Option",
+          "created_at": "2025-11-02T17:39:03+00:00",
+          "blog_id": 116861632854,
+          "author": "Valentine Okpala",
+          "user_id": 114325520726,
+          "published_at": null,
+          "updated_at": "2025-11-02T17:39:03+00:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "lalo-the-chair-vs-stokke-clikk-why-you-might-need-a-third-option",
+          "tags": "High Chairs",
+          "admin_graphql_api_id": "gid://shopify/Article/610911650134"
+        },
         {
           "id": 610911355222,
           "title": "5 High Chairs with the Footrest Your Baby Needs (That Aren't the Stokke)",
