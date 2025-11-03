@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-03T08:39:01+00:00",
+      "updated_at": "2025-11-03T12:38:56+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -108,10 +108,10 @@
           "title": "Lalo 'The Chair' vs. Stokke Clikk: Why You Might Need a Third Option",
           "created_at": "2025-11-02T17:39:03+00:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-02T17:39:03+00:00",
+          "updated_at": "2025-11-03T12:35:21+00:00",
           "summary_html": "",
           "template_suffix": "article",
           "handle": "lalo-the-chair-vs-stokke-clikk-why-you-might-need-a-third-option",
@@ -126,27 +126,41 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-11-02T16:17:29+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-03T12:38:56+00:00",
+          "summary_html": "<p data-start=\"162\" data-end=\"649\">Your baby’s high chair isn’t just about convenience — it’s about safety. Missing footrests, like on the IKEA Antilop, can increase choking risk by up to 40%. This guide explains why proper foot support is essential for posture and swallowing safety, and reviews five affordable high chairs with adjustable footrests — from the £121 Higgi Adjustable to the stylish Hauck Alpha+. Find out how to choose the safest, most ergonomic option for your family without spending £365 on a Stokke.</p>",
           "template_suffix": "article",
           "handle": "5-high-chairs-with-the-footrest-your-baby-needs-that-arent-the-stokke",
           "tags": "High Chairs",
-          "admin_graphql_api_id": "gid://shopify/Article/610911355222"
+          "admin_graphql_api_id": "gid://shopify/Article/610911355222",
+          "image": {
+            "created_at": "2025-11-03T12:38:54+00:00",
+            "alt": "Baby in Higgi high chair eats as mom washes dishes",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_6a360ec0-b05e-4c7a-8334-35f397de8c89.png?v=1762173536"
+          }
         },
         {
           "id": 610910503254,
           "title": "Stokke Tripp Trapp vs. Ikea Antilop: Why You Might Need a Third Option",
           "created_at": "2025-11-02T13:23:34+00:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-02T13:23:34+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-03T12:28:58+00:00",
+          "summary_html": "<p>Caught between the £20 IKEA Antilop and the £265+ Stokke Tripp Trapp? You’re not alone. This in-depth guide compares these two iconic high chairs and reveals the overlooked middle ground — affordable, adjustable, and ergonomic options that truly support your child’s posture and development. Learn which chair best fits your budget, lifestyle, and long-term needs.</p>",
           "template_suffix": "article",
           "handle": "stokke-tripp-trapp-vs-ikea-antilop-why-you-might-need-a-third-option",
           "tags": "High Chairs",
-          "admin_graphql_api_id": "gid://shopify/Article/610910503254"
+          "admin_graphql_api_id": "gid://shopify/Article/610910503254",
+          "image": {
+            "created_at": "2025-11-03T12:20:02+00:00",
+            "alt": "Woman and baby opting for a high chair.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_50a3f9f9-63eb-4ff6-be32-a5039817b71c.png?v=1762172403"
+          }
         },
         {
           "id": 610906014038,
@@ -727,18 +741,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-28T11:18:25+00:00",
+          "updated_at": "2025-11-03T12:03:04+00:00",
           "summary_html": "<p>Creating your own baby bibs can be a fun and fulfilling way to blend creativity with practicality. This comprehensive guide walks parents through every step of safe DIY bib-making—from understanding essential safety standards and choosing non-toxic, baby-friendly fabrics to exploring beginner-to-advanced sewing patterns and troubleshooting common issues. It also compares homemade and store-bought options, highlights allergy precautions, and offers sustainability tips to help families make safe, informed, and eco-conscious choices for their little ones.</p>",
           "template_suffix": "article",
           "handle": "diy-baby-bibs-patterns-and-materials-for-homemade-options",
           "tags": "Baby Bibs, Baby Mess Management",
           "admin_graphql_api_id": "gid://shopify/Article/610714911062",
           "image": {
-            "created_at": "2025-10-28T11:18:07+00:00",
+            "created_at": "2025-11-03T12:03:03+00:00",
             "alt": "Babies wearing bibs next to sewing materials on a white background.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_ee579953-7233-460f-9161-224887d9fb35.jpg?v=1761650288"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_e51f39bc-93c3-4f8f-a346-25e80b5a77fe.jpg?v=1762171384"
           }
         },
         {
@@ -749,18 +763,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-28T11:14:10+00:00",
+          "updated_at": "2025-11-03T12:02:44+00:00",
           "summary_html": "<p>Keeping baby bibs clean and hygienic doesn’t have to be a struggle. This comprehensive guide explains how to remove tough stains—from formula and fruit to tomato and oil—using safe, baby-friendly cleaning methods. Learn how to care for different materials like silicone, cotton, bamboo, and waterproof fabrics; discover natural stain removers that really work; and know when it’s time to replace worn-out bibs. Save time, protect your baby’s skin, and extend the life of your bibs with these expert-approved care strategies.</p>",
           "template_suffix": "article",
           "handle": "how-to-remove-stains-from-baby-bibs-material-specific-guide",
           "tags": "Baby Bibs, Baby Mess Management",
           "admin_graphql_api_id": "gid://shopify/Article/610714779990",
           "image": {
-            "created_at": "2025-10-28T11:12:14+00:00",
+            "created_at": "2025-11-03T12:02:43+00:00",
             "alt": "Bibs and babies making a mess and getting cleaned.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_38fb0b0d-4019-419f-8d81-0394e54d6232.jpg?v=1761649935"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_d1edff63-eb83-409c-ab43-dcfbcf75a5a7.jpg?v=1762171364"
           }
         },
         {
@@ -1079,18 +1093,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-20T13:16:49+01:00",
+          "updated_at": "2025-11-03T12:03:35+00:00",
           "summary_html": "<p>Looking for the perfect holiday gift for babies in 2025? This premium feeding essentials guide curates high-quality tableware, utensils, and seating that combine craftsmanship, safety, and everyday function. Whether you're buying for first-time parents, grandparents, or growing families, discover gifts by budget, feeding stage, and style—plus tips on wrapping, registries, and what truly sets luxury feeding gear apart.</p>",
           "template_suffix": "article",
           "handle": "holiday-gift-guide-for-babies-2025-premium-feeding-essentials",
           "tags": "Guide, Premium Baby Gift Guides & Registry Building, Tips",
           "admin_graphql_api_id": "gid://shopify/Article/610699411798",
           "image": {
-            "created_at": "2025-10-20T13:16:23+01:00",
+            "created_at": "2025-11-03T12:03:35+00:00",
             "alt": "Premium baby feeding essentials on white kitchen table.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/AA.jpg?v=1760962584"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/AA_b3590259-fb0a-448a-a996-2ee67aefe048.jpg?v=1762171415"
           }
         },
         {
@@ -1101,18 +1115,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-20T13:11:53+01:00",
+          "updated_at": "2025-11-03T12:02:11+00:00",
           "summary_html": "<p>Transitioning your baby from bottle to sippy cup? Discover a step-by-step, evidence-based guide backed by pediatric research. Learn the ideal age to start, how to choose the safest training cups, and strategies to handle common challenges like cup refusal, nighttime dependence, and reduced milk intake. This comprehensive guide empowers parents with expert insights, product comparisons, and real-world solutions for a smooth weaning process by 18 months.</p>",
           "template_suffix": "article",
           "handle": "baby-bottle-to-sippy-cup-transition-timeline-and-best-products",
           "tags": "Baby Feeding Stages",
           "admin_graphql_api_id": "gid://shopify/Article/610687877462",
           "image": {
-            "created_at": "2025-10-20T13:11:29+01:00",
+            "created_at": "2025-11-03T12:02:09+00:00",
             "alt": "A smiling baby in a high chair reaches for a sippy cup",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_ca88ad10-6927-45a2-be7b-a93e32ad70dc.png?v=1760962290"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_49d731f9-c00a-4c75-a930-9f6692eeb491.png?v=1762171331"
           }
         },
         {

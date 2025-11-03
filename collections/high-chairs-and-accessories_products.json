@@ -27257,8 +27257,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825386529110",
       "variants": [
         {
-          "id": 51338319626582,
           "product_id": 9825386529110,
+          "id": 51338319626582,
           "title": "Khaki",
           "price": "105.95",
           "position": 1,
@@ -27285,8 +27285,8 @@
           "image_id": 66895303049558
         },
         {
-          "id": 51338319659350,
           "product_id": 9825386529110,
+          "id": 51338319659350,
           "title": "Light Grey",
           "price": "105.95",
           "position": 2,
@@ -27315,8 +27315,8 @@
       ],
       "options": [
         {
-          "id": 12681144402262,
           "product_id": 9825386529110,
+          "id": 12681144402262,
           "name": "Color",
           "position": 1,
           "values": [

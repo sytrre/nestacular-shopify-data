@@ -62395,8 +62395,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9907738509654",
       "variants": [
         {
-          "id": 51639517577558,
           "product_id": 9907738509654,
+          "id": 51639517577558,
           "title": "Combination 51pcs",
           "price": "44.95",
           "position": 1,
@@ -62425,8 +62425,8 @@
       ],
       "options": [
         {
-          "id": 12777178988886,
           "product_id": 9907738509654,
+          "id": 12777178988886,
           "name": "Color",
           "position": 1,
           "values": [
