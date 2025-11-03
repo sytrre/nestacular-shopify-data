@@ -7281,8 +7281,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825860256086",
       "variants": [
         {
-          "id": 51339586175318,
           "product_id": 9825860256086,
+          "id": 51339586175318,
           "title": "With backrest",
           "price": "484.95",
           "position": 1,
@@ -7309,8 +7309,8 @@
           "image_id": 66901716271446
         },
         {
-          "id": 51339586208086,
           "product_id": 9825860256086,
+          "id": 51339586208086,
           "title": "Without backrest",
           "price": "475.95",
           "position": 2,
@@ -7339,8 +7339,8 @@
       ],
       "options": [
         {
-          "id": 12681680650582,
           "product_id": 9825860256086,
+          "id": 12681680650582,
           "name": "Color",
           "position": 1,
           "values": [
