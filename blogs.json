@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-04T12:18:09+00:00",
+      "updated_at": "2025-11-04T13:33:31+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -43,12 +43,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:25+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-04T13:33:31+00:00",
+          "summary_html": "<p data-start=\"226\" data-end=\"664\">First-time parent? Skip the baby-store overwhelm and get only what you actually need. This <strong data-start=\"317\" data-end=\"338\">Black Friday 2025</strong>, build your complete <strong data-start=\"360\" data-end=\"390\">bottle feeding starter kit</strong> — anti-colic bottles, cleaning brushes, waterproof bibs, and more — all <strong data-start=\"463\" data-end=\"474\">50% off</strong> with code <strong data-start=\"485\" data-end=\"502\">NSTCLR-BF2025</strong> (or <strong data-start=\"507\" data-end=\"518\">40% off</strong> with <strong data-start=\"524\" data-end=\"541\">NSTCLR-CM2025</strong>). Save <strong data-start=\"549\" data-end=\"562\">over £150</strong> on real essentials trusted by <strong data-start=\"593\" data-end=\"612\">10,000+ parents</strong>. Limited stock — sale ends <strong data-start=\"640\" data-end=\"661\">December 15, 2025</strong>.</p>",
           "template_suffix": "article",
           "handle": "baby-bottle-starter-kit-black-friday-cyber-monday-2025-everything-first-time-parents-actually-need",
           "tags": "Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610921709910"
+          "admin_graphql_api_id": "gid://shopify/Article/610921709910",
+          "image": {
+            "created_at": "2025-11-04T13:33:30+00:00",
+            "alt": "Toddlers in red and white pajamas reaching for baby products.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_81513a88-f60e-4a76-8836-b58fb815d8f6.png?v=1762263211"
+          }
         },
         {
           "id": 610921611606,
@@ -58,12 +65,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:25+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-04T13:13:50+00:00",
+          "summary_html": "<p>Say goodbye to messy spills! This <strong data-start=\"268\" data-end=\"299\">Black Friday &amp; Cyber Monday</strong>, our best-selling <strong data-start=\"318\" data-end=\"358\">360° sippy cups and training bottles</strong> are <strong data-start=\"363\" data-end=\"374\">50% off</strong> with code <strong data-start=\"385\" data-end=\"402\">NSTCLR-BF2025</strong> (or <strong data-start=\"407\" data-end=\"418\">40% off</strong> with <strong data-start=\"424\" data-end=\"441\">NSTCLR-CM2025</strong>). These spill-proof, dentist-approved cups teach independence while keeping floors and diaper bags dry. Stock up now through <strong data-start=\"567\" data-end=\"588\">December 15, 2025</strong> — no minimum, no limits, ships worldwide!</p>",
           "template_suffix": "article",
           "handle": "360-degree-baby-cups-black-friday-cyber-monday-2025-spill-proof-sippy-cup-deals-for-learning-to-drink",
           "tags": "Baby Cups & Drinkware",
-          "admin_graphql_api_id": "gid://shopify/Article/610921611606"
+          "admin_graphql_api_id": "gid://shopify/Article/610921611606",
+          "image": {
+            "created_at": "2025-11-04T13:13:49+00:00",
+            "alt": "Overhead shot of baby sippy cups on kitchen counter",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_696dee89-b052-4e59-bde2-dfcdc1729023.png?v=1762262030"
+          }
         },
         {
           "id": 610921546070,
@@ -72,8 +86,8 @@
           "blog_id": 116861632854,
           "author": "Dr Sumaiya P.N",
           "user_id": null,
-          "published_at": null,
-          "updated_at": "2025-11-04T11:32:10+00:00",
+          "published_at": "2025-11-04T13:00:02+00:00",
+          "updated_at": "2025-11-04T13:00:02+00:00",
           "summary_html": "<p>Get ready for the best Baby-Led Weaning (BLW) deals of the year! Our Early Black Friday Sale is live — save up to <strong data-start=\"273\" data-end=\"284\">50% off</strong> eco-friendly wheat straw feeding sets, bamboo tableware, and silicone bibs. With code <strong data-start=\"371\" data-end=\"388\">NSTCLR-BF2025</strong>, complete BLW sets start under <strong data-start=\"420\" data-end=\"427\">£20</strong>, including bowls, plates, spoons, and forks. Safe, sustainable, and drop-proof — everything your baby needs to start self-feeding without breaking the bank. Hurry, sale ends <strong data-start=\"602\" data-end=\"623\">December 15, 2025</strong>.</p>",
           "template_suffix": "article",
           "handle": "baby-led-weaning-black-friday-cyber-monday-2025-complete-wheat-straw-feeding-sets-under-20",
