@@ -69930,8 +69930,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9607795867990",
       "variants": [
         {
-          "id": 50391722852694,
           "product_id": 9607795867990,
+          "id": 50391722852694,
           "title": "Blue + Grey",
           "price": "69.95",
           "position": 1,
@@ -69958,8 +69958,8 @@
           "image_id": 62202490028374
         },
         {
-          "id": 50391722754390,
           "product_id": 9607795867990,
+          "id": 50391722754390,
           "title": "Military Green + Grey",
           "price": "69.95",
           "position": 2,
@@ -69986,8 +69986,8 @@
           "image_id": 61993973776726
         },
         {
-          "id": 50391722787158,
           "product_id": 9607795867990,
+          "id": 50391722787158,
           "title": "Navy Blue + Royal Blue",
           "price": "69.95",
           "position": 3,
@@ -70014,8 +70014,8 @@
           "image_id": 61993973711190
         },
         {
-          "id": 50391722819926,
           "product_id": 9607795867990,
+          "id": 50391722819926,
           "title": "Royal Blue + Navy Blue V",
           "price": "69.95",
           "position": 4,
@@ -70044,8 +70044,8 @@
       ],
       "options": [
         {
-          "id": 12416934543702,
           "product_id": 9607795867990,
+          "id": 12416934543702,
           "name": "Color",
           "position": 1,
           "values": [
@@ -96595,8 +96595,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9823505711446",
       "variants": [
         {
-          "product_id": 9823505711446,
           "id": 51330197684566,
+          "product_id": 9823505711446,
           "title": "Dark Grey",
           "price": "1146.95",
           "position": 1,
@@ -96623,8 +96623,8 @@
           "image_id": 66855010566486
         },
         {
-          "product_id": 9823505711446,
           "id": 51330197717334,
+          "product_id": 9823505711446,
           "title": "Dolphin",
           "price": "1146.95",
           "position": 2,
@@ -96651,8 +96651,8 @@
           "image_id": 66855010599254
         },
         {
-          "product_id": 9823505711446,
           "id": 51330197750102,
+          "product_id": 9823505711446,
           "title": "Mint Green",
           "price": "1146.95",
           "position": 3,
@@ -96679,8 +96679,8 @@
           "image_id": 66855010632022
         },
         {
-          "product_id": 9823505711446,
           "id": 51330197782870,
+          "product_id": 9823505711446,
           "title": "Sand",
           "price": "1146.95",
           "position": 4,
@@ -96709,8 +96709,8 @@
       ],
       "options": [
         {
-          "product_id": 9823505711446,
           "id": 12678810534230,
+          "product_id": 9823505711446,
           "name": "Color",
           "position": 1,
           "values": [
