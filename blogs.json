@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-04T02:00:02+00:00",
+      "updated_at": "2025-11-04T11:10:06+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -66,12 +66,19 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-11-03T19:35:42+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-04T11:10:06+00:00",
+          "summary_html": "<p>Get ready for the best Baby-Led Weaning (BLW) deals of the year! Our Early Black Friday Sale is live — save up to <strong data-start=\"273\" data-end=\"284\">50% off</strong> eco-friendly wheat straw feeding sets, bamboo tableware, and silicone bibs. With code <strong data-start=\"371\" data-end=\"388\">NSTCLR-BF2025</strong>, complete BLW sets start under <strong data-start=\"420\" data-end=\"427\">£20</strong>, including bowls, plates, spoons, and forks. Safe, sustainable, and drop-proof — everything your baby needs to start self-feeding without breaking the bank. Hurry, sale ends <strong data-start=\"602\" data-end=\"623\">December 15, 2025</strong>.</p>",
           "template_suffix": "article",
           "handle": "baby-led-weaning-black-friday-cyber-monday-2025-complete-wheat-straw-feeding-sets-under-20",
           "tags": "Baby-Led Weaning",
-          "admin_graphql_api_id": "gid://shopify/Article/610921546070"
+          "admin_graphql_api_id": "gid://shopify/Article/610921546070",
+          "image": {
+            "created_at": "2025-11-04T11:10:04+00:00",
+            "alt": "Baby Led Weaning products",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_c517a7df-1ab9-4671-bbcc-8ea5bab5210a.png?v=1762254606"
+          }
         },
         {
           "id": 610921251158,
