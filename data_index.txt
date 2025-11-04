@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-11-04T11:42:52.969079Z
+Generated: 2025-11-04T12:50:16.944053Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (92 collections) ===
+=== COLLECTION PRODUCT FILES (93 collections) ===
 
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
@@ -56,6 +56,7 @@ BLOGS (1 pages):
 • flu-season-immune-support-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/flu-season-immune-support-feeding-essentials_products.json
 • foldable-baby-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/foldable-baby-chair_products.json
 • food-storage-containers: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/food-storage-containers_products.json
+• foster-care-placement-baby-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/foster-care-placement-baby-essentials_products.json
 • gifts-sets: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/gifts-sets_products.json
 • glass-baby-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/glass-baby-bottles_products.json
 • grandparents-helper-feeding-station: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/grandparents-helper-feeding-station_products.json

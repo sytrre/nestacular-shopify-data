@@ -4,7 +4,7 @@
     "handle": "high-chair-cushions",
     "title": "High Chair Cushions & Inserts",
     "body_html": "<p>Add a touch of comfort and style with our high chair cushions and inserts. Made from wipeable, baby-safe fabrics in a range of modern prints to suit your home.</p>",
-    "products_count": 20
+    "products_count": 21
   },
   "products": [
     {
@@ -15,17 +15,17 @@
       "product_type": "0",
       "created_at": "2025-09-23T15:04:15+01:00",
       "handle": "walknest-baby-dining-chair-cushion-soft-autumn-winter-padding-comfortable-warm-design-essential-seating-accessory-to-keep-babies-cozy",
-      "updated_at": "2025-11-03T16:12:18+00:00",
+      "updated_at": "2025-11-04T12:25:55+00:00",
       "published_at": "2025-09-23T15:10:32+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "adjustable-straps, autumn winter, baby comfort, baby dining, baby essentials, breathable-fabric, chair cushion, CJ, cotton-padding, cozy seating, dining chair pad, feeding time, high-chair-cushion, infant-seating, insulated padding, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, mealtime accessories, nursery-decor, portable-cushion, removable-cover, soft-cotton, toddler-feeding, travel-feeding, universal-fit, WalkNest, Warm Dining Chair, washable-cover, winter-baby-gear",
+      "tags": "adjustable-straps, autumn winter, baby comfort, baby dining, baby essentials, breathable-fabric, chair cushion, CJ, cotton-padding, cozy seating, dining chair pad, feeding time, high-chair-cushion, infant-seating, insulated padding, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-nanny-caregiver-training-feeding-setup, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-twins-multiples-feeding-essentials, life-event-winter-baby-registry-must-haves, mealtime accessories, nursery-decor, portable-cushion, removable-cover, soft-cotton, toddler-feeding, travel-feeding, universal-fit, WalkNest, Warm Dining Chair, washable-cover, winter-baby-gear",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9841111073110",
       "variants": [
         {
-          "product_id": 9841111073110,
           "id": 51392714998102,
+          "product_id": 9841111073110,
           "title": "Blue Elephant",
           "price": "41.95",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 67078643908950
         },
         {
-          "product_id": 9841111073110,
           "id": 51392715030870,
+          "product_id": 9841111073110,
           "title": "Pink Rainbow",
           "price": "41.95",
           "position": 2,
@@ -82,8 +82,8 @@
       ],
       "options": [
         {
-          "product_id": 9841111073110,
           "id": 12699199635798,
+          "product_id": 9841111073110,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1646,11 +1646,11 @@
       "product_type": "Baby Safety Belt",
       "created_at": "2025-09-02T05:30:42+01:00",
       "handle": "baby-safety-belt-washing-baby-feeding-dining-chair",
-      "updated_at": "2025-11-03T16:21:02+00:00",
+      "updated_at": "2025-11-04T12:30:27+00:00",
       "published_at": "2025-09-02T05:31:01+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "adjustable-baby-harness, Baby Mealtime Harness, baby-feeding-accessories, baby-safety-accessories, booster-seat-harness, CuddleJoy Baby Belt, dining-chair-baby-belt, High Chair Safety Harness, infant-chair-safety-strap, infant-mealtime-safety, life-event-adoption-finalization-celebration-feeding-bundle, life-event-autumn-playdate-party-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-family-gathering-toddler-setup, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-toddler-independence-milestone-kit, life-event-transitioning-to-solid-foods-starter-bundle, machine-washable-baby-harness, padded-baby-chair-strap, portable-baby-chair-harness, portable-feeding-harness, quick-release-baby-belt, Toddler Feeding Safety, toddler-chair-restraint, travel-baby-feeding-belt, universal-high-chair-strap, Washable Baby Strap",
+      "tags": "adjustable-baby-harness, Baby Mealtime Harness, baby-feeding-accessories, baby-safety-accessories, booster-seat-harness, CuddleJoy Baby Belt, dining-chair-baby-belt, High Chair Safety Harness, infant-chair-safety-strap, infant-mealtime-safety, life-event-adoption-finalization-celebration-feeding-bundle, life-event-autumn-playdate-party-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-family-gathering-toddler-setup, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-toddler-independence-milestone-kit, life-event-transitioning-to-solid-foods-starter-bundle, machine-washable-baby-harness, padded-baby-chair-strap, portable-baby-chair-harness, portable-feeding-harness, quick-release-baby-belt, Toddler Feeding Safety, toddler-chair-restraint, travel-baby-feeding-belt, universal-high-chair-strap, Washable Baby Strap",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9792650084694",
       "variants": [
@@ -1783,11 +1783,11 @@
       "product_type": "Baby Dining Chair",
       "created_at": "2025-08-25T14:02:55+01:00",
       "handle": "durable-plastic-baby-chair-simple-infant-feeding-seat",
-      "updated_at": "2025-11-03T16:31:32+00:00",
+      "updated_at": "2025-11-04T12:31:32+00:00",
       "published_at": "2025-08-25T14:40:15+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "24-months-plus-chair, anti-fall-toddler-chair, Baby Feeding Seat, CJ, cloth-metal-baby-chair, collapsible-baby-chair, compact-feeding-chair, ergonomic-toddler-seat, foldable-feeding-chair, harness-baby-seat, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-parent-teacher-conference-week-lunch-prep-kit, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-family-gathering-toddler-setup, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-toddler-independence-milestone-kit, life-event-transitioning-to-solid-foods-starter-bundle, life-event-weekend-camping-baby-feeding-gear, lightweight-baby-chair, portable-baby-chair, portable-dining-seat, Toddler Dining Chair, travel-friendly-baby-seat, travel-toddler-chair, waterproof-feeding-chair, wipe-clean-baby-seat",
+      "tags": "24-months-plus-chair, anti-fall-toddler-chair, Baby Feeding Seat, CJ, cloth-metal-baby-chair, collapsible-baby-chair, compact-feeding-chair, ergonomic-toddler-seat, foldable-feeding-chair, harness-baby-seat, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-parent-teacher-conference-week-lunch-prep-kit, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-family-gathering-toddler-setup, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-toddler-independence-milestone-kit, life-event-transitioning-to-solid-foods-starter-bundle, life-event-weekend-camping-baby-feeding-gear, lightweight-baby-chair, portable-baby-chair, portable-dining-seat, Toddler Dining Chair, travel-friendly-baby-seat, travel-toddler-chair, waterproof-feeding-chair, wipe-clean-baby-seat",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9778362941782",
       "variants": [
@@ -2315,11 +2315,11 @@
       "product_type": "0",
       "created_at": "2025-09-23T13:43:57+01:00",
       "handle": "kidflight-baby-portable-car-seat-cushion-child-safety-seat-with-seat-belt-simple-dining-chair-conversion-essential-travel-feeding-solution-for-toddlers",
-      "updated_at": "2025-11-03T16:12:20+00:00",
+      "updated_at": "2025-11-04T12:33:43+00:00",
       "published_at": "2025-09-23T13:52:53+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Car Seat, baby-dining-booster, blue-baby-seat, car-seat-cushion, car-to-chair-converter, Child Safety, CJ, compact-baby-seat, Convertible Baby Seat, Dining Chair Conversion, foldable-car-seat, grey-baby-seat, KidFlight, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-holiday-hosting-toddler-prep-station, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-grandparents-house-baby-essentials, Lightweight Baby Gear, multifunctional-baby-seat, nestacular-baby-products, On-the-Go Feeding, pink-baby-seat, Portable Booster, Portable Car Seat, portable-child-seat, reinforced-safety-straps, Toddler Booster Seat, toddler-travel-gear, Travel Essentials, Travel High Chair, travel-booster-seat",
+      "tags": "Baby Car Seat, baby-dining-booster, blue-baby-seat, car-seat-cushion, car-to-chair-converter, Child Safety, CJ, compact-baby-seat, Convertible Baby Seat, Dining Chair Conversion, foldable-car-seat, grey-baby-seat, KidFlight, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-holiday-hosting-toddler-prep-station, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-grandparents-house-baby-essentials, Lightweight Baby Gear, multifunctional-baby-seat, nestacular-baby-products, On-the-Go Feeding, pink-baby-seat, Portable Booster, Portable Car Seat, portable-child-seat, reinforced-safety-straps, Toddler Booster Seat, toddler-travel-gear, Travel Essentials, Travel High Chair, travel-booster-seat",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9840868557142",
       "variants": [
@@ -2679,6 +2679,222 @@
       }
     },
     {
+      "id": 9799637172566,
+      "title": "KonaTot Foldable Baby High Chair - Adjustable 5-Point Harness Ages 3-36M",
+      "body_html": "<h2>Adjustable Baby High Chair with Foldable Design</h2>\n\n<p>The KonaTot High-Legged Feeding Chair provides a safe and comfortable mealtime solution from first solids through toddler years. This foldable high chair features adjustable height positions, a secure 5-point harness, and a removable dishwasher-safe tray for easy cleanup.</p>\n\n<h3>Key Features</h3>\n\n<p><strong>Foldable &amp; Portable Design</strong> - Compact storage for small spaces and easy transport to family visits or restaurants.</p>\n\n<p><strong>Adjustable Height &amp; Recline</strong> - Multiple positions adapt as your child grows from 3 to 36 months, suitable for feeding, play, or rest.</p>\n\n<p><strong>5-Point Safety Harness</strong> - Secure restraint system keeps your baby safely seated during meals.</p>\n\n<p><strong>Removable Dishwasher-Safe Tray</strong> - Easy-clean tray removes quickly for convenient post-meal cleanup.</p>\n\n<p><strong>High-Legged Stability</strong> - Elevated design brings baby to table height for family meals while maintaining secure stability.</p>\n\n<p><strong>Cushioned Wipeable Seat</strong> - Comfortable padding with easy-clean surface for quick maintenance.</p>\n\n<h3>Product Specifications</h3>\n\n<ul>\n<li>\n<strong>Material:</strong> Non-toxic, BPA-free plastic with durable metal frame</li>\n<li>\n<strong>Age Range:</strong> 3 to 36 months</li>\n<li>\n<strong>Weight Capacity:</strong> Up to 40 lbs (18 kg)</li>\n<li>\n<strong>Safety Certification:</strong> Meets or exceeds all safety standards</li>\n<li>\n<strong>Tray:</strong> Removable, adjustable, dishwasher-safe</li>\n</ul>\n\n<h3>How to Use</h3>\n\n<p><strong>Setup:</strong> Unfold chair legs and lock into place. Adjust height and recline for your child's age.</p>\n\n<p><strong>Secure Baby:</strong> Place baby in seat and fasten 5-point harness.</p>\n\n<p><strong>Attach Tray:</strong> Slide tray onto chair and lock in position.</p>\n\n<p><strong>Storage:</strong> Remove tray and fold chair flat by unlocking leg joints.</p>\n\n<h3>Ideal For</h3>\n\n<p>Perfect for first-time parents, small apartments, travel families, grandparents' homes, and baby-led weaning. The space-saving foldable design stores easily while the portable construction makes it convenient for on-the-go feeding needs.</p>\n\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"KonaTot High-Legged Baby Feeding Chair - Adjustable &amp; Foldable Infant Seating for Ages 3 to 36 Months\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Z_6def1f81-3cef-4d8d-a1c3-4a3dfaf93341.png?v=1757064600\"></div>\n\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"KonaTot High-Legged Baby Feeding Chair - Adjustable &amp; Foldable Infant Seating for Ages 3 to 36 Months\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Z1_557dccce-d3a2-4e16-aece-9713e4b71486.png?v=1757064711\"></div>\n\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"KonaTot High-Legged Baby Feeding Chair - Adjustable &amp; Foldable Infant Seating for Ages 3 to 36 Months\" src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Z2_6c03c1bf-2454-4385-ae50-705d5510e4d3.png?v=1757064761\"></div>\n\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong>A Nestacular Promise</strong></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong>Congratulations!</strong></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong>You've found a hidden discount code! Use code \"TTD\" at checkout to claim an additional 10% OFF your ENTIRE order!</strong></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"> </p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong>Customer Support:</strong></p>\n<p class=\"ql-align-center\" align=\"center\" style=\"text-align: center;\"><strong>Email: support@nestacular.com</strong></p>",
+      "vendor": "Nestacular",
+      "product_type": "High Chairs for Kids",
+      "created_at": "2025-09-05T09:37:33+01:00",
+      "handle": "konatot-high-legged-baby-feeding-chair-adjustable-foldable-infant-seating-for-ages-3-to-36-months",
+      "updated_at": "2025-11-04T12:34:17+00:00",
+      "published_at": "2025-09-05T10:35:00+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "3-36-months-high-chair, 5-point-harness-high-chair, adjustable-high-chair, Baby High Chair, Baby High Chairs, baby-led-weaning-chair, bpa-free-high-chair, compact-baby-chair, dishwasher-safe-tray, Foldeable Kids High Chair, High Chair, High Chair Kid, HYP, infant-feeding-chair, Kid High Chair, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-toddler-independence-milestone-kit, life-event-transitioning-to-solid-foods-starter-bundle, life-event-weekend-camping-baby-feeding-gear, metal-frame-high-chair, portable-feeding-chair, small-space-high-chair, space-saving-high-chair, toddler-high-chair, travel-high-chair, wipeable-high-chair",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9799637172566",
+      "variants": [
+        {
+          "id": 51231603917142,
+          "product_id": 9799637172566,
+          "title": "Off-white",
+          "price": "130.95",
+          "position": 1,
+          "inventory_policy": "continue",
+          "compare_at_price": "0.00",
+          "option1": "Off-white",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-05T09:37:35+01:00",
+          "updated_at": "2025-11-03T16:20:55+00:00",
+          "taxable": false,
+          "barcode": "300628300000026",
+          "fulfillment_service": "manual",
+          "grams": 4500,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "300628300000026",
+          "weight": 4.5,
+          "weight_unit": "kg",
+          "inventory_item_id": 53441335853398,
+          "inventory_quantity": 99999,
+          "old_inventory_quantity": 99999,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51231603917142",
+          "image_id": 66306927395158
+        },
+        {
+          "id": 51231603949910,
+          "product_id": 9799637172566,
+          "title": "Grey",
+          "price": "130.95",
+          "position": 2,
+          "inventory_policy": "continue",
+          "compare_at_price": "0.00",
+          "option1": "Grey",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-05T09:37:35+01:00",
+          "updated_at": "2025-11-03T16:20:55+00:00",
+          "taxable": false,
+          "barcode": "400628300100017",
+          "fulfillment_service": "manual",
+          "grams": 4500,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "400628300100017",
+          "weight": 4.5,
+          "weight_unit": "kg",
+          "inventory_item_id": 53441335886166,
+          "inventory_quantity": 99999,
+          "old_inventory_quantity": 99999,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51231603949910",
+          "image_id": 66306917007702
+        },
+        {
+          "id": 51231603982678,
+          "product_id": 9799637172566,
+          "title": "Lemon yellow",
+          "price": "130.95",
+          "position": 3,
+          "inventory_policy": "continue",
+          "compare_at_price": "0.00",
+          "option1": "Lemon yellow",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-05T09:37:35+01:00",
+          "updated_at": "2025-11-03T16:20:55+00:00",
+          "taxable": false,
+          "barcode": "400628300200037",
+          "fulfillment_service": "manual",
+          "grams": 4500,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "400628300200037",
+          "weight": 4.5,
+          "weight_unit": "kg",
+          "inventory_item_id": 53441335918934,
+          "inventory_quantity": 99999,
+          "old_inventory_quantity": 99999,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51231603982678",
+          "image_id": 66306944926038
+        }
+      ],
+      "options": [
+        {
+          "id": 12650475585878,
+          "product_id": 9799637172566,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Off-white",
+            "Grey",
+            "Lemon yellow"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66306927395158,
+          "alt": "White high chair with gray cushion on a wooden floor in a room with curtains and a plant.",
+          "position": 1,
+          "product_id": 9799637172566,
+          "created_at": "2025-09-05T10:25:35+01:00",
+          "updated_at": "2025-09-12T12:43:15+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54548757643606",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A2_931ae68f-90e2-4442-8b6a-863034f74a26.png?v=1757064339",
+          "variant_ids": [
+            51231603917142
+          ]
+        },
+        {
+          "id": 66306917007702,
+          "alt": "Gray and beige adjustable high chair on a wooden floor with a plant in the background",
+          "position": 2,
+          "product_id": 9799637172566,
+          "created_at": "2025-09-05T10:24:14+01:00",
+          "updated_at": "2025-09-12T12:43:24+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54548747551062",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A1_22f85cd9-2e90-4ad8-b171-1129c8c23488.png?v=1757064258",
+          "variant_ids": [
+            51231603949910
+          ]
+        },
+        {
+          "id": 66306944926038,
+          "alt": "Yellow high chair on a round rug with a neutral background",
+          "position": 3,
+          "product_id": 9799637172566,
+          "created_at": "2025-09-05T10:28:18+01:00",
+          "updated_at": "2025-09-12T12:43:37+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54548775272790",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A3_5647e6e2-69dd-451f-beba-860d9b756c63.png?v=1757064502",
+          "variant_ids": [
+            51231603982678
+          ]
+        },
+        {
+          "id": 66306957345110,
+          "alt": "Baby sitting in a yellow high chair with toys in a room with a table and chairs.",
+          "position": 4,
+          "product_id": 9799637172566,
+          "created_at": "2025-09-05T10:29:56+01:00",
+          "updated_at": "2025-09-12T12:43:46+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54548785955158",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Z_6def1f81-3cef-4d8d-a1c3-4a3dfaf93341.png?v=1757064601",
+          "variant_ids": []
+        },
+        {
+          "id": 66306978775382,
+          "alt": "Baby sitting in a gray high chair in a room with books and a plant.",
+          "position": 5,
+          "product_id": 9799637172566,
+          "created_at": "2025-09-05T10:31:48+01:00",
+          "updated_at": "2025-09-12T12:43:58+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54548796735830",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Z1_557dccce-d3a2-4e16-aece-9713e4b71486.png?v=1757064712",
+          "variant_ids": []
+        },
+        {
+          "id": 66306984870230,
+          "alt": "Child in a high chair with a tray in a home setting",
+          "position": 6,
+          "product_id": 9799637172566,
+          "created_at": "2025-09-05T10:32:37+01:00",
+          "updated_at": "2025-09-12T12:44:06+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54548802535766",
+          "width": 424,
+          "height": 457,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Z2_6c03c1bf-2454-4385-ae50-705d5510e4d3.png?v=1757064761",
+          "variant_ids": []
+        }
+      ],
+      "image": {
+        "id": 66306927395158,
+        "alt": "White high chair with gray cushion on a wooden floor in a room with curtains and a plant.",
+        "position": 1,
+        "product_id": 9799637172566,
+        "created_at": "2025-09-05T10:25:35+01:00",
+        "updated_at": "2025-09-12T12:43:15+01:00",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/54548757643606",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/A2_931ae68f-90e2-4442-8b6a-863034f74a26.png?v=1757064339",
+        "variant_ids": [
+          51231603917142
+        ]
+      }
+    },
+    {
       "id": 9830293504342,
       "title": "Kraddle Portable Booster Seat - High-Density Foam Chair Pad for Kids",
       "body_html": "<h2>Kraddle Children's Dining Chair Heightening Pad – Portable Booster Cushion</h2>\n<p>Kraddle Children's Dining Chair Heightening Pad combines comfort, portability, and smart design to create the perfect booster solution for dining, piano practice, and everyday activities. This thoughtfully designed cushion ensures children sit at the right height while offering both safety and convenience for families.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/497ddca9-95d2-4ca4-a0b7-9c53dfe5ec99.jpg?v=1758275575\" alt=\"Kraddle Children's Dining Chair Heightening Pad – Portable &amp; Comfortable Booster Cushion | Essential Piano &amp; Mealtime Heightening Support for Kids\" style=\"float: none;\"></div>\n<h3>Smart Design Features</h3>\n<ul>\n<li>Heightening support pad helps children reach the proper level for dining tables, study desks, and piano benches</li>\n<li>Portable lightweight design makes it easy to carry between home, school, or travel</li>\n<li>Durable construction with soft cushioning ensures long-lasting comfort and daily use</li>\n<li>Non-slip base and secure straps keep the pad safely in place during mealtime or play</li>\n<li>Removable, washable cover allows for quick and easy cleaning</li>\n<li>Compact size for effortless storage when not in use</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3834421a-384f-48df-aaac-fc15d5497488.jpg?v=1758275579\" alt=\"Kraddle Children's Dining Chair Heightening Pad – Portable &amp; Comfortable Booster Cushion | Essential Piano &amp; Mealtime Heightening Support for Kids\" style=\"float: none;\"></div>\n<h3>Setup and Usage</h3>\n<ol>\n<li>Place the booster pad on the dining chair, piano bench, or chosen seat</li>\n<li>Secure straps around the chair back and bottom for stability</li>\n<li>Ensure non-slip feet and cushion are properly aligned</li>\n<li>Seat your child comfortably and supervise during use</li>\n<li>Remove and store easily after meals, lessons, or playtime</li>\n</ol>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c99b61f2-5fc3-4d8e-ac5c-d8ef155672b3.jpg?v=1758275579\" alt=\"Kraddle Children's Dining Chair Heightening Pad – Portable &amp; Comfortable Booster Cushion | Essential Piano &amp; Mealtime Heightening Support for Kids\" style=\"float: none;\"></div>\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: High-density foam cushion with durable outer fabric</li>\n<li>Dimensions: 32x32x8cm (approximate heightening support)</li>\n<li>Style: Portable booster cushion with secure straps</li>\n<li>Colors: Classic Grey, Sky Blue, Pink Blossom</li>\n<li>Suitable for: Toddlers and children who need height support for dining, piano, or desk activities</li>\n<li>Package: 1 complete children's heightening booster pad</li>\n</ul>\n<h3>Why Choose This Booster Pad</h3>\n<p> </p>\n<ul>\n<li> Provides safe and ergonomic seating support for kids at mealtime, study, or music practice</li>\n<li>Portable and travel-friendly design makes it ideal for home, restaurants, or lessons</li>\n<li>Durable construction ensures it withstands daily use and growing children</li>\n<li>Easy-to-clean cover keeps it hygienic and parent-friendly</li>\n<li>Stylish color options fit seamlessly into modern homes and learning spaces</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You've found a hidden discount code! Use code \"TTD\" at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
@@ -2856,11 +3072,11 @@
       "product_type": "0",
       "created_at": "2025-09-01T06:39:14+01:00",
       "handle": "durable-high-chair-seat-pad-washable-padded-cushion",
-      "updated_at": "2025-11-03T16:26:14+00:00",
+      "updated_at": "2025-11-04T12:34:37+00:00",
       "published_at": "2025-09-01T06:39:25+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Baby Chair Cushion, CJ, High Chair Cushion, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle",
+      "tags": "Baby Chair Cushion, CJ, High Chair Cushion, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791093571926",
       "variants": [
@@ -7771,8 +7987,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 20,
-    "products_in_page": 20,
+    "total_products": 21,
+    "products_in_page": 21,
     "has_next_page": false,
     "has_previous_page": false
   }

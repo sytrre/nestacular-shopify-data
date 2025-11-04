@@ -15,17 +15,17 @@
       "product_type": "Baby Feeding Bottle",
       "created_at": "2025-09-01T16:45:37+01:00",
       "handle": "babivo-stainless-steel-baby-bottle",
-      "updated_at": "2025-11-03T16:21:06+00:00",
+      "updated_at": "2025-11-04T12:25:18+00:00",
       "published_at": "2025-09-01T16:45:52+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Babivo Baby Bottle, Baby Bottle with Handle, Baby Water Cup, baby-thermal-flask, dual-purpose-baby-cup, durable-baby-bottle, ergonomic-handle-bottle, food-grade-steel-bottle, independent-feeding-bottle, Insulated Feeding Bottle, leak-proof-baby-bottle, life-event-adoption-finalization-celebration-feeding-bundle, life-event-baby-shower-host-feeding-essentials, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-toddler-independence-milestone-kit, life-event-twins-multiples-feeding-essentials, life-event-weekend-camping-baby-feeding-gear, life-event-winter-baby-registry-must-haves, multi-function-bottle, premium-baby-bottle, rust-resistant-bottle, safe-feeding-bottle, spill-proof-feeding, Stainless Steel Feeding Bottle, temperature-control-bottle, Thermal Baby Bottle, toddler-grip-bottle, travel-baby-bottle",
+      "tags": "Babivo Baby Bottle, Baby Bottle with Handle, Baby Water Cup, baby-thermal-flask, dual-purpose-baby-cup, durable-baby-bottle, ergonomic-handle-bottle, food-grade-steel-bottle, independent-feeding-bottle, Insulated Feeding Bottle, leak-proof-baby-bottle, life-event-adoption-finalization-celebration-feeding-bundle, life-event-baby-shower-host-feeding-essentials, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-toddler-independence-milestone-kit, life-event-twins-multiples-feeding-essentials, life-event-weekend-camping-baby-feeding-gear, life-event-winter-baby-registry-must-haves, multi-function-bottle, premium-baby-bottle, rust-resistant-bottle, safe-feeding-bottle, spill-proof-feeding, Stainless Steel Feeding Bottle, temperature-control-bottle, Thermal Baby Bottle, toddler-grip-bottle, travel-baby-bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791835373910",
       "variants": [
         {
-          "product_id": 9791835373910,
           "id": 51197690741078,
+          "product_id": 9791835373910,
           "title": "Brown / Brown Nipple Cover",
           "price": "30.19",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 66245917540694
         },
         {
-          "product_id": 9791835373910,
           "id": 51197690773846,
+          "product_id": 9791835373910,
           "title": "Brown / Brown Straw Cover",
           "price": "30.19",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 66245917573462
         },
         {
-          "product_id": 9791835373910,
           "id": 51197690806614,
+          "product_id": 9791835373910,
           "title": "Brown / Brown Nipple Cover Straw Cover",
           "price": "30.64",
           "position": 3,
@@ -110,8 +110,8 @@
       ],
       "options": [
         {
-          "product_id": 9791835373910,
           "id": 12641114259798,
+          "product_id": 9791835373910,
           "name": "Color",
           "position": 1,
           "values": [
@@ -119,8 +119,8 @@
           ]
         },
         {
-          "product_id": 9791835373910,
           "id": 12641114292566,
+          "product_id": 9791835373910,
           "name": "Capacity",
           "position": 2,
           "values": [
@@ -264,11 +264,11 @@
       "product_type": "Baby Bottle",
       "created_at": "2025-09-01T11:25:12+01:00",
       "handle": "babsy-newborn-baby-bottle",
-      "updated_at": "2025-11-03T16:26:06+00:00",
+      "updated_at": "2025-11-04T12:25:22+00:00",
       "published_at": "2025-09-01T11:25:29+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Anti-Colic Feeder, babsy-brand, BPA-Free Baby Bottle, breast-to-bottle-transition, comfortable-feeding, daily-use-bottle, durable-baby-bottle, easy-clean-bottle, food-grade-bottle, gas-prevention-bottle, hygienic-feeding-bottle, Infant Feeding Bottle, life-event-adoption-finalization-celebration-feeding-bundle, life-event-baby-shower-host-feeding-essentials, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-travel-ready-baby-feeding-kit, life-event-twins-multiples-feeding-essentials, life-event-weekend-camping-baby-feeding-gear, life-event-winter-baby-registry-must-haves, lightweight-baby-bottle, natural-feel-bottle, Newborn Baby Bottle, non-toxic-feeding, Safe Feeding Bottle, secure-feeding, soft-nipple-bottle, travel-baby-bottle",
+      "tags": "Anti-Colic Feeder, babsy-brand, BPA-Free Baby Bottle, breast-to-bottle-transition, comfortable-feeding, daily-use-bottle, durable-baby-bottle, easy-clean-bottle, food-grade-bottle, gas-prevention-bottle, hygienic-feeding-bottle, Infant Feeding Bottle, life-event-adoption-finalization-celebration-feeding-bundle, life-event-baby-shower-host-feeding-essentials, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-travel-ready-baby-feeding-kit, life-event-twins-multiples-feeding-essentials, life-event-weekend-camping-baby-feeding-gear, life-event-winter-baby-registry-must-haves, lightweight-baby-bottle, natural-feel-bottle, Newborn Baby Bottle, non-toxic-feeding, Safe Feeding Bottle, secure-feeding, soft-nipple-bottle, travel-baby-bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791345033558",
       "variants": [
@@ -556,11 +556,11 @@
       "product_type": "0",
       "created_at": "2025-10-05T13:18:11+01:00",
       "handle": "babify-baby-wide-caliber-straw-feeding-bottle-pp-plastic-water-and-milk-bottle-with-handle-durable-drinking-solution-for-infants-and-toddlers",
-      "updated_at": "2025-11-03T16:12:05+00:00",
+      "updated_at": "2025-11-04T12:26:15+00:00",
       "published_at": "2025-10-05T13:26:27+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "babify, baby-drinking-cup, baby-straw-bottle, bpa-free-baby-bottle, CJ, easy-clean-baby-bottle, ergonomic-handle-bottle, infant-feeding-bottle, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-parent-teacher-conference-week-lunch-prep-kit, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-winter-baby-registry-must-haves, pp-plastic-bottle, sippy-cup-with-handles, spill-proof-bottle, toddler-straw-cup, transition-sippy-cup, travel-baby-bottle, weighted-straw-bottle, wide-mouth-baby-bottle",
+      "tags": "babify, baby-drinking-cup, baby-straw-bottle, bpa-free-baby-bottle, CJ, easy-clean-baby-bottle, ergonomic-handle-bottle, infant-feeding-bottle, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-parent-teacher-conference-week-lunch-prep-kit, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-winter-baby-registry-must-haves, pp-plastic-bottle, sippy-cup-with-handles, spill-proof-bottle, toddler-straw-cup, transition-sippy-cup, travel-baby-bottle, weighted-straw-bottle, wide-mouth-baby-bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9866546151766",
       "variants": [
@@ -918,11 +918,11 @@
       "product_type": "Baby Feeding Bottle",
       "created_at": "2025-09-02T17:03:36+01:00",
       "handle": "bubbora-newborn-baby-feeding-bottle",
-      "updated_at": "2025-11-03T16:20:57+00:00",
+      "updated_at": "2025-11-04T12:28:55+00:00",
       "published_at": "2025-09-02T17:03:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "anti-slip-baby-bottle, baby feeding bottle, baby food supplement, bpa-free-feeding-bottle, bubbora-baby-products, controlled-flow-bottle, ergonomic-baby-bottle, food-grade-silicone-bottle, infant-milk-bottle, life-event-adoption-finalization-celebration-feeding-bundle, life-event-baby-shower-host-feeding-essentials, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-teething-self-feeding-milestone-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-travel-ready-baby-feeding-kit, life-event-twins-multiples-feeding-essentials, life-event-weekend-camping-baby-feeding-gear, life-event-winter-baby-registry-must-haves, lightweight-feeding-bottle, newborn milk feeder, puree-feeding-bottle, rice-cereal-feeder, silicone squeeze bottle, soft-nipple-bottle, squeeze-feeding-system, toddler-independence-training, travel-baby-bottle, weaning-bottle",
+      "tags": "anti-slip-baby-bottle, baby feeding bottle, baby food supplement, bpa-free-feeding-bottle, bubbora-baby-products, controlled-flow-bottle, ergonomic-baby-bottle, food-grade-silicone-bottle, infant-milk-bottle, life-event-adoption-finalization-celebration-feeding-bundle, life-event-baby-shower-host-feeding-essentials, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-teething-self-feeding-milestone-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-travel-ready-baby-feeding-kit, life-event-twins-multiples-feeding-essentials, life-event-weekend-camping-baby-feeding-gear, life-event-winter-baby-registry-must-haves, lightweight-feeding-bottle, newborn milk feeder, puree-feeding-bottle, rice-cereal-feeder, silicone squeeze bottle, soft-nipple-bottle, squeeze-feeding-system, toddler-independence-training, travel-baby-bottle, weaning-bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9793806106966",
       "variants": [
@@ -1523,11 +1523,11 @@
       "product_type": "0",
       "created_at": "2025-10-10T16:14:17+01:00",
       "handle": "dr-isla-portable-baby-water-bottle-300ml-leak-proof-hydration-for-infants",
-      "updated_at": "2025-11-03T16:11:57+00:00",
+      "updated_at": "2025-11-04T12:30:54+00:00",
       "published_at": "2025-10-10T16:20:14+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "300ml bottle, baby drinkware, baby feeding, baby travel essentials, Baby Water Bottle, baby-bottle-with-handles, baby-sippy-cup, BPA-free, CJ, daycare-bottle, Dr. Isla, easy-grip-bottle, first-sippy-cup, food-grade-baby-bottle, infant accessories, infant hydration, infant-drinking-cup, leak-proof bottle, life-event-adoption-finalization-celebration-feeding-bundle, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, non-toxic-baby-bottle, on-the-go, portable baby bottle, silicone-spout-bottle, sippy-cup, spill-proof-baby-bottle, toddler water bottle, toddler-sippy-cup, training-cup, transition-cup, travel-baby-bottle",
+      "tags": "300ml bottle, baby drinkware, baby feeding, baby travel essentials, Baby Water Bottle, baby-bottle-with-handles, baby-sippy-cup, BPA-free, CJ, daycare-bottle, Dr. Isla, easy-grip-bottle, first-sippy-cup, food-grade-baby-bottle, infant accessories, infant hydration, infant-drinking-cup, leak-proof bottle, life-event-adoption-finalization-celebration-feeding-bundle, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-nanny-caregiver-training-feeding-setup, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, non-toxic-baby-bottle, on-the-go, portable baby bottle, silicone-spout-bottle, sippy-cup, spill-proof-baby-bottle, toddler water bottle, toddler-sippy-cup, training-cup, transition-cup, travel-baby-bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9882516848982",
       "variants": [
@@ -1763,11 +1763,11 @@
       "product_type": "0",
       "created_at": "2025-09-09T15:00:23+01:00",
       "handle": "kbebe-newborn-straw-type-multifunctional-baby-set-safe-durable-easy-to-clean-design-essential-feeding-kit-for-infants-toddlers",
-      "updated_at": "2025-11-03T16:20:52+00:00",
+      "updated_at": "2025-11-04T12:33:24+00:00",
       "published_at": "2025-09-09T15:06:17+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "280ml-baby-bottle, Baby Bottles, Baby Weaning Set, bpa-free-baby-feeding, CJ, dishwasher-safe-baby-bottle, food-grade-baby-bottles, infant-straw-cup, kbebe, kbebe-baby-bottles, leak-proof-feeding-set, life-event-adoption-finalization-celebration-feeding-bundle, life-event-babysitters-emergency-feeding-kit, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-teething-self-feeding-milestone-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-twins-multiples-feeding-essentials, life-event-weekend-camping-baby-feeding-gear, newborn-feeding-set, silicone-straw-bottle, spill-proof-baby-cup, sterilizable-baby-bottle, straw-bottle, toddler-drinking-bottle, travel-baby-bottle",
+      "tags": "280ml-baby-bottle, Baby Bottles, Baby Weaning Set, bpa-free-baby-feeding, CJ, dishwasher-safe-baby-bottle, food-grade-baby-bottles, infant-straw-cup, kbebe, kbebe-baby-bottles, leak-proof-feeding-set, life-event-adoption-finalization-celebration-feeding-bundle, life-event-babysitters-emergency-feeding-kit, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-returning-to-work-mom-feeding-prep, life-event-teething-self-feeding-milestone-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-twins-multiples-feeding-essentials, life-event-weekend-camping-baby-feeding-gear, newborn-feeding-set, silicone-straw-bottle, spill-proof-baby-cup, sterilizable-baby-bottle, straw-bottle, toddler-drinking-bottle, travel-baby-bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9808104325462",
       "variants": [
@@ -1915,11 +1915,11 @@
       "product_type": "Baby Feeding Bottle",
       "created_at": "2025-09-02T17:02:27+01:00",
       "handle": "kidula-baby-feeding-bottle-silicone-straw-mug",
-      "updated_at": "2025-11-04T11:42:00+00:00",
+      "updated_at": "2025-11-04T12:33:56+00:00",
       "published_at": "2025-09-02T17:02:48+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby feeding bottle, bpa-free-baby-bottle, daycare-feeding-supplies, ergonomic-baby-bottle, food-grade-silicone-bottle, independent-drinking-cup, kidula-baby-products, kidula-feeding-bottle, leak-proof-toddler-cup, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-holiday-hosting-toddler-prep-station, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-toddler-independence-milestone-kit, life-event-weekend-camping-baby-feeding-gear, life-event-winter-baby-registry-must-haves, mess-free-baby-feeding, portable-baby-cup, safe kids feeder, silicone straw mug, soft-straw-bottle, spill-proof baby bottle, toddler-drinking-cup, toddler-hydration-cup, toddler-straw-cup, travel-baby-bottle",
+      "tags": "baby feeding bottle, bpa-free-baby-bottle, daycare-feeding-supplies, ergonomic-baby-bottle, food-grade-silicone-bottle, independent-drinking-cup, kidula-baby-products, kidula-feeding-bottle, leak-proof-toddler-cup, life-event-adoption-finalization-celebration-feeding-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-grandparents-helper-feeding-station, life-event-holiday-hosting-toddler-prep-station, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-sibling-preparation-feeding-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-toddler-independence-milestone-kit, life-event-weekend-camping-baby-feeding-gear, life-event-winter-baby-registry-must-haves, mess-free-baby-feeding, portable-baby-cup, safe kids feeder, silicone straw mug, soft-straw-bottle, spill-proof baby bottle, toddler-drinking-cup, toddler-hydration-cup, toddler-straw-cup, travel-baby-bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9793802338646",
       "variants": [

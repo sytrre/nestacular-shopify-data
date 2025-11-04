@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-04T11:37:33+00:00",
+      "updated_at": "2025-11-04T12:18:09+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -21,18 +21,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-04T11:37:33+00:00",
+          "updated_at": "2025-11-04T11:50:55+00:00",
           "summary_html": "<p>This Black Friday &amp; Cyber Monday 2025, skip the stuffed animals and give new parents what they actually need — practical, parent-approved feeding essentials. With exclusive grandparent discount codes <strong data-start=\"405\" data-end=\"432\">NSTCLR-BF2025 (50% off)</strong> and <strong data-start=\"437\" data-end=\"464\">NSTCLR-CM2025 (40% off)</strong>, you can gift anti-colic bottles, wheat straw feeding sets, and waterproof bibs at half price. Make every feeding a reminder of your love — affordable, useful, and delivered worldwide through <strong data-start=\"657\" data-end=\"678\">December 15, 2025</strong>.</p>",
           "template_suffix": "article",
           "handle": "grandparents-black-friday-cyber-monday-2025-baby-feeding-gift-guide-what-new-parents-really-want",
           "tags": "Baby Feeding Gift Guides & Registry Essentials",
           "admin_graphql_api_id": "gid://shopify/Article/610921775446",
           "image": {
-            "created_at": "2025-11-04T11:37:31+00:00",
+            "created_at": "2025-11-04T11:50:53+00:00",
             "alt": "Happy family gifting feeding essentials: bottles, bibs, cups.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_3e29ce8d-295e-48e4-b8b8-22628bc28de4.png?v=1762256253"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_e28eb9a5-a874-4c62-9eee-67032cd52b17.png?v=1762257055"
           }
         },
         {
@@ -95,12 +95,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:25+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-04T12:18:09+00:00",
+          "summary_html": "<p>Expecting a winter baby in <strong data-start=\"236\" data-end=\"272\">January, February, or March 2026</strong>? Now’s the perfect time to prep! Our <strong data-start=\"310\" data-end=\"337\">Early Black Friday Sale</strong> is live — save up to <strong data-start=\"359\" data-end=\"370\">50% off</strong> baby feeding essentials with code <strong data-start=\"405\" data-end=\"422\">NSTCLR-BF2025</strong> or <strong data-start=\"426\" data-end=\"437\">40% off</strong> with <strong data-start=\"443\" data-end=\"460\">NSTCLR-CM2025</strong>. Stock up on bottles, bibs, feeding sets, and winter-ready gear at half price. Stress less, save more, and welcome your baby fully prepared. Offer valid <strong data-start=\"614\" data-end=\"653\">worldwide through December 15, 2025</strong>.</p>",
           "template_suffix": "article",
           "handle": "january-baby-black-friday-cyber-monday-2025-the-complete-feeding-prep-list-for-winter-babies",
           "tags": "Winter Baby Feeding",
-          "admin_graphql_api_id": "gid://shopify/Article/610921251158"
+          "admin_graphql_api_id": "gid://shopify/Article/610921251158",
+          "image": {
+            "created_at": "2025-11-04T12:18:07+00:00",
+            "alt": "A complete baby feeding prep list",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_087c1ce0-6913-4a60-9548-a3c778807af7.png?v=1762258689"
+          }
         },
         {
           "id": 610920399190,
