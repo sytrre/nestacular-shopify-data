@@ -21375,8 +21375,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793805254998",
       "variants": [
         {
-          "product_id": 9793805254998,
           "id": 51206545441110,
+          "product_id": 9793805254998,
           "title": "Transparent / 330ml",
           "price": "22.03",
           "position": 1,
@@ -21403,8 +21403,8 @@
           "image_id": 66262962274646
         },
         {
-          "product_id": 9793805254998,
           "id": 51206545473878,
+          "product_id": 9793805254998,
           "title": "Pink Purple / 330ml",
           "price": "22.03",
           "position": 2,
@@ -21431,8 +21431,8 @@
           "image_id": 66262962307414
         },
         {
-          "product_id": 9793805254998,
           "id": 51206545506646,
+          "product_id": 9793805254998,
           "title": "Light Blue / 330ml",
           "price": "22.03",
           "position": 3,
@@ -21459,8 +21459,8 @@
           "image_id": 66262962340182
         },
         {
-          "product_id": 9793805254998,
           "id": 51206545539414,
+          "product_id": 9793805254998,
           "title": "Transparent / 125ml",
           "price": "22.03",
           "position": 4,
@@ -21487,8 +21487,8 @@
           "image_id": 66262962274646
         },
         {
-          "product_id": 9793805254998,
           "id": 51206545572182,
+          "product_id": 9793805254998,
           "title": "Pink Purple / 125ml",
           "price": "22.03",
           "position": 5,
@@ -21515,8 +21515,8 @@
           "image_id": 66262962307414
         },
         {
-          "product_id": 9793805254998,
           "id": 51206545604950,
+          "product_id": 9793805254998,
           "title": "Light Blue / 125ml",
           "price": "22.03",
           "position": 6,
@@ -21545,8 +21545,8 @@
       ],
       "options": [
         {
-          "product_id": 9793805254998,
           "id": 12643538010454,
+          "product_id": 9793805254998,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21556,8 +21556,8 @@
           ]
         },
         {
-          "product_id": 9793805254998,
           "id": 12643538043222,
+          "product_id": 9793805254998,
           "name": "capacity",
           "position": 2,
           "values": [
