@@ -9921,7 +9921,7 @@
       "product_type": "Baby Feeding Bottle",
       "created_at": "2025-09-02T17:02:27+01:00",
       "handle": "kidula-baby-feeding-bottle-silicone-straw-mug",
-      "updated_at": "2025-11-04T12:33:56+00:00",
+      "updated_at": "2025-11-05T01:20:07+00:00",
       "published_at": "2025-09-02T17:02:48+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -9930,8 +9930,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793802338646",
       "variants": [
         {
-          "product_id": 9793802338646,
           "id": 51206537216342,
+          "product_id": 9793802338646,
           "title": "Beige / One Size",
           "price": "17.09",
           "position": 1,
@@ -9958,8 +9958,8 @@
           "image_id": 66262946349398
         },
         {
-          "product_id": 9793802338646,
           "id": 51206537249110,
+          "product_id": 9793802338646,
           "title": "Mint / One Size",
           "price": "17.09",
           "position": 2,
@@ -9986,8 +9986,8 @@
           "image_id": 66262946382166
         },
         {
-          "product_id": 9793802338646,
           "id": 51206537281878,
+          "product_id": 9793802338646,
           "title": "Blue / One Size",
           "price": "17.09",
           "position": 3,
@@ -10014,8 +10014,8 @@
           "image_id": 66262946414934
         },
         {
-          "product_id": 9793802338646,
           "id": 51206537314646,
+          "product_id": 9793802338646,
           "title": "Pink / One Size",
           "price": "17.09",
           "position": 4,
@@ -10042,8 +10042,8 @@
           "image_id": 66262946447702
         },
         {
-          "product_id": 9793802338646,
           "id": 51206537347414,
+          "product_id": 9793802338646,
           "title": "Style1 / One Size",
           "price": "17.08",
           "position": 5,
@@ -10070,8 +10070,8 @@
           "image_id": 66262946480470
         },
         {
-          "product_id": 9793802338646,
           "id": 51206537380182,
+          "product_id": 9793802338646,
           "title": "Style2 / One Size",
           "price": "17.08",
           "position": 6,
@@ -10098,8 +10098,8 @@
           "image_id": 66262946513238
         },
         {
-          "product_id": 9793802338646,
           "id": 51206537412950,
+          "product_id": 9793802338646,
           "title": "Style3 / One Size",
           "price": "17.08",
           "position": 7,
@@ -10126,8 +10126,8 @@
           "image_id": 66262946546006
         },
         {
-          "product_id": 9793802338646,
           "id": 51206537445718,
+          "product_id": 9793802338646,
           "title": "Straw1pcs / One Size",
           "price": "17.08",
           "position": 8,
@@ -10156,8 +10156,8 @@
       ],
       "options": [
         {
-          "product_id": 9793802338646,
           "id": 12643534078294,
+          "product_id": 9793802338646,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10172,8 +10172,8 @@
           ]
         },
         {
-          "product_id": 9793802338646,
           "id": 12643534111062,
+          "product_id": 9793802338646,
           "name": "capacity",
           "position": 2,
           "values": [
@@ -19940,7 +19940,7 @@
       "product_type": "0",
       "created_at": "2025-09-29T16:35:50+01:00",
       "handle": "klevarina-bib-spoon-baby-silicone-snack-catcher-drop-resistant-non-slip-eating-bowl-meal-spoon-pinny-essential-feeding-bib-and-utensils-for-toddlers",
-      "updated_at": "2025-11-04T11:47:01+00:00",
+      "updated_at": "2025-11-05T00:02:29+00:00",
       "published_at": "2025-09-29T16:47:20+01:00",
       "template_suffix": null,
       "published_scope": "global",
