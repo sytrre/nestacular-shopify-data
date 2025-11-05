@@ -4,7 +4,7 @@
       "id": 657306091862,
       "handle": "anti-colic-bottles",
       "title": "Anti-Colic Bottles",
-      "updated_at": "2025-11-01T11:51:17+00:00",
+      "updated_at": "2025-11-05T11:57:52+00:00",
       "body_html": "<p>Designed to make feeding more comfortable for your little one. Our range of anti-colic baby bottles feature innovative venting systems that reduce air ingestion during feeding. This can help to lessen the discomfort from colic, gas, and reflux. Find a trusted solution for a calmer, happier feeding experience.</p>",
       "published_at": "2025-08-28T18:08:37+01:00",
       "sort_order": "best-selling",
@@ -111,7 +111,7 @@
       "id": 657478910294,
       "handle": "baby-bottles",
       "title": "Baby Bottles",
-      "updated_at": "2025-11-01T11:51:47+00:00",
+      "updated_at": "2025-11-05T11:57:22+00:00",
       "body_html": "<p>Discover the perfect baby bottle for your little one at Nestacular. Our curated collection features only the safest, most innovative, and ergonomically designed bottles from trusted brands. Whether you're looking for the purity of glass, the soft feel of silicone, or a specific solution to help with colic, you'll find the ideal option here. Explore our full range below or use our 'Shop by' guides to find the perfect bottle for your family.</p>",
       "published_at": "2025-08-31T19:55:36+01:00",
       "sort_order": "best-selling",
@@ -143,7 +143,7 @@
       "id": 657305239894,
       "handle": "baby-bottles-accessories",
       "title": "Baby Bottles & Accessories",
-      "updated_at": "2025-11-04T11:44:58+00:00",
+      "updated_at": "2025-11-05T11:57:22+00:00",
       "body_html": "<p>Welcome to our complete collection of baby bottles and accessories. We've curated the very best options from trusted brands, focusing on safety, ergonomic design, and a modern aesthetic. Whether you're looking for a bottle made from a specific material like glass or silicone, a solution for colic, or essential cleaning tools, you'll find it here. Explore our range to build the perfect feeding system for your family.</p>",
       "published_at": "2025-08-28T17:49:57+01:00",
       "sort_order": "best-selling",
@@ -297,7 +297,7 @@
       "id": 659151978838,
       "handle": "baby-rocking-chair-1",
       "title": "Baby Rocking Chair",
-      "updated_at": "2025-11-01T11:42:59+00:00",
+      "updated_at": "2025-11-05T11:49:21+00:00",
       "body_html": "",
       "published_at": "2025-09-19T09:22:55+01:00",
       "sort_order": "best-selling",
@@ -549,7 +549,7 @@
       "id": 657380606294,
       "handle": "baby-tableware",
       "title": "Baby Tableware",
-      "updated_at": "2025-11-04T11:49:59+00:00",
+      "updated_at": "2025-11-05T11:56:33+00:00",
       "body_html": "<p>Discover the complete collection of Nestacular's baby tableware. From their first spoons to toddler plates, every item is beautifully designed, non-toxic, and made to make mealtimes simpler. Shop by product, solution, material, or age to find the perfect essentials.</p>",
       "published_at": "2025-08-30T02:15:22+01:00",
       "sort_order": "best-selling",
@@ -666,7 +666,7 @@
       "id": 659231310166,
       "handle": "babys-first-halloween-party-prep",
       "title": "Baby's First Halloween Party Prep",
-      "updated_at": "2025-10-26T12:27:04+00:00",
+      "updated_at": "2025-11-05T11:54:20+00:00",
       "body_html": "Fun feeding essentials and party supplies perfect for baby's first Halloween celebration and costume parties with little ones.",
       "published_at": "2025-09-20T13:25:58+01:00",
       "sort_order": "best-selling",
@@ -893,7 +893,7 @@
       "id": 657380966742,
       "handle": "bibs-and-coveralls",
       "title": "Bibs & Coveralls",
-      "updated_at": "2025-11-04T11:47:02+00:00",
+      "updated_at": "2025-11-05T11:56:33+00:00",
       "body_html": "<p><meta charset=\"utf-8\">Contain the mess in style. Our collection of bibs ranges from wipe-clean silicone for quick meals to full-coverage coveralls for the most enthusiastic eaters.</p>",
       "published_at": "2025-08-30T02:40:13+01:00",
       "sort_order": "best-selling",
@@ -1469,7 +1469,7 @@
       "id": 657381327190,
       "handle": "complete-weaning-sets",
       "title": "Complete Weaning Sets",
-      "updated_at": "2025-10-30T11:44:57+00:00",
+      "updated_at": "2025-11-05T11:55:54+00:00",
       "body_html": "<p><meta charset=\"utf-8\">The perfect start to solid foods. Our curated weaning sets bundle all the matching tableware you need, from suction plates and bowls to first cutlery and cups.</p>",
       "published_at": "2025-08-30T03:01:40+01:00",
       "sort_order": "best-selling",
@@ -1583,7 +1583,7 @@
       "id": 657380770134,
       "handle": "cups-and-drinkware",
       "title": "Cups & Drinkware",
-      "updated_at": "2025-11-04T11:42:01+00:00",
+      "updated_at": "2025-11-05T11:54:20+00:00",
       "body_html": "<p>From their first sips to confident drinking. Our collection of cups and drinkware supports every stage, including sippy cups, straw cups, and expert-recommended open cups.</p>",
       "published_at": "2025-08-30T02:26:48+01:00",
       "sort_order": "best-selling",
@@ -1774,6 +1774,26 @@
       "admin_graphql_api_id": "gid://shopify/Collection/657689313622"
     },
     {
+      "id": 665175458134,
+      "handle": "dishwasher-safe-baby-bowl",
+      "title": "Dishwasher Safe Baby Bowls",
+      "updated_at": "2025-11-05T12:09:22+00:00",
+      "body_html": "<h2>Dishwasher Safe Baby Bowls</h2>\n<p>Our collection of dishwasher safe baby bowls combines durability with practical design for busy parents. Each bowl is engineered to withstand high-temperature dishwasher cycles while maintaining its quality and safety standards.</p>\n<p>These feeding bowls are crafted from materials that resist warping, staining, and odor absorption even after repeated dishwasher use. The dishwasher-safe construction means less time scrubbing and more time with your little one.</p>\n<h3>Key Features</h3>\n<ul>\n<li>Top-rack dishwasher safe for convenient cleaning</li>\n<li>BPA-free, phthalate-free materials safe for infants and toddlers</li>\n<li>Stain-resistant surfaces that maintain appearance over time</li>\n<li>Designed to handle purees, solids, and everything in between</li>\n<li>Secure grip bases to minimize spills during self-feeding</li>\n</ul>\n<p>Whether you're introducing first foods or managing a toddler's mealtime independence, these dishwasher safe bowls simplify cleanup without compromising on safety or functionality. Each bowl in this collection has been selected for its ability to endure daily use and frequent washing cycles.</p>",
+      "published_at": "2025-11-05T12:09:22+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "dishwasher-safe-baby-bowl"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/665175458134"
+    },
+    {
       "id": 664653889878,
       "handle": "emergency-preparedness-baby-safety-kit",
       "title": "Emergency Preparedness Baby Safety Kit",
@@ -1919,7 +1939,7 @@
       "id": 657382605142,
       "handle": "first-stage-feeding",
       "title": "First Stage (4-6 Months)",
-      "updated_at": "2025-11-04T11:49:36+00:00",
+      "updated_at": "2025-11-05T11:57:52+00:00",
       "body_html": "<p><meta charset=\"utf-8\">For their very first tastes of solid food. This collection includes soft-tip spoons, small suction bowls, and easy-clean bibs perfect for the puree stage.</p>",
       "published_at": "2025-08-30T04:20:49+01:00",
       "sort_order": "best-selling",
@@ -2292,7 +2312,7 @@
       "id": 657750163798,
       "handle": "grandparents-helper-feeding-station",
       "title": "Grandparent's Helper Feeding Station",
-      "updated_at": "2025-11-04T11:42:01+00:00",
+      "updated_at": "2025-11-05T11:51:52+00:00",
       "body_html": "Easy-to-use feeding essentials perfect for grandparents watching little ones - simple, safe, and mess-free solutions for confident caregiving.",
       "published_at": "2025-09-04T11:00:27+01:00",
       "sort_order": "best-selling",
@@ -2332,7 +2352,7 @@
       "id": 657378967894,
       "handle": "high-chair-accessories",
       "title": "High Chair Accessories",
-      "updated_at": "2025-11-04T11:43:58+00:00",
+      "updated_at": "2025-11-05T11:52:24+00:00",
       "body_html": "<p>Personalise and perfect your high chair with our range of essential accessories. Discover comfortable cushions, easy-clean placemats, replacement parts and more to enhance your mealtime setup.</p>",
       "published_at": "2025-08-30T00:17:16+01:00",
       "sort_order": "best-selling",
@@ -2404,7 +2424,7 @@
       "id": 657379066198,
       "handle": "high-chair-cushions",
       "title": "High Chair Cushions & Inserts",
-      "updated_at": "2025-11-04T11:49:36+00:00",
+      "updated_at": "2025-11-05T11:52:24+00:00",
       "body_html": "<p>Add a touch of comfort and style with our high chair cushions and inserts. Made from wipeable, baby-safe fabrics in a range of modern prints to suit your home.</p>",
       "published_at": "2025-08-30T00:24:55+01:00",
       "sort_order": "best-selling",
@@ -2528,7 +2548,7 @@
       "id": 657370251606,
       "handle": "high-chairs",
       "title": "High Chairs",
-      "updated_at": "2025-11-04T11:49:06+00:00",
+      "updated_at": "2025-11-05T11:52:24+00:00",
       "body_html": "<p>Explore our complete collection of baby and toddler high chairs. From modern minimalist designs to classic wooden frames, find the perfect, safe, and stylish seat for your little one's first meals.</p>",
       "published_at": "2025-08-29T20:07:05+01:00",
       "sort_order": "best-selling",
@@ -2560,7 +2580,7 @@
       "id": 657381720406,
       "handle": "high-chairs-and-accessories",
       "title": "High Chairs & Accessories",
-      "updated_at": "2025-11-04T11:49:06+00:00",
+      "updated_at": "2025-11-05T11:52:24+00:00",
       "body_html": "<p>Discover the centrepiece of your baby's mealtime experience. Our curated collection of high chairs and accessories is chosen for superior safety, ergonomic design, and a modern aesthetic that complements your home.</p>",
       "published_at": "2025-08-30T03:34:49+01:00",
       "sort_order": "best-selling",
@@ -2627,6 +2647,46 @@
         "height": 609,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/High_Chairs_Accessories.webp?v=1756521288"
       }
+    },
+    {
+      "id": 665176867158,
+      "handle": "holiday-baking-with-kids-mess-free-feeding-station",
+      "title": "Holiday Baking with Kids Mess-Free Feeding Station",
+      "updated_at": "2025-11-05T12:29:18+00:00",
+      "body_html": "Create memorable holiday baking moments with little helpers using spill-proof feeding gear and easy-clean essentials perfect for flour-dusted kitchen adventures.",
+      "published_at": "2025-11-05T12:29:18+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Suction Bowl Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Plates"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Saliva Towel"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Kids Dining Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "BPA-Free"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/665176867158"
     },
     {
       "id": 659624919382,
@@ -2816,7 +2876,7 @@
       "id": 657381654870,
       "handle": "mess-free-essentials",
       "title": "Mess-Free Essentials",
-      "updated_at": "2025-11-04T11:49:59+00:00",
+      "updated_at": "2025-11-05T11:56:33+00:00",
       "body_html": "<p>While a truly mess-free meal is a parent's dream, this collection of clever products comes close! Discover our best suction tableware, full-coverage bibs, and spill-proof cups designed to contain the chaos.</p>",
       "published_at": "2025-08-30T03:28:00+01:00",
       "sort_order": "best-selling",
@@ -2940,7 +3000,7 @@
       "id": 658935054678,
       "handle": "moving-day-baby-feeding-setup",
       "title": "Moving Day Baby Feeding Setup",
-      "updated_at": "2025-10-30T11:44:24+00:00",
+      "updated_at": "2025-11-05T11:54:20+00:00",
       "body_html": "Essential portable feeding gear for families relocating with babies. Foldable chairs, travel bottles, and easy-pack feeding essentials.",
       "published_at": "2025-09-18T13:40:08+01:00",
       "sort_order": "best-selling",
@@ -3052,7 +3112,7 @@
       "id": 659360743766,
       "handle": "new-sibling-preparation-feeding-kit",
       "title": "New Sibling Preparation Feeding Kit",
-      "updated_at": "2025-11-04T11:47:31+00:00",
+      "updated_at": "2025-11-05T11:55:55+00:00",
       "body_html": "Essential feeding supplies to help prepare your toddler for becoming a big brother or sister while maintaining their own mealtime routine.",
       "published_at": "2025-09-22T13:23:00+01:00",
       "sort_order": "best-selling",
@@ -3174,6 +3234,46 @@
       ],
       "published_scope": "web",
       "admin_graphql_api_id": "gid://shopify/Collection/659359072598"
+    },
+    {
+      "id": 665176834390,
+      "handle": "older-sibling-big-kid-transition-feeding-set",
+      "title": "Older Sibling Big Kid Transition Feeding Set",
+      "updated_at": "2025-11-05T12:29:10+00:00",
+      "body_html": "Help your toddler embrace their new big kid role with independent feeding essentials designed for growing confidence and self-sufficiency during this major milestone.",
+      "published_at": "2025-11-05T12:29:10+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Kids Dining Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Plates"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Suction Bowl Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Rice Cereal Spoon"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "High Chair"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/665176834390"
     },
     {
       "id": 657381622102,
@@ -3413,7 +3513,7 @@
       "id": 657380442454,
       "handle": "plates-and-bowls",
       "title": "Plates & Bowls",
-      "updated_at": "2025-11-04T11:49:59+00:00",
+      "updated_at": "2025-11-05T11:55:25+00:00",
       "body_html": "<p>Serve up delicious meals in our beautiful and practical baby plates and bowls. Designed for little ones, with features like suction bases and divided sections.</p>",
       "published_at": "2025-08-30T02:02:36+01:00",
       "sort_order": "best-selling",
@@ -3612,7 +3712,7 @@
       "id": 658758893910,
       "handle": "returning-to-work-mom-feeding-prep",
       "title": "Returning to Work Mom Feeding Prep",
-      "updated_at": "2025-10-11T13:32:01+01:00",
+      "updated_at": "2025-11-05T11:53:51+00:00",
       "body_html": "Essential feeding gear for moms transitioning back to work after maternity leave, featuring portable warmers, training cups, and easy-clean essentials.",
       "published_at": "2025-09-16T13:24:10+01:00",
       "sort_order": "best-selling",
@@ -3729,7 +3829,7 @@
       "id": 657305829718,
       "handle": "silicone-baby-bottles",
       "title": "Silicone Baby Bottles",
-      "updated_at": "2025-11-01T11:44:29+00:00",
+      "updated_at": "2025-11-05T11:58:39+00:00",
       "body_html": "<p>Soft, safe, and designed to mimic the natural feel of breastfeeding. Our collection of silicone baby bottles are made from 100% food-grade silicone, making them lightweight, unbreakable, and a perfect choice for tiny hands to hold. Their flexible nature makes them easy to clean and comfortable for your baby. Explore our range of aesthetic and ergonomic silicone bottles.</p>",
       "published_at": "2025-08-28T18:01:16+01:00",
       "sort_order": "best-selling",
@@ -3761,10 +3861,10 @@
       "admin_graphql_api_id": "gid://shopify/Collection/657305829718",
       "image": {
         "created_at": "2025-08-31T10:43:22+01:00",
-        "alt": null,
+        "alt": "Green and yellow silicone baby bottles with soft, squeezable bodies and clear, flexible nipples.",
         "width": 1024,
         "height": 1024,
-        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_9d34e815-10df-4b96-8a14-2a011a99e618.png?v=1756633402"
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_9d34e815-10df-4b96-8a14-2a011a99e618.png?v=1762343919"
       }
     },
     {
@@ -3833,7 +3933,7 @@
       "id": 657382342998,
       "handle": "silicone-tableware",
       "title": "Silicone Tableware",
-      "updated_at": "2025-11-04T11:48:27+00:00",
+      "updated_at": "2025-11-05T11:57:22+00:00",
       "body_html": "<p><meta charset=\"utf-8\">Durable, unbreakable, and beautifully minimalist. Our complete range of 100% food-grade silicone tableware is the safe and stylish choice for modern parents.</p>",
       "published_at": "2025-08-30T03:57:34+01:00",
       "sort_order": "best-selling",
@@ -4026,7 +4126,7 @@
       "id": 657381392726,
       "handle": "suction-tableware",
       "title": "Suction Tableware",
-      "updated_at": "2025-10-30T11:42:56+00:00",
+      "updated_at": "2025-11-05T11:55:55+00:00",
       "body_html": "<p>No more flying plates! Our powerful suction tableware is designed to stay firmly put on high chair trays and tables, making mealtimes less messy and more fun.</p>",
       "published_at": "2025-08-30T03:07:13+01:00",
       "sort_order": "best-selling",
@@ -4173,7 +4273,7 @@
       "id": 657848271190,
       "handle": "toddler-independence-milestone-kit",
       "title": "Toddler Independence Milestone Kit",
-      "updated_at": "2025-10-26T12:32:51+00:00",
+      "updated_at": "2025-11-05T11:56:33+00:00",
       "body_html": "Self-feeding essentials for toddlers reaching independence milestones - perfect for 18-24 month developmental stages.",
       "published_at": "2025-09-05T13:59:04+01:00",
       "sort_order": "best-selling",
@@ -4228,7 +4328,7 @@
       "id": 657382867286,
       "handle": "toddler-stage-feeding",
       "title": "Toddler Stage (1+ Year)",
-      "updated_at": "2025-11-04T11:49:59+00:00",
+      "updated_at": "2025-11-05T11:54:20+00:00",
       "body_html": "<p><meta charset=\"utf-8\">As they master self-feeding, our toddler collection grows with them. Explore durable plates, stainless steel cutlery, and straw cups for independent mealtimes.</p>",
       "published_at": "2025-08-30T04:37:43+01:00",
       "sort_order": "best-selling",
@@ -4382,7 +4482,7 @@
       "id": 660978729302,
       "handle": "twins-multiples-feeding-essentials",
       "title": "Twins & Multiples Feeding Essentials",
-      "updated_at": "2025-11-04T11:47:31+00:00",
+      "updated_at": "2025-11-05T11:55:55+00:00",
       "body_html": "Double the joy means double the feeding prep. Streamline mealtime chaos with coordinated bottles, bibs, and portable chairs designed for parents of twins and multiples.",
       "published_at": "2025-10-09T13:23:36+01:00",
       "sort_order": "best-selling",
@@ -4422,7 +4522,7 @@
       "id": 657382736214,
       "handle": "weaning-stage-feeding",
       "title": "Weaning Stage (6-12 Months)",
-      "updated_at": "2025-10-30T11:44:57+00:00",
+      "updated_at": "2025-11-05T11:55:55+00:00",
       "body_html": "<p><meta charset=\"utf-8\">Everything you need for the exciting journey of baby-led weaning. Discover suction plates, easy-grip utensils, and first cups to encourage self-feeding.</p>",
       "published_at": "2025-08-30T04:30:39+01:00",
       "sort_order": "best-selling",
@@ -4534,7 +4634,7 @@
       "id": 661160821078,
       "handle": "winter-baby-registry-must-haves",
       "title": "Winter Baby Registry Must-Haves",
-      "updated_at": "2025-11-04T11:47:32+00:00",
+      "updated_at": "2025-11-05T11:55:55+00:00",
       "body_html": "Essential feeding gear for expectant parents with winter due dates, featuring bottle warmers, portable feeding solutions, and complete tableware sets.",
       "published_at": "2025-10-11T13:37:25+01:00",
       "sort_order": "best-selling",
@@ -4722,8 +4822,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 93,
-    "items_in_page": 93,
+    "total_items": 96,
+    "items_in_page": 96,
     "has_next_page": false,
     "has_previous_page": false
   }
