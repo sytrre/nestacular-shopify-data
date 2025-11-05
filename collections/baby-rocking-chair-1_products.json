@@ -970,8 +970,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830355304790",
       "variants": [
         {
-          "id": 51355460567382,
           "product_id": 9830355304790,
+          "id": 51355460567382,
           "title": "Toy rack for rocking chairs",
           "price": "140.95",
           "position": 1,
@@ -1000,8 +1000,8 @@
       ],
       "options": [
         {
-          "id": 12687026749782,
           "product_id": 9830355304790,
+          "id": 12687026749782,
           "name": "Color",
           "position": 1,
           "values": [
