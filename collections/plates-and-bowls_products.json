@@ -20124,8 +20124,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791669698902",
       "variants": [
         {
-          "id": 51197248012630,
           "product_id": 9791669698902,
+          "id": 51197248012630,
           "title": "Pink",
           "price": "50.37",
           "position": 1,
@@ -20152,8 +20152,8 @@
           "image_id": 66244492165462
         },
         {
-          "id": 51197248045398,
           "product_id": 9791669698902,
+          "id": 51197248045398,
           "title": "Khaki",
           "price": "50.37",
           "position": 2,
@@ -20180,8 +20180,8 @@
           "image_id": 66244492198230
         },
         {
-          "id": 51197248078166,
           "product_id": 9791669698902,
+          "id": 51197248078166,
           "title": "Dark Red",
           "price": "50.37",
           "position": 3,
@@ -20208,8 +20208,8 @@
           "image_id": 66244492230998
         },
         {
-          "id": 51197248110934,
           "product_id": 9791669698902,
+          "id": 51197248110934,
           "title": "Mango",
           "price": "50.37",
           "position": 4,
@@ -20236,8 +20236,8 @@
           "image_id": 66244492263766
         },
         {
-          "id": 51197248143702,
           "product_id": 9791669698902,
+          "id": 51197248143702,
           "title": "Blue",
           "price": "50.37",
           "position": 5,
@@ -20264,8 +20264,8 @@
           "image_id": 66244492296534
         },
         {
-          "id": 51197248176470,
           "product_id": 9791669698902,
+          "id": 51197248176470,
           "title": "Dark Pink",
           "price": "50.37",
           "position": 6,
@@ -20292,8 +20292,8 @@
           "image_id": 66244492329302
         },
         {
-          "id": 51197248209238,
           "product_id": 9791669698902,
+          "id": 51197248209238,
           "title": "Green",
           "price": "50.37",
           "position": 7,
@@ -20320,8 +20320,8 @@
           "image_id": 66244492362070
         },
         {
-          "id": 51197248242006,
           "product_id": 9791669698902,
+          "id": 51197248242006,
           "title": "Marble",
           "price": "50.37",
           "position": 8,
@@ -20348,8 +20348,8 @@
           "image_id": 66244492394838
         },
         {
-          "id": 51197248274774,
           "product_id": 9791669698902,
+          "id": 51197248274774,
           "title": "Mint Green",
           "price": "50.37",
           "position": 9,
@@ -20376,8 +20376,8 @@
           "image_id": 66244492427606
         },
         {
-          "id": 51197248307542,
           "product_id": 9791669698902,
+          "id": 51197248307542,
           "title": "Rose Pink",
           "price": "50.37",
           "position": 10,
@@ -20404,8 +20404,8 @@
           "image_id": 66244492460374
         },
         {
-          "id": 51197248340310,
           "product_id": 9791669698902,
+          "id": 51197248340310,
           "title": "Grey",
           "price": "50.37",
           "position": 11,
@@ -20432,8 +20432,8 @@
           "image_id": 66244492493142
         },
         {
-          "id": 51197248373078,
           "product_id": 9791669698902,
+          "id": 51197248373078,
           "title": "Yellow",
           "price": "50.37",
           "position": 12,
@@ -20462,8 +20462,8 @@
       ],
       "options": [
         {
-          "id": 12640928104790,
           "product_id": 9791669698902,
+          "id": 12640928104790,
           "name": "Color",
           "position": 1,
           "values": [
@@ -23259,8 +23259,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9810615206230",
       "variants": [
         {
-          "id": 51275373609302,
           "product_id": 9810615206230,
+          "id": 51275373609302,
           "title": "Green Chicken Bowl",
           "price": "24.95",
           "position": 1,
@@ -23287,8 +23287,8 @@
           "image_id": 66463455478102
         },
         {
-          "id": 51275373642070,
           "product_id": 9810615206230,
+          "id": 51275373642070,
           "title": "Green Chicken Bowl Liner",
           "price": "29.95",
           "position": 2,
@@ -23315,8 +23315,8 @@
           "image_id": 66463455510870
         },
         {
-          "id": 51275373674838,
           "product_id": 9810615206230,
+          "id": 51275373674838,
           "title": "Pink Chicken Bowl",
           "price": "24.95",
           "position": 3,
@@ -23343,8 +23343,8 @@
           "image_id": 66463455543638
         },
         {
-          "id": 51275373707606,
           "product_id": 9810615206230,
+          "id": 51275373707606,
           "title": "Pink Chicken Bowl Liner",
           "price": "29.95",
           "position": 4,
@@ -23371,8 +23371,8 @@
           "image_id": 66463455576406
         },
         {
-          "id": 51275373740374,
           "product_id": 9810615206230,
+          "id": 51275373740374,
           "title": "Yellow Chicken Bowl",
           "price": "24.95",
           "position": 5,
@@ -23399,8 +23399,8 @@
           "image_id": 66463455609174
         },
         {
-          "id": 51275373773142,
           "product_id": 9810615206230,
+          "id": 51275373773142,
           "title": "Yellow Chicken Bowl Liner",
           "price": "29.95",
           "position": 6,
@@ -23429,8 +23429,8 @@
       ],
       "options": [
         {
-          "id": 12663373693270,
           "product_id": 9810615206230,
+          "id": 12663373693270,
           "name": "Color",
           "position": 1,
           "values": [

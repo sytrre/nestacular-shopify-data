@@ -10631,8 +10631,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9795008594262",
       "variants": [
         {
-          "id": 51211729895766,
           "product_id": 9795008594262,
+          "id": 51211729895766,
           "title": "Flagship Edition",
           "price": "291.12",
           "position": 1,
@@ -10659,8 +10659,8 @@
           "image_id": 66273338982742
         },
         {
-          "id": 51211729928534,
           "product_id": 9795008594262,
+          "id": 51211729928534,
           "title": "Cherry blossom powder",
           "price": "305.95",
           "position": 2,
@@ -10689,8 +10689,8 @@
       ],
       "options": [
         {
-          "id": 12645010932054,
           "product_id": 9795008594262,
+          "id": 12645010932054,
           "name": "style",
           "position": 1,
           "values": [
@@ -10801,8 +10801,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870793081174",
       "variants": [
         {
-          "id": 51505027350870,
           "product_id": 9870793081174,
+          "id": 51505027350870,
           "title": "Green",
           "price": "19.95",
           "position": 1,
@@ -10829,8 +10829,8 @@
           "image_id": 67399741505878
         },
         {
-          "id": 51505027383638,
           "product_id": 9870793081174,
+          "id": 51505027383638,
           "title": "Yellow",
           "price": "19.95",
           "position": 2,
@@ -10859,8 +10859,8 @@
       ],
       "options": [
         {
-          "id": 12733963370838,
           "product_id": 9870793081174,
+          "id": 12733963370838,
           "name": "Color",
           "position": 1,
           "values": [
