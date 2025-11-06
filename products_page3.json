@@ -12466,8 +12466,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866572333398",
       "variants": [
         {
-          "id": 51489500954966,
           "product_id": 9866572333398,
+          "id": 51489500954966,
           "title": "Log color",
           "price": "76.95",
           "position": 1,
@@ -12496,8 +12496,8 @@
       ],
       "options": [
         {
-          "id": 12729031426390,
           "product_id": 9866572333398,
+          "id": 12729031426390,
           "name": "Color",
           "position": 1,
           "values": [
