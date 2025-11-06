@@ -26388,7 +26388,7 @@
       "product_type": "0",
       "created_at": "2025-09-09T13:53:12+01:00",
       "handle": "levvii-baby-silicone-bowl-newborn-tableware-set-safe-durable-easy-to-clean-design-essential-feeding-kit-for-infants-toddlers",
-      "updated_at": "2025-11-05T12:31:49+00:00",
+      "updated_at": "2025-11-06T14:17:32+00:00",
       "published_at": "2025-09-09T13:59:08+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -31662,8 +31662,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9846641688918",
       "variants": [
         {
-          "product_id": 9846641688918,
           "id": 51416745148758,
+          "product_id": 9846641688918,
           "title": "Blue dinosaur / 100 yards",
           "price": "19.95",
           "position": 1,
@@ -31690,8 +31690,8 @@
           "image_id": 67143594967382
         },
         {
-          "product_id": 9846641688918,
           "id": 51416745181526,
+          "product_id": 9846641688918,
           "title": "Blue dinosaur / 90 yards",
           "price": "19.45",
           "position": 2,
@@ -31718,8 +31718,8 @@
           "image_id": 67143594967382
         },
         {
-          "product_id": 9846641688918,
           "id": 51416745214294,
+          "product_id": 9846641688918,
           "title": "Brown bear / 100 yards",
           "price": "19.95",
           "position": 3,
@@ -31746,8 +31746,8 @@
           "image_id": 67143595000150
         },
         {
-          "product_id": 9846641688918,
           "id": 51416745247062,
+          "product_id": 9846641688918,
           "title": "Brown bear / 90 yards",
           "price": "19.45",
           "position": 4,
@@ -31774,8 +31774,8 @@
           "image_id": 67143595000150
         },
         {
-          "product_id": 9846641688918,
           "id": 51416745279830,
+          "product_id": 9846641688918,
           "title": "Green cactus / 100 yards",
           "price": "19.95",
           "position": 5,
@@ -31802,8 +31802,8 @@
           "image_id": 67143595032918
         },
         {
-          "product_id": 9846641688918,
           "id": 51416745312598,
+          "product_id": 9846641688918,
           "title": "Green cactus / 90 yards",
           "price": "19.45",
           "position": 6,
@@ -31830,8 +31830,8 @@
           "image_id": 67143595032918
         },
         {
-          "product_id": 9846641688918,
           "id": 51416745345366,
+          "product_id": 9846641688918,
           "title": "Pink flamingo / 100 yards",
           "price": "19.95",
           "position": 7,
@@ -31858,8 +31858,8 @@
           "image_id": 67143595065686
         },
         {
-          "product_id": 9846641688918,
           "id": 51416745378134,
+          "product_id": 9846641688918,
           "title": "Pink flamingo / 90 yards",
           "price": "19.45",
           "position": 8,
@@ -31886,8 +31886,8 @@
           "image_id": 67143595065686
         },
         {
-          "product_id": 9846641688918,
           "id": 51416745410902,
+          "product_id": 9846641688918,
           "title": "Yellow Elk / 100 yards",
           "price": "19.95",
           "position": 9,
@@ -31914,8 +31914,8 @@
           "image_id": 67143595098454
         },
         {
-          "product_id": 9846641688918,
           "id": 51416745443670,
+          "product_id": 9846641688918,
           "title": "Yellow Elk / 90 yards",
           "price": "19.45",
           "position": 10,
@@ -31944,8 +31944,8 @@
       ],
       "options": [
         {
-          "product_id": 9846641688918,
           "id": 12705966621014,
+          "product_id": 9846641688918,
           "name": "Color",
           "position": 1,
           "values": [
@@ -31957,8 +31957,8 @@
           ]
         },
         {
-          "product_id": 9846641688918,
           "id": 12705966653782,
+          "product_id": 9846641688918,
           "name": "Size",
           "position": 2,
           "values": [
@@ -54632,8 +54632,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830355304790",
       "variants": [
         {
-          "product_id": 9830355304790,
           "id": 51355460567382,
+          "product_id": 9830355304790,
           "title": "Toy rack for rocking chairs",
           "price": "140.95",
           "position": 1,
@@ -54662,8 +54662,8 @@
       ],
       "options": [
         {
-          "product_id": 9830355304790,
           "id": 12687026749782,
+          "product_id": 9830355304790,
           "name": "Color",
           "position": 1,
           "values": [
@@ -77884,8 +77884,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870560919894",
       "variants": [
         {
-          "product_id": 9870560919894,
           "id": 51504609624406,
+          "product_id": 9870560919894,
           "title": "Kid",
           "price": "19.95",
           "position": 1,
@@ -77912,8 +77912,8 @@
           "image_id": 67399076118870
         },
         {
-          "product_id": 9870560919894,
           "id": 51504609657174,
+          "product_id": 9870560919894,
           "title": "Pet",
           "price": "19.95",
           "position": 2,
@@ -77942,8 +77942,8 @@
       ],
       "options": [
         {
-          "product_id": 9870560919894,
           "id": 12733703684438,
+          "product_id": 9870560919894,
           "name": "Model",
           "position": 1,
           "values": [
