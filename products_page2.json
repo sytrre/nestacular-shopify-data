@@ -6079,8 +6079,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9795008594262",
       "variants": [
         {
-          "id": 51211729895766,
           "product_id": 9795008594262,
+          "id": 51211729895766,
           "title": "Flagship Edition",
           "price": "291.12",
           "position": 1,
@@ -6107,8 +6107,8 @@
           "image_id": 66273338982742
         },
         {
-          "id": 51211729928534,
           "product_id": 9795008594262,
+          "id": 51211729928534,
           "title": "Cherry blossom powder",
           "price": "305.95",
           "position": 2,
@@ -6137,8 +6137,8 @@
       ],
       "options": [
         {
-          "id": 12645010932054,
           "product_id": 9795008594262,
+          "id": 12645010932054,
           "name": "style",
           "position": 1,
           "values": [
@@ -16401,8 +16401,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9808067101014",
       "variants": [
         {
-          "id": 51265877344598,
           "product_id": 9808067101014,
+          "id": 51265877344598,
           "title": "Blue",
           "price": "24.95",
           "position": 1,
@@ -16429,8 +16429,8 @@
           "image_id": 66395662745942
         },
         {
-          "id": 51265877377366,
           "product_id": 9808067101014,
+          "id": 51265877377366,
           "title": "Pink",
           "price": "24.95",
           "position": 2,
@@ -16459,8 +16459,8 @@
       ],
       "options": [
         {
-          "id": 12660451770710,
           "product_id": 9808067101014,
+          "id": 12660451770710,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18310,8 +18310,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9808331735382",
       "variants": [
         {
-          "id": 51267180822870,
           "product_id": 9808331735382,
+          "id": 51267180822870,
           "title": "Color",
           "price": "12.95",
           "position": 1,
@@ -18340,8 +18340,8 @@
       ],
       "options": [
         {
-          "id": 12660767555926,
           "product_id": 9808331735382,
+          "id": 12660767555926,
           "name": "Color",
           "position": 1,
           "values": [
