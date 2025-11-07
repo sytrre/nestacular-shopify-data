@@ -39954,8 +39954,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9860428890454",
       "variants": [
         {
-          "product_id": 9860428890454,
           "id": 51468394365270,
+          "product_id": 9860428890454,
           "title": "231 Blue",
           "price": "20.85",
           "position": 1,
@@ -39982,8 +39982,8 @@
           "image_id": 67298466038102
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394398038,
+          "product_id": 9860428890454,
           "title": "231 Blue Pp Box",
           "price": "20.95",
           "position": 2,
@@ -40010,8 +40010,8 @@
           "image_id": 67298466070870
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394430806,
+          "product_id": 9860428890454,
           "title": "HBK1 Smoke Blue",
           "price": "20.85",
           "position": 3,
@@ -40038,8 +40038,8 @@
           "image_id": 67298466103638
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394463574,
+          "product_id": 9860428890454,
           "title": "HBK1 Smoke Blue Pp Box",
           "price": "20.95",
           "position": 4,
@@ -40066,8 +40066,8 @@
           "image_id": 67298466136406
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394496342,
+          "product_id": 9860428890454,
           "title": "HBK2 Brown",
           "price": "20.85",
           "position": 5,
@@ -40094,8 +40094,8 @@
           "image_id": 67298466169174
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394529110,
+          "product_id": 9860428890454,
           "title": "HBK2 Brown Pp Box",
           "price": "20.95",
           "position": 6,
@@ -40122,8 +40122,8 @@
           "image_id": 67298466201942
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394561878,
+          "product_id": 9860428890454,
           "title": "HBK3 Beige",
           "price": "20.85",
           "position": 7,
@@ -40150,8 +40150,8 @@
           "image_id": 67298466234710
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394594646,
+          "product_id": 9860428890454,
           "title": "HBK3 Beige Pp Box",
           "price": "20.95",
           "position": 8,
@@ -40178,8 +40178,8 @@
           "image_id": 67298466267478
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394627414,
+          "product_id": 9860428890454,
           "title": "HBK4 Olive Green",
           "price": "20.85",
           "position": 9,
@@ -40206,8 +40206,8 @@
           "image_id": 67298466300246
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394660182,
+          "product_id": 9860428890454,
           "title": "HBK4 Olive Green Pp Box",
           "price": "20.95",
           "position": 10,
@@ -40234,8 +40234,8 @@
           "image_id": 67298466333014
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394692950,
+          "product_id": 9860428890454,
           "title": "HBK5 Brick Red",
           "price": "20.85",
           "position": 11,
@@ -40262,8 +40262,8 @@
           "image_id": 67298466365782
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394725718,
+          "product_id": 9860428890454,
           "title": "HBK5 Brick Red Pp Box",
           "price": "20.95",
           "position": 12,
@@ -40290,8 +40290,8 @@
           "image_id": 67298466398550
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394758486,
+          "product_id": 9860428890454,
           "title": "HBK6 Turmeric",
           "price": "20.85",
           "position": 13,
@@ -40318,8 +40318,8 @@
           "image_id": 67298466431318
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394791254,
+          "product_id": 9860428890454,
           "title": "HBK6 Turmeric Pp Box",
           "price": "20.95",
           "position": 14,
@@ -40346,8 +40346,8 @@
           "image_id": 67298466464086
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394824022,
+          "product_id": 9860428890454,
           "title": "HBK7 Orange",
           "price": "20.85",
           "position": 15,
@@ -40374,8 +40374,8 @@
           "image_id": 67298466496854
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394856790,
+          "product_id": 9860428890454,
           "title": "HBK7 Orange Pp Box",
           "price": "20.95",
           "position": 16,
@@ -40402,8 +40402,8 @@
           "image_id": 67298466529622
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394889558,
+          "product_id": 9860428890454,
           "title": "HBK8 Light Gray",
           "price": "20.85",
           "position": 17,
@@ -40430,8 +40430,8 @@
           "image_id": 67298466562390
         },
         {
-          "product_id": 9860428890454,
           "id": 51468394922326,
+          "product_id": 9860428890454,
           "title": "HBK8 Light Gray Pp Box",
           "price": "20.95",
           "position": 18,
@@ -40460,8 +40460,8 @@
       ],
       "options": [
         {
-          "product_id": 9860428890454,
           "id": 12722089918806,
+          "product_id": 9860428890454,
           "name": "Color",
           "position": 1,
           "values": [
