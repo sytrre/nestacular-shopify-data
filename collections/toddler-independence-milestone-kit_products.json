@@ -3829,8 +3829,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793338573142",
       "variants": [
         {
-          "id": 51204713709910,
           "product_id": 9793338573142,
+          "id": 51204713709910,
           "title": "Pink / With handle",
           "price": "41.16",
           "position": 1,
@@ -3857,8 +3857,8 @@
           "image_id": 66259664306518
         },
         {
-          "id": 51204713742678,
           "product_id": 9793338573142,
+          "id": 51204713742678,
           "title": "Green / With handle",
           "price": "43.92",
           "position": 2,
@@ -3885,8 +3885,8 @@
           "image_id": 66259664339286
         },
         {
-          "id": 51204713775446,
           "product_id": 9793338573142,
+          "id": 51204713775446,
           "title": "Green2pcs / With handle",
           "price": "48.71",
           "position": 3,
@@ -3913,8 +3913,8 @@
           "image_id": 66259664372054
         },
         {
-          "id": 51204713808214,
           "product_id": 9793338573142,
+          "id": 51204713808214,
           "title": "Green3pcs / With handle",
           "price": "54.41",
           "position": 4,
@@ -3941,8 +3941,8 @@
           "image_id": 66259664404822
         },
         {
-          "id": 51204713840982,
           "product_id": 9793338573142,
+          "id": 51204713840982,
           "title": "Green / Without handle",
           "price": "43.23",
           "position": 5,
@@ -3969,8 +3969,8 @@
           "image_id": 66259664437590
         },
         {
-          "id": 51204713873750,
           "product_id": 9793338573142,
+          "id": 51204713873750,
           "title": "Pink / Without handle",
           "price": "40.81",
           "position": 6,
@@ -3997,8 +3997,8 @@
           "image_id": 66259664470358
         },
         {
-          "id": 51204713906518,
           "product_id": 9793338573142,
+          "id": 51204713906518,
           "title": "Orange / With handle",
           "price": "43.18",
           "position": 7,
@@ -4025,8 +4025,8 @@
           "image_id": 66259664503126
         },
         {
-          "id": 51204713939286,
           "product_id": 9793338573142,
+          "id": 51204713939286,
           "title": "Orange2pcs / With handle",
           "price": "48.71",
           "position": 8,
@@ -4053,8 +4053,8 @@
           "image_id": 66259664535894
         },
         {
-          "id": 51204713972054,
           "product_id": 9793338573142,
+          "id": 51204713972054,
           "title": "Orange3pcs / With handle",
           "price": "54.41",
           "position": 9,
@@ -4081,8 +4081,8 @@
           "image_id": 66259664568662
         },
         {
-          "id": 51204714004822,
           "product_id": 9793338573142,
+          "id": 51204714004822,
           "title": "Orange / Without handle",
           "price": "43.54",
           "position": 10,
@@ -4111,8 +4111,8 @@
       ],
       "options": [
         {
-          "id": 12642929410390,
           "product_id": 9793338573142,
+          "id": 12642929410390,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4126,8 +4126,8 @@
           ]
         },
         {
-          "id": 12642929443158,
           "product_id": 9793338573142,
+          "id": 12642929443158,
           "name": "style",
           "position": 2,
           "values": [
