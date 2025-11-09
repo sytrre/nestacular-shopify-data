@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-09T13:58:08+00:00",
+      "updated_at": "2025-11-09T14:31:29+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -301,12 +301,19 @@
           "author": "Valentine Okpala",
           "user_id": 114325520726,
           "published_at": null,
-          "updated_at": "2025-11-02T22:02:34+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-09T14:31:29+00:00",
+          "summary_html": "<p><b>Stuck between the stylish Mushie bib and the buttery-soft Lalo bib?</b> This head-to-head review breaks down the pros, cons, and common parent complaints for both popular silicone bibs. While Mushie offers superior pocket structure and Lalo boasts ultra-soft silicone, we reveal why you don't need to pay a premium for either. Discover the smarter, better-value alternatives that offer the same aesthetic quality and function without the hefty price tag.</p>",
           "template_suffix": "article",
           "handle": "mushie-vs-lalo-bibs-is-there-a-better-value-option",
           "tags": "Baby Bibs",
-          "admin_graphql_api_id": "gid://shopify/Article/610913550678"
+          "admin_graphql_api_id": "gid://shopify/Article/610913550678",
+          "image": {
+            "created_at": "2025-11-09T14:31:27+00:00",
+            "alt": "Three babies in high chairs wearing patterned bibs and making a mess",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_4e508f9d-74a1-4492-a7af-968ef58da3a5.png?v=1762698689"
+          }
         },
         {
           "id": 610913485142,
