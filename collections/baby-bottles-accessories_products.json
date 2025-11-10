@@ -24041,8 +24041,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790015439190",
       "variants": [
         {
-          "id": 51190851764566,
           "product_id": 9790015439190,
+          "id": 51190851764566,
           "title": "Yellow / USB",
           "price": "34.65",
           "position": 1,
@@ -24069,8 +24069,8 @@
           "image_id": 66227681362262
         },
         {
-          "id": 51190851797334,
           "product_id": 9790015439190,
+          "id": 51190851797334,
           "title": "Green / USB",
           "price": "34.65",
           "position": 2,
@@ -24099,8 +24099,8 @@
       ],
       "options": [
         {
-          "id": 12638919262550,
           "product_id": 9790015439190,
+          "id": 12638919262550,
           "name": "Color",
           "position": 1,
           "values": [
@@ -24109,8 +24109,8 @@
           ]
         },
         {
-          "id": 12638919295318,
           "product_id": 9790015439190,
+          "id": 12638919295318,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
