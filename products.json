@@ -28060,8 +28060,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789389373782",
       "variants": [
         {
-          "id": 51187905560918,
           "product_id": 9789389373782,
+          "id": 51187905560918,
           "title": "Dark Green",
           "price": "21.28",
           "position": 1,
@@ -28088,8 +28088,8 @@
           "image_id": 66221517996374
         },
         {
-          "id": 51187905593686,
           "product_id": 9789389373782,
+          "id": 51187905593686,
           "title": "Green",
           "price": "21.28",
           "position": 2,
@@ -28116,8 +28116,8 @@
           "image_id": 66221518029142
         },
         {
-          "id": 51187905626454,
           "product_id": 9789389373782,
+          "id": 51187905626454,
           "title": "Pink",
           "price": "21.28",
           "position": 3,
@@ -28144,8 +28144,8 @@
           "image_id": 66221518061910
         },
         {
-          "id": 51187905659222,
           "product_id": 9789389373782,
+          "id": 51187905659222,
           "title": "Pink A",
           "price": "22.29",
           "position": 4,
@@ -28172,8 +28172,8 @@
           "image_id": 66221518094678
         },
         {
-          "id": 51187905691990,
           "product_id": 9789389373782,
+          "id": 51187905691990,
           "title": "Blue A",
           "price": "22.29",
           "position": 5,
@@ -28202,8 +28202,8 @@
       ],
       "options": [
         {
-          "id": 12638109925718,
           "product_id": 9789389373782,
+          "id": 12638109925718,
           "name": "Color",
           "position": 1,
           "values": [
@@ -58760,8 +58760,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791454511446",
       "variants": [
         {
-          "id": 51196510142806,
           "product_id": 9791454511446,
+          "id": 51196510142806,
           "title": "Multi Function Bottle / EU",
           "price": "43.95",
           "position": 1,
@@ -58788,8 +58788,8 @@
           "image_id": 66242050457942
         },
         {
-          "id": 51196510175574,
           "product_id": 9791454511446,
+          "id": 51196510175574,
           "title": "Multi Function Bottle / AU",
           "price": "43.95",
           "position": 2,
@@ -58816,8 +58816,8 @@
           "image_id": 66242050490710
         },
         {
-          "id": 51196510208342,
           "product_id": 9791454511446,
+          "id": 51196510208342,
           "title": "Multi Function Bottle / US",
           "price": "43.95",
           "position": 3,
@@ -58844,8 +58844,8 @@
           "image_id": 66242050523478
         },
         {
-          "id": 51196510241110,
           "product_id": 9791454511446,
+          "id": 51196510241110,
           "title": "Multi Function Bottle / UK",
           "price": "44.19",
           "position": 4,
@@ -58872,8 +58872,8 @@
           "image_id": 66242050556246
         },
         {
-          "id": 51196510273878,
           "product_id": 9791454511446,
+          "id": 51196510273878,
           "title": "Multi Function Bottle / USB",
           "price": "42.72",
           "position": 5,
@@ -58902,8 +58902,8 @@
       ],
       "options": [
         {
-          "id": 12640678347094,
           "product_id": 9791454511446,
+          "id": 12640678347094,
           "name": "Color",
           "position": 1,
           "values": [
@@ -58911,8 +58911,8 @@
           ]
         },
         {
-          "id": 12640678379862,
           "product_id": 9791454511446,
+          "id": 12640678379862,
           "name": "Power",
           "position": 2,
           "values": [
