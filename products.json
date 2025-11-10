@@ -76638,8 +76638,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9836949176662",
       "variants": [
         {
-          "id": 51380579008854,
           "product_id": 9836949176662,
+          "id": 51380579008854,
           "title": "Decor",
           "price": "170.95",
           "position": 1,
@@ -76666,8 +76666,8 @@
           "image_id": 67051269816662
         },
         {
-          "id": 51380579041622,
           "product_id": 9836949176662,
+          "id": 51380579041622,
           "title": "Grey",
           "price": "170.95",
           "position": 2,
@@ -76696,8 +76696,8 @@
       ],
       "options": [
         {
-          "id": 12694690693462,
           "product_id": 9836949176662,
+          "id": 12694690693462,
           "name": "Color",
           "position": 1,
           "values": [
@@ -81571,8 +81571,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9882241499478",
       "variants": [
         {
-          "id": 51534091452758,
           "product_id": 9882241499478,
+          "id": 51534091452758,
           "title": "Brown",
           "price": "120.95",
           "position": 1,
@@ -81599,8 +81599,8 @@
           "image_id": 67454535074134
         },
         {
-          "id": 51534091485526,
           "product_id": 9882241499478,
+          "id": 51534091485526,
           "title": "Dark green",
           "price": "120.95",
           "position": 2,
@@ -81627,8 +81627,8 @@
           "image_id": 67454535106902
         },
         {
-          "id": 51534091518294,
           "product_id": 9882241499478,
+          "id": 51534091518294,
           "title": "Ginger pink",
           "price": "120.95",
           "position": 3,
@@ -81655,8 +81655,8 @@
           "image_id": 67454535139670
         },
         {
-          "id": 51534091551062,
           "product_id": 9882241499478,
+          "id": 51534091551062,
           "title": "Grey",
           "price": "120.95",
           "position": 4,
@@ -81685,8 +81685,8 @@
       ],
       "options": [
         {
-          "id": 12746739745110,
           "product_id": 9882241499478,
+          "id": 12746739745110,
           "name": "Color",
           "position": 1,
           "values": [
@@ -103470,8 +103470,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9837616169302",
       "variants": [
         {
-          "id": 51383361601878,
           "product_id": 9837616169302,
+          "id": 51383361601878,
           "title": "Blue",
           "price": "196.95",
           "position": 1,
@@ -103500,8 +103500,8 @@
       ],
       "options": [
         {
-          "id": 12695408542038,
           "product_id": 9837616169302,
+          "id": 12695408542038,
           "name": "Color",
           "position": 1,
           "values": [
