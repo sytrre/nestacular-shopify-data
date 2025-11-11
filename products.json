@@ -12194,8 +12194,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821652255062",
       "variants": [
         {
-          "id": 51323336819030,
           "product_id": 9821652255062,
+          "id": 51323336819030,
           "title": "Mica Gray / US adapter",
           "price": "219.95",
           "position": 1,
@@ -12222,8 +12222,8 @@
           "image_id": 66791802503510
         },
         {
-          "id": 51323336851798,
           "product_id": 9821652255062,
+          "id": 51323336851798,
           "title": "Mica White / US adapter",
           "price": "219.95",
           "position": 2,
@@ -12252,8 +12252,8 @@
       ],
       "options": [
         {
-          "id": 12676613341526,
           "product_id": 9821652255062,
+          "id": 12676613341526,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12262,8 +12262,8 @@
           ]
         },
         {
-          "id": 12676613374294,
           "product_id": 9821652255062,
+          "id": 12676613374294,
           "name": "Power specification",
           "position": 2,
           "values": [
@@ -23050,8 +23050,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870713815382",
       "variants": [
         {
-          "id": 51504809673046,
           "product_id": 9870713815382,
+          "id": 51504809673046,
           "title": "Blue / L",
           "price": "19.95",
           "position": 1,
@@ -23078,8 +23078,8 @@
           "image_id": 67399396196694
         },
         {
-          "id": 51504809705814,
           "product_id": 9870713815382,
+          "id": 51504809705814,
           "title": "Blue / M",
           "price": "19.90",
           "position": 2,
@@ -23106,8 +23106,8 @@
           "image_id": 67399396196694
         },
         {
-          "id": 51504809738582,
           "product_id": 9870713815382,
+          "id": 51504809738582,
           "title": "Blue / S",
           "price": "19.85",
           "position": 3,
@@ -23134,8 +23134,8 @@
           "image_id": 67399396196694
         },
         {
-          "id": 51504809771350,
           "product_id": 9870713815382,
+          "id": 51504809771350,
           "title": "Pink / L",
           "price": "19.95",
           "position": 4,
@@ -23162,8 +23162,8 @@
           "image_id": 67399396229462
         },
         {
-          "id": 51504809804118,
           "product_id": 9870713815382,
+          "id": 51504809804118,
           "title": "Pink / M",
           "price": "19.90",
           "position": 5,
@@ -23190,8 +23190,8 @@
           "image_id": 67399396229462
         },
         {
-          "id": 51504809836886,
           "product_id": 9870713815382,
+          "id": 51504809836886,
           "title": "Pink / S",
           "price": "19.85",
           "position": 6,
@@ -23220,8 +23220,8 @@
       ],
       "options": [
         {
-          "id": 12733861429590,
           "product_id": 9870713815382,
+          "id": 12733861429590,
           "name": "Color",
           "position": 1,
           "values": [
@@ -23230,8 +23230,8 @@
           ]
         },
         {
-          "id": 12733861462358,
           "product_id": 9870713815382,
+          "id": 12733861462358,
           "name": "Size",
           "position": 2,
           "values": [
@@ -61945,8 +61945,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792651264342",
       "variants": [
         {
-          "id": 51201121288534,
           "product_id": 9792651264342,
+          "id": 51201121288534,
           "title": "Dark Blue Dinosaurs",
           "price": "25.85",
           "position": 1,
@@ -61975,8 +61975,8 @@
       ],
       "options": [
         {
-          "id": 12642098512214,
           "product_id": 9792651264342,
+          "id": 12642098512214,
           "name": "Color",
           "position": 1,
           "values": [
@@ -70903,8 +70903,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844768538966",
       "variants": [
         {
-          "id": 51409416290646,
           "product_id": 9844768538966,
+          "id": 51409416290646,
           "title": "Deer",
           "price": "55.95",
           "position": 1,
@@ -70931,8 +70931,8 @@
           "image_id": 67125789917526
         },
         {
-          "id": 51409416323414,
           "product_id": 9844768538966,
+          "id": 51409416323414,
           "title": "Dog",
           "price": "55.95",
           "position": 2,
@@ -70959,8 +70959,8 @@
           "image_id": 67125789950294
         },
         {
-          "id": 51409416356182,
           "product_id": 9844768538966,
+          "id": 51409416356182,
           "title": "Elephant",
           "price": "55.95",
           "position": 3,
@@ -70987,8 +70987,8 @@
           "image_id": 67125789983062
         },
         {
-          "id": 51409416388950,
           "product_id": 9844768538966,
+          "id": 51409416388950,
           "title": "Lion",
           "price": "55.95",
           "position": 4,
@@ -71015,8 +71015,8 @@
           "image_id": 67125790015830
         },
         {
-          "id": 51409416421718,
           "product_id": 9844768538966,
+          "id": 51409416421718,
           "title": "Zebra",
           "price": "55.95",
           "position": 5,
@@ -71045,8 +71045,8 @@
       ],
       "options": [
         {
-          "id": 12703714607446,
           "product_id": 9844768538966,
+          "id": 12703714607446,
           "name": "Style",
           "position": 1,
           "values": [
