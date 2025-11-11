@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791245320534",
       "variants": [
         {
-          "id": 51195416346966,
           "product_id": 9791245320534,
+          "id": 51195416346966,
           "title": "Grey / Suit",
           "price": "17.34",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 66239087149398
         },
         {
-          "id": 51195416379734,
           "product_id": 9791245320534,
+          "id": 51195416379734,
           "title": "Blue / Suit",
           "price": "17.34",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 66239087182166
         },
         {
-          "id": 51195416412502,
           "product_id": 9791245320534,
+          "id": 51195416412502,
           "title": "Pink / Suit",
           "price": "17.34",
           "position": 3,
@@ -110,8 +110,8 @@
       ],
       "options": [
         {
-          "id": 12640430031190,
           "product_id": 9791245320534,
+          "id": 12640430031190,
           "name": "Color",
           "position": 1,
           "values": [
@@ -121,8 +121,8 @@
           ]
         },
         {
-          "id": 12640430063958,
           "product_id": 9791245320534,
+          "id": 12640430063958,
           "name": "style",
           "position": 2,
           "values": [
