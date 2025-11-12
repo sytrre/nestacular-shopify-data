@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-12T11:15:46+00:00",
+      "updated_at": "2025-11-12T11:39:03+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -1282,18 +1282,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-20T13:53:54+01:00",
+          "updated_at": "2025-11-12T11:39:03+00:00",
           "summary_html": "<p>Understanding baby portion sizes from 6 to 24 months can feel overwhelming for new parents. This comprehensive guide simplifies it with age-by-age breakdowns, expert-backed tips, visual portion comparisons, feeding red flags, and recommended products to support your baby’s journey from first bites to full toddler meals. Learn how responsive feeding, texture progression, and balanced nutrition work together to support healthy development across every stage.</p>",
           "template_suffix": "article",
           "handle": "baby-feeding-chart-portion-sizes-from-6-24-months",
           "tags": "Baby Feeding Stages",
           "admin_graphql_api_id": "gid://shopify/Article/610703901014",
           "image": {
-            "created_at": "2025-10-20T13:49:15+01:00",
+            "created_at": "2025-11-12T11:39:01+00:00",
             "alt": "Mother serves carefully portioned meals to toddlers in dining room.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_af408faf-417a-4c48-9426-41e056a9c67e.png?v=1760964556"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_01870238-7f75-4538-b45d-18c3caceaa4b.png?v=1762947543"
           }
         },
         {
@@ -1304,18 +1304,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-20T13:37:58+01:00",
+          "updated_at": "2025-11-12T11:30:48+00:00",
           "summary_html": "<p data-start=\"182\" data-end=\"573\">Night feeding is an essential part of early infancy—but when and how should it end? This evidence-based guide helps parents navigate night weaning safely, with tips on developmental readiness, gentle reduction methods, and red flags to watch for. From newborn feeding needs to toddler nutrition, learn how to support your baby’s growth while reclaiming your sleep—without guilt or guesswork.</p>",
           "template_suffix": "article",
           "handle": "night-feeding-schedule-when-to-stop-and-how-to-wean",
           "tags": "Baby Feeding Stages",
           "admin_graphql_api_id": "gid://shopify/Article/610703212886",
           "image": {
-            "created_at": "2025-10-20T13:37:38+01:00",
+            "created_at": "2025-11-12T11:30:47+00:00",
             "alt": "Night kitchen scene: mother, toddler, weaning",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_50a26ad4-2025-44a7-b2b1-9cd34b73870f.jpg?v=1760963859"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_1dc717c4-ef90-4626-be4e-ad9ce5d65c0d.jpg?v=1762947048"
           }
         },
         {
