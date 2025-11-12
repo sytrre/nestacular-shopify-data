@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-12T11:39:03+00:00",
+      "updated_at": "2025-11-12T12:43:37+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -35,8 +35,8 @@
           "blog_id": 116861632854,
           "author": "Dr Sumaiya P.N",
           "user_id": null,
-          "published_at": null,
-          "updated_at": "2025-11-06T16:53:49+00:00",
+          "published_at": "2025-11-12T12:00:09+00:00",
+          "updated_at": "2025-11-12T12:00:09+00:00",
           "summary_html": "<p>Excerpt: Discover how sustainable baby dinnerware is becoming affordable for every parent this Black Friday and Cyber Monday 2025. Learn why eco-friendly options are better for your baby and the planet, with deep discounts on wheat straw and bamboo sets.</p>",
           "template_suffix": "article",
           "handle": "eco-friendly-baby-dinnerware-black-friday-cyber-monday-2025-wheat-straw-bamboo-sets-half-price",
@@ -270,8 +270,8 @@
           "blog_id": 116861632854,
           "author": "Dr Sumaiya P.N",
           "user_id": null,
-          "published_at": null,
-          "updated_at": "2025-11-09T17:00:35+00:00",
+          "published_at": "2025-11-12T12:00:09+00:00",
+          "updated_at": "2025-11-12T12:00:09+00:00",
           "summary_html": "<p>Navigating the baby aisle for the perfect cup can be overwhelming. Learn what pediatric dentists and speech therapists recommend for your child's oral health.</p>",
           "template_suffix": "article",
           "handle": "sippy-cup-vs-straw-cup-vs-360-cup-a-dentist-approved-guide",
@@ -864,18 +864,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-28T12:00:23+00:00",
+          "updated_at": "2025-11-12T12:38:32+00:00",
           "summary_html": "<p>Few parenting challenges compare to the stress of comforting a colicky baby. This evidence-based guide explores how anti-colic baby bottles can make a real difference—reducing gas, reflux, and discomfort by up to 80% through advanced venting systems. Learn the science behind anti-colic technology, compare leading designs and materials, and explore safe, affordable options for every budget. Includes clinical insights, feeding position tips, cleaning protocols, and international safety standards to help parents worldwide choose the right bottle with confidence.</p>",
           "template_suffix": "article",
           "handle": "anti-colic-baby-bottles-how-they-work-amp-top-recommendations",
           "tags": "Baby Bottle Feeding, Baby Bottles",
           "admin_graphql_api_id": "gid://shopify/Article/610716156246",
           "image": {
-            "created_at": "2025-10-28T12:00:00+00:00",
+            "created_at": "2025-11-12T12:38:30+00:00",
             "alt": "Baby feeding from anti-colic bottle, white background.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_82bccdf5-b597-4d78-99c2-39e94a7796bb.png?v=1761652802"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_f7c1bafe-2b78-4b8e-8b99-040f72c7077b.png?v=1762951112"
           }
         },
         {
@@ -886,18 +886,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-28T13:10:35+00:00",
+          "updated_at": "2025-11-12T12:37:38+00:00",
           "summary_html": "<p>Choosing the safest baby bottle in 2025 requires more than comparing cute designs—it’s about protecting your baby’s health. This comprehensive guide covers everything parents need to know about bottle safety, materials, and performance across the U.S., U.K., Canada, Australia, and beyond. Learn how glass, silicone, stainless steel, and BPA-free plastic bottles compare in safety and sustainability, explore anti-colic technologies proven to reduce fussing, and get expert-backed cleaning and sterilization protocols. Includes top product recommendations, age-specific feeding guidance, and essential safety alerts for parents worldwide.</p>",
           "template_suffix": "article",
           "handle": "best-baby-bottles-complete-buying-guide-reviews",
           "tags": "Baby Bottle Feeding, Baby Bottles",
           "admin_graphql_api_id": "gid://shopify/Article/610716025174",
           "image": {
-            "created_at": "2025-10-28T13:10:33+00:00",
+            "created_at": "2025-11-12T12:37:37+00:00",
             "alt": "Newborn baby drinks from bottle, brush nearby",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7f75e979-b835-47d7-b241-288968f036bc.png?v=1761657035"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_1068289e-2dcf-4e9f-a74c-b5aadd1a0680.png?v=1762951058"
           }
         },
         {
@@ -908,18 +908,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-28T11:47:26+00:00",
+          "updated_at": "2025-11-12T11:56:58+00:00",
           "summary_html": "<p>Knowing when to stop using bibs is an important step in your child’s journey toward independence. This comprehensive guide helps parents recognize developmental signs of readiness—like improved motor skills and reduced drooling—and provides practical strategies for transitioning away from bibs between 18–36 months. Learn about age-specific milestones, expert-recommended alternatives such as placemats and suction plates, and a step-by-step plan for a smooth, stress-free shift from bibs to independent eating.</p>",
           "template_suffix": "article",
           "handle": "when-to-stop-using-bibs-age-guidelines-and-alternatives",
           "tags": "Baby Bibs, Baby Mess Management",
           "admin_graphql_api_id": "gid://shopify/Article/610715828566",
           "image": {
-            "created_at": "2025-10-28T11:47:05+00:00",
+            "created_at": "2025-11-12T11:56:57+00:00",
             "alt": "Baby independently eating spaghetti, wiping face with cotton towel",
             "width": 646,
             "height": 544,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7055bf5e-bac8-4734-b2a3-b7ff1b1e3f9a.png?v=1761652026"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7a192faa-6298-4a25-a870-b8ddd5b41816.png?v=1762948618"
           }
         },
         {
@@ -930,18 +930,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-28T11:40:31+00:00",
+          "updated_at": "2025-11-12T11:50:02+00:00",
           "summary_html": "<p>Proper baby bib storage transforms chaotic mealtimes into organized, stress-free routines. This comprehensive guide explores practical storage ideas for every home—from small-space wall-mounted systems to large-kitchen drawer dividers. Discover DIY solutions using household items, material-specific storage tips for silicone and cotton bibs, and expert strategies for maintaining hygiene and accessibility. Backed by pediatric health standards, it also covers safety precautions, troubleshooting common storage challenges, and sustainable organization practices for families worldwide.</p>",
           "template_suffix": "article",
           "handle": "baby-bib-storage-ideas-organization-solutions-for-every-space",
           "tags": "Baby Bibs, Baby Mess Management",
           "admin_graphql_api_id": "gid://shopify/Article/610715763030",
           "image": {
-            "created_at": "2025-10-28T11:40:06+00:00",
+            "created_at": "2025-11-12T11:50:01+00:00",
             "alt": "White kitchen, two toddlers in bibs playing, night.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_d194596d-a11d-4159-a80c-c27a439694e4.jpg?v=1761651607"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_1af16dba-112b-43ed-adb2-c594619d1532.jpg?v=1762948202"
           }
         },
         {
@@ -1238,18 +1238,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-20T14:01:12+01:00",
+          "updated_at": "2025-11-12T12:15:27+00:00",
           "summary_html": "<p>Responsive feeding is more than just knowing when your baby is hungry—it's about building lifelong healthy eating habits through trust and communication. Learn how to recognize early hunger and satiety cues, respond with confidence, and support your child’s self-regulation from the very first feeds. This comprehensive guide is essential reading for parents across the UK, US, Canada, and beyond.</p>",
           "template_suffix": "article",
           "handle": "responsive-feeding-understanding-your-babys-hunger-cues",
           "tags": "Baby Feeding Stages",
           "admin_graphql_api_id": "gid://shopify/Article/610704523606",
           "image": {
-            "created_at": "2025-10-20T14:00:53+01:00",
+            "created_at": "2025-11-12T12:15:25+00:00",
             "alt": "Stressed mother feeding crying baby mashed potatoes at night",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_c5828a01-09ba-4c40-8f61-e01fc5f708ee.png?v=1760965254"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_0a31e8ae-028e-4b4e-af2e-90a05ced4c5a.png?v=1762949727"
           }
         },
         {
@@ -1260,18 +1260,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-20T13:53:54+01:00",
+          "updated_at": "2025-11-12T12:06:49+00:00",
           "summary_html": "<p data-start=\"115\" data-end=\"530\">Mixed feeding—combining breastfeeding, bottle feeding, and solid foods—offers a flexible, responsive way to nourish your baby while supporting your lifestyle. Whether you're returning to work, sharing feeding duties with a partner, or transitioning to solids, this comprehensive guide covers timelines, challenges, tips, global perspectives, and product recommendations to help you make confident, informed choices.</p>",
           "template_suffix": "article",
           "handle": "mixed-feeding-guide-combining-breast-bottle-and-solids",
           "tags": "Baby Feeding Stages",
           "admin_graphql_api_id": "gid://shopify/Article/610703999318",
           "image": {
-            "created_at": "2025-10-20T13:53:32+01:00",
+            "created_at": "2025-11-12T12:06:48+00:00",
             "alt": "Happy mother feeding twin babies in sunny kitchen",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_60762333-f804-4e2a-9336-288013bacc62.jpg?v=1760964812"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_06b4f780-a4d2-4679-8747-03112e405e2f.jpg?v=1762949209"
           }
         },
         {
@@ -1502,18 +1502,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-28T13:29:12+00:00",
+          "updated_at": "2025-11-12T12:43:37+00:00",
           "summary_html": "<p>Choosing your baby’s first spoon is more than a practical purchase—it’s a key step in encouraging safe, comfortable, and confident self-feeding. This expert guide explores spoon materials, sizes, safety features, and developmental milestones to help parents make informed choices. Discover the pros and cons of popular spoon types, when to transition between stages, and what to do if your baby resists spoon feeding. Includes product comparisons, DIY alternatives, cleaning tips, and expert safety guidance.</p>",
           "template_suffix": "article",
           "handle": "how-to-choose-babys-first-spoon-material-size-safety-guide",
           "tags": "Baby Feeding Stages",
           "admin_graphql_api_id": "gid://shopify/Article/610687189334",
           "image": {
-            "created_at": "2025-10-28T13:29:10+00:00",
+            "created_at": "2025-11-12T12:43:36+00:00",
             "alt": "Two parents feeding twin babies with spoons",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_455e296d-519a-4bee-9b85-dd4cb2388ab3.jpg?v=1761658152"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_99f45ced-5a20-43d2-a908-5592977ea7fc.jpg?v=1762951417"
           }
         },
         {
