@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-12T15:21:26+00:00",
+      "updated_at": "2025-11-12T15:43:50+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -624,9 +624,9 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-18T14:01:10+01:00",
+          "updated_at": "2025-11-12T15:43:50+00:00",
           "summary_html": "A comprehensive guide covering Baby Feeding Gift Sets for Every Budget 2025",
-          "template_suffix": null,
+          "template_suffix": "article",
           "handle": "baby-feeding-gift-sets-for-every-budget-2025",
           "tags": "Baby Feeding Gift Guides & Registry Essentials, Guide, Tips",
           "admin_graphql_api_id": "gid://shopify/Article/610795979094"
@@ -1326,18 +1326,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-06T16:31:24+00:00",
+          "updated_at": "2025-11-12T15:33:38+00:00",
           "summary_html": "<p>Feeding struggles like food refusal, texture aversions, and extreme picky eating can turn mealtimes into daily battles. This expert-backed guide walks you through the most common baby feeding problems—from 6 months to toddlerhood—and offers practical, pressure-free solutions, safety tips, helpful tools, and clear signs of when to seek professional help.</p>",
           "template_suffix": "article",
           "handle": "baby-feeding-problems-and-solutions-refusing-solids-to-picky-eating",
           "tags": "Baby Feeding Stages",
           "admin_graphql_api_id": "gid://shopify/Article/610701574486",
           "image": {
-            "created_at": "2025-11-06T16:31:23+00:00",
+            "created_at": "2025-11-12T15:33:36+00:00",
             "alt": "Happy mother watches baby eat banana and mashed food",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_d569bec4-12fd-4540-a8dc-09956842088e.jpg?v=1762446684"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_4265f867-eeb9-481e-85d8-58166214c299.jpg?v=1762961618"
           }
         },
         {
@@ -1392,18 +1392,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-06T16:31:11+00:00",
+          "updated_at": "2025-11-12T15:40:09+00:00",
           "summary_html": "<p>Looking for the perfect holiday gift for babies in 2025? This premium feeding essentials guide curates high-quality tableware, utensils, and seating that combine craftsmanship, safety, and everyday function. Whether you're buying for first-time parents, grandparents, or growing families, discover gifts by budget, feeding stage, and style—plus tips on wrapping, registries, and what truly sets luxury feeding gear apart.</p>",
           "template_suffix": "article",
           "handle": "holiday-gift-guide-for-babies-2025-premium-feeding-essentials",
           "tags": "Guide, Premium Baby Gift Guides & Registry Building, Tips",
           "admin_graphql_api_id": "gid://shopify/Article/610699411798",
           "image": {
-            "created_at": "2025-11-06T16:31:10+00:00",
+            "created_at": "2025-11-12T15:40:08+00:00",
             "alt": "Premium baby feeding essentials on white kitchen table.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/AA_0a245adc-9cd4-4a6e-bb84-243455c27588.jpg?v=1762446671"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/AA_5a3b9e03-a77d-4731-9c91-f84cfa2ba318.jpg?v=1762962009"
           }
         },
         {
