@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-12T13:30:42+00:00",
+      "updated_at": "2025-11-12T14:12:34+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -1018,18 +1018,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-06T15:52:04+00:00",
+          "updated_at": "2025-11-12T14:12:34+00:00",
           "summary_html": "<p>Choosing the right baby bib isn’t as simple as it looks. This comprehensive guide breaks down the essential differences between drooling bibs and feeding bibs—covering their distinct materials, purposes, and age recommendations. Learn how to build the perfect bib rotation for your baby, prevent rashes, choose safe fabrics, and identify when excessive drooling or feeding difficulties might require medical attention. With expert-backed insights and practical product comparisons, parents worldwide can make confident, informed choices for every stage of infancy.</p>",
           "template_suffix": "article",
           "handle": "bibs-for-drooling-vs-feeding-different-needs-different-solutions",
           "tags": "Baby Bibs, Baby Mess Management",
           "admin_graphql_api_id": "gid://shopify/Article/610715042134",
           "image": {
-            "created_at": "2025-11-06T15:52:03+00:00",
+            "created_at": "2025-11-12T14:12:33+00:00",
             "alt": "two babies wearing different bibs.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_66aa4c48-2384-4877-82e8-f4e2191fc8db.jpg?v=1762444324"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_c11be50b-5657-48e7-97de-79da45b917d0.jpg?v=1762956754"
           }
         },
         {
@@ -1128,18 +1128,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-31T11:58:13+00:00",
+          "updated_at": "2025-11-12T13:39:56+00:00",
           "summary_html": "<p>Long sleeve vs. regular baby bibs—what's really best for your child? This comprehensive guide explores the pros, cons, and ideal use cases for both bib styles. Learn how to choose based on your baby's age, feeding habits, climate, and mess levels. Plus, get product recommendations, stain-fighting tips, and expert-backed insights to simplify mealtime cleanup.</p>",
           "template_suffix": "article",
           "handle": "long-sleeve-bibs-vs-regular-when-you-need-full-coverage",
           "tags": "Baby Bibs, Baby Mess Management",
           "admin_graphql_api_id": "gid://shopify/Article/610714419542",
           "image": {
-            "created_at": "2025-10-31T11:58:12+00:00",
+            "created_at": "2025-11-12T13:39:56+00:00",
             "alt": "Cute baby in long-sleeved bib, messy eating, happy.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_797a81ca-618e-42a5-8bf6-4386c38277f9.jpg?v=1761911893"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_5f73961a-aaee-40f7-bb57-c5d72b6ad801.jpg?v=1762954796"
           }
         },
         {
@@ -1370,18 +1370,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-04T13:36:28+00:00",
+          "updated_at": "2025-11-12T13:48:33+00:00",
           "summary_html": "<p>Teaching your baby to drink from a straw is more than a hydration milestone—it supports speech development, oral motor skills, and feeding independence. This comprehensive guide offers evidence-based techniques, equipment recommendations, and expert advice from speech-language pathologists to help families worldwide introduce straw drinking successfully between 6–9 months of age. Learn when to start, how to teach, and what to do if challenges arise—plus find the best baby straw cups on the market.</p>",
           "template_suffix": "article",
           "handle": "teaching-baby-to-drink-from-straw-step-by-step-guide",
           "tags": "Baby Feeding Stages",
           "admin_graphql_api_id": "gid://shopify/Article/610699477334",
           "image": {
-            "created_at": "2025-11-04T13:36:27+00:00",
+            "created_at": "2025-11-12T13:48:32+00:00",
             "alt": "Mother teaches toddler straw drinking in a retro diner",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_c389daba-4c2d-4782-b82c-ba12dedf7cb8.jpg?v=1762263388"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_a6f86db8-5a28-43e6-b6f9-9e2910e414a5.jpg?v=1762955313"
           }
         },
         {
@@ -1414,18 +1414,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-06T15:49:47+00:00",
+          "updated_at": "2025-11-12T14:04:48+00:00",
           "summary_html": "<p>Transitioning your baby from bottle to sippy cup? Discover a step-by-step, evidence-based guide backed by pediatric research. Learn the ideal age to start, how to choose the safest training cups, and strategies to handle common challenges like cup refusal, nighttime dependence, and reduced milk intake. This comprehensive guide empowers parents with expert insights, product comparisons, and real-world solutions for a smooth weaning process by 18 months.</p>",
           "template_suffix": "article",
           "handle": "baby-bottle-to-sippy-cup-transition-timeline-and-best-products",
           "tags": "Baby Feeding Stages",
           "admin_graphql_api_id": "gid://shopify/Article/610687877462",
           "image": {
-            "created_at": "2025-11-06T15:49:45+00:00",
+            "created_at": "2025-11-12T14:04:47+00:00",
             "alt": "A smiling baby in a high chair reaches for a sippy cup",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7b8cdf54-3459-4b99-80cc-89f82dab77a9.png?v=1762444187"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_c4b752fa-7a34-46c0-bc6f-7de7c612e2a0.png?v=1762956288"
           }
         },
         {
@@ -1436,18 +1436,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-04T13:37:08+00:00",
+          "updated_at": "2025-11-12T13:54:02+00:00",
           "summary_html": "<p>The transition from purées to table foods is a pivotal milestone in your baby's development. Understanding when your baby is ready, how to make the shift safely, and which products can support this journey are key to successful feeding. This guide explores essential readiness indicators, step-by-step texture advancements, and practical tips to foster your baby’s independence at mealtimes—all while ensuring safety. Learn the signs of readiness, safe feeding techniques, and the best feeding gear to ensure a smooth and confident transition to family meals.</p>",
           "template_suffix": "article",
           "handle": "signs-baby-is-ready-for-table-food-complete-transition-guide",
           "tags": "Baby Feeding Stages",
           "admin_graphql_api_id": "gid://shopify/Article/610687811926",
           "image": {
-            "created_at": "2025-11-04T13:37:07+00:00",
+            "created_at": "2025-11-12T13:54:01+00:00",
             "alt": "Toddler reaching for food on mom's plate as dad smiles",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_51268022-3634-41d9-83cb-b90732689d54.png?v=1762263428"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_69586f75-d880-4ae8-82c4-cc374d1ffe46.png?v=1762955642"
           }
         },
         {
