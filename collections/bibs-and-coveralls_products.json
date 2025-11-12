@@ -29554,8 +29554,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9847106994518",
       "variants": [
         {
-          "product_id": 9847106994518,
           "id": 51418387611990,
+          "product_id": 9847106994518,
           "title": "Black / One size",
           "price": "27.95",
           "position": 1,
@@ -29582,8 +29582,8 @@
           "image_id": 67146906042710
         },
         {
-          "product_id": 9847106994518,
           "id": 51418387644758,
+          "product_id": 9847106994518,
           "title": "Green / One size",
           "price": "27.95",
           "position": 2,
@@ -29610,8 +29610,8 @@
           "image_id": 67146906075478
         },
         {
-          "product_id": 9847106994518,
           "id": 51418387677526,
+          "product_id": 9847106994518,
           "title": "Pink / One size",
           "price": "27.95",
           "position": 3,
@@ -29640,8 +29640,8 @@
       ],
       "options": [
         {
-          "product_id": 9847106994518,
           "id": 12706497691990,
+          "product_id": 9847106994518,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29651,8 +29651,8 @@
           ]
         },
         {
-          "product_id": 9847106994518,
           "id": 12706497724758,
+          "product_id": 9847106994518,
           "name": "Size",
           "position": 2,
           "values": [

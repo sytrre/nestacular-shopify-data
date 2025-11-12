@@ -1608,8 +1608,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9840868557142",
       "variants": [
         {
-          "product_id": 9840868557142,
           "id": 51392139002198,
+          "product_id": 9840868557142,
           "title": "A / Big",
           "price": "49.95",
           "position": 1,
@@ -1636,8 +1636,8 @@
           "image_id": 67076648206678
         },
         {
-          "product_id": 9840868557142,
           "id": 51392139034966,
+          "product_id": 9840868557142,
           "title": "A / Small",
           "price": "48.95",
           "position": 2,
@@ -1664,8 +1664,8 @@
           "image_id": 67076648206678
         },
         {
-          "product_id": 9840868557142,
           "id": 51392139067734,
+          "product_id": 9840868557142,
           "title": "C / Big",
           "price": "49.95",
           "position": 3,
@@ -1692,8 +1692,8 @@
           "image_id": 67076648239446
         },
         {
-          "product_id": 9840868557142,
           "id": 51392139100502,
+          "product_id": 9840868557142,
           "title": "C / Small",
           "price": "48.95",
           "position": 4,
@@ -1720,8 +1720,8 @@
           "image_id": 67076648239446
         },
         {
-          "product_id": 9840868557142,
           "id": 51392139133270,
+          "product_id": 9840868557142,
           "title": "D / Big",
           "price": "49.95",
           "position": 5,
@@ -1748,8 +1748,8 @@
           "image_id": 67076648272214
         },
         {
-          "product_id": 9840868557142,
           "id": 51392139166038,
+          "product_id": 9840868557142,
           "title": "D / Small",
           "price": "48.95",
           "position": 6,
@@ -1776,8 +1776,8 @@
           "image_id": 67076648272214
         },
         {
-          "product_id": 9840868557142,
           "id": 51392139198806,
+          "product_id": 9840868557142,
           "title": "E / Big",
           "price": "49.95",
           "position": 7,
@@ -1804,8 +1804,8 @@
           "image_id": 67076648304982
         },
         {
-          "product_id": 9840868557142,
           "id": 51392139231574,
+          "product_id": 9840868557142,
           "title": "E / Small",
           "price": "48.95",
           "position": 8,
@@ -1834,8 +1834,8 @@
       ],
       "options": [
         {
-          "product_id": 9840868557142,
           "id": 12698924777814,
+          "product_id": 9840868557142,
           "name": "style",
           "position": 1,
           "values": [
@@ -1846,8 +1846,8 @@
           ]
         },
         {
-          "product_id": 9840868557142,
           "id": 12698924810582,
+          "product_id": 9840868557142,
           "name": "Size",
           "position": 2,
           "values": [
