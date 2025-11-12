@@ -18769,8 +18769,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916326871382",
       "variants": [
         {
-          "id": 51675006665046,
           "product_id": 9916326871382,
+          "id": 51675006665046,
           "title": "10pcs Gift Bags / Other",
           "price": "18.95",
           "position": 1,
@@ -18799,8 +18799,8 @@
       ],
       "options": [
         {
-          "id": 12787185811798,
           "product_id": 9916326871382,
+          "id": 12787185811798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18808,8 +18808,8 @@
           ]
         },
         {
-          "id": 12787185844566,
           "product_id": 9916326871382,
+          "id": 12787185844566,
           "name": "Gift Box Size",
           "position": 2,
           "values": [
