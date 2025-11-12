@@ -83889,8 +83889,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9409669464406",
       "variants": [
         {
-          "id": 49664729809238,
           "product_id": 9409669464406,
+          "id": 49664729809238,
           "title": "Design 1",
           "price": "40.43",
           "position": 1,
@@ -83917,8 +83917,8 @@
           "image_id": 59210174759254
         },
         {
-          "id": 49664729842006,
           "product_id": 9409669464406,
+          "id": 49664729842006,
           "title": "Design 2",
           "price": "40.43",
           "position": 2,
@@ -83947,8 +83947,8 @@
       ],
       "options": [
         {
-          "id": 12179595592022,
           "product_id": 9409669464406,
+          "id": 12179595592022,
           "name": "Design",
           "position": 1,
           "values": [
