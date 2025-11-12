@@ -71668,8 +71668,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9607795867990",
       "variants": [
         {
-          "product_id": 9607795867990,
           "id": 50391722852694,
+          "product_id": 9607795867990,
           "title": "Blue + Grey",
           "price": "69.95",
           "position": 1,
@@ -71696,8 +71696,8 @@
           "image_id": 62202490028374
         },
         {
-          "product_id": 9607795867990,
           "id": 50391722754390,
+          "product_id": 9607795867990,
           "title": "Military Green + Grey",
           "price": "69.95",
           "position": 2,
@@ -71724,8 +71724,8 @@
           "image_id": 61993973776726
         },
         {
-          "product_id": 9607795867990,
           "id": 50391722787158,
+          "product_id": 9607795867990,
           "title": "Navy Blue + Royal Blue",
           "price": "69.95",
           "position": 3,
@@ -71752,8 +71752,8 @@
           "image_id": 61993973711190
         },
         {
-          "product_id": 9607795867990,
           "id": 50391722819926,
+          "product_id": 9607795867990,
           "title": "Royal Blue + Navy Blue V",
           "price": "69.95",
           "position": 4,
@@ -71782,8 +71782,8 @@
       ],
       "options": [
         {
-          "product_id": 9607795867990,
           "id": 12416934543702,
+          "product_id": 9607795867990,
           "name": "Color",
           "position": 1,
           "values": [
@@ -83889,8 +83889,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9409669464406",
       "variants": [
         {
-          "product_id": 9409669464406,
           "id": 49664729809238,
+          "product_id": 9409669464406,
           "title": "Design 1",
           "price": "40.43",
           "position": 1,
@@ -83917,8 +83917,8 @@
           "image_id": 59210174759254
         },
         {
-          "product_id": 9409669464406,
           "id": 49664729842006,
+          "product_id": 9409669464406,
           "title": "Design 2",
           "price": "40.43",
           "position": 2,
@@ -83947,8 +83947,8 @@
       ],
       "options": [
         {
-          "product_id": 9409669464406,
           "id": 12179595592022,
+          "product_id": 9409669464406,
           "name": "Design",
           "position": 1,
           "values": [
@@ -104191,8 +104191,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9881789071702",
       "variants": [
         {
-          "id": 51533380092246,
           "product_id": 9881789071702,
+          "id": 51533380092246,
           "title": "Extruded rice paste bottle (mesh bag style)",
           "price": "23.95",
           "position": 1,
@@ -104219,8 +104219,8 @@
           "image_id": 67453803037014
         },
         {
-          "id": 51533380125014,
           "product_id": 9881789071702,
+          "id": 51533380125014,
           "title": "Extruded rice paste bottle (Spoon head type)",
           "price": "23.95",
           "position": 2,
@@ -104249,8 +104249,8 @@
       ],
       "options": [
         {
-          "id": 12746270572886,
           "product_id": 9881789071702,
+          "id": 12746270572886,
           "name": "color",
           "position": 1,
           "values": [
