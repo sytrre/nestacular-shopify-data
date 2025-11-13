@@ -29540,8 +29540,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791245091158",
       "variants": [
         {
-          "product_id": 9791245091158,
           "id": 51195415003478,
+          "product_id": 9791245091158,
           "title": "Pink horse",
           "price": "18.13",
           "position": 1,
@@ -29568,8 +29568,8 @@
           "image_id": 66239079907670
         },
         {
-          "product_id": 9791245091158,
           "id": 51195415036246,
+          "product_id": 9791245091158,
           "title": "Green worm",
           "price": "18.13",
           "position": 2,
@@ -29596,8 +29596,8 @@
           "image_id": 66239079940438
         },
         {
-          "product_id": 9791245091158,
           "id": 51195415069014,
+          "product_id": 9791245091158,
           "title": "Red floating insect",
           "price": "18.13",
           "position": 3,
@@ -29624,8 +29624,8 @@
           "image_id": 66239079973206
         },
         {
-          "product_id": 9791245091158,
           "id": 51195415101782,
+          "product_id": 9791245091158,
           "title": "Blue boy",
           "price": "18.13",
           "position": 4,
@@ -29652,8 +29652,8 @@
           "image_id": 66239080005974
         },
         {
-          "product_id": 9791245091158,
           "id": 51195415134550,
+          "product_id": 9791245091158,
           "title": "Ice cream",
           "price": "18.13",
           "position": 5,
@@ -29680,8 +29680,8 @@
           "image_id": 66239080038742
         },
         {
-          "product_id": 9791245091158,
           "id": 51195415167318,
+          "product_id": 9791245091158,
           "title": "Red car",
           "price": "18.13",
           "position": 6,
@@ -29710,8 +29710,8 @@
       ],
       "options": [
         {
-          "product_id": 9791245091158,
           "id": 12640429769046,
+          "product_id": 9791245091158,
           "name": "Color",
           "position": 1,
           "values": [
