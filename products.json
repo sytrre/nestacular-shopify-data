@@ -62149,8 +62149,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791457427798",
       "variants": [
         {
-          "product_id": 9791457427798,
           "id": 51196520202582,
+          "product_id": 9791457427798,
           "title": "Pink",
           "price": "20.79",
           "position": 1,
@@ -62177,8 +62177,8 @@
           "image_id": 66242096496982
         },
         {
-          "product_id": 9791457427798,
           "id": 51196520235350,
+          "product_id": 9791457427798,
           "title": "Green",
           "price": "20.79",
           "position": 2,
@@ -62205,8 +62205,8 @@
           "image_id": 66242096529750
         },
         {
-          "product_id": 9791457427798,
           "id": 51196520268118,
+          "product_id": 9791457427798,
           "title": "Blue",
           "price": "20.79",
           "position": 3,
@@ -62235,8 +62235,8 @@
       ],
       "options": [
         {
-          "product_id": 9791457427798,
           "id": 12640681460054,
+          "product_id": 9791457427798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -87976,8 +87976,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916326871382",
       "variants": [
         {
-          "product_id": 9916326871382,
           "id": 51675006665046,
+          "product_id": 9916326871382,
           "title": "10pcs Gift Bags / Other",
           "price": "18.95",
           "position": 1,
@@ -88006,8 +88006,8 @@
       ],
       "options": [
         {
-          "product_id": 9916326871382,
           "id": 12787185811798,
+          "product_id": 9916326871382,
           "name": "Color",
           "position": 1,
           "values": [
@@ -88015,8 +88015,8 @@
           ]
         },
         {
-          "product_id": 9916326871382,
           "id": 12787185844566,
+          "product_id": 9916326871382,
           "name": "Gift Box Size",
           "position": 2,
           "values": [
