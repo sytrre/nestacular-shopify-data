@@ -10717,8 +10717,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9912315576662",
       "variants": [
         {
-          "product_id": 9912315576662,
           "id": 51658486579542,
+          "product_id": 9912315576662,
           "title": "009 sage",
           "price": "16.95",
           "position": 1,
@@ -10745,8 +10745,8 @@
           "image_id": 67721927590230
         },
         {
-          "product_id": 9912315576662,
           "id": 51658486612310,
+          "product_id": 9912315576662,
           "title": "010 ocean blue",
           "price": "16.95",
           "position": 2,
@@ -10773,8 +10773,8 @@
           "image_id": 67721927622998
         },
         {
-          "product_id": 9912315576662,
           "id": 51658486645078,
+          "product_id": 9912315576662,
           "title": "005 pebble",
           "price": "16.95",
           "position": 3,
@@ -10801,8 +10801,8 @@
           "image_id": 67721927786838
         },
         {
-          "product_id": 9912315576662,
           "id": 51658486677846,
+          "product_id": 9912315576662,
           "title": "025 spiced pumpkin",
           "price": "16.95",
           "position": 4,
@@ -10829,8 +10829,8 @@
           "image_id": 67721927655766
         },
         {
-          "product_id": 9912315576662,
           "id": 51658486710614,
+          "product_id": 9912315576662,
           "title": "008 mustard",
           "price": "16.95",
           "position": 5,
@@ -10857,8 +10857,8 @@
           "image_id": 67721927688534
         },
         {
-          "product_id": 9912315576662,
           "id": 51658486743382,
+          "product_id": 9912315576662,
           "title": "004 beach sand",
           "price": "16.95",
           "position": 6,
@@ -10885,8 +10885,8 @@
           "image_id": 67721927819606
         },
         {
-          "product_id": 9912315576662,
           "id": 51658486776150,
+          "product_id": 9912315576662,
           "title": "001 powder rose",
           "price": "16.95",
           "position": 7,
@@ -10913,8 +10913,8 @@
           "image_id": 67721927721302
         },
         {
-          "product_id": 9912315576662,
           "id": 51658486808918,
+          "product_id": 9912315576662,
           "title": "006 grey blue",
           "price": "16.95",
           "position": 8,
@@ -10941,8 +10941,8 @@
           "image_id": 67721927754070
         },
         {
-          "product_id": 9912315576662,
           "id": 51658486841686,
+          "product_id": 9912315576662,
           "title": "002 dasty lilac",
           "price": "16.95",
           "position": 9,
@@ -10969,8 +10969,8 @@
           "image_id": 67721927852374
         },
         {
-          "product_id": 9912315576662,
           "id": 51658486874454,
+          "product_id": 9912315576662,
           "title": "003 taupe",
           "price": "16.95",
           "position": 10,
@@ -10999,8 +10999,8 @@
       ],
       "options": [
         {
-          "product_id": 9912315576662,
           "id": 12782459158870,
+          "product_id": 9912315576662,
           "name": "Color",
           "position": 1,
           "values": [
