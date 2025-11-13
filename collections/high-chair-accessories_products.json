@@ -1425,8 +1425,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791457034582",
       "variants": [
         {
-          "product_id": 9791457034582,
           "id": 51196519285078,
+          "product_id": 9791457034582,
           "title": "Grey",
           "price": "26.27",
           "position": 1,
@@ -1453,8 +1453,8 @@
           "image_id": 66242092400982
         },
         {
-          "product_id": 9791457034582,
           "id": 51196519317846,
+          "product_id": 9791457034582,
           "title": "Pineapple style",
           "price": "26.27",
           "position": 2,
@@ -1483,8 +1483,8 @@
       ],
       "options": [
         {
-          "product_id": 9791457034582,
           "id": 12640681066838,
+          "product_id": 9791457034582,
           "name": "Color",
           "position": 1,
           "values": [
