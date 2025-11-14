@@ -4579,6 +4579,46 @@
       "admin_graphql_api_id": "gid://shopify/Collection/660978729302"
     },
     {
+      "id": 665980076374,
+      "handle": "vacation-rental-baby-proofing-feeding-essentials",
+      "title": "Vacation Rental Baby-Proofing Feeding Essentials",
+      "updated_at": "2025-11-14T12:28:01+00:00",
+      "body_html": "Complete feeding setup for families staying in vacation rentals, Airbnbs, or beach houses during holiday travel season.",
+      "published_at": "2025-11-14T12:26:58+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Portable High Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Tableware Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bibs"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Safety Belt"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/665980076374"
+    },
+    {
       "id": 657382736214,
       "handle": "weaning-stage-feeding",
       "title": "Weaning Stage (6-12 Months)",
@@ -4882,8 +4922,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 98,
-    "items_in_page": 98,
+    "total_items": 99,
+    "items_in_page": 99,
     "has_next_page": false,
     "has_previous_page": false
   }

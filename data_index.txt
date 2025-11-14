@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-11-14T11:41:14.051812Z
+Generated: 2025-11-14T12:46:19.029298Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (98 collections) ===
+=== COLLECTION PRODUCT FILES (99 collections) ===
 
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
@@ -112,6 +112,7 @@ BLOGS (1 pages):
 • travel-baby-bottle: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-baby-bottle_products.json
 • travel-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-high-chairs_products.json
 • twins-multiples-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/twins-multiples-feeding-essentials_products.json
+• vacation-rental-baby-proofing-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/vacation-rental-baby-proofing-feeding-essentials_products.json
 • weaning-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weaning-stage-feeding_products.json
 • weekend-camping-baby-feeding-gear: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weekend-camping-baby-feeding-gear_products.json
 • winter-baby-registry-must-haves: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/winter-baby-registry-must-haves_products.json
