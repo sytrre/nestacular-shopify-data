@@ -20162,8 +20162,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852733981014",
       "variants": [
         {
-          "id": 51441052713302,
           "product_id": 9852733981014,
+          "id": 51441052713302,
           "title": "Forest Green",
           "price": "24.95",
           "position": 1,
@@ -20190,8 +20190,8 @@
           "image_id": 67227810103638
         },
         {
-          "id": 51441052746070,
           "product_id": 9852733981014,
+          "id": 51441052746070,
           "title": "Pineapple Yellow",
           "price": "24.95",
           "position": 2,
@@ -20220,8 +20220,8 @@
       ],
       "options": [
         {
-          "id": 12713290432854,
           "product_id": 9852733981014,
+          "id": 12713290432854,
           "name": "Color",
           "position": 1,
           "values": [
@@ -47556,8 +47556,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9810615206230",
       "variants": [
         {
-          "id": 51275373609302,
           "product_id": 9810615206230,
+          "id": 51275373609302,
           "title": "Green Chicken Bowl",
           "price": "24.95",
           "position": 1,
@@ -47584,8 +47584,8 @@
           "image_id": 66463455478102
         },
         {
-          "id": 51275373642070,
           "product_id": 9810615206230,
+          "id": 51275373642070,
           "title": "Green Chicken Bowl Liner",
           "price": "29.95",
           "position": 2,
@@ -47612,8 +47612,8 @@
           "image_id": 66463455510870
         },
         {
-          "id": 51275373674838,
           "product_id": 9810615206230,
+          "id": 51275373674838,
           "title": "Pink Chicken Bowl",
           "price": "24.95",
           "position": 3,
@@ -47640,8 +47640,8 @@
           "image_id": 66463455543638
         },
         {
-          "id": 51275373707606,
           "product_id": 9810615206230,
+          "id": 51275373707606,
           "title": "Pink Chicken Bowl Liner",
           "price": "29.95",
           "position": 4,
@@ -47668,8 +47668,8 @@
           "image_id": 66463455576406
         },
         {
-          "id": 51275373740374,
           "product_id": 9810615206230,
+          "id": 51275373740374,
           "title": "Yellow Chicken Bowl",
           "price": "24.95",
           "position": 5,
@@ -47696,8 +47696,8 @@
           "image_id": 66463455609174
         },
         {
-          "id": 51275373773142,
           "product_id": 9810615206230,
+          "id": 51275373773142,
           "title": "Yellow Chicken Bowl Liner",
           "price": "29.95",
           "position": 6,
@@ -47726,8 +47726,8 @@
       ],
       "options": [
         {
-          "id": 12663373693270,
           "product_id": 9810615206230,
+          "id": 12663373693270,
           "name": "Color",
           "position": 1,
           "values": [

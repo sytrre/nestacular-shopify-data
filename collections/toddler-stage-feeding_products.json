@@ -15118,8 +15118,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852733981014",
       "variants": [
         {
-          "id": 51441052713302,
           "product_id": 9852733981014,
+          "id": 51441052713302,
           "title": "Forest Green",
           "price": "24.95",
           "position": 1,
@@ -15146,8 +15146,8 @@
           "image_id": 67227810103638
         },
         {
-          "id": 51441052746070,
           "product_id": 9852733981014,
+          "id": 51441052746070,
           "title": "Pineapple Yellow",
           "price": "24.95",
           "position": 2,
@@ -15176,8 +15176,8 @@
       ],
       "options": [
         {
-          "id": 12713290432854,
           "product_id": 9852733981014,
+          "id": 12713290432854,
           "name": "Color",
           "position": 1,
           "values": [
