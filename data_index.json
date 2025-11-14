@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-14T12:46:19.029298Z",
+  "generated": "2025-11-14T13:33:42.825739Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -71,6 +71,7 @@
       "luxury-baby-gifts": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/luxury-baby-gifts_products.json",
       "meal-prep-storage": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/meal-prep-storage_products.json",
       "mess-free-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/mess-free-essentials_products.json",
+      "metal-frame-high-chair": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/metal-frame-high-chair_products.json",
       "modern-high-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/modern-high-chairs_products.json",
       "moving-day-baby-feeding-setup": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/moving-day-baby-feeding-setup_products.json",
       "new-parent-gift-sets": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/new-parent-gift-sets_products.json",
