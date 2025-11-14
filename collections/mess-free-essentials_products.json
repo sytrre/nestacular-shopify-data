@@ -85288,8 +85288,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789279109462",
       "variants": [
         {
-          "product_id": 9789279109462,
           "id": 51187456803158,
+          "product_id": 9789279109462,
           "title": "Time travel",
           "price": "20.59",
           "position": 1,
@@ -85316,8 +85316,8 @@
           "image_id": 66220376850774
         },
         {
-          "product_id": 9789279109462,
           "id": 51187456835926,
+          "product_id": 9789279109462,
           "title": "Banana",
           "price": "20.59",
           "position": 2,
@@ -85344,8 +85344,8 @@
           "image_id": 66220376883542
         },
         {
-          "product_id": 9789279109462,
           "id": 51187456868694,
+          "product_id": 9789279109462,
           "title": "Jurassic",
           "price": "20.59",
           "position": 3,
@@ -85372,8 +85372,8 @@
           "image_id": 66220376916310
         },
         {
-          "product_id": 9789279109462,
           "id": 51187456901462,
+          "product_id": 9789279109462,
           "title": "Battleship",
           "price": "20.59",
           "position": 4,
@@ -85400,8 +85400,8 @@
           "image_id": 66220376949078
         },
         {
-          "product_id": 9789279109462,
           "id": 51187456934230,
+          "product_id": 9789279109462,
           "title": "Swan",
           "price": "20.59",
           "position": 5,
@@ -85428,8 +85428,8 @@
           "image_id": 66220376981846
         },
         {
-          "product_id": 9789279109462,
           "id": 51187456966998,
+          "product_id": 9789279109462,
           "title": "Lion",
           "price": "20.59",
           "position": 6,
@@ -85456,8 +85456,8 @@
           "image_id": 66220377014614
         },
         {
-          "product_id": 9789279109462,
           "id": 51187456999766,
+          "product_id": 9789279109462,
           "title": "Dream",
           "price": "20.59",
           "position": 7,
@@ -85486,8 +85486,8 @@
       ],
       "options": [
         {
-          "product_id": 9789279109462,
           "id": 12637996712278,
+          "product_id": 9789279109462,
           "name": "Style",
           "position": 1,
           "values": [
