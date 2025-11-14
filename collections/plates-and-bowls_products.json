@@ -23259,8 +23259,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9810615206230",
       "variants": [
         {
-          "id": 51275373609302,
           "product_id": 9810615206230,
+          "id": 51275373609302,
           "title": "Green Chicken Bowl",
           "price": "24.95",
           "position": 1,
@@ -23287,8 +23287,8 @@
           "image_id": 66463455478102
         },
         {
-          "id": 51275373642070,
           "product_id": 9810615206230,
+          "id": 51275373642070,
           "title": "Green Chicken Bowl Liner",
           "price": "29.95",
           "position": 2,
@@ -23315,8 +23315,8 @@
           "image_id": 66463455510870
         },
         {
-          "id": 51275373674838,
           "product_id": 9810615206230,
+          "id": 51275373674838,
           "title": "Pink Chicken Bowl",
           "price": "24.95",
           "position": 3,
@@ -23343,8 +23343,8 @@
           "image_id": 66463455543638
         },
         {
-          "id": 51275373707606,
           "product_id": 9810615206230,
+          "id": 51275373707606,
           "title": "Pink Chicken Bowl Liner",
           "price": "29.95",
           "position": 4,
@@ -23371,8 +23371,8 @@
           "image_id": 66463455576406
         },
         {
-          "id": 51275373740374,
           "product_id": 9810615206230,
+          "id": 51275373740374,
           "title": "Yellow Chicken Bowl",
           "price": "24.95",
           "position": 5,
@@ -23399,8 +23399,8 @@
           "image_id": 66463455609174
         },
         {
-          "id": 51275373773142,
           "product_id": 9810615206230,
+          "id": 51275373773142,
           "title": "Yellow Chicken Bowl Liner",
           "price": "29.95",
           "position": 6,
@@ -23429,8 +23429,8 @@
       ],
       "options": [
         {
-          "id": 12663373693270,
           "product_id": 9810615206230,
+          "id": 12663373693270,
           "name": "Color",
           "position": 1,
           "values": [
@@ -31524,8 +31524,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852866724182",
       "variants": [
         {
-          "product_id": 9852866724182,
           "id": 51441598595414,
+          "product_id": 9852866724182,
           "title": "Brick Red",
           "price": "27.95",
           "position": 1,
@@ -31552,8 +31552,8 @@
           "image_id": 67229128786262
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598628182,
+          "product_id": 9852866724182,
           "title": "Caramel Color",
           "price": "27.95",
           "position": 2,
@@ -31580,8 +31580,8 @@
           "image_id": 67229128819030
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598660950,
+          "product_id": 9852866724182,
           "title": "Dark Gray",
           "price": "27.95",
           "position": 3,
@@ -31608,8 +31608,8 @@
           "image_id": 67229128851798
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598693718,
+          "product_id": 9852866724182,
           "title": "Ginger Yellow",
           "price": "27.95",
           "position": 4,
@@ -31636,8 +31636,8 @@
           "image_id": 67229128884566
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598726486,
+          "product_id": 9852866724182,
           "title": "Gray Blue",
           "price": "27.95",
           "position": 5,
@@ -31664,8 +31664,8 @@
           "image_id": 67229128917334
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598759254,
+          "product_id": 9852866724182,
           "title": "Gray Green",
           "price": "27.95",
           "position": 6,
@@ -31692,8 +31692,8 @@
           "image_id": 67229128950102
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598792022,
+          "product_id": 9852866724182,
           "title": "Leather Pink",
           "price": "27.95",
           "position": 7,
@@ -31720,8 +31720,8 @@
           "image_id": 67229128982870
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598824790,
+          "product_id": 9852866724182,
           "title": "Milk Tea Color",
           "price": "28.55",
           "position": 8,
@@ -31748,8 +31748,8 @@
           "image_id": 67229129015638
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598857558,
+          "product_id": 9852866724182,
           "title": "Rose",
           "price": "27.95",
           "position": 9,
@@ -31776,8 +31776,8 @@
           "image_id": 67229129048406
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598890326,
+          "product_id": 9852866724182,
           "title": "Steel Gray",
           "price": "27.95",
           "position": 10,
@@ -31806,8 +31806,8 @@
       ],
       "options": [
         {
-          "product_id": 9852866724182,
           "id": 12713451389270,
+          "product_id": 9852866724182,
           "name": "Color",
           "position": 1,
           "values": [
