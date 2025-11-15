@@ -4,7 +4,7 @@
     "handle": "food-storage-containers",
     "title": "Food Storage Containers",
     "body_html": "<p>Keep your homemade baby food fresh, organised, and ready for mealtime. Our collection of food storage containers are made from safe, non-toxic materials like glass and silicone, with airtight and leak-proof lids to preserve nutrients and flavour. Perfect for storing portions in the fridge or packing in a diaper bag for days out.</p>",
-    "products_count": 8
+    "products_count": 7
   },
   "products": [
     {
@@ -15,11 +15,11 @@
       "product_type": "0",
       "created_at": "2025-09-11T11:32:52+01:00",
       "handle": "glessia-silicone-tableware-for-babies-baby-silicone-grid-plate-assorted-silicone-ice-trays-safe-durable-design-essential-feeding-and-storage-set-for-infants-toddlers",
-      "updated_at": "2025-11-14T13:17:55+00:00",
+      "updated_at": "2025-11-15T12:26:35+00:00",
       "published_at": "2025-09-11T11:36:22+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby-divided-plate, baby-food-freezer-trays, baby-food-storage-containers, baby-meal-prep-containers, baby-puree-storage-trays, bpa-free-baby-tableware, CJ, dishwasher-safe-baby-dishes, food-grade-silicone-baby-set, freezer-safe-baby-trays, glessia-baby-products, life-event-adoption-finalization-celebration-feeding-bundle, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-sibling-preparation-feeding-kit, life-event-older-sibling-big-kid-transition-feeding-set, life-event-overnight-guest-baby-feeding-essentials, life-event-parent-teacher-conference-week-lunch-prep-kit, life-event-preschool-pre-k-feeding-independence-kit, life-event-returning-to-work-mom-feeding-prep, life-event-teething-self-feeding-milestone-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-twins-multiples-feeding-essentials, life-event-vacation-rental-baby-proofing-feeding-essentials, non-slip-baby-plate, self-feeding-plate-toddler, Silicone Freezer Tray, silicone-baby-feeding-set, silicone-baby-plate, toddler-portion-plate",
+      "tags": "baby-divided-plate, baby-food-freezer-trays, baby-food-storage-containers, baby-meal-prep-containers, baby-puree-storage-trays, bpa-free-baby-tableware, CJ, dishwasher-safe-baby-dishes, food-grade-silicone-baby-set, freezer-safe-baby-trays, glessia-baby-products, life-event-adoption-finalization-celebration-feeding-bundle, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-maternity-leave-feeding-station, life-event-nanny-caregiver-training-feeding-setup, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-sibling-preparation-feeding-kit, life-event-older-sibling-big-kid-transition-feeding-set, life-event-overnight-guest-baby-feeding-essentials, life-event-parent-teacher-conference-week-lunch-prep-kit, life-event-preschool-pre-k-feeding-independence-kit, life-event-returning-to-work-mom-feeding-prep, life-event-teething-self-feeding-milestone-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-twins-multiples-feeding-essentials, life-event-vacation-rental-baby-proofing-feeding-essentials, non-slip-baby-plate, self-feeding-plate-toddler, Silicone Freezer Tray, silicone-baby-feeding-set, silicone-baby-plate, toddler-portion-plate",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9812589969750",
       "variants": [
@@ -308,253 +308,6 @@
         "width": 528,
         "height": 338,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1616903043565.jpg?v=1760371886",
-        "variant_ids": []
-      }
-    },
-    {
-      "id": 9791345459542,
-      "title": "Nibby Portable Glass Baby Bottle – Thermostatic Milk Storage & Feeding Bottle",
-      "body_html": "<p data-start=\"138\" data-end=\"418\">The <strong data-start=\"173\" data-end=\"209\">Nibby Portable Glass Baby Bottle</strong> is the perfect blend of safety, durability, and smart feeding design. Made from <strong data-start=\"290\" data-end=\"325\">high-quality borosilicate glass</strong>, this bottle ensures safe milk storage and long-lasting use, even under high temperatures.</p>\n<p data-start=\"420\" data-end=\"687\">With its <strong data-start=\"429\" data-end=\"454\">thermostatic function</strong>, the Nibby bottle helps maintain the right milk temperature, making feeding time more convenient for parents and comfortable for babies. Its <strong data-start=\"596\" data-end=\"617\">anti-colic nipple</strong> mimics natural breastfeeding to reduce gas, spit-up, and fussiness.</p>\n<p data-start=\"689\" data-end=\"865\">Lightweight, portable, and easy to clean, this glass baby bottle is ideal for home use or travel, giving parents peace of mind and infants a safe, natural feeding experience.</p>\n<p data-start=\"867\" data-end=\"886\"><strong data-start=\"867\" data-end=\"884\">Key Features:</strong></p>\n<ul data-start=\"887\" data-end=\"1242\">\n<li data-start=\"887\" data-end=\"962\">\n<p data-start=\"889\" data-end=\"962\"><strong data-start=\"889\" data-end=\"916\">Premium Glass Material:</strong> Durable, heat-resistant borosilicate glass.</p>\n</li>\n<li data-start=\"963\" data-end=\"1036\">\n<p data-start=\"965\" data-end=\"1036\"><strong data-start=\"965\" data-end=\"990\">Thermostatic Storage:</strong> Maintains milk at a safe, warm temperature.</p>\n</li>\n<li data-start=\"1037\" data-end=\"1112\">\n<p data-start=\"1039\" data-end=\"1112\"><strong data-start=\"1039\" data-end=\"1061\">Anti-Colic Nipple:</strong> Natural breastfeeding feel to reduce discomfort.</p>\n</li>\n<li data-start=\"1113\" data-end=\"1185\">\n<p data-start=\"1115\" data-end=\"1185\"><strong data-start=\"1115\" data-end=\"1135\">Portable Design:</strong> Easy to carry for travel and on-the-go feeding.</p>\n</li>\n<li data-start=\"1186\" data-end=\"1242\">\n<p data-start=\"1188\" data-end=\"1242\"><strong data-start=\"1188\" data-end=\"1208\">Safe &amp; Hygienic:</strong> BPA-free and easy to sterilize.</p>\n</li>\n</ul>\n<p data-start=\"1244\" data-end=\"1347\">Choose the <strong data-start=\"1255\" data-end=\"1291\">Nibby Portable Glass Baby Bottle</strong> for safe, stress-free, and natural feeding every day.</p>\n<p data-start=\"1244\" data-end=\"1347\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/bf35abef-0670-4f38-955d-13383a5f93fb.jpg?v=1756722341\" alt=\"Nibby Portable Glass Baby Bottle\"></p>\n<p data-start=\"1244\" data-end=\"1347\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5dca175d-b0cf-4f92-9b38-07b8328a9740.jpg?v=1756722347\" alt=\"Nibby Portable Glass Baby Bottle\"></p>\n<p data-start=\"1244\" data-end=\"1347\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/b4e09bc3-dbd7-45e9-8a13-3efef2854540.jpg?v=1756722349\" alt=\"Nibby Portable Glass Baby Bottle\"></p>",
-      "vendor": "Nestacular",
-      "product_type": "Baby Bottle",
-      "created_at": "2025-09-01T11:25:36+01:00",
-      "handle": "nibby-glass-baby-bottle",
-      "updated_at": "2025-11-03T16:26:06+00:00",
-      "published_at": "2025-09-01T11:25:48+01:00",
-      "template_suffix": null,
-      "published_scope": "global",
-      "tags": "Anti-Colic Baby Feeder, Glass Baby Bottle, Infant Milk Storage, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, Portable Baby Bottle, Thermostatic Feeding Bottle",
-      "status": "active",
-      "admin_graphql_api_id": "gid://shopify/Product/9791345459542",
-      "variants": [
-        {
-          "id": 51196003680598,
-          "product_id": 9791345459542,
-          "title": "Blue / 180ml / USB",
-          "price": "56.31",
-          "position": 1,
-          "inventory_policy": "deny",
-          "compare_at_price": "0.00",
-          "option1": "Blue",
-          "option2": "180ml",
-          "option3": "USB",
-          "created_at": "2025-09-01T11:25:45+01:00",
-          "updated_at": "2025-11-03T16:26:07+00:00",
-          "taxable": false,
-          "barcode": null,
-          "fulfillment_service": "manual",
-          "grams": 320,
-          "inventory_management": "shopify",
-          "requires_shipping": true,
-          "sku": "CJCC120906701AZ",
-          "weight": 320.0,
-          "weight_unit": "g",
-          "inventory_item_id": 53401329041750,
-          "inventory_quantity": 28522,
-          "old_inventory_quantity": 28522,
-          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196003680598",
-          "image_id": 66240199164246
-        },
-        {
-          "id": 51196003713366,
-          "product_id": 9791345459542,
-          "title": "Blue / 240ml / USB",
-          "price": "58.28",
-          "position": 2,
-          "inventory_policy": "deny",
-          "compare_at_price": "0.00",
-          "option1": "Blue",
-          "option2": "240ml",
-          "option3": "USB",
-          "created_at": "2025-09-01T11:25:45+01:00",
-          "updated_at": "2025-11-03T16:26:07+00:00",
-          "taxable": false,
-          "barcode": null,
-          "fulfillment_service": "manual",
-          "grams": 340,
-          "inventory_management": "shopify",
-          "requires_shipping": true,
-          "sku": "CJCC120906702BY",
-          "weight": 340.0,
-          "weight_unit": "g",
-          "inventory_item_id": 53401329074518,
-          "inventory_quantity": 28261,
-          "old_inventory_quantity": 28261,
-          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196003713366",
-          "image_id": 66240199164246
-        },
-        {
-          "id": 51196003746134,
-          "product_id": 9791345459542,
-          "title": "Pink / 180ml / USB",
-          "price": "56.31",
-          "position": 3,
-          "inventory_policy": "deny",
-          "compare_at_price": "0.00",
-          "option1": "Pink",
-          "option2": "180ml",
-          "option3": "USB",
-          "created_at": "2025-09-01T11:25:45+01:00",
-          "updated_at": "2025-11-03T16:26:07+00:00",
-          "taxable": false,
-          "barcode": null,
-          "fulfillment_service": "manual",
-          "grams": 320,
-          "inventory_management": "shopify",
-          "requires_shipping": true,
-          "sku": "CJCC120906703CX",
-          "weight": 320.0,
-          "weight_unit": "g",
-          "inventory_item_id": 53401329107286,
-          "inventory_quantity": 30929,
-          "old_inventory_quantity": 30929,
-          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196003746134",
-          "image_id": 66240199197014
-        },
-        {
-          "id": 51196003778902,
-          "product_id": 9791345459542,
-          "title": "Pink / 240ml / USB",
-          "price": "57.54",
-          "position": 4,
-          "inventory_policy": "deny",
-          "compare_at_price": "0.00",
-          "option1": "Pink",
-          "option2": "240ml",
-          "option3": "USB",
-          "created_at": "2025-09-01T11:25:45+01:00",
-          "updated_at": "2025-11-03T16:26:07+00:00",
-          "taxable": false,
-          "barcode": null,
-          "fulfillment_service": "manual",
-          "grams": 340,
-          "inventory_management": "shopify",
-          "requires_shipping": true,
-          "sku": "CJCC120906704DW",
-          "weight": 340.0,
-          "weight_unit": "g",
-          "inventory_item_id": 53401329140054,
-          "inventory_quantity": 32088,
-          "old_inventory_quantity": 32088,
-          "admin_graphql_api_id": "gid://shopify/ProductVariant/51196003778902",
-          "image_id": 66240199197014
-        }
-      ],
-      "options": [
-        {
-          "id": 12640549405014,
-          "product_id": 9791345459542,
-          "name": "Color",
-          "position": 1,
-          "values": [
-            "Blue",
-            "Pink"
-          ]
-        },
-        {
-          "id": 12640549437782,
-          "product_id": 9791345459542,
-          "name": "Capacity size",
-          "position": 2,
-          "values": [
-            "180ml",
-            "240ml"
-          ]
-        },
-        {
-          "id": 12640549470550,
-          "product_id": 9791345459542,
-          "name": "power",
-          "position": 3,
-          "values": [
-            "USB"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "id": 66240194216278,
-          "alt": "Nibby Portable Glass Baby Bottle",
-          "position": 1,
-          "product_id": 9791345459542,
-          "created_at": "2025-09-01T11:25:38+01:00",
-          "updated_at": "2025-09-01T11:35:09+01:00",
-          "admin_graphql_api_id": "gid://shopify/MediaImage/54486185804118",
-          "width": 800,
-          "height": 800,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/bf35abef-0670-4f38-955d-13383a5f93fb.jpg?v=1756722341",
-          "variant_ids": []
-        },
-        {
-          "id": 66240199033174,
-          "alt": "Nibby Portable Glass Baby Bottle",
-          "position": 2,
-          "product_id": 9791345459542,
-          "created_at": "2025-09-01T11:25:43+01:00",
-          "updated_at": "2025-09-01T11:35:14+01:00",
-          "admin_graphql_api_id": "gid://shopify/MediaImage/54486190195030",
-          "width": 800,
-          "height": 800,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5dca175d-b0cf-4f92-9b38-07b8328a9740.jpg?v=1756722347",
-          "variant_ids": []
-        },
-        {
-          "id": 66240199065942,
-          "alt": "Nibby Portable Glass Baby Bottle",
-          "position": 3,
-          "product_id": 9791345459542,
-          "created_at": "2025-09-01T11:25:45+01:00",
-          "updated_at": "2025-09-01T11:35:18+01:00",
-          "admin_graphql_api_id": "gid://shopify/MediaImage/54486190260566",
-          "width": 800,
-          "height": 800,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/75c0de9c-e928-48ab-b084-e34fb679a505.jpg?v=1756722349",
-          "variant_ids": []
-        },
-        {
-          "id": 66240199164246,
-          "alt": "Nibby Portable Glass Baby Bottle",
-          "position": 4,
-          "product_id": 9791345459542,
-          "created_at": "2025-09-01T11:25:45+01:00",
-          "updated_at": "2025-09-01T11:35:22+01:00",
-          "admin_graphql_api_id": "gid://shopify/MediaImage/54486190326102",
-          "width": 800,
-          "height": 800,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/7ea3f8af-c151-4ba3-b644-fe69cba97c6d.jpg?v=1756722349",
-          "variant_ids": [
-            51196003680598,
-            51196003713366
-          ]
-        },
-        {
-          "id": 66240199197014,
-          "alt": "Nibby Portable Glass Baby Bottle",
-          "position": 5,
-          "product_id": 9791345459542,
-          "created_at": "2025-09-01T11:25:46+01:00",
-          "updated_at": "2025-09-01T11:35:26+01:00",
-          "admin_graphql_api_id": "gid://shopify/MediaImage/54486190358870",
-          "width": 800,
-          "height": 800,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/b4e09bc3-dbd7-45e9-8a13-3efef2854540.jpg?v=1756722349",
-          "variant_ids": [
-            51196003746134,
-            51196003778902
-          ]
-        }
-      ],
-      "image": {
-        "id": 66240194216278,
-        "alt": "Nibby Portable Glass Baby Bottle",
-        "position": 1,
-        "product_id": 9791345459542,
-        "created_at": "2025-09-01T11:25:38+01:00",
-        "updated_at": "2025-09-01T11:35:09+01:00",
-        "admin_graphql_api_id": "gid://shopify/MediaImage/54486185804118",
-        "width": 800,
-        "height": 800,
-        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/bf35abef-0670-4f38-955d-13383a5f93fb.jpg?v=1756722341",
         "variant_ids": []
       }
     },
@@ -1929,8 +1682,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 8,
-    "products_in_page": 8,
+    "total_products": 7,
+    "products_in_page": 7,
     "has_next_page": false,
     "has_previous_page": false
   }
