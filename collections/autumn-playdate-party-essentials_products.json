@@ -476,8 +476,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916074852694",
       "variants": [
         {
-          "product_id": 9916074852694,
           "id": 51674634256726,
+          "product_id": 9916074852694,
           "title": "White / CHINA",
           "price": "23.95",
           "position": 1,
@@ -504,8 +504,8 @@
           "image_id": 67813133582678
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634289494,
+          "product_id": 9916074852694,
           "title": "Pink footprint / CHINA",
           "price": "24.95",
           "position": 2,
@@ -532,8 +532,8 @@
           "image_id": 67813133418838
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634322262,
+          "product_id": 9916074852694,
           "title": "Blue 1 / CHINA",
           "price": "24.95",
           "position": 3,
@@ -560,8 +560,8 @@
           "image_id": 67813133320534
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634355030,
+          "product_id": 9916074852694,
           "title": "Pink 1 / CHINA",
           "price": "24.95",
           "position": 4,
@@ -588,8 +588,8 @@
           "image_id": 67813133353302
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634387798,
+          "product_id": 9916074852694,
           "title": "Purple footprint / CHINA",
           "price": "24.95",
           "position": 5,
@@ -616,8 +616,8 @@
           "image_id": 67813133451606
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634420566,
+          "product_id": 9916074852694,
           "title": "Blue footprint / CHINA",
           "price": "24.95",
           "position": 6,
@@ -644,8 +644,8 @@
           "image_id": 67813133222230
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634453334,
+          "product_id": 9916074852694,
           "title": "Green footprint / CHINA",
           "price": "24.95",
           "position": 7,
@@ -672,8 +672,8 @@
           "image_id": 67813133386070
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634486102,
+          "product_id": 9916074852694,
           "title": "Dark Blue footprint / CHINA",
           "price": "24.95",
           "position": 8,
@@ -700,8 +700,8 @@
           "image_id": 67813133615446
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634518870,
+          "product_id": 9916074852694,
           "title": "Green / CHINA",
           "price": "24.95",
           "position": 9,
@@ -728,8 +728,8 @@
           "image_id": 67813133254998
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634551638,
+          "product_id": 9916074852694,
           "title": "Purple / CHINA",
           "price": "24.95",
           "position": 10,
@@ -756,8 +756,8 @@
           "image_id": 67813133091158
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634584406,
+          "product_id": 9916074852694,
           "title": "Light Pink / CHINA",
           "price": "24.95",
           "position": 11,
@@ -784,8 +784,8 @@
           "image_id": 67813133287766
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634617174,
+          "product_id": 9916074852694,
           "title": "Dark Blue / CHINA",
           "price": "24.95",
           "position": 12,
@@ -812,8 +812,8 @@
           "image_id": 67813133484374
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634649942,
+          "product_id": 9916074852694,
           "title": "Blue / CHINA",
           "price": "24.95",
           "position": 13,
@@ -840,8 +840,8 @@
           "image_id": 67813133517142
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634682710,
+          "product_id": 9916074852694,
           "title": "Pink / CHINA",
           "price": "24.95",
           "position": 14,
@@ -868,8 +868,8 @@
           "image_id": 67813133123926
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634715478,
+          "product_id": 9916074852694,
           "title": "Pumpkin carriage / CHINA",
           "price": "23.95",
           "position": 15,
@@ -896,8 +896,8 @@
           "image_id": 67813133549910
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634748246,
+          "product_id": 9916074852694,
           "title": "Yellow / CHINA",
           "price": "24.95",
           "position": 16,
@@ -924,8 +924,8 @@
           "image_id": 67813133156694
         },
         {
-          "product_id": 9916074852694,
           "id": 51674634781014,
+          "product_id": 9916074852694,
           "title": "Light Blue / CHINA",
           "price": "24.95",
           "position": 17,
@@ -954,8 +954,8 @@
       ],
       "options": [
         {
-          "product_id": 9916074852694,
           "id": 12786918424918,
+          "product_id": 9916074852694,
           "name": "Color",
           "position": 1,
           "values": [
@@ -979,8 +979,8 @@
           ]
         },
         {
-          "product_id": 9916074852694,
           "id": 12786918457686,
+          "product_id": 9916074852694,
           "name": "Ships From",
           "position": 2,
           "values": [
