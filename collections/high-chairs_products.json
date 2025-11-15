@@ -22203,7 +22203,7 @@
       "product_type": "0",
       "created_at": "2025-10-05T13:50:07+01:00",
       "handle": "vevor-wooden-high-chair-for-babies-and-toddlers-double-solid-wood-feeding-chair-compact-and-easy-to-clean-booster-seat-portable-eat-grow-toddler-chair-in-natural-finish",
-      "updated_at": "2025-11-12T10:13:26+00:00",
+      "updated_at": "2025-11-15T03:16:27+00:00",
       "published_at": "2025-10-05T13:54:51+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -22223,7 +22223,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-10-05T13:50:16+01:00",
-          "updated_at": "2025-11-12T10:13:26+00:00",
+          "updated_at": "2025-11-15T03:16:27+00:00",
           "taxable": false,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -22234,8 +22234,8 @@
           "weight": 5240.0,
           "weight_unit": "g",
           "inventory_item_id": 53739427791190,
-          "inventory_quantity": 238,
-          "old_inventory_quantity": 238,
+          "inventory_quantity": 401,
+          "old_inventory_quantity": 401,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51489500954966",
           "image_id": 67363623371094
         }
