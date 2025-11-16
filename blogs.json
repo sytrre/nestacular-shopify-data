@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-16T15:36:54+00:00",
+      "updated_at": "2025-11-16T16:02:25+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -681,18 +681,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-16T14:18:21+00:00",
+          "updated_at": "2025-11-16T15:42:25+00:00",
           "summary_html": "<p>Discover luxury baby feeding essentials that combine craftsmanship, durability, and daily utility. Our guide for grandparents focuses on thoughtful gifts like coordinated tableware sets, premium bottles, and warmers designed to simplify mealtime and grow with the baby.</p>",
           "template_suffix": "article",
           "handle": "grandparent-baby-gift-guide-luxury-feeding-essentials-that-feel-tailored-last-and-truly-get-used",
           "tags": "Guide, Thoughtful Baby Gift Giving & Registry Building, Tips",
           "admin_graphql_api_id": "gid://shopify/Article/610842935638",
           "image": {
-            "created_at": "2025-11-16T14:18:19+00:00",
+            "created_at": "2025-11-16T15:42:23+00:00",
             "alt": "luxury baby feeding essentials, including silicone plates with divided sections, suction bowls, baby bottles, a bottle warmer, and food storage containers,",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_5030101c-1934-42cf-b62b-c568789f75e5.png?v=1763302701"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_109b6f19-d340-4482-b27c-799fec831c82.png?v=1763307745"
           }
         },
         {
@@ -835,18 +835,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-16T14:31:51+00:00",
+          "updated_at": "2025-11-16T16:02:25+00:00",
           "summary_html": "<p>Discover the essential baby bottle accessories every parent needs for safe, hygienic, and convenient feeding. From specialized cleaning tools to intelligent warming systems, learn how the right equipment protects your baby's health and simplifies your daily routine.</p>",
           "template_suffix": "article",
           "handle": "baby-bottle-accessories-every-parent-needs-brushes-warmers-more",
           "tags": "Baby Bottle Feeding, Baby Bottles",
           "admin_graphql_api_id": "gid://shopify/Article/610726936918",
           "image": {
-            "created_at": "2025-11-16T14:31:49+00:00",
+            "created_at": "2025-11-16T16:02:23+00:00",
             "alt": "collection of baby bottle feeding accessories",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_e9f5b9ce-2866-4bb2-8866-e44101a76ff5.png?v=1763303511"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_66ef7623-4db9-428f-9f09-7b0d50065deb.png?v=1763308945"
           }
         },
         {
@@ -857,18 +857,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-16T14:28:26+00:00",
+          "updated_at": "2025-11-16T15:55:26+00:00",
           "summary_html": "<p>Is your baby struggling with gas, reflux, or colic? Anti-colic bottles can make a significant difference, reducing discomfort by up to 80%. This guide dives into the science, features, and top product recommendations to help you choose the best bottle for your little one.</p>",
           "template_suffix": "article",
           "handle": "best-anti-colic-baby-bottles-reducing-gas-and-reflux",
           "tags": "Baby Bottle Feeding, Baby Bottles",
           "admin_graphql_api_id": "gid://shopify/Article/610726871382",
           "image": {
-            "created_at": "2025-11-16T14:28:24+00:00",
+            "created_at": "2025-11-16T15:55:24+00:00",
             "alt": "A baby in a light blue onesie drinks from an anti-colic bottle",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_0c98f264-cf06-4eb3-843a-0467af0febd2.png?v=1763303306"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_40197ef9-6570-49a8-87a7-886cb4658dea.png?v=1763308526"
           }
         },
         {
@@ -879,18 +879,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-16T14:26:27+00:00",
+          "updated_at": "2025-11-16T15:48:54+00:00",
           "summary_html": "<p>Choosing the right baby bottle can feel overwhelming with countless options available. This comprehensive guide cuts through the confusion, explaining critical factors from material safety and anti-colic technology to nipple flow rates, helping new parents make informed decisions for their baby's specific needs.</p>",
           "template_suffix": "article",
           "handle": "how-to-choose-baby-bottles-first-time-parents-guide",
           "tags": "Baby Bottle Feeding, Baby Bottles",
           "admin_graphql_api_id": "gid://shopify/Article/610726838614",
           "image": {
-            "created_at": "2025-11-16T14:26:26+00:00",
+            "created_at": "2025-11-16T15:48:52+00:00",
             "alt": "A happy baby being bottle-fed by an adult, with a variety of baby bottles, nipples with different flow rates",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_ce36b7be-1a8a-49f8-b408-6492cfd616fb.png?v=1763303187"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_97838b0d-ed0a-4a12-b5c1-21f515ef0e29.png?v=1763308134"
           }
         },
         {
