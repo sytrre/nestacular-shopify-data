@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-16T14:37:52+00:00",
+      "updated_at": "2025-11-16T15:17:50+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -21,12 +21,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-16T13:03:56+00:00",
-          "summary_html": "A comprehensive guide covering Coworker Baby Shower Gift Ideas Under £50: A Sophisticated Guide for Busy Professionals",
-          "template_suffix": null,
+          "updated_at": "2025-11-16T15:04:56+00:00",
+          "summary_html": "<p>Choosing a baby shower gift for a colleague requires a thoughtful approach, balancing professionalism with warmth. This guide offers busy professionals a curated selection of sophisticated, gender-neutral, and practical baby shower gift ideas—all under £50. Discover premium-looking essentials made from quality materials like food-grade silicone and bamboo, ensuring your gift is both elegant and highly functional. We also cover essential workplace etiquette, presentation tips, and safety considerations, so your thoughtful gesture reflects well on you and your team.</p>",
+          "template_suffix": "article",
           "handle": "coworker-baby-shower-gift-ideas-under-50-a-sophisticated-guide-for-busy-professionals",
           "tags": "Baby Shower & New Parent Gift Guide, Guide, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/611051241814"
+          "admin_graphql_api_id": "gid://shopify/Article/611051241814",
+          "image": {
+            "created_at": "2025-11-16T15:04:54+00:00",
+            "alt": "gender-neutral baby shower gifts for a coworker",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7422f4a7-0480-4113-86b9-e5d1b45b22cd.png?v=1763305496"
+          }
         },
         {
           "id": 611046687062,
@@ -36,12 +43,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-15T13:00:40+00:00",
-          "summary_html": "A comprehensive guide covering Unique Baby Shower Gifts Parents Will Actually Use: A Problem-Solving Guide",
-          "template_suffix": null,
+          "updated_at": "2025-11-16T15:02:15+00:00",
+          "summary_html": "<p>Forget generic baby shower gifts. This guide helps you choose practical, problem-solving feeding essentials that new parents will genuinely use every day, focusing on mess control, safety, minimalism, and portability.</p>",
+          "template_suffix": "article",
           "handle": "unique-baby-shower-gifts-parents-will-actually-use-a-problem-solving-guide",
           "tags": "Guide, Thoughtful Baby Gifts & Registry Building, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/611046687062"
+          "admin_graphql_api_id": "gid://shopify/Article/611046687062",
+          "image": {
+            "created_at": "2025-11-16T15:02:14+00:00",
+            "alt": "collection of baby feeding essentials",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_cea3ec4c-b652-44bd-9e6d-447e77f1646c.png?v=1763305335"
+          }
         },
         {
           "id": 611046261078,
@@ -73,12 +87,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-09T13:06:57+00:00",
-          "summary_html": "A comprehensive guide covering Baby gagging vs choking: a calm, practical weaning safety guide (with product picks)",
-          "template_suffix": null,
+          "updated_at": "2025-11-16T14:57:18+00:00",
+          "summary_html": "<p>Starting solids can be daunting, but understanding the difference between gagging and choking is key to confidence. This guide offers clear visual cues, a print-ready emergency protocol, and practical advice on safe food prep and essential weaning tools to help you navigate baby-led weaning with peace of mind.</p>",
+          "template_suffix": "article",
           "handle": "baby-gagging-vs-choking-a-calm-practical-weaning-safety-guide-with-product-picks",
           "tags": "Baby Weaning & First Foods, Guide, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/610959655254"
+          "admin_graphql_api_id": "gid://shopify/Article/610959655254",
+          "image": {
+            "created_at": "2025-11-16T14:57:17+00:00",
+            "alt": "A split image showing two scenarios of a baby in a high chair, illustrating the difference between gagging and choking, alongside a collection of baby-led weaning products",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_34a1961b-8fbc-4c86-92e6-c8ebf5788b2d.png?v=1763305038"
+          }
         },
         {
           "id": 610935570774,
@@ -176,12 +197,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-05T13:11:01+00:00",
-          "summary_html": "A comprehensive guide covering Buy It for Life Baby Feeding Essentials Investment Guide 2025",
-          "template_suffix": null,
+          "updated_at": "2025-11-16T14:54:59+00:00",
+          "summary_html": "<p>Invest in quality baby feeding essentials that last! This guide helps you choose durable high chairs, bottles, tableware, and utensils made from materials like stainless steel, glass, bamboo, and platinum-grade silicone. Reduce waste, save money across multiple children, and enjoy calmer mealtimes with our expert tips and featured \"buy it for life\" picks.</p>",
+          "template_suffix": "article",
           "handle": "buy-it-for-life-baby-feeding-essentials-investment-guide-2025",
           "tags": "Guide, Sustainable & Eco-Conscious Baby Feeding, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/610934948182"
+          "admin_graphql_api_id": "gid://shopify/Article/610934948182",
+          "image": {
+            "created_at": "2025-11-16T14:54:58+00:00",
+            "alt": "a light wood high chair with a toddler's hand reaching for food in a gray suction bowl on the tray.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_f00c5ab5-b48f-4851-854e-af73876a5396.png?v=1763304899"
+          }
         },
         {
           "id": 610921775446,
@@ -675,18 +703,18 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-16T14:07:34+00:00",
+          "updated_at": "2025-11-16T15:17:50+00:00",
           "summary_html": "<p>Navigating the world of baby gifts can be overwhelming, but for parents who value safety, quality, and practicality, this guide is your secret weapon. Discover truly useful, non-toxic baby essentials that seamlessly integrate into family life, focusing on materials like food-grade silicone, PP, and natural bamboo. We highlight top categories from feeding gear to BLW sets, ensuring your gift is cherished and genuinely used.</p>",
           "template_suffix": "article",
           "handle": "non-toxic-baby-gifts-parents-actually-want-a-practical-certification-savvy-buying-guide",
           "tags": "Guide, Thoughtful Baby Gift Giving, Tips",
           "admin_graphql_api_id": "gid://shopify/Article/610800337238",
           "image": {
-            "created_at": "2025-11-16T14:07:33+00:00",
+            "created_at": "2025-11-16T15:17:49+00:00",
             "alt": "a silicone suction bowl with pureed green food, a bamboo bowl with fruit salad, a sectioned silicone plate",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_304c8962-bc36-4182-847f-6491f82e360c.jpg?v=1763302054"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_02320e77-5e01-46b2-a009-341f7cb26d99.jpg?v=1763306270"
           }
         },
         {
@@ -697,12 +725,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-12T15:43:50+00:00",
-          "summary_html": "A comprehensive guide covering Baby Feeding Gift Sets for Every Budget 2025",
+          "updated_at": "2025-11-16T15:00:28+00:00",
+          "summary_html": "<p>Discover the best baby feeding gift sets for every budget in 2025. This guide offers curated ideas from under $25 to premium BLW kits, focusing on craftsmanship, safety, and value. Find expert tips on materials, age-appropriateness, and presentation to choose the perfect thoughtful gift.</p>",
           "template_suffix": "article",
           "handle": "baby-feeding-gift-sets-for-every-budget-2025",
           "tags": "Baby Feeding Gift Guides & Registry Essentials, Guide, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/610795979094"
+          "admin_graphql_api_id": "gid://shopify/Article/610795979094",
+          "image": {
+            "created_at": "2025-11-16T15:00:26+00:00",
+            "alt": "baby feeding gift sets arranged by budget",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_ca57f206-5870-4b17-8d25-b27c1ab144d9.png?v=1763305228"
+          }
         },
         {
           "id": 610731393366,
@@ -712,18 +747,18 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-16T14:03:02+00:00",
+          "updated_at": "2025-11-16T15:12:03+00:00",
           "summary_html": "<p>Choosing sustainable feeding essentials for a baby shower is an investment in durability, safety, and planet-friendly design. This guide helps you curate thoughtful gifts across budgets, focusing on practical picks, material know-how, and registry-ready bundles that prioritize longevity and functionality for new parents.</p>",
           "template_suffix": "article",
           "handle": "eco-friendly-baby-shower-gifts-sustainable-feeding-essentials",
           "tags": "Guide, Sustainable & Eco-Conscious Baby Feeding, Tips",
           "admin_graphql_api_id": "gid://shopify/Article/610731393366",
           "image": {
-            "created_at": "2025-11-16T14:03:00+00:00",
+            "created_at": "2025-11-16T15:12:02+00:00",
             "alt": "A beautifully arranged collection of eco-friendly baby feeding essentials, including a wooden convertible high chair with a white tray, silicone bowls and spoons",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7d7ac8b1-f24e-412a-a01c-52d6208d6a3f.png?v=1763301782"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_d2d56396-5eff-4d55-8787-d0ac1cc6d111.png?v=1763305923"
           }
         },
         {
@@ -910,12 +945,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:29+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:48:52+00:00",
+          "summary_html": "<p>Uncover the secrets to stress-free mealtimes by learning responsive feeding. This guide helps you decode your baby's hunger and fullness cues, fostering healthy eating habits and building a trusting bond from infancy.</p>",
           "template_suffix": "article",
           "handle": "responsive-feeding-understanding-your-babys-hunger-cues-1",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610718515542"
+          "admin_graphql_api_id": "gid://shopify/Article/610718515542",
+          "image": {
+            "created_at": "2025-11-16T14:48:50+00:00",
+            "alt": "A happy mother responsively bottle-feeding her smiling baby,",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_14699ec1-f5d0-4624-89ed-024045378e2f.jpg?v=1763304532"
+          }
         },
         {
           "id": 610718351702,
@@ -925,12 +967,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:29+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:46:02+00:00",
+          "summary_html": "<p>Keeping baby bottles clean is crucial for your infant's health. This guide cuts through conflicting advice, offering evidence-based recommendations for daily cleaning and sterilization methods from boiling to UV, ensuring you create a safe feeding environment.</p>",
           "template_suffix": "article",
           "handle": "how-to-clean-and-sterilize-baby-bottles-complete-safety-guide",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610718351702"
+          "admin_graphql_api_id": "gid://shopify/Article/610718351702",
+          "image": {
+            "created_at": "2025-11-16T14:46:00+00:00",
+            "alt": "various baby bottle cleaning and sterilizing methods.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7f4fa3d1-1ddf-4fd4-8a73-a7194521eed6.png?v=1763304362"
+          }
         },
         {
           "id": 610717237590,
@@ -940,12 +989,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:29+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:42:59+00:00",
+          "summary_html": "<p>Choosing the right bottle nipple flow rate is crucial for your baby's feeding success and comfort. Learn how slow, medium, and fast flow nipples impact feeding, how to recognize signs your baby needs a change, and why quality matters for safety.</p>",
           "template_suffix": "article",
           "handle": "baby-bottle-nipple-flow-guide-slow-medium-amp-fast-flow-explained",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610717237590"
+          "admin_graphql_api_id": "gid://shopify/Article/610717237590",
+          "image": {
+            "created_at": "2025-11-16T14:42:58+00:00",
+            "alt": "various baby feeding essentials.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7a54d75c-03b3-42d1-b8c9-d05ec3e4c5ad.jpg?v=1763304179"
+          }
         },
         {
           "id": 610716647766,
@@ -955,12 +1011,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:29+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:40:01+00:00",
+          "summary_html": "<p>Navigating the breast-to-bottle transition can be a challenge for breastfeeding families worldwide. This comprehensive guide offers evidence-based strategies, optimal timing, and essential bottle features to help make the switch smoother while maintaining breastfeeding success. Discover tips on preventing nipple confusion, mastering paced feeding, and finding the best bottles for your breastfed baby.</p>",
           "template_suffix": "article",
           "handle": "best-baby-bottles-for-breastfed-babies-transition-made-easy",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610716647766"
+          "admin_graphql_api_id": "gid://shopify/Article/610716647766",
+          "image": {
+            "created_at": "2025-11-16T14:39:59+00:00",
+            "alt": "close-up of a person's hands holding a baby bottle filled with milk, with various bottle nipples",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_fabdfe7b-8714-4aa9-89ad-7ddc526df79b.png?v=1763304001"
+          }
         },
         {
           "id": 610716516694,
@@ -970,12 +1033,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:30+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:53:12+00:00",
+          "summary_html": "<p>Discover why BPA-free baby bottles are essential for your infant's health. This guide covers the risks of BPA, explores safe alternatives like PP plastic, silicone, glass, and stainless steel, and offers expert tips on choosing, verifying, and caring for the best bottles for your family.</p>",
           "template_suffix": "article",
           "handle": "bpa-free-baby-bottles-what-parents-need-to-know-about-safety",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610716516694"
+          "admin_graphql_api_id": "gid://shopify/Article/610716516694",
+          "image": {
+            "created_at": "2025-11-16T14:53:11+00:00",
+            "alt": "a variety of BPA-free baby feeding essentials",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_adf73a63-edbf-4586-83b6-669ccacf8207.png?v=1763304792"
+          }
         },
         {
           "id": 610716352854,
@@ -985,12 +1055,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:30+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:50:33+00:00",
+          "summary_html": "<p>Choosing the right baby bottle can feel overwhelming with so many options. Our guide breaks down everything you need to know about glass, plastic, and silicone bottles, helping you make an informed decision for your family.</p>",
           "template_suffix": "article",
           "handle": "glass-vs-plastic-vs-silicone-baby-bottles-safety-amp-durability-guide",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610716352854"
+          "admin_graphql_api_id": "gid://shopify/Article/610716352854",
+          "image": {
+            "created_at": "2025-11-16T14:50:31+00:00",
+            "alt": "a variety of baby feeding products",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_1cc0e41d-ec84-4120-beb3-b616c993e4d7.png?v=1763304633"
+          }
         },
         {
           "id": 610716156246,
