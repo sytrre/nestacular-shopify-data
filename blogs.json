@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-16T14:16:30+00:00",
+      "updated_at": "2025-11-16T14:37:52+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -653,12 +653,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:26+00:00",
-          "summary_html": "A comprehensive guide covering Grandparent Baby Gift Guide: Luxury Feeding Essentials That Feel Tailored, Last, and Truly Get Used",
-          "template_suffix": null,
+          "updated_at": "2025-11-16T14:18:21+00:00",
+          "summary_html": "<p>Discover luxury baby feeding essentials that combine craftsmanship, durability, and daily utility. Our guide for grandparents focuses on thoughtful gifts like coordinated tableware sets, premium bottles, and warmers designed to simplify mealtime and grow with the baby.</p>",
+          "template_suffix": "article",
           "handle": "grandparent-baby-gift-guide-luxury-feeding-essentials-that-feel-tailored-last-and-truly-get-used",
           "tags": "Guide, Thoughtful Baby Gift Giving & Registry Building, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/610842935638"
+          "admin_graphql_api_id": "gid://shopify/Article/610842935638",
+          "image": {
+            "created_at": "2025-11-16T14:18:19+00:00",
+            "alt": "luxury baby feeding essentials, including silicone plates with divided sections, suction bowls, baby bottles, a bottle warmer, and food storage containers,",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_5030101c-1934-42cf-b62b-c568789f75e5.png?v=1763302701"
+          }
         },
         {
           "id": 610800337238,
@@ -771,12 +778,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:27+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:33:35+00:00",
+          "summary_html": "<p>Choosing the right baby bottle for your newborn can be overwhelming. This evidence-based guide simplifies the process by explaining essential features, comparing materials, and recommending top products for babies aged 0-3 months. Learn how to prevent colic, ensure proper flow, and maintain hygiene for successful feeding.</p>",
           "template_suffix": "article",
           "handle": "best-baby-bottles-for-newborns-0-3-months-feeding-guide",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610727035222"
+          "admin_graphql_api_id": "gid://shopify/Article/610727035222",
+          "image": {
+            "created_at": "2025-11-16T14:33:34+00:00",
+            "alt": "A newborn baby sleeping peacefully, held by adult hands offering a baby bottle, surrounded by various types of baby bottles, nipples, and cleaning brushes",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_74e87b14-e824-4236-992f-0c28a114280b.png?v=1763303615"
+          }
         },
         {
           "id": 610726936918,
@@ -786,12 +800,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:27+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:31:51+00:00",
+          "summary_html": "<p>Discover the essential baby bottle accessories every parent needs for safe, hygienic, and convenient feeding. From specialized cleaning tools to intelligent warming systems, learn how the right equipment protects your baby's health and simplifies your daily routine.</p>",
           "template_suffix": "article",
           "handle": "baby-bottle-accessories-every-parent-needs-brushes-warmers-more",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610726936918"
+          "admin_graphql_api_id": "gid://shopify/Article/610726936918",
+          "image": {
+            "created_at": "2025-11-16T14:31:49+00:00",
+            "alt": "collection of baby bottle feeding accessories",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_e9f5b9ce-2866-4bb2-8866-e44101a76ff5.png?v=1763303511"
+          }
         },
         {
           "id": 610726871382,
@@ -801,12 +822,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:27+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:28:26+00:00",
+          "summary_html": "<p>Is your baby struggling with gas, reflux, or colic? Anti-colic bottles can make a significant difference, reducing discomfort by up to 80%. This guide dives into the science, features, and top product recommendations to help you choose the best bottle for your little one.</p>",
           "template_suffix": "article",
           "handle": "best-anti-colic-baby-bottles-reducing-gas-and-reflux",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610726871382"
+          "admin_graphql_api_id": "gid://shopify/Article/610726871382",
+          "image": {
+            "created_at": "2025-11-16T14:28:24+00:00",
+            "alt": "A baby in a light blue onesie drinks from an anti-colic bottle",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_0c98f264-cf06-4eb3-843a-0467af0febd2.png?v=1763303306"
+          }
         },
         {
           "id": 610726838614,
@@ -816,12 +844,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:27+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:26:27+00:00",
+          "summary_html": "<p>Choosing the right baby bottle can feel overwhelming with countless options available. This comprehensive guide cuts through the confusion, explaining critical factors from material safety and anti-colic technology to nipple flow rates, helping new parents make informed decisions for their baby's specific needs.</p>",
           "template_suffix": "article",
           "handle": "how-to-choose-baby-bottles-first-time-parents-guide",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610726838614"
+          "admin_graphql_api_id": "gid://shopify/Article/610726838614",
+          "image": {
+            "created_at": "2025-11-16T14:26:26+00:00",
+            "alt": "A happy baby being bottle-fed by an adult, with a variety of baby bottles, nipples with different flow rates",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A1_ce36b7be-1a8a-49f8-b408-6492cfd616fb.png?v=1763303187"
+          }
         },
         {
           "id": 610726805846,
@@ -831,12 +866,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:28+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:37:52+00:00",
+          "summary_html": "<p>Choosing the right baby bottle size is crucial for healthy feeding. This guide breaks down bottle sizes by age, preventing waste, and supporting responsive feeding from newborn to toddler.</p>",
           "template_suffix": "article",
           "handle": "baby-bottle-sizes-guide-4oz-8oz-amp-9oz-when-to-use-each",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610726805846"
+          "admin_graphql_api_id": "gid://shopify/Article/610726805846",
+          "image": {
+            "created_at": "2025-11-16T14:37:51+00:00",
+            "alt": "series of baby bottles of different sizes",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_0e0e3f71-5981-466d-8087-de487ce90a6c.png?v=1763303872"
+          }
         },
         {
           "id": 610726707542,
@@ -846,12 +888,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:28+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:35:32+00:00",
+          "summary_html": "<p>Navigating the world of baby bottles can be overwhelming for new parents. This guide breaks down the differences between wide-neck and standard bottles, helping you choose the best fit for your baby's latch and your family's lifestyle. We cover cleaning, portability, compatibility, and essential safety tips, ensuring you make an informed decision for your little one's well-being.</p>",
           "template_suffix": "article",
           "handle": "wide-neck-vs-standard-baby-bottles-which-is-better",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610726707542"
+          "admin_graphql_api_id": "gid://shopify/Article/610726707542",
+          "image": {
+            "created_at": "2025-11-16T14:35:31+00:00",
+            "alt": "collage of baby bottles",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_48d4610c-15c9-4793-82cb-23fa0981e534.png?v=1763303732"
+          }
         },
         {
           "id": 610718515542,
