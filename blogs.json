@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-16T13:25:07+00:00",
+      "updated_at": "2025-11-16T14:16:30+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -521,12 +521,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-01T12:59:14+00:00",
-          "summary_html": "A comprehensive guide covering Thoughtful Baby Gifts for Second-Child Parents Who “Already Have Everything”",
-          "template_suffix": null,
+          "updated_at": "2025-11-16T14:10:50+00:00",
+          "summary_html": "<p data-path-to-node=\"2\">Shopping for a second baby? Skip the duplicates and gift smart! This guide helps you choose thoughtful, durable upgrades and sibling-friendly gear for parents who \"already have everything.\" Discover quality silicone, stainless steel, and glass essentials that clean easily, last longer, and can be shared between children.</p>\n<p data-path-to-node=\"3\"> </p>",
+          "template_suffix": "article",
           "handle": "thoughtful-baby-gifts-for-second-child-parents-who-already-have-everything",
           "tags": "Guide, Thoughtful Baby Gifting Guide, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/610906014038"
+          "admin_graphql_api_id": "gid://shopify/Article/610906014038",
+          "image": {
+            "created_at": "2025-11-16T14:10:48+00:00",
+            "alt": "thoughtful baby gifts for second-time parents,",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_9089db13-d6f0-48f6-8322-b68b45d6bc60.png?v=1763302250"
+          }
         },
         {
           "id": 610876981590,
@@ -661,12 +668,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-19T14:30:58+01:00",
-          "summary_html": "A comprehensive guide covering Non-Toxic Baby Gifts Parents Actually Want: A Practical, Certification-Savvy Buying Guide",
-          "template_suffix": null,
+          "updated_at": "2025-11-16T14:07:34+00:00",
+          "summary_html": "<p>Navigating the world of baby gifts can be overwhelming, but for parents who value safety, quality, and practicality, this guide is your secret weapon. Discover truly useful, non-toxic baby essentials that seamlessly integrate into family life, focusing on materials like food-grade silicone, PP, and natural bamboo. We highlight top categories from feeding gear to BLW sets, ensuring your gift is cherished and genuinely used.</p>",
+          "template_suffix": "article",
           "handle": "non-toxic-baby-gifts-parents-actually-want-a-practical-certification-savvy-buying-guide",
           "tags": "Guide, Thoughtful Baby Gift Giving, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/610800337238"
+          "admin_graphql_api_id": "gid://shopify/Article/610800337238",
+          "image": {
+            "created_at": "2025-11-16T14:07:33+00:00",
+            "alt": "a silicone suction bowl with pureed green food, a bamboo bowl with fruit salad, a sectioned silicone plate",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_304c8962-bc36-4182-847f-6491f82e360c.jpg?v=1763302054"
+          }
         },
         {
           "id": 610795979094,
@@ -691,12 +705,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-10-11T14:14:47+01:00",
-          "summary_html": "A comprehensive guide covering Eco-Friendly Baby Shower Gifts: Sustainable Feeding Essentials",
-          "template_suffix": null,
+          "updated_at": "2025-11-16T14:03:02+00:00",
+          "summary_html": "<p>Choosing sustainable feeding essentials for a baby shower is an investment in durability, safety, and planet-friendly design. This guide helps you curate thoughtful gifts across budgets, focusing on practical picks, material know-how, and registry-ready bundles that prioritize longevity and functionality for new parents.</p>",
+          "template_suffix": "article",
           "handle": "eco-friendly-baby-shower-gifts-sustainable-feeding-essentials",
           "tags": "Guide, Sustainable & Eco-Conscious Baby Feeding, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/610731393366"
+          "admin_graphql_api_id": "gid://shopify/Article/610731393366",
+          "image": {
+            "created_at": "2025-11-16T14:03:00+00:00",
+            "alt": "A beautifully arranged collection of eco-friendly baby feeding essentials, including a wooden convertible high chair with a white tray, silicone bowls and spoons",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7d7ac8b1-f24e-412a-a01c-52d6208d6a3f.png?v=1763301782"
+          }
         },
         {
           "id": 610727166294,
@@ -706,12 +727,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:26+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:16:30+00:00",
+          "summary_html": "<p>Navigating the world of baby bottles can be overwhelming for new parents. This comprehensive guide breaks down exactly how many bottles you'll need, which sizes to choose, and smart strategies to avoid both overspending and constant washing, tailored to various feeding methods and lifestyles.</p>",
           "template_suffix": "article",
           "handle": "how-many-baby-bottles-do-you-really-need-complete-guide",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610727166294"
+          "admin_graphql_api_id": "gid://shopify/Article/610727166294",
+          "image": {
+            "created_at": "2025-11-16T14:16:29+00:00",
+            "alt": "collection of various baby bottles in different sizes and pastel colors, with nipples, rings, bottle brushes, milk storage bags, a drying rack",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_d0b0c7fd-d256-4a1c-a19b-a8ef6fef0145.png?v=1763302590"
+          }
         },
         {
           "id": 610727100758,
@@ -721,12 +749,19 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-03T20:57:26+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T14:14:39+00:00",
+          "summary_html": "<p>Choosing the right baby bottle nipple material is crucial for your infant's safety and comfort. This guide compares silicone and latex nipples, detailing their advantages, limitations, and expert recommendations to help parents make informed decisions for healthy feeding.</p>",
           "template_suffix": "article",
           "handle": "baby-bottle-nipple-materials-silicone-vs-latex-comparison",
           "tags": "Baby Bottle Feeding, Baby Bottles",
-          "admin_graphql_api_id": "gid://shopify/Article/610727100758"
+          "admin_graphql_api_id": "gid://shopify/Article/610727100758",
+          "image": {
+            "created_at": "2025-11-16T14:14:37+00:00",
+            "alt": "comparison image showing two baby bottles, one with a clear silicone nipple held by baby hands on the left, and another with an amber-colored latex nipple",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_dae61701-2464-497a-a26a-4cd64416b458.png?v=1763302479"
+          }
         },
         {
           "id": 610727035222,
