@@ -4,15 +4,30 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-16T05:30:08+00:00",
+      "updated_at": "2025-11-16T13:25:07+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
       "created_at": "2025-08-16T00:35:59+01:00",
       "template_suffix": "",
-      "tags": "High Chairs, Baby Bottles, Baby Tableware, Guide, Tips, Baby Bibs, Baby Bottle Feeding, Baby Feeding Stages, Baby Mess Management, Baby-Led Weaning, Sustainable & Eco-Conscious Baby Feeding, Baby Cups & Drinkware, Thoughtful Baby Gift Giving, Baby Feeding Gift Guides & Registry Essentials, Gift Guides for New Parents, Thoughtful Baby Gifts & Registry Building, Black Friday Baby Feeding Essentials, Baby Weaning & First Foods, Winter Baby Feeding, Thoughtful Baby Gifting Guide, Thoughtful Baby Gift Giving & Registry Building, High Chair Selection & Feeding Furniture, Non-Toxic Baby Products & Material Safety, Gift Guides & Baby Registry Essentials, Premium Baby Gift Guides & Registry Building, Baby Shower & Gift Giving Guide, Gift Giving & Baby Shower Essentials, Gift Guides & Baby Shower Essentials, Baby-Led Weaning & First Foods",
+      "tags": "High Chairs, Baby Bottles, Baby Tableware, Guide, Tips, Baby Bibs, Baby Bottle Feeding, Baby Mess Management, Baby Feeding Stages, Baby-Led Weaning, Sustainable & Eco-Conscious Baby Feeding, Baby Cups & Drinkware, Baby Feeding Gift Guides & Registry Essentials, Thoughtful Baby Gift Giving, Thoughtful Baby Gifting Guide, Thoughtful Baby Gift Giving & Registry Building, Winter Baby Feeding, Baby Weaning & First Foods, Black Friday Baby Feeding Essentials, Thoughtful Baby Gifts & Registry Building, Baby Shower & New Parent Gift Guide, Premium Baby Gift Guides & Registry Building, Baby Shower & Gift Giving Guide, Gift Giving & Baby Shower Essentials, Gift Guides & Baby Shower Essentials, Baby-Led Weaning & First Foods, High Chair Selection & Feeding Furniture, Gift Guides & Baby Registry Essentials, Non-Toxic Baby Products & Material Safety, Gift Guides for New Parents",
       "admin_graphql_api_id": "gid://shopify/Blog/116861632854",
       "articles": [
+        {
+          "id": 611051241814,
+          "title": "Coworker Baby Shower Gift Ideas Under £50: A Sophisticated Guide for Busy Professionals",
+          "created_at": "2025-11-16T13:03:56+00:00",
+          "blog_id": 116861632854,
+          "author": "Content Team",
+          "user_id": null,
+          "published_at": null,
+          "updated_at": "2025-11-16T13:03:56+00:00",
+          "summary_html": "A comprehensive guide covering Coworker Baby Shower Gift Ideas Under £50: A Sophisticated Guide for Busy Professionals",
+          "template_suffix": null,
+          "handle": "coworker-baby-shower-gift-ideas-under-50-a-sophisticated-guide-for-busy-professionals",
+          "tags": "Baby Shower & New Parent Gift Guide, Guide, Tips",
+          "admin_graphql_api_id": "gid://shopify/Article/611051241814"
+        },
         {
           "id": 611046687062,
           "title": "Unique Baby Shower Gifts Parents Will Actually Use: A Problem-Solving Guide",
@@ -33,15 +48,22 @@
           "title": "Top Black Friday/Cyber Monday Deals on Baby Feeding Essentials 2025",
           "created_at": "2025-11-15T11:39:20+00:00",
           "blog_id": 116861632854,
-          "author": "Valentine Okpala",
-          "user_id": 114325520726,
+          "author": "Dr Sumaiya P.N",
+          "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-15T11:49:30+00:00",
-          "summary_html": "",
+          "updated_at": "2025-11-16T13:06:10+00:00",
+          "summary_html": "<p>Uncover the absolute best Black Friday and Cyber Monday 2025 deals on baby feeding essentials with our unbiased, in-depth guide. We've tracked and verified discounts from over 15 major retailers and direct brands across 20+ countries to help you save hundreds. From anti-colic bottles to eco-friendly feeding sets and high chairs, discover real savings, hidden gems, and honest recommendations to make smart purchasing decisions for your family.</p>",
           "template_suffix": "article",
           "handle": "top-black-friday-cyber-monday-deals-on-baby-feeding-essentials-2025",
           "tags": "Black Friday Baby Feeding Essentials",
-          "admin_graphql_api_id": "gid://shopify/Article/611046261078"
+          "admin_graphql_api_id": "gid://shopify/Article/611046261078",
+          "image": {
+            "created_at": "2025-11-16T13:05:30+00:00",
+            "alt": "A laptop displaying a \"LIVE: Black Friday 2025 Deals Tracker\" surrounded by various baby feeding products like bottles, plates, bowls, and a high chair,",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_c93b5d39-2284-4397-af0c-ecf257a34147.jpg?v=1763298331"
+          }
         },
         {
           "id": 610959655254,
@@ -66,18 +88,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-11-12T12:00:09+00:00",
-          "updated_at": "2025-11-12T12:00:09+00:00",
+          "updated_at": "2025-11-16T13:18:51+00:00",
           "summary_html": "<p>Excerpt: Discover how sustainable baby dinnerware is becoming affordable for every parent this Black Friday and Cyber Monday 2025. Learn why eco-friendly options are better for your baby and the planet, with deep discounts on wheat straw and bamboo sets.</p>",
           "template_suffix": "article",
           "handle": "eco-friendly-baby-dinnerware-black-friday-cyber-monday-2025-wheat-straw-bamboo-sets-half-price",
           "tags": "Sustainable & Eco-Conscious Baby Feeding",
           "admin_graphql_api_id": "gid://shopify/Article/610935570774",
           "image": {
-            "created_at": "2025-11-06T16:47:35+00:00",
+            "created_at": "2025-11-16T13:18:50+00:00",
             "alt": "Mother and child using eco-friendly weaning set in kitchen.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_a2da7fc4-dad2-405e-96a8-6c4c6dacded4.png?v=1762447657"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_84a29cd3-9eb2-4171-b091-ae843bc15a25.png?v=1763299131"
           }
         },
         {
@@ -88,18 +110,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-11-11T11:00:01+00:00",
-          "updated_at": "2025-11-11T11:00:01+00:00",
+          "updated_at": "2025-11-16T13:19:50+00:00",
           "summary_html": "<p>Tired of stumbling through 3 AM feedings? You're not alone. Our complete night feeding system, designed by sleep-deprived parents for sleep-deprived parents, is here to save your sanity and your wallet. This Black Friday and Cyber Monday, get 50% off with code NSTCLR-BF2025 and transform your night-time routine. Reclaim your sleep and make those midnight wake-ups bearable</p>",
           "template_suffix": "article",
           "handle": "the-3am-feeding-black-friday-cyber-monday-2025-kit-night-feeding-essentials-every-sleep-deprived-parent-needs",
           "tags": "Sustainable & Eco-Conscious Baby Feeding",
           "admin_graphql_api_id": "gid://shopify/Article/610935505238",
           "image": {
-            "created_at": "2025-11-06T16:19:57+00:00",
+            "created_at": "2025-11-16T13:19:49+00:00",
             "alt": "Exhausted mother feeding baby with Nestacular bottle warmer at night",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_7a25fc11-13a6-422c-8199-d939e54303ec.png?v=1762445998"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_a2253457-3fd6-4e89-8f88-75945af11915.png?v=1763299190"
           }
         },
         {
@@ -110,18 +132,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-11-10T10:00:04+00:00",
-          "updated_at": "2025-11-10T10:00:04+00:00",
+          "updated_at": "2025-11-16T13:20:24+00:00",
           "summary_html": "<p>Navigating the world with twins can be overwhelming, especially when it comes to feeding. Our Black Friday Mega Sale is here to make it easier and more affordable for twin parents worldwide!</p>",
           "template_suffix": "article",
           "handle": "twin-baby-feeding-black-friday-cyber-monday-2025-double-everything-at-half-price-plus-bundle-savings",
           "tags": "Sustainable & Eco-Conscious Baby Feeding",
           "admin_graphql_api_id": "gid://shopify/Article/610935439702",
           "image": {
-            "created_at": "2025-11-06T16:04:55+00:00",
+            "created_at": "2025-11-16T13:20:23+00:00",
             "alt": "Mother and twins in shopping cart in baby aisle.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_c8db43e8-eddd-4649-a158-03526e6db30f.png?v=1762445096"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_8700edb0-aa2e-4f0e-8c8a-2358403a3546.png?v=1763299224"
           }
         },
         {
@@ -132,18 +154,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-11-09T09:00:04+00:00",
-          "updated_at": "2025-11-09T09:00:04+00:00",
+          "updated_at": "2025-11-16T13:21:08+00:00",
           "summary_html": "<p>Discover how complete baby feeding sets can transform mealtime! Our Black Friday and Cyber Monday 2025 sale offers up to 50% off on essential tableware, helping your child develop independence and making meals less messy. Learn why parents are stocking up on multiple sets and find the perfect BPA-free options for every age.</p>",
           "template_suffix": "article",
           "handle": "baby-feeding-set-black-friday-cyber-monday-2025-complete-tableware-collections-from-12-50",
           "tags": "Sustainable & Eco-Conscious Baby Feeding",
           "admin_graphql_api_id": "gid://shopify/Article/610935406934",
           "image": {
-            "created_at": "2025-11-06T15:49:17+00:00",
+            "created_at": "2025-11-16T13:21:07+00:00",
             "alt": "Family preparing baby's meal in a blue kitchen.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_ec42dd7a-3ca4-4fd6-901e-902ab1d329c8.png?v=1762444159"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_1dfcc1e8-f288-418b-954f-841a46738ef5.png?v=1763299268"
           }
         },
         {
@@ -169,18 +191,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-11-05T05:00:03+00:00",
-          "updated_at": "2025-11-05T05:00:03+00:00",
+          "updated_at": "2025-11-16T13:23:49+00:00",
           "summary_html": "<p>This Black Friday &amp; Cyber Monday 2025, skip the stuffed animals and give new parents what they actually need — practical, parent-approved feeding essentials. With exclusive grandparent discount codes <strong data-start=\"405\" data-end=\"432\">NSTCLR-BF2025 (50% off)</strong> and <strong data-start=\"437\" data-end=\"464\">NSTCLR-CM2025 (40% off)</strong>, you can gift anti-colic bottles, wheat straw feeding sets, and waterproof bibs at half price. Make every feeding a reminder of your love — affordable, useful, and delivered worldwide through <strong data-start=\"657\" data-end=\"678\">December 15, 2025</strong>.</p>",
           "template_suffix": "article",
           "handle": "grandparents-black-friday-cyber-monday-2025-baby-feeding-gift-guide-what-new-parents-really-want",
           "tags": "Baby Feeding Gift Guides & Registry Essentials",
           "admin_graphql_api_id": "gid://shopify/Article/610921775446",
           "image": {
-            "created_at": "2025-11-04T11:50:53+00:00",
+            "created_at": "2025-11-16T13:23:47+00:00",
             "alt": "Happy family gifting feeding essentials: bottles, bibs, cups.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_e28eb9a5-a874-4c62-9eee-67032cd52b17.png?v=1762257055"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_b8a08b47-575a-4a81-8491-bb470b1170a1.png?v=1763299429"
           }
         },
         {
@@ -191,18 +213,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-11-08T08:00:04+00:00",
-          "updated_at": "2025-11-08T08:00:04+00:00",
+          "updated_at": "2025-11-16T13:21:57+00:00",
           "summary_html": "<p data-start=\"226\" data-end=\"664\">First-time parent? Skip the baby-store overwhelm and get only what you actually need. This <strong data-start=\"317\" data-end=\"338\">Black Friday 2025</strong>, build your complete <strong data-start=\"360\" data-end=\"390\">bottle feeding starter kit</strong> — anti-colic bottles, cleaning brushes, waterproof bibs, and more — all <strong data-start=\"463\" data-end=\"474\">50% off</strong> with code <strong data-start=\"485\" data-end=\"502\">NSTCLR-BF2025</strong> (or <strong data-start=\"507\" data-end=\"518\">40% off</strong> with <strong data-start=\"524\" data-end=\"541\">NSTCLR-CM2025</strong>). Save <strong data-start=\"549\" data-end=\"562\">over £150</strong> on real essentials trusted by <strong data-start=\"593\" data-end=\"612\">10,000+ parents</strong>. Limited stock — sale ends <strong data-start=\"640\" data-end=\"661\">December 15, 2025</strong>.</p>",
           "template_suffix": "article",
           "handle": "baby-bottle-starter-kit-black-friday-cyber-monday-2025-everything-first-time-parents-actually-need",
           "tags": "Baby Bottles",
           "admin_graphql_api_id": "gid://shopify/Article/610921709910",
           "image": {
-            "created_at": "2025-11-04T13:33:30+00:00",
+            "created_at": "2025-11-16T13:21:56+00:00",
             "alt": "Toddlers in red and white pajamas reaching for baby products.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_81513a88-f60e-4a76-8836-b58fb815d8f6.png?v=1762263211"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_edaca617-a65a-4981-b0d3-2b7127d6d16a.png?v=1763299317"
           }
         },
         {
@@ -213,18 +235,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-11-07T07:00:02+00:00",
-          "updated_at": "2025-11-07T07:00:02+00:00",
+          "updated_at": "2025-11-16T13:22:31+00:00",
           "summary_html": "<p>Say goodbye to messy spills! This <strong data-start=\"268\" data-end=\"299\">Black Friday &amp; Cyber Monday</strong>, our best-selling <strong data-start=\"318\" data-end=\"358\">360° sippy cups and training bottles</strong> are <strong data-start=\"363\" data-end=\"374\">50% off</strong> with code <strong data-start=\"385\" data-end=\"402\">NSTCLR-BF2025</strong> (or <strong data-start=\"407\" data-end=\"418\">40% off</strong> with <strong data-start=\"424\" data-end=\"441\">NSTCLR-CM2025</strong>). These spill-proof, dentist-approved cups teach independence while keeping floors and diaper bags dry. Stock up now through <strong data-start=\"567\" data-end=\"588\">December 15, 2025</strong> — no minimum, no limits, ships worldwide!</p>",
           "template_suffix": "article",
           "handle": "360-degree-baby-cups-black-friday-cyber-monday-2025-spill-proof-sippy-cup-deals-for-learning-to-drink",
           "tags": "Baby Cups & Drinkware",
           "admin_graphql_api_id": "gid://shopify/Article/610921611606",
           "image": {
-            "created_at": "2025-11-04T13:13:49+00:00",
+            "created_at": "2025-11-16T13:22:29+00:00",
             "alt": "Overhead shot of baby sippy cups on kitchen counter",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_696dee89-b052-4e59-bde2-dfcdc1729023.png?v=1762262030"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_6d421277-6aa3-4dfc-bea8-0caf7f01c0b7.png?v=1763299351"
           }
         },
         {
@@ -235,18 +257,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-11-04T13:00:02+00:00",
-          "updated_at": "2025-11-04T13:00:02+00:00",
+          "updated_at": "2025-11-16T13:24:29+00:00",
           "summary_html": "<p>Get ready for the best Baby-Led Weaning (BLW) deals of the year! Our Early Black Friday Sale is live — save up to <strong data-start=\"273\" data-end=\"284\">50% off</strong> eco-friendly wheat straw feeding sets, bamboo tableware, and silicone bibs. With code <strong data-start=\"371\" data-end=\"388\">NSTCLR-BF2025</strong>, complete BLW sets start under <strong data-start=\"420\" data-end=\"427\">£20</strong>, including bowls, plates, spoons, and forks. Safe, sustainable, and drop-proof — everything your baby needs to start self-feeding without breaking the bank. Hurry, sale ends <strong data-start=\"602\" data-end=\"623\">December 15, 2025</strong>.</p>",
           "template_suffix": "article",
           "handle": "baby-led-weaning-black-friday-cyber-monday-2025-complete-wheat-straw-feeding-sets-under-20",
           "tags": "Baby-Led Weaning",
           "admin_graphql_api_id": "gid://shopify/Article/610921546070",
           "image": {
-            "created_at": "2025-11-04T11:30:07+00:00",
+            "created_at": "2025-11-16T13:24:27+00:00",
             "alt": "Baby Led Weaning products",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_c22c66c6-f93d-4410-bef3-f52179244d45.png?v=1762255808"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_97accedb-7796-4370-8446-52586fe9590d.png?v=1763299469"
           }
         },
         {
@@ -257,18 +279,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-11-06T06:00:01+00:00",
-          "updated_at": "2025-11-06T06:00:01+00:00",
+          "updated_at": "2025-11-16T13:23:12+00:00",
           "summary_html": "<p>Expecting a winter baby in <strong data-start=\"236\" data-end=\"272\">January, February, or March 2026</strong>? Now’s the perfect time to prep! Our <strong data-start=\"310\" data-end=\"337\">Early Black Friday Sale</strong> is live — save up to <strong data-start=\"359\" data-end=\"370\">50% off</strong> baby feeding essentials with code <strong data-start=\"405\" data-end=\"422\">NSTCLR-BF2025</strong> or <strong data-start=\"426\" data-end=\"437\">40% off</strong> with <strong data-start=\"443\" data-end=\"460\">NSTCLR-CM2025</strong>. Stock up on bottles, bibs, feeding sets, and winter-ready gear at half price. Stress less, save more, and welcome your baby fully prepared. Offer valid <strong data-start=\"614\" data-end=\"653\">worldwide through December 15, 2025</strong>.</p>",
           "template_suffix": "article",
           "handle": "january-baby-black-friday-cyber-monday-2025-the-complete-feeding-prep-list-for-winter-babies",
           "tags": "Winter Baby Feeding",
           "admin_graphql_api_id": "gid://shopify/Article/610921251158",
           "image": {
-            "created_at": "2025-11-04T12:18:07+00:00",
+            "created_at": "2025-11-16T13:23:10+00:00",
             "alt": "A complete baby feeding prep list",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_087c1ce0-6913-4a60-9548-a3c778807af7.png?v=1762258689"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_918ec444-a0be-4ca6-911c-fcc46fa38bd4.png?v=1763299392"
           }
         },
         {
@@ -279,18 +301,18 @@
           "author": "Dr Sumaiya P.N",
           "user_id": null,
           "published_at": "2025-11-03T21:01:09+00:00",
-          "updated_at": "2025-11-03T21:02:43+00:00",
+          "updated_at": "2025-11-16T13:25:07+00:00",
           "summary_html": "<p>This Black Friday and Cyber Monday, discover why parents love Nestacular’s anti-colic baby bottles. Engineered to prevent gas and colic, our BPA-free bottles are safe, effective, and now 50% off for a limited time only.</p>",
           "template_suffix": "article",
           "handle": "anti-colic-baby-bottles-black-friday-cyber-monday-2025-save-50-on-bpa-free-bottles-that-actually-stop-gas",
           "tags": "Baby Bottles",
           "admin_graphql_api_id": "gid://shopify/Article/610920399190",
           "image": {
-            "created_at": "2025-11-03T21:02:42+00:00",
+            "created_at": "2025-11-16T13:25:05+00:00",
             "alt": null,
             "width": 1248,
             "height": 832,
-            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/another_a8de37f0-4efe-4272-a549-5a9d23e497fe.png?v=1762203763"
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/another_510b5082-7ce0-402b-bac8-72269ab0ef76.png?v=1763299507"
           }
         },
         {

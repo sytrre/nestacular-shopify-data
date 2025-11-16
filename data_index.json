@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-16T12:41:47.999988Z",
+  "generated": "2025-11-16T13:27:49.589291Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -32,6 +32,7 @@
       "baptism-christening-guest-gift-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baptism-christening-guest-gift-essentials_products.json",
       "bear-party-decorations": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bear-party-decorations_products.json",
       "bibs-and-coveralls": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bibs-and-coveralls_products.json",
+      "black-friday-nursery-stock-up-feeding-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/black-friday-nursery-stock-up-feeding-essentials_products.json",
       "booster-seats-for-dining-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/booster-seats-for-dining-chairs_products.json",
       "bottle-accessories": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bottle-accessories_products.json",
       "bottle-cleaning": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bottle-cleaning_products.json",
@@ -83,6 +84,7 @@
       "parent-teacher-conference-week-lunch-prep-kit": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/parent-teacher-conference-week-lunch-prep-kit_products.json",
       "placemats": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/placemats_products.json",
       "plates-and-bowls": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/plates-and-bowls_products.json",
+      "postpartum-recovery-mom-self-care-feeding-bundle": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/postpartum-recovery-mom-self-care-feeding-bundle_products.json",
       "premature-baby-nicu-homecoming-feeding-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/premature-baby-nicu-homecoming-feeding-essentials_products.json",
       "pumpkin-patch-apple-picking-portable-baby-gear": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/pumpkin-patch-apple-picking-portable-baby-gear_products.json",
       "replacement-trays-straps": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/replacement-trays-straps_products.json",
