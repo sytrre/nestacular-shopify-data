@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-11-17T11:41:44.134969Z
+Generated: 2025-11-17T12:47:57.959341Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (103 collections) ===
+=== COLLECTION PRODUCT FILES (105 collections) ===
 
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
@@ -50,6 +50,7 @@ BLOGS (1 pages):
 • cutlery-and-utensils: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/cutlery-and-utensils_products.json
 • daycare-ready-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/daycare-ready-feeding-essentials_products.json
 • dishwasher-safe-baby-bowl: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/dishwasher-safe-baby-bowl_products.json
+• disposable-party-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/disposable-party-tableware_products.json
 • emergency-preparedness-baby-safety-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/emergency-preparedness-baby-safety-kit_products.json
 • fall-sports-season-sideline-baby-feeding-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/fall-sports-season-sideline-baby-feeding-kit_products.json
 • first-birthday-gifts: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/first-birthday-gifts_products.json
@@ -60,6 +61,7 @@ BLOGS (1 pages):
 • food-grade-silicone-feeder: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/food-grade-silicone-feeder_products.json
 • food-storage-containers: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/food-storage-containers_products.json
 • foster-care-placement-baby-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/foster-care-placement-baby-essentials_products.json
+• gender-reveal-party-hosting-feeding-decor-bundle: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/gender-reveal-party-hosting-feeding-decor-bundle_products.json
 • gifts-sets: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/gifts-sets_products.json
 • glass-baby-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/glass-baby-bottles_products.json
 • grandparents-helper-feeding-station: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/grandparents-helper-feeding-station_products.json

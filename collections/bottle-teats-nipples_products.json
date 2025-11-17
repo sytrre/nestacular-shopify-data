@@ -4,7 +4,7 @@
     "handle": "bottle-teats-nipples",
     "title": "Bottle Teats & Nipples",
     "body_html": "<p>As your baby grows, their feeding needs change. Find the perfect flow rate for your little one with our collection of replacement bottle teats and nipples. We offer a range of sizes, from slow-flow for newborns to faster flows for older babies, all made from soft, baby-safe silicone. Ensure your baby always has a comfortable and efficient feed.</p>",
-    "products_count": 17
+    "products_count": 18
   },
   "products": [
     {
@@ -432,6 +432,211 @@
         "width": 800,
         "height": 800,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/7359b17a-3a20-4d88-8e2d-1189775e361c.jpg?v=1759144653",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9792648806742,
+      "title": "BPA-Free Hands-Free Baby Bottle with Anti-Colic Nipple",
+      "body_html": "<h2>Hands-Free Baby Bottle for Independent Feeding</h2>\n<p>The <strong>SereniBabe Creative Hands-Free Baby Bottle</strong> is designed to make feeding time easier, safer, and more convenient for both parents and babies. With its <strong>innovative hands-free design</strong>, this bottle allows infants and toddlers to feed comfortably while promoting independence and reducing parent strain.</p>\n\n<p>Made from <strong>safe, BPA-free materials</strong>, it ensures a healthy feeding experience for your little one. The lightweight, ergonomic structure makes it easy to hold, while the <strong>anti-colic nipple</strong> helps prevent gas, spit-ups, and discomfort. Perfect for travel, car rides, or busy parents who need an extra helping hand during feeding.</p>\n\n<h2>Designed for Safety and Comfort</h2>\n<p>This baby bottle prioritizes your child's health with non-toxic, BPA-free construction that meets safety standards. The ergonomic design fits comfortably in small hands, encouraging self-feeding and motor skill development from an early age.</p>\n\n<p>The specialized anti-colic nipple reduces air intake during feeding, minimizing gas buildup and digestive discomfort. This thoughtful feature helps reduce fussiness and promotes more comfortable feeding sessions for babies and toddlers.</p>\n\n<h2>Portable and Practical</h2>\n<p>The lightweight construction makes this bottle ideal for on-the-go feeding. Whether you're traveling, running errands, or simply need both hands free at home, this bottle provides a practical solution. The hands-free design allows babies to feed independently while parents manage other tasks safely nearby.</p>\n\n<p><strong>Key Features:</strong></p>\n<ul>\n<li><p><strong>Hands-Free Design:</strong> Lets babies feed safely and independently.</p></li>\n<li><p><strong>Safe Materials:</strong> BPA-free, non-toxic, and baby-friendly.</p></li>\n<li><p><strong>Anti-Colic Nipple:</strong> Reduces air intake for easier digestion.</p></li>\n<li><p><strong>Portable &amp; Convenient:</strong> Ideal for travel, outings, or home use.</p></li>\n<li><p><strong>Supports Independence:</strong> Encourages self-feeding and motor skill development.</p></li>\n</ul>\n\n<p><b>Product Image:</b></p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/cc2c7b57-42b9-41be-a275-b260c6fc09ad_trans.jpg?v=1756917953\" alt=\"SereniBabe Creative Hands-Free Baby Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/956d92c1-66f8-4583-9278-bf945309bbf5_trans.jpg?v=1756917954\" alt=\"SereniBabe Creative Hands-Free Baby Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/38bbf613-7bce-4b42-9440-c384abd54422_trans.jpg?v=1756917953\" alt=\"SereniBabe Creative Hands-Free Baby Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3e20a436-a206-4368-81c7-a30644bd1121_trans.jpg?v=1756917952\" alt=\"SereniBabe Creative Hands-Free Baby Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/9de49997-b902-4a80-ab62-3df6786ac67c_trans.jpg?v=1756917953\" alt=\"SereniBabe Creative Hands-Free Baby Bottle\" style=\"margin-bottom: 16px; float: none;\"></div>",
+      "vendor": "Nestacular",
+      "product_type": "Baby Bottle",
+      "created_at": "2025-09-02T05:27:05+01:00",
+      "handle": "serenibabe-hands-free-baby-bottle",
+      "updated_at": "2025-11-17T12:39:04+00:00",
+      "published_at": "2025-09-02T05:27:21+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Anti-Colic Feeding Bottle, baby-bottles, baby-digestive-comfort-bottle, baby-feeding-accessories, BPA-Free Baby Bottle, ergonomic-baby-bottle, gas-relief-bottle, Hands-Free Baby Bottle, independent-feeding-bottle, Infant Feeding Solution, infant-bottle-with-handles, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-toddler-independence-milestone-kit, life-event-weekend-camping-baby-feeding-gear, lightweight-baby-bottle, motor-skill-development-bottle, non-toxic-baby-bottle, on-the-go-baby-feeding, portable-infant-bottle, self-feeding-bottle, SereniBabe Baby Bottle, Toddler Self-Feeding Bottle, travel-baby-bottle",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9792648806742",
+      "variants": [
+        {
+          "id": 51201109492054,
+          "product_id": 9792648806742,
+          "title": "Pink / 150ml",
+          "price": "16.71",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "0.00",
+          "option1": "Pink",
+          "option2": "150ml",
+          "option3": null,
+          "created_at": "2025-09-02T05:27:19+01:00",
+          "updated_at": "2025-11-03T16:21:04+00:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 103,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD235297201AZ",
+          "weight": 103.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53407311266134,
+          "inventory_quantity": 5244,
+          "old_inventory_quantity": 5244,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51201109492054",
+          "image_id": 66252990087510
+        },
+        {
+          "id": 51201109524822,
+          "product_id": 9792648806742,
+          "title": "Blue / 150ml",
+          "price": "16.71",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "0.00",
+          "option1": "Blue",
+          "option2": "150ml",
+          "option3": null,
+          "created_at": "2025-09-02T05:27:19+01:00",
+          "updated_at": "2025-11-03T16:21:04+00:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 103,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYD235297202BY",
+          "weight": 103.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53407311298902,
+          "inventory_quantity": 6584,
+          "old_inventory_quantity": 6584,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51201109524822",
+          "image_id": 66252990120278
+        }
+      ],
+      "options": [
+        {
+          "id": 12642095759702,
+          "product_id": 9792648806742,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Pink",
+            "Blue"
+          ]
+        },
+        {
+          "id": 12642095792470,
+          "product_id": 9792648806742,
+          "name": "Capacity",
+          "position": 2,
+          "values": [
+            "150ml"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66252989464918,
+          "alt": "SereniBabe Creative Hands-Free Baby Bottle ",
+          "position": 1,
+          "product_id": 9792648806742,
+          "created_at": "2025-09-02T05:27:08+01:00",
+          "updated_at": "2025-09-02T05:44:55+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54498335424854",
+          "width": 750,
+          "height": 750,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4ffeacc1-5eb2-4bd9-9c73-0e010b0dc460_trans.jpg?v=1756787231",
+          "variant_ids": []
+        },
+        {
+          "id": 66252989530454,
+          "alt": "SereniBabe Creative Hands-Free Baby Bottle ",
+          "position": 2,
+          "product_id": 9792648806742,
+          "created_at": "2025-09-02T05:27:10+01:00",
+          "updated_at": "2025-09-02T05:44:59+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54498335490390",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3dccedd8-2b4f-4ea5-a139-730f05b09109.jpg?v=1756787232",
+          "variant_ids": []
+        },
+        {
+          "id": 66252989694294,
+          "alt": "SereniBabe Creative Hands-Free Baby Bottle ",
+          "position": 3,
+          "product_id": 9792648806742,
+          "created_at": "2025-09-02T05:27:13+01:00",
+          "updated_at": "2025-09-02T05:45:04+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54498335654230",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/ee891055-fd60-42fb-bf7b-0575d12c1c83.jpg?v=1756787235",
+          "variant_ids": []
+        },
+        {
+          "id": 66252989825366,
+          "alt": "SereniBabe Creative Hands-Free Baby Bottle ",
+          "position": 4,
+          "product_id": 9792648806742,
+          "created_at": "2025-09-02T05:27:14+01:00",
+          "updated_at": "2025-09-02T05:45:10+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54498335752534",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f860b74e-4b1a-4e89-b9f8-502d27368080.jpg?v=1756787237",
+          "variant_ids": []
+        },
+        {
+          "id": 66252989989206,
+          "alt": "SereniBabe Creative Hands-Free Baby Bottle ",
+          "position": 5,
+          "product_id": 9792648806742,
+          "created_at": "2025-09-02T05:27:18+01:00",
+          "updated_at": "2025-09-02T05:45:15+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54498335916374",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/fca1388b-7a43-4b31-a26c-bb2ae3c73044.jpg?v=1756787240",
+          "variant_ids": []
+        },
+        {
+          "id": 66252990087510,
+          "alt": "SereniBabe Creative Hands-Free Baby Bottle ",
+          "position": 6,
+          "product_id": 9792648806742,
+          "created_at": "2025-09-02T05:27:19+01:00",
+          "updated_at": "2025-09-02T05:45:19+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54498336014678",
+          "width": 919,
+          "height": 856,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3f9dea22-5c7e-4e3f-a0a1-cb8e9a02e549.jpg?v=1756787243",
+          "variant_ids": [
+            51201109492054
+          ]
+        },
+        {
+          "id": 66252990120278,
+          "alt": "SereniBabe Creative Hands-Free Baby Bottle ",
+          "position": 7,
+          "product_id": 9792648806742,
+          "created_at": "2025-09-02T05:27:19+01:00",
+          "updated_at": "2025-09-02T05:45:23+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54498336047446",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/ec4d74da-ab1e-4817-a0aa-14941e1affb8.jpg?v=1756787241",
+          "variant_ids": [
+            51201109524822
+          ]
+        }
+      ],
+      "image": {
+        "id": 66252989464918,
+        "alt": "SereniBabe Creative Hands-Free Baby Bottle ",
+        "position": 1,
+        "product_id": 9792648806742,
+        "created_at": "2025-09-02T05:27:08+01:00",
+        "updated_at": "2025-09-02T05:44:55+01:00",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/54498335424854",
+        "width": 750,
+        "height": 750,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/4ffeacc1-5eb2-4bd9-9c73-0e010b0dc460_trans.jpg?v=1756787231",
         "variant_ids": []
       }
     },
@@ -4154,17 +4359,17 @@
     },
     {
       "id": 9793805254998,
-      "title": "Totvana Baby Petal Nipple Feeding Bottle - Safe & Comfortable Infant Milk Bottle for Easy Feeding",
-      "body_html": "<p data-start=\"177\" data-end=\"470\">Make every feeding session safe, comfortable, and stress-free with the <strong data-start=\"248\" data-end=\"292\">Totvana Baby Petal Nipple Feeding Bottle</strong>. Designed for infants, this <strong data-start=\"321\" data-end=\"366\">milk bottle with soft petal-shaped nipple</strong> ensures a natural feeding experience, closely mimicking breastfeeding to help your baby latch easily.</p>\n<p data-start=\"472\" data-end=\"725\">Made from <strong data-start=\"482\" data-end=\"516\">BPA-free, food-grade materials</strong>, the bottle is completely safe for newborns and toddlers. Its <strong data-start=\"579\" data-end=\"599\">ergonomic design</strong> makes handling simple for parents, while the <strong data-start=\"645\" data-end=\"665\">anti-colic valve</strong> helps reduce gas, spit-up, and discomfort during feeding.</p>\n<p data-start=\"727\" data-end=\"933\">The <strong data-start=\"731\" data-end=\"775\">Totvana Baby Petal Nipple Feeding Bottle</strong> is perfect for <strong data-start=\"791\" data-end=\"813\">daily milk feeding</strong>, travel, or home use. Lightweight, durable, and easy to clean, it ensures hygienic and convenient feeding every time.</p>\n<p data-start=\"935\" data-end=\"954\"><strong data-start=\"935\" data-end=\"952\">Key Benefits:</strong></p>\n<ul data-start=\"955\" data-end=\"1301\">\n<li data-start=\"955\" data-end=\"1014\">\n<p data-start=\"957\" data-end=\"1014\"><strong data-start=\"957\" data-end=\"978\">Safe &amp; Non-Toxic:</strong> BPA-free and food-grade materials</p>\n</li>\n<li data-start=\"1015\" data-end=\"1102\">\n<p data-start=\"1017\" data-end=\"1102\"><strong data-start=\"1017\" data-end=\"1041\">Comfortable Feeding:</strong> Petal-shaped nipple for natural latch and smooth milk flow</p>\n</li>\n<li data-start=\"1103\" data-end=\"1172\">\n<p data-start=\"1105\" data-end=\"1172\"><strong data-start=\"1105\" data-end=\"1127\">Anti-Colic Design:</strong> Reduces gas, spit-up, and tummy discomfort</p>\n</li>\n<li data-start=\"1173\" data-end=\"1239\">\n<p data-start=\"1175\" data-end=\"1239\"><strong data-start=\"1175\" data-end=\"1200\">Easy to Hold &amp; Clean:</strong> Ergonomic, lightweight bottle design</p>\n</li>\n<li data-start=\"1240\" data-end=\"1301\">\n<p data-start=\"1242\" data-end=\"1301\"><strong data-start=\"1242\" data-end=\"1264\">Ideal for Infants:</strong> Suitable for newborns and toddlers</p>\n</li>\n</ul>\n<p data-start=\"1303\" data-end=\"1439\">Ensure your baby enjoys a <strong data-start=\"1329\" data-end=\"1382\">comfortable, safe, and natural feeding experience</strong> with the <strong data-start=\"1392\" data-end=\"1436\">Totvana Baby Petal Nipple Feeding Bottle</strong>.</p>",
+      "title": "Totvana Petal Nipple Baby Bottle - BPA-Free Anti-Colic Feeding",
+      "body_html": "<h2>Totvana Baby Petal Nipple Feeding Bottle</h2>\n\n<p>The <strong>Totvana Baby Petal Nipple Feeding Bottle</strong> provides a natural feeding experience for infants. Designed with a <strong>soft petal-shaped nipple</strong>, this bottle mimics breastfeeding to help your baby latch easily and transition smoothly between breast and bottle.</p>\n\n<p>Constructed from <strong>BPA-free, food-grade materials</strong>, this feeding bottle prioritizes your baby's safety. The non-toxic composition makes it suitable for newborns and toddlers, giving parents confidence during every feeding session.</p>\n\n<h2>Anti-Colic Valve System</h2>\n\n<p>The integrated <strong>anti-colic valve</strong> reduces air intake during feeding, minimizing gas, spit-up, and tummy discomfort. This design feature helps prevent colic symptoms and promotes a more comfortable feeding experience for your infant.</p>\n\n<h2>Ergonomic Design Features</h2>\n\n<p>The bottle's <strong>ergonomic design</strong> makes handling simple for parents during feeding time. Lightweight construction allows for easy one-handed operation, while the shape provides a secure grip. The wide-mouth opening simplifies filling and cleaning, ensuring hygienic use.</p>\n\n<h2>Natural Feeding Experience</h2>\n\n<p>The petal-shaped nipple texture encourages natural tongue movement and promotes proper oral development. The nipple design allows for smooth milk flow control, preventing choking while maintaining an adequate feeding pace for infants.</p>\n\n<h2>Versatile Usage</h2>\n\n<p>This feeding bottle works for daily milk feeding at home, daycare, or while traveling. The durable construction withstands regular use and sterilization, maintaining safety standards over time. Compatible with standard bottle warmers and sterilizers for convenient preparation.</p>\n\n<p><strong>Key Benefits:</strong></p>\n<ul>\n<li>\n<strong>Safe &amp; Non-Toxic:</strong> BPA-free and food-grade materials</li>\n<li>\n<strong>Comfortable Feeding:</strong> Petal-shaped nipple for natural latch and smooth milk flow</li>\n<li>\n<strong>Anti-Colic Design:</strong> Reduces gas, spit-up, and tummy discomfort</li>\n<li>\n<strong>Easy to Hold &amp; Clean:</strong> Ergonomic, lightweight bottle design</li>\n<li>\n<strong>Ideal for Infants:</strong> Suitable for newborns and toddlers</li>\n</ul>\n\n<p>The <strong>Totvana Baby Petal Nipple Feeding Bottle</strong> combines safety, comfort, and practical design for stress-free feeding sessions. The BPA-free construction and anti-colic features address common feeding concerns while the natural nipple shape supports your baby's feeding development.</p>",
       "vendor": "Nestacular",
       "product_type": "Nipple Feeding Bottle",
       "created_at": "2025-09-02T17:03:14+01:00",
       "handle": "totvana-baby-petal-nipple-feeding-bottle",
-      "updated_at": "2025-11-03T16:20:57+00:00",
+      "updated_at": "2025-11-17T12:40:52+00:00",
       "published_at": "2025-09-02T17:03:30+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "baby feeding bottle, Infant Milk Feeder, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, petal nipple bottle, Safe baby feeding bottle",
+      "tags": "anti-colic-baby-bottle, baby feeding bottle, bpa-free-feeding-bottle, breast-like-nipple-bottle, easy-clean-baby-bottle, ergonomic-baby-bottle, food-grade-baby-bottle, gas-relief-bottle, Infant Milk Feeder, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, natural-latch-bottle, newborn-bottle, petal nipple bottle, Safe baby feeding bottle, soft-nipple-bottle, toddler-milk-bottle, Totvana, Totvana-baby-bottles, travel-feeding-bottle, wide-mouth-baby-bottle",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9793805254998",
       "variants": [
@@ -6133,8 +6338,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 17,
-    "products_in_page": 17,
+    "total_products": 18,
+    "products_in_page": 18,
     "has_next_page": false,
     "has_previous_page": false
   }
