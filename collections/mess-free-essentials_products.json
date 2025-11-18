@@ -40120,8 +40120,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9912227070294",
       "variants": [
         {
-          "product_id": 9912227070294,
           "id": 51658078519638,
+          "product_id": 9912227070294,
           "title": "Style-1 / 12INCH",
           "price": "18.95",
           "position": 1,
@@ -40148,8 +40148,8 @@
           "image_id": 67716635001174
         },
         {
-          "product_id": 9912227070294,
           "id": 51658078552406,
+          "product_id": 9912227070294,
           "title": "mixed / 12INCH",
           "price": "18.95",
           "position": 2,
@@ -40176,8 +40176,8 @@
           "image_id": 67716635033942
         },
         {
-          "product_id": 9912227070294,
           "id": 51658078585174,
+          "product_id": 9912227070294,
           "title": "Style-3 / 12INCH",
           "price": "18.95",
           "position": 3,
@@ -40204,8 +40204,8 @@
           "image_id": 67716635066710
         },
         {
-          "product_id": 9912227070294,
           "id": 51658078617942,
+          "product_id": 9912227070294,
           "title": "Style-2 / 12INCH",
           "price": "18.95",
           "position": 4,
@@ -40234,8 +40234,8 @@
       ],
       "options": [
         {
-          "product_id": 9912227070294,
           "id": 12782333821270,
+          "product_id": 9912227070294,
           "name": "Color",
           "position": 1,
           "values": [
@@ -40246,8 +40246,8 @@
           ]
         },
         {
-          "product_id": 9912227070294,
           "id": 12782333854038,
+          "product_id": 9912227070294,
           "name": "Ballon Size",
           "position": 2,
           "values": [
