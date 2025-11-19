@@ -1334,8 +1334,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791165464918",
       "variants": [
         {
-          "product_id": 9791165464918,
           "id": 51195169145174,
+          "product_id": 9791165464918,
           "title": "Pink Baby Bottle Brush",
           "price": "18.62",
           "position": 1,
@@ -1362,8 +1362,8 @@
           "image_id": 66238025728342
         },
         {
-          "product_id": 9791165464918,
           "id": 51195169177942,
+          "product_id": 9791165464918,
           "title": "Green Baby Bottle Brush",
           "price": "18.62",
           "position": 2,
@@ -1390,8 +1390,8 @@
           "image_id": 66238025761110
         },
         {
-          "product_id": 9791165464918,
           "id": 51195169210710,
+          "product_id": 9791165464918,
           "title": "Yellow Baby Bottle Brush",
           "price": "18.62",
           "position": 3,
@@ -1420,8 +1420,8 @@
       ],
       "options": [
         {
-          "product_id": 9791165464918,
           "id": 12640339820886,
+          "product_id": 9791165464918,
           "name": "Color",
           "position": 1,
           "values": [
