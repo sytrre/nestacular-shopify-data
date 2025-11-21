@@ -4,7 +4,7 @@
     "handle": "pumpkin-patch-apple-picking-portable-baby-gear",
     "title": "Pumpkin Patch & Apple Picking Portable Baby Gear",
     "body_html": "Make autumn outings stress-free with portable feeding gear perfect for harvest adventures. Lightweight chairs, travel bottles, and mess-proof bibs keep little ones fed during fall activities.",
-    "products_count": 25
+    "products_count": 26
   },
   "products": [
     {
@@ -460,6 +460,198 @@
       }
     },
     {
+      "id": 9791235293526,
+      "title": "Baby Bottle Insulation Cover - Thermal Warmer for Pigeon Bottles",
+      "body_html": "<h2>Baby Bottle Insulation Cover - Constant Temperature Warmer</h2>\n\n<p>The <strong>PebbleTots Baby Bottle Insulation Cover</strong> maintains your baby's milk at the optimal temperature between feedings. This thermal warmer fits <strong>Pigeon and standard baby bottles</strong>, providing reliable heat retention for home use, travel, or nighttime feeds.</p>\n\n<p>Constructed from <strong>high-quality, food-safe materials</strong>, this insulation cover uses passive thermal technology to keep milk warm without electricity or batteries. The <strong>lightweight, compact design</strong> slips easily into diaper bags, making it practical for parents on the go. Durable construction ensures the cover withstands daily use while maintaining its insulating properties.</p>\n\n<h3>Product Features</h3>\n\n<ul>\n<li>\n<strong>Constant Temperature Warmer:</strong> Keeps milk at the right temperature for longer periods.</li>\n<li>\n<strong>Compatible with Pigeon &amp; Standard Bottles:</strong> Fits most baby bottles.</li>\n<li>\n<strong>Lightweight &amp; Portable:</strong> Perfect for home, travel, and outings.</li>\n<li>\n<strong>Safe &amp; Durable:</strong> Made from non-toxic, food-safe materials.</li>\n<li>\n<strong>Easy to Use &amp; Clean:</strong> Simple to maintain for busy parents.</li>\n</ul>\n\n<h3>How It Works</h3>\n\n<p>The insulation cover uses thermal retention technology to maintain milk temperature after warming. Simply warm your baby's bottle to the desired temperature, then slide the PebbleTots cover over it. The insulated layers trap heat inside, preventing rapid cooling and keeping milk ready for feeding. This eliminates the need for reheating and preserves milk nutrients that can degrade with repeated warming.</p>\n\n<h3>Practical Applications</h3>\n\n<p>This bottle warmer cover serves multiple feeding scenarios. At home, it keeps bottles warm during nighttime feeds, reducing wait times when your baby is hungry. For travel, it maintains milk temperature in cars, airports, or outdoor settings where warming facilities aren't available. The cover also works well for daycare drop-offs, ensuring bottles stay warm until feeding time.</p>\n\n<h3>Care and Maintenance</h3>\n\n<p>The PebbleTots cover is designed for easy cleaning. The materials resist staining and odor absorption, and the simple construction allows for quick hand washing or gentle machine cycles. The durable fabric maintains its insulating properties through repeated washing, providing long-term value for busy families.</p>\n\n<p>Ensure your baby enjoys warm, safe milk anytime with the <strong>PebbleTots Baby Bottle Insulation Cover</strong>.</p>\n\n<p><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a76d37c4-9c4e-4c27-95ad-3c7c3c4602b5.jpg?v=1756714292\" alt=\"PebbleTots Baby Bottle Insulation Cover\"></p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5e62b12f-3f5b-4107-bc60-15c2f7c841d2.jpg?v=1756714293\" alt=\"PebbleTots Baby Bottle Insulation Cover\"></p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/41cfbb45-d97d-490e-8b08-9d42c690a018.jpg?v=1756714295\" alt=\"PebbleTots Baby Bottle Insulation Cover\"></p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/00c99e69-57fb-496f-bbdb-91df0aa376b1.jpg?v=1756714296\" alt=\"PebbleTots Baby Bottle Insulation Cover\"></p>",
+      "vendor": "Nestacular",
+      "product_type": "Insulation Cover",
+      "created_at": "2025-09-01T09:11:26+01:00",
+      "handle": "pebbletots-baby-bottle-insulation-cover",
+      "updated_at": "2025-11-21T11:48:09+00:00",
+      "published_at": "2025-09-01T09:11:34+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "baby-bottle-warmer, baby-feeding-accessories, bottle-heat-retention-cover, bottle-insulation-sleeve, compact-bottle-warmer, Constant Temperature Milk Warmer, food-safe-bottle-cover, Insulation Cover for Bottles, life-event-babysitters-emergency-feeding-kit, life-event-daycare-ready-feeding-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-moving-day-baby-feeding-setup, life-event-returning-to-work-mom-feeding-prep, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, nighttime-feeding-accessory, non-electric-bottle-warmer, pebble-tots-baby-products, PebbleTots, Pigeon Bottle Accessory, pigeon-bottle-warmer, Portable Baby Bottle Heater, portable-milk-warmer, reusable-bottle-warmer, thermal-bottle-cover, travel-bottle-warmer",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9791235293526",
+      "variants": [
+        {
+          "id": 51195358118230,
+          "product_id": 9791235293526,
+          "title": "Green / Usb",
+          "price": "43.93",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "0.00",
+          "option1": "Green",
+          "option2": "Usb",
+          "option3": null,
+          "created_at": "2025-09-01T09:11:32+01:00",
+          "updated_at": "2025-11-03T16:26:08+00:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 330,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE125606301AZ",
+          "weight": 330.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53400072716630,
+          "inventory_quantity": 28698,
+          "old_inventory_quantity": 28698,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51195358118230",
+          "image_id": 66238945689942
+        },
+        {
+          "id": 51195358150998,
+          "product_id": 9791235293526,
+          "title": "Yellow / Usb",
+          "price": "43.62",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "0.00",
+          "option1": "Yellow",
+          "option2": "Usb",
+          "option3": null,
+          "created_at": "2025-09-01T09:11:32+01:00",
+          "updated_at": "2025-11-03T16:26:08+00:00",
+          "taxable": false,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 330,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJYE125606302BY",
+          "weight": 330.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53400072749398,
+          "inventory_quantity": 29529,
+          "old_inventory_quantity": 29529,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51195358150998",
+          "image_id": 66238945722710
+        }
+      ],
+      "options": [
+        {
+          "id": 12640417710422,
+          "product_id": 9791235293526,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Green",
+            "Yellow"
+          ]
+        },
+        {
+          "id": 12640417743190,
+          "product_id": 9791235293526,
+          "name": "style",
+          "position": 2,
+          "values": [
+            "Usb"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 66238945001814,
+          "alt": "PebbleTots Baby Bottle Insulation Cover",
+          "position": 1,
+          "product_id": 9791235293526,
+          "created_at": "2025-09-01T09:11:27+01:00",
+          "updated_at": "2025-09-01T09:28:13+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54484995801430",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8353602e-9167-40b3-9535-1edb1e7caeaa.jpg?v=1756714290",
+          "variant_ids": []
+        },
+        {
+          "id": 66238945231190,
+          "alt": "PebbleTots Baby Bottle Insulation Cover",
+          "position": 2,
+          "product_id": 9791235293526,
+          "created_at": "2025-09-01T09:11:29+01:00",
+          "updated_at": "2025-09-01T09:28:17+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54484996161878",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a76d37c4-9c4e-4c27-95ad-3c7c3c4602b5.jpg?v=1756714292",
+          "variant_ids": []
+        },
+        {
+          "id": 66238945395030,
+          "alt": "PebbleTots Baby Bottle Insulation Cover",
+          "position": 3,
+          "product_id": 9791235293526,
+          "created_at": "2025-09-01T09:11:31+01:00",
+          "updated_at": "2025-09-01T09:28:21+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54484996424022",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/5e62b12f-3f5b-4107-bc60-15c2f7c841d2.jpg?v=1756714293",
+          "variant_ids": []
+        },
+        {
+          "id": 66238945427798,
+          "alt": "PebbleTots Baby Bottle Insulation Cover",
+          "position": 4,
+          "product_id": 9791235293526,
+          "created_at": "2025-09-01T09:11:32+01:00",
+          "updated_at": "2025-09-01T09:28:25+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54484996456790",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/41cfbb45-d97d-490e-8b08-9d42c690a018.jpg?v=1756714295",
+          "variant_ids": []
+        },
+        {
+          "id": 66238945689942,
+          "alt": "PebbleTots Baby Bottle Insulation Cover",
+          "position": 5,
+          "product_id": 9791235293526,
+          "created_at": "2025-09-01T09:11:32+01:00",
+          "updated_at": "2025-09-01T09:28:30+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54484996587862",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/b660c946-02ab-4e0c-98ea-187a1f9e6b09.jpg?v=1756714295",
+          "variant_ids": [
+            51195358118230
+          ]
+        },
+        {
+          "id": 66238945722710,
+          "alt": "PebbleTots Baby Bottle Insulation Cover",
+          "position": 6,
+          "product_id": 9791235293526,
+          "created_at": "2025-09-01T09:11:32+01:00",
+          "updated_at": "2025-09-01T09:28:35+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/54484996620630",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/00c99e69-57fb-496f-bbdb-91df0aa376b1.jpg?v=1756714296",
+          "variant_ids": [
+            51195358150998
+          ]
+        }
+      ],
+      "image": {
+        "id": 66238945001814,
+        "alt": "PebbleTots Baby Bottle Insulation Cover",
+        "position": 1,
+        "product_id": 9791235293526,
+        "created_at": "2025-09-01T09:11:27+01:00",
+        "updated_at": "2025-09-01T09:28:13+01:00",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/54484995801430",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8353602e-9167-40b3-9535-1edb1e7caeaa.jpg?v=1756714290",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9846641688918,
       "title": "BabyTrove Waterproof Baby Feeding Gown - Lightweight Mess-Free Bib",
       "body_html": "<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/7805493032663_66c0c38e-fc44-44b9-803e-1cee7c8c30a6.jpg?v=1758890079\" alt=\"BabyTrove Baby Infant Eating Gown – Waterproof, Lightweight &amp; Comfortable Design | Essential Feeding &amp; Protective Clothing for Mess-Free Mealtime\" style=\"float: none;\"></div>\n\n<h2>Waterproof Baby Feeding Gown for Complete Mealtime Protection</h2>\n<p>The BabyTrove Baby Infant Eating Gown combines lightweight comfort with waterproof protection for stress-free feeding times. This full-coverage feeding gown keeps your baby clean and dry during every meal while eliminating post-mealtime cleanup hassles.</p>\n\n<h3>Smart Design Features</h3>\n<ul>\n<li>Waterproof fabric prevents spills, dribbles, and food stains from soaking through</li>\n<li>Lightweight &amp; breathable design keeps babies comfortable during feeding time</li>\n<li>Full-coverage gown style protects clothing better than standard bibs</li>\n<li>Adjustable fit grows with your baby for longer use</li>\n<li>Easy-to-clean material wipes down or rinses off effortlessly after each meal</li>\n<li>Portable &amp; travel-friendly design folds easily for diaper bags or on-the-go feeding</li>\n</ul>\n\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1484765944064.jpg?v=1758890079\" alt=\"BabyTrove Baby Infant Eating Gown – Waterproof, Lightweight &amp; Comfortable Design | Essential Feeding &amp; Protective Clothing for Mess-Free Mealtime\" style=\"float: none;\"></div>\n\n<h3>Setup and Usage</h3>\n<ol>\n<li>Place gown over your baby's outfit and fasten securely at the back.</li>\n<li>Adjust for comfort and ensure coverage across chest, arms, and lap.</li>\n<li>After feeding, wipe or rinse gown clean and hang to dry.</li>\n<li>Fold and store compactly for the next mealtime.</li>\n</ol>\n\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2812809721363.jpg?v=1758890079\" alt=\"BabyTrove Baby Infant Eating Gown – Waterproof, Lightweight &amp; Comfortable Design | Essential Feeding &amp; Protective Clothing for Mess-Free Mealtime\" style=\"float: none;\"></div>\n\n<h3>Product Specifications</h3>\n<ul>\n<li>Material: Waterproof, lightweight, and baby-safe fabric</li>\n<li>Style: Gown-style feeding protection with adjustable closure</li>\n<li>Dimensions: One-size design for infants and toddlers</li>\n<li>Colors: Multiple soft and playful shades available</li>\n<li>Suitable for: Babies and toddlers during mealtime or messy play</li>\n<li>Package: 1 complete baby eating gown</li>\n</ul>\n\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/2384883222687.jpg?v=1758890079\" alt=\"BabyTrove Baby Infant Eating Gown – Waterproof, Lightweight &amp; Comfortable Design | Essential Feeding &amp; Protective Clothing for Mess-Free Mealtime\" style=\"float: none;\"></div>\n\n<h3>Why Choose This Eating Gown</h3>\n<p> </p>\n<ul>\n<li> Provides better protection than traditional bibs with full clothing coverage</li>\n<li>Waterproof yet breathable fabric keeps babies dry and comfy</li>\n<li>Lightweight design ideal for both home and travel</li>\n<li>Easy-clean material saves time and effort for busy parents</li>\n<li>A stylish and practical solution that makes feeding stress-free and mess-free</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You've found a hidden discount code! Use code \"TTD\" at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
@@ -467,11 +659,11 @@
       "product_type": "0",
       "created_at": "2025-09-26T13:34:30+01:00",
       "handle": "babytrove-baby-infant-eating-gown-waterproof-lightweight-comfortable-design-essential-feeding-protective-clothing-for-mess-free-mealtime",
-      "updated_at": "2025-11-17T13:00:01+00:00",
+      "updated_at": "2025-11-21T12:27:25+00:00",
       "published_at": "2025-09-26T13:34:41+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "Adjustable baby bib, adjustable-baby-gown, Baby Bib, Baby bibs, baby essentials, baby feeding accessories, baby-eating-gown, baby-safe-fabric, BabyTrove, back-fastening-bib, breathable-baby-wear, CJ, easy cleanup, feeding gown, feeding protection, full-coverage-bib, gown-style-bib, infant mealtime, infant-protective-wear, life-event-adoption-finalization-celebration-feeding-bundle, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-holiday-baking-with-kids-mess-free-feeding-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-nanny-caregiver-training-feeding-setup, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-parent-teacher-conference-week-lunch-prep-kit, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-vacation-rental-baby-proofing-feeding-essentials, life-event-winter-baby-registry-must-haves, lightweight-feeding-protection, mealtime gear, mess-free feeding, one-size-baby-bib, portable-feeding-gear, quick-dry-baby-bib, spill-proof-clothing, toddler bib, travel-baby-bib, Waterproof baby bib, waterproof feeding bib",
+      "tags": "Adjustable baby bib, adjustable-baby-gown, Baby Bib, Baby bibs, baby essentials, baby feeding accessories, baby-eating-gown, baby-safe-fabric, BabyTrove, back-fastening-bib, breathable-baby-wear, CJ, easy cleanup, feeding gown, feeding protection, full-coverage-bib, gown-style-bib, infant mealtime, infant-protective-wear, life-event-adoption-finalization-celebration-feeding-bundle, life-event-allergy-friendly-feeding-transition-essentials, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-holiday-baking-with-kids-mess-free-feeding-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-nanny-caregiver-training-feeding-setup, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-parent-teacher-conference-week-lunch-prep-kit, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-vacation-rental-baby-proofing-feeding-essentials, life-event-winter-baby-registry-must-haves, lightweight-feeding-protection, mealtime gear, mess-free feeding, one-size-baby-bib, portable-feeding-gear, quick-dry-baby-bib, spill-proof-clothing, toddler bib, travel-baby-bib, Waterproof baby bib, waterproof feeding bib",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9846641688918",
       "variants": [
@@ -1164,11 +1356,11 @@
       "product_type": "0",
       "created_at": "2025-09-25T13:02:08+01:00",
       "handle": "bebeybaby-eating-silicone-waterproof-bib-soft-durable-easy-to-clean-design-essential-mess-free-feeding-accessory-for-toddlers",
-      "updated_at": "2025-11-17T13:01:01+00:00",
+      "updated_at": "2025-11-21T12:28:17+00:00",
       "published_at": "2025-09-25T13:16:19+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "adjustable, baby-bib, baby-essentials, baby-safety, bebey, bebey-baby-bib, bpa-free, CJ, easy-clean, feeding-accessories, flexible-bib, food-catcher, food-grade-silicone, infant-bib, life-event-adoption-finalization-celebration-feeding-bundle, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-holiday-hosting-toddler-prep-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-nanny-caregiver-training-feeding-setup, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-older-sibling-big-kid-transition-feeding-set, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-teething-self-feeding-milestone-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-vacation-rental-baby-proofing-feeding-essentials, life-event-winter-baby-registry-must-haves, mealtime, mess-free, non-toxic, pocket-bib, portable-feeding, quick-dry, silicone-bib, spill-catcher, stain-resistant, tear-resistant, toddler-feeding, travel-bib, waterproof, wipeable-bib",
+      "tags": "adjustable, baby-bib, baby-essentials, baby-safety, bebey, bebey-baby-bib, bpa-free, CJ, easy-clean, feeding-accessories, flexible-bib, food-catcher, food-grade-silicone, infant-bib, life-event-adoption-finalization-celebration-feeding-bundle, life-event-allergy-friendly-feeding-transition-essentials, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-holiday-hosting-toddler-prep-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-nanny-caregiver-training-feeding-setup, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-older-sibling-big-kid-transition-feeding-set, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-teething-self-feeding-milestone-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-vacation-rental-baby-proofing-feeding-essentials, life-event-winter-baby-registry-must-haves, mealtime, mess-free, non-toxic, pocket-bib, portable-feeding, quick-dry, silicone-bib, spill-catcher, stain-resistant, tear-resistant, toddler-feeding, travel-bib, waterproof, wipeable-bib",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9844355891542",
       "variants": [
@@ -1975,11 +2167,11 @@
       "product_type": "Baby Sippy Cup",
       "created_at": "2025-09-01T06:18:21+01:00",
       "handle": "babycare-240ml-sippy-cup",
-      "updated_at": "2025-11-17T13:01:58+00:00",
+      "updated_at": "2025-11-21T12:29:09+00:00",
       "published_at": "2025-09-01T06:18:49+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "240ml-capacity-cup, Anti-Choke Straw Cup, Baby Sippy Cup, Babycare 240ml Cup, bpa-free-sippy-cup, controlled-flow-straw, cute-baby-cup, daycare-water-bottle, durable-sippy-cup, food-grade-baby-bottle, independent-drinking-cup, Leakproof Baby Cup, life-event-adoption-finalization-celebration-feeding-bundle, life-event-baby-shower-host-feeding-essentials, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-childcare-provider-appreciation-gift-set, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-new-sibling-preparation-feeding-kit, life-event-older-sibling-big-kid-transition-feeding-set, life-event-overnight-guest-baby-feeding-essentials, life-event-parent-teacher-conference-week-lunch-prep-kit, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, life-event-winter-baby-registry-must-haves, mouth-safe-straw-cup, non-toxic-baby-cup, safe-drinking-bottle, spill-proof-toddler-cup, straw-sippy-cup, Toddler Water Bottle, toddler-hydration-cup, travel-sippy-cup",
+      "tags": "240ml-capacity-cup, Anti-Choke Straw Cup, Baby Sippy Cup, Babycare 240ml Cup, bpa-free-sippy-cup, controlled-flow-straw, cute-baby-cup, daycare-water-bottle, durable-sippy-cup, food-grade-baby-bottle, independent-drinking-cup, Leakproof Baby Cup, life-event-adoption-finalization-celebration-feeding-bundle, life-event-allergy-friendly-feeding-transition-essentials, life-event-baby-shower-host-feeding-essentials, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-childcare-provider-appreciation-gift-set, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-foster-care-placement-baby-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-new-sibling-preparation-feeding-kit, life-event-older-sibling-big-kid-transition-feeding-set, life-event-overnight-guest-baby-feeding-essentials, life-event-parent-teacher-conference-week-lunch-prep-kit, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-travel-ready-baby-feeding-kit, life-event-weekend-camping-baby-feeding-gear, life-event-winter-baby-registry-must-haves, mouth-safe-straw-cup, non-toxic-baby-cup, safe-drinking-bottle, spill-proof-toddler-cup, straw-sippy-cup, Toddler Water Bottle, toddler-hydration-cup, travel-sippy-cup",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791075483990",
       "variants": [
@@ -3013,11 +3205,11 @@
       "product_type": "0",
       "created_at": "2025-10-07T12:25:39+01:00",
       "handle": "samabib-summer-baby-eating-bib-lightweight-waterproof-feeding-bib",
-      "updated_at": "2025-11-17T13:05:12+00:00",
+      "updated_at": "2025-11-21T12:33:08+00:00",
       "published_at": "2025-10-07T12:33:37+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "adjustable-baby-bib, baby accessories, baby bib, baby care, baby-feeding-accessories, breathable-bib, CJ, easy clean, FaSola, fasola-baby-products, feeding bib, infant feeding, life-event-adoption-finalization-celebration-feeding-bundle, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-holiday-baking-with-kids-mess-free-feeding-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-nanny-caregiver-training-feeding-setup, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-vacation-rental-baby-proofing-feeding-essentials, lightweight bib, mealtime essentials, mess-free feeding, no-mess-bib, peva-bib, quick dry, reusable-bib, skin-friendly-bib, soft-baby-bib, stain-resistant-bib, summer baby, summer-feeding, toddler-bib, travel-baby-bib, waterproof bib, wipeable-bib",
+      "tags": "adjustable-baby-bib, baby accessories, baby bib, baby care, baby-feeding-accessories, breathable-bib, CJ, easy clean, FaSola, fasola-baby-products, feeding bib, infant feeding, life-event-adoption-finalization-celebration-feeding-bundle, life-event-allergy-friendly-feeding-transition-essentials, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-holiday-baking-with-kids-mess-free-feeding-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-nanny-caregiver-training-feeding-setup, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-vacation-rental-baby-proofing-feeding-essentials, lightweight bib, mealtime essentials, mess-free feeding, no-mess-bib, peva-bib, quick dry, reusable-bib, skin-friendly-bib, soft-baby-bib, stain-resistant-bib, summer baby, summer-feeding, toddler-bib, travel-baby-bib, waterproof bib, wipeable-bib",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9870560919894",
       "variants": [
@@ -3248,11 +3440,11 @@
       "product_type": "Baby Sippy Cup",
       "created_at": "2025-09-01T15:40:35+01:00",
       "handle": "greensprout-280ml-baby-sippy-cup",
-      "updated_at": "2025-11-17T13:06:38+00:00",
+      "updated_at": "2025-11-21T12:34:23+00:00",
       "published_at": "2025-09-01T15:40:52+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "280ml-sippy-cup, Baby Sippy Cup, BPA-Free Kids Cup, daycare-drinking-cup, easy-grip-sippy-cup, ergonomic-handle-cup, first-sippy-cup, food-grade-baby-bottle, GreenSprout, GreenSprout-sippy-cup, leak-proof-toddler-cup, life-event-adoption-finalization-celebration-feeding-bundle, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-new-sibling-preparation-feeding-kit, life-event-older-sibling-big-kid-transition-feeding-set, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-toddler-independence-milestone-kit, life-event-transitioning-to-solid-foods-starter-bundle, life-event-vacation-rental-baby-proofing-feeding-essentials, life-event-weekend-camping-baby-feeding-gear, mess-free-baby-cup, portable-baby-cup, self-feeding-training-cup, Spill-Proof Baby Cup, Straw Training Bottle, straw-sippy-cup, Toddler Drinking Cup, toddler-straw-cup, transition-training-cup",
+      "tags": "280ml-sippy-cup, Baby Sippy Cup, BPA-Free Kids Cup, daycare-drinking-cup, easy-grip-sippy-cup, ergonomic-handle-cup, first-sippy-cup, food-grade-baby-bottle, GreenSprout, GreenSprout-sippy-cup, leak-proof-toddler-cup, life-event-adoption-finalization-celebration-feeding-bundle, life-event-allergy-friendly-feeding-transition-essentials, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-first-thanksgiving-meal-baby-feeding-setup, life-event-flu-season-immune-support-feeding-essentials, life-event-foster-care-placement-baby-essentials, life-event-grandparents-helper-feeding-station, life-event-grandparents-visit-extended-stay-setup, life-event-holiday-hosting-toddler-prep-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-maternity-leave-feeding-station, life-event-moving-day-baby-feeding-setup, life-event-nanny-caregiver-training-feeding-setup, life-event-new-baby-first-foods-starter-kit, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-new-sibling-preparation-feeding-kit, life-event-older-sibling-big-kid-transition-feeding-set, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-returning-to-work-mom-feeding-prep, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-toddler-independence-milestone-kit, life-event-transitioning-to-solid-foods-starter-bundle, life-event-vacation-rental-baby-proofing-feeding-essentials, life-event-weekend-camping-baby-feeding-gear, mess-free-baby-cup, portable-baby-cup, self-feeding-training-cup, Spill-Proof Baby Cup, Straw Training Bottle, straw-sippy-cup, Toddler Drinking Cup, toddler-straw-cup, transition-training-cup",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9791672811862",
       "variants": [
@@ -3550,11 +3742,11 @@
       "product_type": "0",
       "created_at": "2025-10-07T13:30:09+01:00",
       "handle": "litolbaby-silicone-baby-eating-bib-three-dimensional-waterproof-feeding-bib",
-      "updated_at": "2025-11-17T13:09:38+00:00",
+      "updated_at": "2025-11-21T12:37:08+00:00",
       "published_at": "2025-10-07T13:35:53+01:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "3d-pocket-bib, adjustable-baby-bib, baby bib, baby feeding, baby shower gift, baby-led-weaning, BPA free, CJ, crumb-catcher-bib, dishwasher-safe-bib, easy clean, feeding time, flexible bib, food catcher bib, food-grade-silicone, infant-feeding-bib, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-holiday-baking-with-kids-mess-free-feeding-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-nanny-caregiver-training-feeding-setup, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-teething-self-feeding-milestone-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-vacation-rental-baby-proofing-feeding-essentials, Marcus&Marcus, mealtime essentials, mess-free feeding, neck-adjustable-bib, non-toxic-baby-bib, roll-up-bib, self-feeding-bib, silicone bib, soft-silicone-bib, stain-resistant-bib, toddler bib, travel-baby-bib, waterproof bib, wipeable-bib",
+      "tags": "3d-pocket-bib, adjustable-baby-bib, baby bib, baby feeding, baby shower gift, baby-led-weaning, BPA free, CJ, crumb-catcher-bib, dishwasher-safe-bib, easy clean, feeding time, flexible bib, food catcher bib, food-grade-silicone, infant-feeding-bib, life-event-allergy-friendly-feeding-transition-essentials, life-event-black-friday-nursery-stock-up-feeding-essentials, life-event-cousins-baby-shower-gift-bundle, life-event-dual-household-co-parenting-feeding-essentials, life-event-fall-sports-season-sideline-baby-feeding-kit, life-event-holiday-baking-with-kids-mess-free-feeding-station, life-event-international-adoption-arrival-feeding-starter-kit, life-event-nanny-caregiver-training-feeding-setup, life-event-new-grandparent-welcome-baby-gift-collection, life-event-new-nanny-start-date-feeding-handoff-kit, life-event-overnight-guest-baby-feeding-essentials, life-event-preschool-pre-k-feeding-independence-kit, life-event-pumpkin-patch-apple-picking-portable-baby-gear, life-event-restaurant-dining-out-baby-portable-kit, life-event-teething-self-feeding-milestone-kit, life-event-thanksgiving-grandparents-house-baby-essentials, life-event-transitioning-to-solid-foods-starter-bundle, life-event-vacation-rental-baby-proofing-feeding-essentials, Marcus&Marcus, mealtime essentials, mess-free feeding, neck-adjustable-bib, non-toxic-baby-bib, roll-up-bib, self-feeding-bib, silicone bib, soft-silicone-bib, stain-resistant-bib, toddler bib, travel-baby-bib, waterproof bib, wipeable-bib",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/9870793081174",
       "variants": [
@@ -11242,8 +11434,8 @@
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 25,
-    "products_in_page": 25,
+    "total_products": 26,
+    "products_in_page": 26,
     "has_next_page": false,
     "has_previous_page": false
   }

@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-11-21T11:41:01.637345Z
+Generated: 2025-11-21T12:45:17.225797Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,8 +16,9 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (105 collections) ===
+=== COLLECTION PRODUCT FILES (107 collections) ===
 
+• allergy-friendly-feeding-transition-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/allergy-friendly-feeding-transition-essentials_products.json
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
 • autumn-playdate-party-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/autumn-playdate-party-essentials_products.json
 • baby-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-bottles_products.json
@@ -105,6 +106,7 @@ BLOGS (1 pages):
 • silicone-baby-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/silicone-baby-bottles_products.json
 • silicone-freezer-trays: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/silicone-freezer-trays_products.json
 • silicone-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/silicone-tableware_products.json
+• small-space-living-baby-feeding-solutions: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/small-space-living-baby-feeding-solutions_products.json
 • snack-pots: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/snack-pots_products.json
 • space-saving-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/space-saving-chair_products.json
 • stainless-steel-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/stainless-steel-bottles_products.json
