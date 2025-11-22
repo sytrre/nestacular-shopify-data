@@ -58445,8 +58445,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791027839318",
       "variants": [
         {
-          "product_id": 9791027839318,
           "id": 51194201014614,
+          "product_id": 9791027839318,
           "title": "Blue",
           "price": "65.95",
           "position": 1,
@@ -58473,8 +58473,8 @@
           "image_id": 66235512291670
         },
         {
-          "product_id": 9791027839318,
           "id": 51194201047382,
+          "product_id": 9791027839318,
           "title": "Blue comfort",
           "price": "77.95",
           "position": 2,
@@ -58501,8 +58501,8 @@
           "image_id": 66235512324438
         },
         {
-          "product_id": 9791027839318,
           "id": 51194201080150,
+          "product_id": 9791027839318,
           "title": "Green",
           "price": "65.95",
           "position": 3,
@@ -58529,8 +58529,8 @@
           "image_id": 66235512357206
         },
         {
-          "product_id": 9791027839318,
           "id": 51194201112918,
+          "product_id": 9791027839318,
           "title": "Green comfort money",
           "price": "77.95",
           "position": 4,
@@ -58557,8 +58557,8 @@
           "image_id": 66235512389974
         },
         {
-          "product_id": 9791027839318,
           "id": 51194201145686,
+          "product_id": 9791027839318,
           "title": "Grey",
           "price": "65.95",
           "position": 5,
@@ -58585,8 +58585,8 @@
           "image_id": 66235512422742
         },
         {
-          "product_id": 9791027839318,
           "id": 51194201178454,
+          "product_id": 9791027839318,
           "title": "Grey comfort",
           "price": "77.95",
           "position": 6,
@@ -58613,8 +58613,8 @@
           "image_id": 66235512455510
         },
         {
-          "product_id": 9791027839318,
           "id": 51194201211222,
+          "product_id": 9791027839318,
           "title": "Pink",
           "price": "65.95",
           "position": 7,
@@ -58641,8 +58641,8 @@
           "image_id": 66235512488278
         },
         {
-          "product_id": 9791027839318,
           "id": 51194201243990,
+          "product_id": 9791027839318,
           "title": "Pink comfort",
           "price": "77.95",
           "position": 8,
@@ -58671,8 +58671,8 @@
       ],
       "options": [
         {
-          "product_id": 9791027839318,
           "id": 12640173359446,
+          "product_id": 9791027839318,
           "name": "Color",
           "position": 1,
           "values": [
