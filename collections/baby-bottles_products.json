@@ -17126,7 +17126,7 @@
       "product_type": "Baby Bottle Brush Set",
       "created_at": "2025-09-01T09:32:31+01:00",
       "handle": "totora-silicone-baby-bottle-brush-set",
-      "updated_at": "2025-11-21T11:50:07+00:00",
+      "updated_at": "2025-11-22T13:34:20+00:00",
       "published_at": "2025-09-01T09:32:52+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -17135,8 +17135,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791245877590",
       "variants": [
         {
-          "product_id": 9791245877590,
           "id": 51195418509654,
+          "product_id": 9791245877590,
           "title": "Pink",
           "price": "36.18",
           "position": 1,
@@ -17163,8 +17163,8 @@
           "image_id": 66239095996758
         },
         {
-          "product_id": 9791245877590,
           "id": 51195418542422,
+          "product_id": 9791245877590,
           "title": "Blue",
           "price": "36.18",
           "position": 2,
@@ -17191,8 +17191,8 @@
           "image_id": 66239096029526
         },
         {
-          "product_id": 9791245877590,
           "id": 51195418575190,
+          "product_id": 9791245877590,
           "title": "Yellow",
           "price": "36.18",
           "position": 3,
@@ -17221,8 +17221,8 @@
       ],
       "options": [
         {
-          "product_id": 9791245877590,
           "id": 12640430686550,
+          "product_id": 9791245877590,
           "name": "Color",
           "position": 1,
           "values": [
