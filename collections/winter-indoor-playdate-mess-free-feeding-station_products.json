@@ -24898,8 +24898,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825914552662",
       "variants": [
         {
-          "id": 51339723276630,
           "product_id": 9825914552662,
+          "id": 51339723276630,
           "title": "Natural",
           "price": "99.95",
           "position": 1,
@@ -24928,8 +24928,8 @@
       ],
       "options": [
         {
-          "id": 12681741336918,
           "product_id": 9825914552662,
+          "id": 12681741336918,
           "name": "Color",
           "position": 1,
           "values": [
