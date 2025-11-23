@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-23T11:40:32.657565Z",
+  "generated": "2025-11-23T12:40:47.097593Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -85,6 +85,7 @@
       "older-sibling-big-kid-transition-feeding-set": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/older-sibling-big-kid-transition-feeding-set_products.json",
       "on-the-go-feeding": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/on-the-go-feeding_products.json",
       "parent-teacher-conference-week-lunch-prep-kit": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/parent-teacher-conference-week-lunch-prep-kit_products.json",
+      "picky-eater-mealtime-solutions-sensory-feeding-tools": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/picky-eater-mealtime-solutions-sensory-feeding-tools_products.json",
       "placemats": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/placemats_products.json",
       "plates-and-bowls": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/plates-and-bowls_products.json",
       "portable-baby-feeder": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/portable-baby-feeder_products.json",
@@ -96,6 +97,7 @@
       "restaurant-dining-out-baby-portable-kit": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-dining-out-baby-portable-kit_products.json",
       "returning-to-work-mom-feeding-prep": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/returning-to-work-mom-feeding-prep_products.json",
       "reusable-food-pouches": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/reusable-food-pouches_products.json",
+      "second-baby-feeding-refresh-upgrade-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/second-baby-feeding-refresh-upgrade-essentials_products.json",
       "self-feeding-trainer": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/self-feeding-trainer_products.json",
       "shop-by-age-tableware": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/shop-by-age-tableware_products.json",
       "shop-by-material-tableware": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/shop-by-material-tableware_products.json",

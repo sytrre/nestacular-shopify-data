@@ -3608,6 +3608,46 @@
       "admin_graphql_api_id": "gid://shopify/Collection/662861840726"
     },
     {
+      "id": 667180630358,
+      "handle": "picky-eater-mealtime-solutions-sensory-feeding-tools",
+      "title": "Picky Eater Mealtime Solutions & Sensory Feeding Tools",
+      "updated_at": "2025-11-23T12:28:20+00:00",
+      "body_html": "Transform challenging mealtimes with specialized feeding tools designed for selective eaters. Fun designs and sensory-friendly utensils make food exploration easier.",
+      "published_at": "2025-11-23T12:28:19+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Feeding Training Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bib"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "High Chairs"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Suction Bowl Set"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/667180630358"
+    },
+    {
       "id": 657381097814,
       "handle": "placemats",
       "title": "Placemats",
@@ -4104,6 +4144,46 @@
         "height": 2048,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A1_934fcc1c-0318-4e35-8fbd-fdde6a08c38c.png?v=1756888328"
       }
+    },
+    {
+      "id": 667180663126,
+      "handle": "second-baby-feeding-refresh-upgrade-essentials",
+      "title": "Second Baby Feeding Refresh & Upgrade Essentials",
+      "updated_at": "2025-11-23T12:28:28+00:00",
+      "body_html": "Upgrade worn feeding gear for your second baby with modern, improved designs. Replace outdated bottles, bibs, and chairs with current safety standards and conveniences.",
+      "published_at": "2025-11-23T12:28:28+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bottle Warmer"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "High Chairs"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bib"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Gift Box Set"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/667180663126"
     },
     {
       "id": 666050199894,
@@ -5242,8 +5322,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 109,
-    "items_in_page": 109,
+    "total_items": 111,
+    "items_in_page": 111,
     "has_next_page": false,
     "has_previous_page": false
   }
