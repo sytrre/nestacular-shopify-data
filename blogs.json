@@ -4,7 +4,7 @@
       "id": 116861632854,
       "handle": "journal",
       "title": "Nestacular Babies",
-      "updated_at": "2025-11-23T13:05:14+00:00",
+      "updated_at": "2025-11-24T10:18:37+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -21,12 +21,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-22T13:45:37+00:00",
-          "summary_html": "A comprehensive guide covering Gender-neutral baby shower gifts modern parents love: a curated, design-first guide",
-          "template_suffix": null,
+          "updated_at": "2025-11-24T10:18:37+00:00",
+          "summary_html": "<p>Discover the art of gifting for modern parents with our curated guide to gender-neutral baby shower presents. Moving beyond traditional stereotypes, we highlight design-first essentials that are practical, sustainable, and inclusive. Explore feeding sets crafted from quality materials like food-grade silicone and wheat straw, all styled across Scandinavian minimalist, earthy/organic, modern monochrome, and Japanese-inspired aesthetics.</p>",
+          "template_suffix": "article",
           "handle": "gender-neutral-baby-shower-gifts-modern-parents-love-a-curated-design-first-guide",
           "tags": "Guide, Thoughtful Baby Gift Giving, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/611110781270"
+          "admin_graphql_api_id": "gid://shopify/Article/611110781270",
+          "image": {
+            "created_at": "2025-11-24T10:18:35+00:00",
+            "alt": "Happy baby eating with gender-neutral feeding essentials.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_d2cc3781-5390-4d3d-a578-cfc7e70f5ad7.png?v=1763979517"
+          }
         },
         {
           "id": 611110748502,
@@ -36,12 +43,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-22T13:45:31+00:00",
-          "summary_html": "A comprehensive guide covering Thoughtful Gender‑Neutral Baby Shower Gifts 2025: A Craftsmanship‑First Buying Guide",
-          "template_suffix": null,
+          "updated_at": "2025-11-24T10:09:50+00:00",
+          "summary_html": "<p>Discover the ultimate guide to thoughtful gender-neutral baby shower gifts in 2025. Prioritizing craftsmanship and sustainability, we've curated a selection of timeless essentials—from eco-conscious feeding sets to versatile nursery staples—that cater to modern parents' preferences for quality and longevity.</p>",
+          "template_suffix": "article",
           "handle": "thoughtful-gender-neutral-baby-shower-gifts-2025-a-craftsmanship-first-buying-guide",
           "tags": "Gift Guides & Baby Registry Essentials, Guide, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/611110748502"
+          "admin_graphql_api_id": "gid://shopify/Article/611110748502",
+          "image": {
+            "created_at": "2025-11-24T10:09:49+00:00",
+            "alt": "Happy baby eating from a gender-neutral feeding set.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_62ac156e-b58b-4dda-b8b5-fe43bbaf3edf.png?v=1763978990"
+          }
         },
         {
           "id": 611103474006,
@@ -51,12 +65,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-21T13:00:09+00:00",
-          "summary_html": "A comprehensive guide covering Practical Baby Shower Gifts New Parents Say They Need Most",
-          "template_suffix": null,
+          "updated_at": "2025-11-24T10:04:14+00:00",
+          "summary_html": "<p>Choosing practical baby shower gifts can make a real difference for new parents. This guide highlights essential, easy-to-clean, and safe items like silicone feeding gear, catch-all bibs, and time-saving cleaning tools that parents truly need and use daily, organized by common pain points.</p>",
+          "template_suffix": "article",
           "handle": "practical-baby-shower-gifts-new-parents-say-they-need-most",
           "tags": "Baby Shower & First Birthday Gift Guides, Guide, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/611103474006"
+          "admin_graphql_api_id": "gid://shopify/Article/611103474006",
+          "image": {
+            "created_at": "2025-11-24T10:04:12+00:00",
+            "alt": "baby shower gifts including a green silicone bib, a divided silicone plate and bowl set, a baby bottle, a bottle brush and teat cleaner, a digital thermometer, and several white burp cloth",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_ede26415-6aa5-4e29-8c45-4d1f538876d4.png?v=1763978654"
+          }
         },
         {
           "id": 611056419158,
@@ -66,12 +87,19 @@
           "author": "Content Team",
           "user_id": null,
           "published_at": null,
-          "updated_at": "2025-11-17T13:03:47+00:00",
-          "summary_html": "A comprehensive guide covering Minimalist baby gift ideas for parents who hate clutter",
-          "template_suffix": null,
+          "updated_at": "2025-11-24T09:52:49+00:00",
+          "summary_html": "<p>Shopping for minimalist-minded parents who hate clutter? The best baby gifts are compact, multi-functional, and grow with the child, offering timeless design and quality materials that truly last. Discover top picks like convertible seating and non-toxic tableware that simplify routines and keep homes calm, avoiding the dreaded \"visual noise\" of single-use gadgets and bulky toys.</p>",
+          "template_suffix": "article",
           "handle": "minimalist-baby-gift-ideas-for-parents-who-hate-clutter",
           "tags": "Guide, Thoughtful Baby Gift Giving, Tips",
-          "admin_graphql_api_id": "gid://shopify/Article/611056419158"
+          "admin_graphql_api_id": "gid://shopify/Article/611056419158",
+          "image": {
+            "created_at": "2025-11-24T09:52:47+00:00",
+            "alt": "A happy baby in a wooden convertible high chair that transitions to a table and chair set, using a sage green silicone plate, bowl, cup, and spoon",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/articles/A_466e21b1-cae5-469a-9ead-c1e1f098b08b.png?v=1763977969"
+          }
         },
         {
           "id": 611051241814,
