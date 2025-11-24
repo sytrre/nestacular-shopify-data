@@ -4899,6 +4899,26 @@
       "admin_graphql_api_id": "gid://shopify/Collection/664807473494"
     },
     {
+      "id": 667292303702,
+      "handle": "travel-feeding-chair",
+      "title": "Travel Feeding Chairs for Babies & Toddlers",
+      "updated_at": "2025-11-24T12:03:23+00:00",
+      "body_html": "<h2>Travel Feeding Chairs</h2>\n\n<p>Portable feeding chairs designed for families on the move. These compact, lightweight chairs provide a secure seating solution for babies and toddlers during meals away from home.</p>\n\n<h3>Portable High Chair Solutions</h3>\n\n<p>Travel feeding chairs offer the stability of a traditional high chair in a portable format. Designed to attach to standard dining chairs or function independently, these chairs fold down to fit in bags, car trunks, and luggage. Weight capacity typically ranges from 15 to 50 pounds, accommodating infants through toddlers.</p>\n\n<h3>Key Features</h3>\n\n<ul>\n<li>Compact folding design for easy transport and storage</li>\n<li>Secure harness systems with 3-point or 5-point safety straps</li>\n<li>Wipeable, water-resistant fabrics for quick cleaning</li>\n<li>Universal attachment systems compatible with most chairs</li>\n<li>Lightweight construction, typically 2-5 pounds</li>\n<li>Removable trays and washable seat covers</li>\n</ul>\n\n<h3>Ideal For</h3>\n\n<p>Restaurant dining, visiting family and friends, camping trips, vacation rentals, grandparents' homes, and outdoor events. Travel feeding chairs eliminate the need to request restaurant high chairs or pack bulky equipment.</p>\n\n<h3>Material and Construction</h3>\n\n<p>Most travel feeding chairs feature aluminum or steel frames with polyester or nylon fabric seats. Reinforced stitching and tested attachment points ensure durability. Many models include carrying bags with shoulder straps for hands-free transport.</p>",
+      "published_at": "2025-11-24T12:03:23+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "travel-feeding-chair"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/667292303702"
+    },
+    {
       "id": 660978729302,
       "handle": "twins-multiples-feeding-essentials",
       "title": "Twins & Multiples Feeding Essentials",
@@ -5218,6 +5238,46 @@
       }
     },
     {
+      "id": 667293942102,
+      "handle": "year-end-nursery-organization-refresh-essentials",
+      "title": "Year-End Nursery Organization & Refresh Essentials",
+      "updated_at": "2025-11-24T12:23:19+00:00",
+      "body_html": "Complete feeding station upgrade for parents decluttering and organizing nurseries before the new year, with coordinated storage-friendly bottles, stackable bowls, and space-saving feeding tools.",
+      "published_at": "2025-11-24T12:23:18+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bottle Brush"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Suction Bowl Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Sippy Cup"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/667293942102"
+    },
+    {
       "id": 658907824470,
       "handle": "hammock",
       "title": "Hammock",
@@ -5322,8 +5382,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 111,
-    "items_in_page": 111,
+    "total_items": 113,
+    "items_in_page": 113,
     "has_next_page": false,
     "has_previous_page": false
   }

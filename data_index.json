@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-24T11:42:44.763985Z",
+  "generated": "2025-11-24T12:50:00.675579Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -118,6 +118,7 @@
       "toddler-independence-milestone-kit": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-independence-milestone-kit_products.json",
       "toddler-stage-feeding": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-stage-feeding_products.json",
       "travel-baby-bottle": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-baby-bottle_products.json",
+      "travel-feeding-chair": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-feeding-chair_products.json",
       "travel-high-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-high-chairs_products.json",
       "twins-multiples-feeding-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/twins-multiples-feeding-essentials_products.json",
       "vacation-rental-baby-proofing-feeding-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/vacation-rental-baby-proofing-feeding-essentials_products.json",
@@ -125,7 +126,8 @@
       "weekend-camping-baby-feeding-gear": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weekend-camping-baby-feeding-gear_products.json",
       "winter-baby-registry-must-haves": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/winter-baby-registry-must-haves_products.json",
       "winter-indoor-playdate-mess-free-feeding-station": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/winter-indoor-playdate-mess-free-feeding-station_products.json",
-      "wooden-high-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/wooden-high-chairs_products.json"
+      "wooden-high-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/wooden-high-chairs_products.json",
+      "year-end-nursery-organization-refresh-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/year-end-nursery-organization-refresh-essentials_products.json"
     }
   }
 }
