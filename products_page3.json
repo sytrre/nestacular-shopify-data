@@ -1,6 +1,189 @@
 {
   "products": [
     {
+      "id": 9866686562646,
+      "title": "Tapiokka Baby Drinking Straw - Safe Choking-Prevention for Children",
+      "body_html": "<p>Tapiokka Baby Drinking Straw combines innovative safety features with durable, child-friendly design to provide a worry-free drinking solution for young children. Specially crafted to prevent choking, this straw encourages independent drinking while keeping mealtime safe and enjoyable.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/140212b8-8669-4274-9ef3-2d63fac412c7.jpg?v=1759677409\" alt=\"Tapiokka Baby Drinking Straw - Safe Choking-Prevention for Children\" style=\"float: none;\"></div>\n<p>Smart Design Features</p>\n<ul>\n<li>Choking-prevention design ensures safe sipping for babies and toddlers</li>\n<li>Soft, flexible material is gentle on gums and developing teeth</li>\n<li>Universal size fits most baby cups and bottles for versatile use</li>\n<li>Easy-to-clean construction keeps feeding hygienic and simple</li>\n<li>Lightweight and portable, perfect for home, daycare, or travel</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f74d3849-c33f-4435-a851-69cf6947a9c1.jpg?v=1759677412\" alt=\"Tapiokka Baby Drinking Straw - Safe Choking-Prevention for Children\" style=\"float: none;\"></div>\n<p>Setup and Usage <br> Insert the straw into a compatible baby cup or bottle. Ensure it is securely placed before giving it to your child. Clean thoroughly after each use with warm water or a straw brush to maintain hygiene.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c87837fd-0713-4685-8e63-697563ac27c5.jpg?v=1759677407\" alt=\"Tapiokka Baby Drinking Straw - Safe Choking-Prevention for Children\" style=\"float: none;\"></div>\n<p>Product Specifications</p>\n<ul>\n<li>Material: BPA-free, food-grade silicone</li>\n<li>Dimensions: Standard baby-friendly size</li>\n<li>Style: Safety straw with choking-prevention design</li>\n<li>Suitable for: Babies and toddlers learning to drink independently</li>\n<li>Package: 1 or more reusable drinking straws</li>\n</ul>\n<p>Why Choose This Straw</p>\n<p> </p>\n<ul>\n<li> Designed with child safety as the top priority</li>\n<li>Promotes independence while preventing common choking hazards</li>\n<li>Soft silicone material ensures safe daily use</li>\n<li>Easy to clean and maintain for busy parents</li>\n<li>Lightweight and durable, ideal for both at-home and on-the-go feeding</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
+      "vendor": "Nestacular",
+      "product_type": "0",
+      "created_at": "2025-10-05T16:16:42+01:00",
+      "handle": "tapiokka-baby-drinking-straw-safe-choking-prevention-for-children",
+      "updated_at": "2025-11-03T16:12:03+00:00",
+      "published_at": "2025-10-05T16:21:22+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "CJ",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9866686562646",
+      "variants": [
+        {
+          "id": 51490030354774,
+          "product_id": 9866686562646,
+          "title": "Pink",
+          "price": "23.45",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "0.00",
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-05T16:16:49+01:00",
+          "updated_at": "2025-11-03T16:12:04+00:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 170,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT138550101AZ",
+          "weight": 170.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53740163006806,
+          "inventory_quantity": 49860,
+          "old_inventory_quantity": 49860,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51490030354774",
+          "image_id": 67364642029910
+        },
+        {
+          "id": 51490030387542,
+          "product_id": 9866686562646,
+          "title": "Yellow",
+          "price": "23.45",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "0.00",
+          "option1": "Yellow",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-10-05T16:16:49+01:00",
+          "updated_at": "2025-11-03T16:12:04+00:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 170,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJJT138550102BY",
+          "weight": 170.0,
+          "weight_unit": "g",
+          "inventory_item_id": 53740163039574,
+          "inventory_quantity": 45599,
+          "old_inventory_quantity": 45599,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/51490030387542",
+          "image_id": 67364642062678
+        }
+      ],
+      "options": [
+        {
+          "id": 12729160139094,
+          "product_id": 9866686562646,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Pink",
+            "Yellow"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 67364641800534,
+          "alt": "Pink baby bottle with bear design in a clear case on a pink background",
+          "position": 1,
+          "product_id": 9866686562646,
+          "created_at": "2025-10-05T16:16:44+01:00",
+          "updated_at": "2025-10-05T16:19:16+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55205347721558",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c87837fd-0713-4685-8e63-697563ac27c5.jpg?v=1759677407",
+          "variant_ids": []
+        },
+        {
+          "id": 67364641833302,
+          "alt": "Yellow baby bottle with a round white plate on a beige background",
+          "position": 2,
+          "product_id": 9866686562646,
+          "created_at": "2025-10-05T16:16:45+01:00",
+          "updated_at": "2025-10-05T16:19:23+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55205347754326",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/140212b8-8669-4274-9ef3-2d63fac412c7.jpg?v=1759677409",
+          "variant_ids": []
+        },
+        {
+          "id": 67364641898838,
+          "alt": "Hand holding a yellow syringe with a clear liquid on a beige background",
+          "position": 3,
+          "product_id": 9866686562646,
+          "created_at": "2025-10-05T16:16:46+01:00",
+          "updated_at": "2025-10-05T16:19:29+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55205347787094",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/ed2dcedb-4d96-4f75-8b5b-af0c3561c08d.jpg?v=1759677409",
+          "variant_ids": []
+        },
+        {
+          "id": 67364641964374,
+          "alt": "Hand holding a yellow syringe with a clear liquid on a beige background",
+          "position": 4,
+          "product_id": 9866686562646,
+          "created_at": "2025-10-05T16:16:48+01:00",
+          "updated_at": "2025-10-05T16:19:35+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55205347885398",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3c8fd76b-215b-4665-b2b1-c1de768652d7.jpg?v=1759677411",
+          "variant_ids": []
+        },
+        {
+          "id": 67364642029910,
+          "alt": "Pink baby bottle with bear design in a clear case on a pink background",
+          "position": 5,
+          "product_id": 9866686562646,
+          "created_at": "2025-10-05T16:16:49+01:00",
+          "updated_at": "2025-10-05T16:19:42+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55205347950934",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c87837fd-0713-4685-8e63-697563ac27c5_0b048756-2c0c-4908-a930-043a41da101e.jpg?v=1759677412",
+          "variant_ids": [
+            51490030354774
+          ]
+        },
+        {
+          "id": 67364642062678,
+          "alt": "Yellow bear-shaped bottle with a clear case on a beige background",
+          "position": 6,
+          "product_id": 9866686562646,
+          "created_at": "2025-10-05T16:16:49+01:00",
+          "updated_at": "2025-10-05T16:19:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/55205347983702",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/f74d3849-c33f-4435-a851-69cf6947a9c1.jpg?v=1759677412",
+          "variant_ids": [
+            51490030387542
+          ]
+        }
+      ],
+      "image": {
+        "id": 67364641800534,
+        "alt": "Pink baby bottle with bear design in a clear case on a pink background",
+        "position": 1,
+        "product_id": 9866686562646,
+        "created_at": "2025-10-05T16:16:44+01:00",
+        "updated_at": "2025-10-05T16:19:16+01:00",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/55205347721558",
+        "width": 800,
+        "height": 800,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c87837fd-0713-4685-8e63-697563ac27c5.jpg?v=1759677407",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 9866676470102,
       "title": "Tarrokko Babycare 3-in-1 Feeding Bowl - Suction Snack, Soup & Straw Dish with Handle",
       "body_html": "<p>Tarrokko Babycare 3-in-1 Feeding Bowl combines smart multifunctional design with baby-safe materials to create the perfect mealtime solution for infants and toddlers. This thoughtfully designed bowl adapts to different foods and feeding stages, making it a must-have for growing families.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612779407243.jpg?v=1759676565\" alt=\"Tarrokko Babycare 3-in-1 Feeding Bowl - Suction Snack, Soup &amp; Straw Dish with Handle\" style=\"float: none;\"></div>\n<p>Smart Design Features</p>\n<ul>\n<li>3-in-1 design works as a suction snack bowl, soup bowl, and straw dish</li>\n<li>Strong suction base prevents spills and keeps mealtime mess-free</li>\n<li>Ergonomic handle makes it easy for little hands to hold and learn self-feeding</li>\n<li>Built-in straw encourages independent drinking while reducing waste</li>\n<li>Petal-style snack lid helps toddlers enjoy finger foods without spills</li>\n<li style=\"text-align: left;\">Durable, easy-to-clean materials ensure long-lasting use<br><br> <br><br>\n</li>\n</ul>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612779415691.jpg?v=1759676572\" alt=\"Tarrokko Babycare 3-in-1 Feeding Bowl - Suction Snack, Soup &amp; Straw Dish with Handle\" style=\"float: none;\"></div>\n<p>Setup and Usage <br>Secure the suction base to a smooth, clean surface. Use with the included straw for liquids or soups, the petal lid for snacks, or as a standard bowl for purees and meals. Wash thoroughly after each use to maintain hygiene.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0886/4910/5750/files/1612779407239.jpg?v=1759676570\" alt=\"Tarrokko Babycare 3-in-1 Feeding Bowl - Suction Snack, Soup &amp; Straw Dish with Handle\" style=\"float: none;\"></div>\n<p>Product Specifications</p>\n<ul>\n<li>Material: Safe, BPA-free, food-grade plastic and silicone</li>\n<li>Dimensions: Standard toddler-friendly size with suction base</li>\n<li>Style: 3-in-1 multifunctional bowl with handle, straw, and petal lid</li>\n<li>Suitable for: Snacks, soups, purees, and toddler meals</li>\n<li>Package: 1 complete 3-in-1 feeding bowl set</li>\n</ul>\n<p>Why Choose This Bowl</p>\n<p> </p>\n<ul>\n<li> Reduces mealtime mess with a secure suction design</li>\n<li>Versatile 3-in-1 function grows with your child’s needs</li>\n<li>Encourages independent eating and drinking</li>\n<li>Easy to clean and safe for daily use</li>\n<li>Durable, travel-friendly design for at home or on the go</li>\n</ul>\n<p><br></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>A Nestacular Promise</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>At Nestacular, we believe in the quality of our products, so we offer a 30-day Money-Back Guarantee, no questions asked! When you purchase from us, there is ZERO Risk for you!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Congratulations!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>You’ve found a hidden discount code! Use code “TTD” at checkout to claim an additional 10% OFF your ENTIRE order!</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"> </p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Customer Support:</strong></span></p>\n<p style=\"text-align: center;\" align=\"center\" class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><strong>Email: support@nestacular.com</strong></span></p>",
@@ -25979,8 +26162,8 @@
     "current_page": 3,
     "total_pages": 3,
     "items_per_page": 250,
-    "total_items": 569,
-    "items_in_page": 69,
+    "total_items": 570,
+    "items_in_page": 70,
     "has_next_page": false,
     "has_previous_page": true,
     "previous_page_file": "products_page2.json"
