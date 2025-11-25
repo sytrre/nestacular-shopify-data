@@ -33634,8 +33634,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9795009249622",
       "variants": [
         {
-          "id": 51211731861846,
           "product_id": 9795009249622,
+          "id": 51211731861846,
           "title": "Coffee Color / UK",
           "price": "109.54",
           "position": 1,
@@ -33662,8 +33662,8 @@
           "image_id": 66273344684374
         },
         {
-          "id": 51211731894614,
           "product_id": 9795009249622,
+          "id": 51211731894614,
           "title": "Gray / UK",
           "price": "109.54",
           "position": 2,
@@ -33690,8 +33690,8 @@
           "image_id": 66273344717142
         },
         {
-          "id": 51211731927382,
           "product_id": 9795009249622,
+          "id": 51211731927382,
           "title": "Pink / UK",
           "price": "109.54",
           "position": 3,
@@ -33720,8 +33720,8 @@
       ],
       "options": [
         {
-          "id": 12645011652950,
           "product_id": 9795009249622,
+          "id": 12645011652950,
           "name": "Color",
           "position": 1,
           "values": [
@@ -33731,8 +33731,8 @@
           ]
         },
         {
-          "id": 12645011685718,
           "product_id": 9795009249622,
+          "id": 12645011685718,
           "name": "Power specifications",
           "position": 2,
           "values": [
