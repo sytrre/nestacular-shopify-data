@@ -2469,6 +2469,46 @@
       }
     },
     {
+      "id": 667448279382,
+      "handle": "grandchilds-first-visit-preparation-feeding-essentials",
+      "title": "Grandchild's First Visit Preparation Feeding Essentials",
+      "updated_at": "2025-11-25T12:28:51+00:00",
+      "body_html": "Prepare your home for your grandchild's first extended visit with safe, modern feeding essentials that make mealtimes easy and stress-free for everyone.",
+      "published_at": "2025-11-25T12:28:51+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "High Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bib"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Feeding Training Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Fruit Feeder"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/667448279382"
+    },
+    {
       "id": 657750163798,
       "handle": "grandparents-helper-feeding-station",
       "title": "Grandparent's Helper Feeding Station",
@@ -4899,6 +4939,26 @@
       "admin_graphql_api_id": "gid://shopify/Collection/664807473494"
     },
     {
+      "id": 667449885014,
+      "handle": "travel-baby-feeding",
+      "title": "Travel Baby Feeding Essentials",
+      "updated_at": "2025-11-25T12:39:25+00:00",
+      "body_html": "<h2>Travel Baby Feeding Essentials</h2>\n<p>Feeding your baby while traveling requires practical, portable solutions that fit your lifestyle. Our collection features compact feeding accessories designed for parents who need reliable gear on the go.</p>\n\n<h3>Portable Feeding Solutions</h3>\n<p>Travel baby feeding products include collapsible bottles, leak-proof food containers, and compact utensil sets that pack efficiently in diaper bags. These items are built to withstand the demands of travel while maintaining hygiene standards for infant feeding.</p>\n\n<h3>What to Look for in Travel Feeding Gear</h3>\n<ul>\n<li>Leak-proof seals and secure closures to prevent spills in transit</li>\n<li>Lightweight, durable materials that reduce baggage weight</li>\n<li>Easy-clean surfaces compatible with sterilization methods</li>\n<li>Compact designs that maximize diaper bag space</li>\n<li>BPA-free, food-safe materials for infant health</li>\n</ul>\n\n<h3>Essential Items for On-the-Go Feeding</h3>\n<p>Travel feeding collections typically include portable bottle warmers, disposable bibs, formula dispensers, and insulated bottle bags. These products address common challenges parents face when feeding babies away from home, whether on day trips, vacations, or daily commutes.</p>\n\n<p>Select products based on your baby's age, feeding method, and travel frequency. Combination sets often provide better value and ensure all feeding components work together seamlessly.</p>",
+      "published_at": "2025-11-25T12:39:25+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "travel-baby-feeding"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/667449885014"
+    },
+    {
       "id": 667292303702,
       "handle": "travel-feeding-chair",
       "title": "Travel Feeding Chairs for Babies & Toddlers",
@@ -5382,8 +5442,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 113,
-    "items_in_page": 113,
+    "total_items": 115,
+    "items_in_page": 115,
     "has_next_page": false,
     "has_previous_page": false
   }
