@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-27T12:49:21.220449Z",
+  "generated": "2025-11-27T13:35:54.772095Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -32,6 +32,9 @@
       "bamboo-tableware": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bamboo-tableware_products.json",
       "baptism-christening-guest-gift-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baptism-christening-guest-gift-essentials_products.json",
       "bear-party-decorations": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bear-party-decorations_products.json",
+      "best-balloon-decorations-for-first-birthday": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-balloon-decorations-for-first-birthday_products.json",
+      "best-birthday-decorations-for-boys": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-birthday-decorations-for-boys_products.json",
+      "best-sippy-cups-for-1-year-old": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-sippy-cups-for-1-year-old_products.json",
       "bibs-and-coveralls": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bibs-and-coveralls_products.json",
       "black-friday-nursery-stock-up-feeding-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/black-friday-nursery-stock-up-feeding-essentials_products.json",
       "booster-seats-for-dining-chairs": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/booster-seats-for-dining-chairs_products.json",

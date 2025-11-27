@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-11-27T12:49:21.220449Z
+Generated: 2025-11-27T13:35:54.772095Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (116 collections) ===
+=== COLLECTION PRODUCT FILES (119 collections) ===
 
 • allergy-friendly-feeding-transition-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/allergy-friendly-feeding-transition-essentials_products.json
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
@@ -35,6 +35,9 @@ BLOGS (1 pages):
 • bamboo-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bamboo-tableware_products.json
 • baptism-christening-guest-gift-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baptism-christening-guest-gift-essentials_products.json
 • bear-party-decorations: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bear-party-decorations_products.json
+• best-balloon-decorations-for-first-birthday: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-balloon-decorations-for-first-birthday_products.json
+• best-birthday-decorations-for-boys: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-birthday-decorations-for-boys_products.json
+• best-sippy-cups-for-1-year-old: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-sippy-cups-for-1-year-old_products.json
 • bibs-and-coveralls: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bibs-and-coveralls_products.json
 • black-friday-nursery-stock-up-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/black-friday-nursery-stock-up-feeding-essentials_products.json
 • booster-seats-for-dining-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/booster-seats-for-dining-chairs_products.json
