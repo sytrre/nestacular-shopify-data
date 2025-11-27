@@ -28974,8 +28974,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791345754454",
       "variants": [
         {
-          "product_id": 9791345754454,
           "id": 51196003975510,
+          "product_id": 9791345754454,
           "title": "Style B",
           "price": "54.96",
           "position": 1,
@@ -29002,8 +29002,8 @@
           "image_id": 66240210043222
         },
         {
-          "product_id": 9791345754454,
           "id": 51196004008278,
+          "product_id": 9791345754454,
           "title": "Style D",
           "price": "53.92",
           "position": 2,
@@ -29030,8 +29030,8 @@
           "image_id": 66240210075990
         },
         {
-          "product_id": 9791345754454,
           "id": 51196004041046,
+          "product_id": 9791345754454,
           "title": "Style G",
           "price": "62.43",
           "position": 3,
@@ -29058,8 +29058,8 @@
           "image_id": 66240210108758
         },
         {
-          "product_id": 9791345754454,
           "id": 51196004073814,
+          "product_id": 9791345754454,
           "title": "Style E",
           "price": "61.20",
           "position": 4,
@@ -29086,8 +29086,8 @@
           "image_id": 66240210141526
         },
         {
-          "product_id": 9791345754454,
           "id": 51196004106582,
+          "product_id": 9791345754454,
           "title": "Style C",
           "price": "53.92",
           "position": 5,
@@ -29114,8 +29114,8 @@
           "image_id": 66240210174294
         },
         {
-          "product_id": 9791345754454,
           "id": 51196004139350,
+          "product_id": 9791345754454,
           "title": "Style I",
           "price": "71.83",
           "position": 6,
@@ -29142,8 +29142,8 @@
           "image_id": 66240210207062
         },
         {
-          "product_id": 9791345754454,
           "id": 51196004172118,
+          "product_id": 9791345754454,
           "title": "Style H",
           "price": "62.43",
           "position": 7,
@@ -29170,8 +29170,8 @@
           "image_id": 66240210239830
         },
         {
-          "product_id": 9791345754454,
           "id": 51196004204886,
+          "product_id": 9791345754454,
           "title": "Style F",
           "price": "61.20",
           "position": 8,
@@ -29198,8 +29198,8 @@
           "image_id": 66240210272598
         },
         {
-          "product_id": 9791345754454,
           "id": 51196004237654,
+          "product_id": 9791345754454,
           "title": "Style A",
           "price": "52.93",
           "position": 9,
@@ -29228,8 +29228,8 @@
       ],
       "options": [
         {
-          "product_id": 9791345754454,
           "id": 12640549798230,
+          "product_id": 9791345754454,
           "name": "style",
           "position": 1,
           "values": [
