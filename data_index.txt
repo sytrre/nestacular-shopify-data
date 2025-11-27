@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-11-27T11:42:42.915271Z
+Generated: 2025-11-27T12:49:21.220449Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (115 collections) ===
+=== COLLECTION PRODUCT FILES (116 collections) ===
 
 • allergy-friendly-feeding-transition-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/allergy-friendly-feeding-transition-essentials_products.json
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
@@ -99,6 +99,7 @@ BLOGS (1 pages):
 • replacement-trays-straps: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/replacement-trays-straps_products.json
 • restaurant-baby-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-baby-chair_products.json
 • restaurant-dining-out-baby-portable-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-dining-out-baby-portable-kit_products.json
+• restaurant-social-dining-baby-portable-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-social-dining-baby-portable-essentials_products.json
 • returning-to-work-mom-feeding-prep: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/returning-to-work-mom-feeding-prep_products.json
 • reusable-food-pouches: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/reusable-food-pouches_products.json
 • second-baby-feeding-refresh-upgrade-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/second-baby-feeding-refresh-upgrade-essentials_products.json

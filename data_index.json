@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-27T11:42:42.915271Z",
+  "generated": "2025-11-27T12:49:21.220449Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -96,6 +96,7 @@
       "replacement-trays-straps": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/replacement-trays-straps_products.json",
       "restaurant-baby-chair": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-baby-chair_products.json",
       "restaurant-dining-out-baby-portable-kit": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-dining-out-baby-portable-kit_products.json",
+      "restaurant-social-dining-baby-portable-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-social-dining-baby-portable-essentials_products.json",
       "returning-to-work-mom-feeding-prep": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/returning-to-work-mom-feeding-prep_products.json",
       "reusable-food-pouches": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/reusable-food-pouches_products.json",
       "second-baby-feeding-refresh-upgrade-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/second-baby-feeding-refresh-upgrade-essentials_products.json",

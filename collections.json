@@ -4009,6 +4009,46 @@
       }
     },
     {
+      "id": 667677229398,
+      "handle": "restaurant-social-dining-baby-portable-essentials",
+      "title": "Restaurant & Social Dining Baby Portable Essentials",
+      "updated_at": "2025-11-27T12:41:23+00:00",
+      "body_html": "Compact, travel-friendly feeding gear for dining out with baby at restaurants, weddings, and social gatherings during the busy holiday season ahead.",
+      "published_at": "2025-11-27T12:41:23+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Disposable Baby Bibs"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Portable High Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby stroller bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bib"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Feeding Training Set"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/667677229398"
+    },
+    {
       "id": 657747935574,
       "handle": "restaurant-baby-chair",
       "title": "Restaurant Baby Chairs - Commercial High Chairs",
@@ -5442,8 +5482,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 115,
-    "items_in_page": 115,
+    "total_items": 116,
+    "items_in_page": 116,
     "has_next_page": false,
     "has_previous_page": false
   }
