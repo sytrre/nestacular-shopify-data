@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-11-30T12:44:08.025798Z
+Generated: 2025-11-30T13:30:42.936511Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (137 collections) ===
+=== COLLECTION PRODUCT FILES (139 collections) ===
 
 • allergy-friendly-feeding-transition-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/allergy-friendly-feeding-transition-essentials_products.json
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
@@ -95,6 +95,7 @@ BLOGS (1 pages):
 • mess-free-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/mess-free-essentials_products.json
 • metal-frame-high-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/metal-frame-high-chair_products.json
 • modern-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/modern-high-chairs_products.json
+• montessori-toddler-self-feeding-independence-station: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/montessori-toddler-self-feeding-independence-station_products.json
 • moving-day-baby-feeding-setup: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/moving-day-baby-feeding-setup_products.json
 • new-parent-gift-sets: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/new-parent-gift-sets_products.json
 • new-sibling-preparation-feeding-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/new-sibling-preparation-feeding-kit_products.json
@@ -105,6 +106,7 @@ BLOGS (1 pages):
 • on-the-go-baby-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/on-the-go-baby-feeding_products.json
 • on-the-go-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/on-the-go-feeding_products.json
 • parent-teacher-conference-week-lunch-prep-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/parent-teacher-conference-week-lunch-prep-kit_products.json
+• pediatric-feeding-therapy-session-support-tools: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/pediatric-feeding-therapy-session-support-tools_products.json
 • picky-eater-mealtime-solutions-sensory-feeding-tools: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/picky-eater-mealtime-solutions-sensory-feeding-tools_products.json
 • placemats: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/placemats_products.json
 • plates-and-bowls: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/plates-and-bowls_products.json

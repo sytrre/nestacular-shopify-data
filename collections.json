@@ -3517,6 +3517,46 @@
       }
     },
     {
+      "id": 667975254358,
+      "handle": "montessori-toddler-self-feeding-independence-station",
+      "title": "Montessori Toddler Self-Feeding Independence Station",
+      "updated_at": "2025-11-30T12:42:28+00:00",
+      "body_html": "Montessori-aligned feeding essentials that promote toddler autonomy, motor skill development, and confident independent eating through child-sized, accessible tools.",
+      "published_at": "2025-11-30T12:42:28+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Beech Wood High Chair"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Bamboo Fiber Bowl"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Training Spoon"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Adjustable Growth Chair"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/667975254358"
+    },
+    {
       "id": 658935054678,
       "handle": "moving-day-baby-feeding-setup",
       "title": "Moving Day Baby Feeding Setup",
@@ -4006,6 +4046,46 @@
       ],
       "published_scope": "web",
       "admin_graphql_api_id": "gid://shopify/Collection/662861840726"
+    },
+    {
+      "id": 667975188822,
+      "handle": "pediatric-feeding-therapy-session-support-tools",
+      "title": "Pediatric Feeding Therapy Session Support Tools",
+      "updated_at": "2025-11-30T12:42:20+00:00",
+      "body_html": "Essential feeding tools recommended by speech and feeding therapists to support children during structured feeding therapy sessions at home and clinic visits.",
+      "published_at": "2025-11-30T12:42:20+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Spoon"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Silicone Baby Divided Plate"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Fruit Feeder"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bib"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/667975188822"
     },
     {
       "id": 667180630358,
@@ -5982,8 +6062,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 137,
-    "items_in_page": 137,
+    "total_items": 139,
+    "items_in_page": 139,
     "has_next_page": false,
     "has_previous_page": false
   }
