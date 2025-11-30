@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-11-30T11:41:13.561582Z
+Generated: 2025-11-30T12:44:08.025798Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (132 collections) ===
+=== COLLECTION PRODUCT FILES (137 collections) ===
 
 • allergy-friendly-feeding-transition-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/allergy-friendly-feeding-transition-essentials_products.json
 • anti-colic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/anti-colic-bottles_products.json
@@ -41,11 +41,13 @@ BLOGS (1 pages):
 • best-balloon-decorations-for-first-birthday: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-balloon-decorations-for-first-birthday_products.json
 • best-birthday-decorations-for-boys: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-birthday-decorations-for-boys_products.json
 • best-graduation-gifts-for-kindergarten: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-graduation-gifts-for-kindergarten_products.json
+• best-graduation-party-favors-for-preschool: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-graduation-party-favors-for-preschool_products.json
 • best-high-chairs-for-small-spaces: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-high-chairs-for-small-spaces_products.json
 • best-leakproof-cups-for-babies: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-leakproof-cups-for-babies_products.json
 • best-microwave-safe-baby-bowls: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-microwave-safe-baby-bowls_products.json
 • best-sippy-cups-for-1-year-old: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-sippy-cups-for-1-year-old_products.json
 • best-training-cups-for-toddlers: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-training-cups-for-toddlers_products.json
+• best-wheat-straw-dishes-for-toddlers: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-wheat-straw-dishes-for-toddlers_products.json
 • bibs-and-coveralls: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bibs-and-coveralls_products.json
 • black-friday-nursery-stock-up-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/black-friday-nursery-stock-up-feeding-essentials_products.json
 • booster-seats-for-dining-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/booster-seats-for-dining-chairs_products.json
@@ -100,6 +102,7 @@ BLOGS (1 pages):
 • nursery-furniture: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/nursery-furniture_products.json
 • occupational-therapy-feeding-skills-development-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/occupational-therapy-feeding-skills-development-kit_products.json
 • older-sibling-big-kid-transition-feeding-set: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/older-sibling-big-kid-transition-feeding-set_products.json
+• on-the-go-baby-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/on-the-go-baby-feeding_products.json
 • on-the-go-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/on-the-go-feeding_products.json
 • parent-teacher-conference-week-lunch-prep-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/parent-teacher-conference-week-lunch-prep-kit_products.json
 • picky-eater-mealtime-solutions-sensory-feeding-tools: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/picky-eater-mealtime-solutions-sensory-feeding-tools_products.json
@@ -111,6 +114,7 @@ BLOGS (1 pages):
 • pumpkin-patch-apple-picking-portable-baby-gear: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/pumpkin-patch-apple-picking-portable-baby-gear_products.json
 • replacement-trays-straps: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/replacement-trays-straps_products.json
 • restaurant-baby-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-baby-chair_products.json
+• restaurant-baby-seat: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-baby-seat_products.json
 • restaurant-dining-out-baby-portable-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-dining-out-baby-portable-kit_products.json
 • restaurant-social-dining-baby-portable-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/restaurant-social-dining-baby-portable-essentials_products.json
 • returning-to-work-mom-feeding-prep: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/returning-to-work-mom-feeding-prep_products.json
@@ -140,6 +144,7 @@ BLOGS (1 pages):
 • toddler-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/toddler-stage-feeding_products.json
 • travel-baby-bottle: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-baby-bottle_products.json
 • travel-baby-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-baby-feeding_products.json
+• travel-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-chair_products.json
 • travel-feeding-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-feeding-chair_products.json
 • travel-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/travel-high-chairs_products.json
 • twins-multiples-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/twins-multiples-feeding-essentials_products.json
