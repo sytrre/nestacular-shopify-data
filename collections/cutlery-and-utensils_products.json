@@ -17591,7 +17591,7 @@
       "product_type": "",
       "created_at": "2025-12-03T13:50:29+00:00",
       "handle": "safe-useful-silicone-baby-bottle-with-spoon-food-supplement-rice-cereal-bottles-squeeze-spoon-milk-feeding-bottle-cup-1",
-      "updated_at": "2025-12-03T13:50:42+00:00",
+      "updated_at": "2025-12-03T14:27:16+00:00",
       "published_at": null,
       "template_suffix": null,
       "published_scope": "web",
@@ -17600,8 +17600,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016029671766",
       "variants": [
         {
-          "product_id": 10016029671766,
           "id": 52013539426646,
+          "product_id": 10016029671766,
           "title": "Green-round bottom",
           "price": "2.29",
           "position": 1,
@@ -17628,8 +17628,8 @@
           "image_id": 69735072661846
         },
         {
-          "product_id": 10016029671766,
           "id": 52013539459414,
+          "product_id": 10016029671766,
           "title": "Yellow-round bottom",
           "price": "2.29",
           "position": 2,
@@ -17656,8 +17656,8 @@
           "image_id": 69735072694614
         },
         {
-          "product_id": 10016029671766,
           "id": 52013539492182,
+          "product_id": 10016029671766,
           "title": "Pink-round bottom",
           "price": "2.29",
           "position": 3,
@@ -17684,8 +17684,8 @@
           "image_id": 69735072727382
         },
         {
-          "product_id": 10016029671766,
           "id": 52013539524950,
+          "product_id": 10016029671766,
           "title": "Blue-round bottom",
           "price": "2.29",
           "position": 4,
@@ -17714,8 +17714,8 @@
       ],
       "options": [
         {
-          "product_id": 10016029671766,
           "id": 12901935841622,
+          "product_id": 10016029671766,
           "name": "Color",
           "position": 1,
           "values": [
