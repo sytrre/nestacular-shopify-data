@@ -19507,8 +19507,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9788883829078",
       "variants": [
         {
-          "id": 51185922867542,
           "product_id": 9788883829078,
+          "id": 51185922867542,
           "title": "Black",
           "price": "22.64",
           "position": 1,
@@ -19537,8 +19537,8 @@
       ],
       "options": [
         {
-          "id": 12637589242198,
           "product_id": 9788883829078,
+          "id": 12637589242198,
           "name": "Color",
           "position": 1,
           "values": [
@@ -95734,8 +95734,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852473246038",
       "variants": [
         {
-          "product_id": 9852473246038,
           "id": 51440265494870,
+          "product_id": 9852473246038,
           "title": "Green / Small",
           "price": "20.95",
           "position": 1,
@@ -95762,8 +95762,8 @@
           "image_id": 67225421578582
         },
         {
-          "product_id": 9852473246038,
           "id": 51440265527638,
+          "product_id": 9852473246038,
           "title": "Light Blue / Small",
           "price": "20.95",
           "position": 2,
@@ -95790,8 +95790,8 @@
           "image_id": 67225421611350
         },
         {
-          "product_id": 9852473246038,
           "id": 51440265560406,
+          "product_id": 9852473246038,
           "title": "Orange / Small",
           "price": "20.95",
           "position": 3,
@@ -95818,8 +95818,8 @@
           "image_id": 67225421644118
         },
         {
-          "product_id": 9852473246038,
           "id": 51440265593174,
+          "product_id": 9852473246038,
           "title": "Pink / Small",
           "price": "20.95",
           "position": 4,
@@ -95846,8 +95846,8 @@
           "image_id": 67225421676886
         },
         {
-          "product_id": 9852473246038,
           "id": 51440265625942,
+          "product_id": 9852473246038,
           "title": "Yellow / Small",
           "price": "20.95",
           "position": 5,
@@ -95876,8 +95876,8 @@
       ],
       "options": [
         {
-          "product_id": 9852473246038,
           "id": 12713000501590,
+          "product_id": 9852473246038,
           "name": "Color",
           "position": 1,
           "values": [
@@ -95889,8 +95889,8 @@
           ]
         },
         {
-          "product_id": 9852473246038,
           "id": 12713000534358,
+          "product_id": 9852473246038,
           "name": "style",
           "position": 2,
           "values": [
