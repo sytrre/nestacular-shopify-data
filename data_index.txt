@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-12-06T11:41:37.333438Z
+Generated: 2025-12-06T12:45:38.302166Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (164 collections) ===
+=== COLLECTION PRODUCT FILES (172 collections) ===
 
 • airplane-travel-with-baby-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/airplane-travel-with-baby-feeding-essentials_products.json
 • allergy-friendly-feeding-transition-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/allergy-friendly-feeding-transition-essentials_products.json
@@ -39,6 +39,7 @@ BLOGS (1 pages):
 • bamboo-tableware: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bamboo-tableware_products.json
 • baptism-christening-guest-gift-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baptism-christening-guest-gift-essentials_products.json
 • bear-party-decorations: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bear-party-decorations_products.json
+• best-adjustable-high-chairs-for-toddlers: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-adjustable-high-chairs-for-toddlers_products.json
 • best-baby-bottles-for-newborns: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-baby-bottles-for-newborns_products.json
 • best-baby-shower-decorations-for-boy: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-baby-shower-decorations-for-boy_products.json
 • best-baby-shower-decorations-for-girls: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-baby-shower-decorations-for-girls_products.json
@@ -48,9 +49,11 @@ BLOGS (1 pages):
 • best-balloon-decorations-for-first-birthday: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-balloon-decorations-for-first-birthday_products.json
 • best-balloon-sets-kids-birthday-party: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-balloon-sets-kids-birthday-party_products.json
 • best-birthday-decorations-for-boys: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-birthday-decorations-for-boys_products.json
+• best-bpa-free-baby-bottles-for-newborns: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-bpa-free-baby-bottles-for-newborns_products.json
 • best-convertible-high-chairs-growing-babies: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-convertible-high-chairs-growing-babies_products.json
 • best-double-handle-sippy-cups-6-months: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-double-handle-sippy-cups-6-months_products.json
 • best-feeding-sets-for-starting-solids: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-feeding-sets-for-starting-solids_products.json
+• best-gender-neutral-baby-shower-decorations: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-gender-neutral-baby-shower-decorations_products.json
 • best-graduation-gifts-for-kindergarten: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-graduation-gifts-for-kindergarten_products.json
 • best-graduation-party-favors-for-preschool: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-graduation-party-favors-for-preschool_products.json
 • best-high-chairs-for-babies-6-months: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-high-chairs-for-babies-6-months_products.json
@@ -70,6 +73,7 @@ BLOGS (1 pages):
 • bottle-sterilisers-warmers: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bottle-sterilisers-warmers_products.json
 • bottle-teats-nipples: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bottle-teats-nipples_products.json
 • bottles-for-breastfed-babies: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bottles-for-breastfed-babies_products.json
+• bpa-free-baby-dishes: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bpa-free-baby-dishes_products.json
 • bpa-free-baby-products: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bpa-free-baby-products_products.json
 • bpa-free-plastic-bottles: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bpa-free-plastic-bottles_products.json
 • childproofing-new-walker-baby-safety-feeding-station: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/childproofing-new-walker-baby-safety-feeding-station_products.json
@@ -117,6 +121,7 @@ BLOGS (1 pages):
 • modern-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/modern-high-chairs_products.json
 • montessori-toddler-self-feeding-independence-station: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/montessori-toddler-self-feeding-independence-station_products.json
 • moving-day-baby-feeding-setup: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/moving-day-baby-feeding-setup_products.json
+• multi-functional-chair: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/multi-functional-chair_products.json
 • new-parent-gift-sets: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/new-parent-gift-sets_products.json
 • new-sibling-preparation-feeding-kit: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/new-sibling-preparation-feeding-kit_products.json
 • new-year-meal-prep-batch-cooking-baby-food-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/new-year-meal-prep-batch-cooking-baby-food-essentials_products.json
@@ -134,6 +139,7 @@ BLOGS (1 pages):
 • placemats: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/placemats_products.json
 • plates-and-bowls: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/plates-and-bowls_products.json
 • portable-baby-feeder: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/portable-baby-feeder_products.json
+• portable-baby-seat: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/portable-baby-seat_products.json
 • postpartum-recovery-mom-self-care-feeding-bundle: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/postpartum-recovery-mom-self-care-feeding-bundle_products.json
 • potty-training-celebration-graduation-feeding-set: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/potty-training-celebration-graduation-feeding-set_products.json
 • premature-baby-nicu-homecoming-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/premature-baby-nicu-homecoming-feeding-essentials_products.json
@@ -179,6 +185,8 @@ BLOGS (1 pages):
 • weaning-stage-feeding: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weaning-stage-feeding_products.json
 • weekend-camping-baby-feeding-gear: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/weekend-camping-baby-feeding-gear_products.json
 • winter-baby-registry-must-haves: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/winter-baby-registry-must-haves_products.json
+• winter-birthday-party-toddler-celebration-bundle: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/winter-birthday-party-toddler-celebration-bundle_products.json
+• winter-holiday-guest-baby-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/winter-holiday-guest-baby-feeding-essentials_products.json
 • winter-indoor-playdate-mess-free-feeding-station: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/winter-indoor-playdate-mess-free-feeding-station_products.json
 • wooden-high-chairs: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/wooden-high-chairs_products.json
 • year-end-nursery-organization-refresh-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/year-end-nursery-organization-refresh-essentials_products.json
