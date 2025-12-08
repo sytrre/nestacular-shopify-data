@@ -7471,8 +7471,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9881789071702",
       "variants": [
         {
-          "product_id": 9881789071702,
           "id": 51533380092246,
+          "product_id": 9881789071702,
           "title": "Extruded rice paste bottle (mesh bag style)",
           "price": "23.95",
           "position": 1,
@@ -7499,8 +7499,8 @@
           "image_id": 67453803037014
         },
         {
-          "product_id": 9881789071702,
           "id": 51533380125014,
+          "product_id": 9881789071702,
           "title": "Extruded rice paste bottle (Spoon head type)",
           "price": "23.95",
           "position": 2,
@@ -7529,8 +7529,8 @@
       ],
       "options": [
         {
-          "product_id": 9881789071702,
           "id": 12746270572886,
+          "product_id": 9881789071702,
           "name": "color",
           "position": 1,
           "values": [
