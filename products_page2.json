@@ -27528,8 +27528,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9795009610070",
       "variants": [
         {
-          "product_id": 9795009610070,
           "id": 51211733500246,
+          "product_id": 9795009610070,
           "title": "Lake Blue",
           "price": "83.04",
           "position": 1,
@@ -27556,8 +27556,8 @@
           "image_id": 66273351631190
         },
         {
-          "product_id": 9795009610070,
           "id": 51211733533014,
+          "product_id": 9795009610070,
           "title": "Beige",
           "price": "83.04",
           "position": 2,
@@ -27586,8 +27586,8 @@
       ],
       "options": [
         {
-          "product_id": 9795009610070,
           "id": 12645012046166,
+          "product_id": 9795009610070,
           "name": "Color",
           "position": 1,
           "values": [
