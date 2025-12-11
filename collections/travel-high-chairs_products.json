@@ -2709,8 +2709,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016014106966",
       "variants": [
         {
-          "product_id": 10016014106966,
           "id": 52013506462038,
+          "product_id": 10016014106966,
           "title": "Off-white",
           "price": "4.37",
           "position": 1,
@@ -2737,8 +2737,8 @@
           "image_id": 69734677840214
         },
         {
-          "product_id": 10016014106966,
           "id": 52013506494806,
+          "product_id": 10016014106966,
           "title": "Hemp grey",
           "price": "4.37",
           "position": 2,
@@ -2765,8 +2765,8 @@
           "image_id": 69734677872982
         },
         {
-          "product_id": 10016014106966,
           "id": 52013506527574,
+          "product_id": 10016014106966,
           "title": "Dark gray",
           "price": "4.37",
           "position": 3,
@@ -2793,8 +2793,8 @@
           "image_id": 69734677905750
         },
         {
-          "product_id": 10016014106966,
           "id": 52013506560342,
+          "product_id": 10016014106966,
           "title": "Black",
           "price": "4.37",
           "position": 4,
@@ -2823,8 +2823,8 @@
       ],
       "options": [
         {
-          "product_id": 10016014106966,
           "id": 12901918867798,
+          "product_id": 10016014106966,
           "name": "Color",
           "position": 1,
           "values": [
