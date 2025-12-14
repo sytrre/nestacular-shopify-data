@@ -1,5 +1,5 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2025-12-14T12:46:25.493878Z
+Generated: 2025-12-14T13:33:04.557885Z
 Currency: GBP
 Pagination: 250 items per page
 
@@ -16,7 +16,7 @@ COLLECTIONS (1 pages):
 BLOGS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/blogs.json
 
-=== COLLECTION PRODUCT FILES (189 collections) ===
+=== COLLECTION PRODUCT FILES (191 collections) ===
 
 • airplane-travel-with-baby-feeding-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/airplane-travel-with-baby-feeding-essentials_products.json
 • allergy-friendly-feeding-transition-essentials: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/allergy-friendly-feeding-transition-essentials_products.json
@@ -61,6 +61,7 @@ BLOGS (1 pages):
 • best-foldable-high-chairs-for-travel: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-foldable-high-chairs-for-travel_products.json
 • best-gender-neutral-baby-shower-decorations: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-gender-neutral-baby-shower-decorations_products.json
 • best-graduation-gifts-for-kindergarten: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-graduation-gifts-for-kindergarten_products.json
+• best-graduation-party-decorations-for-preschool: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-graduation-party-decorations-for-preschool_products.json
 • best-graduation-party-favors-for-preschool: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-graduation-party-favors-for-preschool_products.json
 • best-high-chairs-for-babies-6-months: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-high-chairs-for-babies-6-months_products.json
 • best-high-chairs-for-small-spaces: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/best-high-chairs-for-small-spaces_products.json
@@ -149,6 +150,7 @@ BLOGS (1 pages):
 • picky-eater-mealtime-solutions-sensory-feeding-tools: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/picky-eater-mealtime-solutions-sensory-feeding-tools_products.json
 • placemats: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/placemats_products.json
 • plates-and-bowls: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/plates-and-bowls_products.json
+• playroom-furniture: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/playroom-furniture_products.json
 • portable-baby-feeder: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/portable-baby-feeder_products.json
 • portable-baby-seat: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/portable-baby-seat_products.json
 • portable-feeding-bib: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/portable-feeding-bib_products.json
