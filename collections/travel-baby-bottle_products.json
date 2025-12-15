@@ -918,7 +918,7 @@
       "product_type": "Baby Bottle",
       "created_at": "2025-09-02T05:27:05+01:00",
       "handle": "serenibabe-hands-free-baby-bottle",
-      "updated_at": "2025-12-15T12:31:29+00:00",
+      "updated_at": "2025-12-15T17:09:22+00:00",
       "published_at": "2025-09-02T05:27:21+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -966,7 +966,7 @@
           "option2": "150ml",
           "option3": null,
           "created_at": "2025-09-02T05:27:19+01:00",
-          "updated_at": "2025-12-10T18:05:46+00:00",
+          "updated_at": "2025-12-15T17:09:22+00:00",
           "taxable": false,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -977,8 +977,8 @@
           "weight": 103.0,
           "weight_unit": "g",
           "inventory_item_id": 53407311298902,
-          "inventory_quantity": 6583,
-          "old_inventory_quantity": 6583,
+          "inventory_quantity": 6584,
+          "old_inventory_quantity": 6584,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/51201109524822",
           "image_id": 66252990120278
         }
