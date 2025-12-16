@@ -29221,8 +29221,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9810636013910",
       "variants": [
         {
-          "product_id": 9810636013910,
           "id": 51275455922518,
+          "product_id": 9810636013910,
           "title": "Green / 363ML",
           "price": "30.95",
           "position": 1,
@@ -29249,8 +29249,8 @@
           "image_id": 66463673418070
         },
         {
-          "product_id": 9810636013910,
           "id": 51275455955286,
+          "product_id": 9810636013910,
           "title": "Green / 552ML",
           "price": "34.95",
           "position": 2,
@@ -29277,8 +29277,8 @@
           "image_id": 66463673450838
         },
         {
-          "product_id": 9810636013910,
           "id": 51275455988054,
+          "product_id": 9810636013910,
           "title": "Pink / 363ML",
           "price": "30.95",
           "position": 3,
@@ -29305,8 +29305,8 @@
           "image_id": 66463673483606
         },
         {
-          "product_id": 9810636013910,
           "id": 51275456020822,
+          "product_id": 9810636013910,
           "title": "Pink / 552ML",
           "price": "34.95",
           "position": 4,
@@ -29333,8 +29333,8 @@
           "image_id": 66463673516374
         },
         {
-          "product_id": 9810636013910,
           "id": 51275456053590,
+          "product_id": 9810636013910,
           "title": "Yellow / 363ML",
           "price": "30.95",
           "position": 5,
@@ -29361,8 +29361,8 @@
           "image_id": 66463673549142
         },
         {
-          "product_id": 9810636013910,
           "id": 51275456086358,
+          "product_id": 9810636013910,
           "title": "Yellow / 552ML",
           "price": "34.95",
           "position": 6,
@@ -29391,8 +29391,8 @@
       ],
       "options": [
         {
-          "product_id": 9810636013910,
           "id": 12663396663638,
+          "product_id": 9810636013910,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29402,8 +29402,8 @@
           ]
         },
         {
-          "product_id": 9810636013910,
           "id": 12663396696406,
+          "product_id": 9810636013910,
           "name": "Capacity size",
           "position": 2,
           "values": [
