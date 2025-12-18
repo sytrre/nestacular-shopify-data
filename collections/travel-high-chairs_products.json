@@ -9004,8 +9004,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9837501841750",
       "variants": [
         {
-          "product_id": 9837501841750,
           "id": 51383040999766,
+          "product_id": 9837501841750,
           "title": "Blue",
           "price": "89.95",
           "position": 1,
@@ -9034,8 +9034,8 @@
       ],
       "options": [
         {
-          "product_id": 9837501841750,
           "id": 12695279534422,
+          "product_id": 9837501841750,
           "name": "Color",
           "position": 1,
           "values": [
