@@ -852,8 +852,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916044312918",
       "variants": [
         {
-          "product_id": 9916044312918,
           "id": 51674568393046,
+          "product_id": 9916044312918,
           "title": "Style E",
           "price": "18.95",
           "position": 1,
@@ -880,8 +880,8 @@
           "image_id": 67812595990870
         },
         {
-          "product_id": 9916044312918,
           "id": 51674568425814,
+          "product_id": 9916044312918,
           "title": "Style F",
           "price": "18.95",
           "position": 2,
@@ -908,8 +908,8 @@
           "image_id": 67812596023638
         },
         {
-          "product_id": 9916044312918,
           "id": 51674568458582,
+          "product_id": 9916044312918,
           "title": "Style C",
           "price": "18.95",
           "position": 3,
@@ -936,8 +936,8 @@
           "image_id": 67812596056406
         },
         {
-          "product_id": 9916044312918,
           "id": 51674568491350,
+          "product_id": 9916044312918,
           "title": "Style D",
           "price": "18.95",
           "position": 4,
@@ -964,8 +964,8 @@
           "image_id": 67812596089174
         },
         {
-          "product_id": 9916044312918,
           "id": 51674568524118,
+          "product_id": 9916044312918,
           "title": "Style G",
           "price": "18.95",
           "position": 5,
@@ -992,8 +992,8 @@
           "image_id": 67812596121942
         },
         {
-          "product_id": 9916044312918,
           "id": 51674568556886,
+          "product_id": 9916044312918,
           "title": "Style H",
           "price": "18.95",
           "position": 6,
@@ -1020,8 +1020,8 @@
           "image_id": 67812596154710
         },
         {
-          "product_id": 9916044312918,
           "id": 51674568589654,
+          "product_id": 9916044312918,
           "title": "Style A",
           "price": "18.95",
           "position": 7,
@@ -1048,8 +1048,8 @@
           "image_id": 67812595925334
         },
         {
-          "product_id": 9916044312918,
           "id": 51674568622422,
+          "product_id": 9916044312918,
           "title": "Style B",
           "price": "18.95",
           "position": 8,
@@ -1078,8 +1078,8 @@
       ],
       "options": [
         {
-          "product_id": 9916044312918,
           "id": 12786883035478,
+          "product_id": 9916044312918,
           "name": "Color",
           "position": 1,
           "values": [
