@@ -81,6 +81,46 @@
       "admin_graphql_api_id": "gid://shopify/Collection/666967572822"
     },
     {
+      "id": 669610606934,
+      "handle": "anniversary-gift-new-parents-year-one-feeding-upgrade",
+      "title": "Anniversary Gift for New Parents - Year One Feeding Upgrade",
+      "updated_at": "2025-12-18T12:23:46+00:00",
+      "body_html": "Celebrate first anniversaries with upgraded feeding essentials for growing babies. Premium quality items that mark the milestone of surviving the first year of parenthood together.",
+      "published_at": "2025-12-18T12:23:46+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Gift Box Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "High Chairs"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Fiber Bowl"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Safety Belt"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/669610606934"
+    },
+    {
       "id": 657306091862,
       "handle": "anti-colic-bottles",
       "title": "Anti-Colic Bottles",
@@ -1130,6 +1170,26 @@
       "admin_graphql_api_id": "gid://shopify/Collection/668120908118"
     },
     {
+      "id": 669608345942,
+      "handle": "best-baby-feeding-bowls-for-6-months",
+      "title": "Best Baby Feeding Bowls for 6 Months - Premium Collection",
+      "updated_at": "2025-12-18T12:00:06+00:00",
+      "body_html": "<p class=\"collection-intro\">Starting solids at 6 months is an exciting milestone that requires the right feeding tools to ensure safety, success, and enjoyment for both baby and parents. Our carefully curated collection of the best baby feeding bowls for 6-month-olds features premium options designed specifically for infants beginning their solid food journey. Each product in this collection prioritizes food-grade, BPA-free materials like silicone, wheat straw, and polypropylene that meet the highest safety standards for infant feeding. Whether you're practicing baby-led weaning or starting with purees, you'll find bowls with essential features like strong suction bases to prevent spills, divided compartments for introducing multiple foods, and microwave-safe designs for convenient meal preparation. Our selection includes complete feeding sets with appropriately sized utensils, sealed storage options for meal prep and on-the-go feeding, and high chair-compatible designs that integrate seamlessly into your feeding routine. From eco-friendly wheat straw sets with adorable cartoon designs to professional-grade silicone divided plates with non-slip grids, every product supports your baby's developing motor skills while making mealtimes less messy and more enjoyable. Explore our collection to find the perfect feeding bowls that will grow with your baby through this important developmental stage.</p>\n<div class=\"key-takeaways\">\n<h2>Key Takeaways</h2>\n<ul>\n<li>Food-grade silicone and wheat straw materials are safest for 6-month-old babies starting solids</li>\n<li>Suction cup bowls and divided plates help prevent spills during self-feeding development</li>\n<li>Microwave-safe and sealed storage options make meal prep and portion control easier for parents</li>\n<li>Complete feeding sets with appropriately sized utensils support baby-led weaning and motor skill development</li>\n</ul>\n</div>\n<div class=\"question-section\">\n<h3>What should you look for in baby feeding bowls for 6-month-olds?</h3>\n<p>When selecting baby feeding bowls for 6-month-olds, prioritize food-grade materials like BPA-free silicone, wheat straw, or polypropylene (PP) that are certified safe for infant use. The bowls should be appropriately sized (60-100ML capacity) for small portions as babies begin solid foods. Look for features that support this developmental stage: suction bases or non-slip designs to prevent tipping as babies learn hand-eye coordination, divided compartments to introduce multiple foods and identify potential allergens, and rounded edges that are gentle on sensitive gums. Microwave and dishwasher-safe options significantly reduce preparation time for busy parents. Temperature-resistant materials are essential since babies are sensitive to hot foods. Additionally, consider sets that include appropriately sized utensils with soft tips designed for emerging teeth and delicate mouths, supporting the transition from purees to self-feeding.</p>\n</div>\n<div class=\"question-section\">\n<h3>How do you choose the right feeding bowl for starting solids at 6 months?</h3>\n<ul>\n<li>Material safety: Select food-grade silicone, wheat straw, or BPA-free PP materials that are non-toxic and free from harmful chemicals like phthalates and lead</li>\n<li>Suction and stability: Choose bowls with strong suction cups or non-slip bases that adhere to high chair trays, preventing frustrating spills during early self-feeding attempts</li>\n<li>Size and portions: Opt for smaller capacity bowls (60-100ML) appropriate for 6-month-old serving sizes, which typically range from 1-2 tablespoons per food at this stage</li>\n<li>Easy cleaning: Prioritize dishwasher-safe designs with smooth surfaces and minimal crevices where food can hide, ensuring proper hygiene between feedings</li>\n<li>Temperature safety: Ensure bowls are microwave-safe for reheating and can withstand temperature changes without releasing chemicals or warping</li>\n<li>Versatility: Consider sets with lids for storage, divided sections for variety, and compatibility with your high chair tray system for maximum functionality</li>\n</ul>\n</div>\n<div class=\"read-also\">\n<h3>Read Also</h3>\n<ul>\n<li><a href=\"/blogs/journal/top-black-friday-cyber-monday-deals-on-baby-feeding-essentials-2025\">Top Black Friday/Cyber Monday Deals on Baby Feeding Essentials 2025</a></li>\n<li><a href=\"/blogs/journal/eco-friendly-baby-dinnerware-black-friday-cyber-monday-2025-wheat-straw-bamboo-sets-half-price\">Eco-Friendly Baby Dinnerware Black Friday/Cyber Monday 2025: Wheat Straw &amp; Bamboo Sets Half Price</a></li>\n<li><a href=\"/blogs/journal/the-3am-feeding-black-friday-cyber-monday-2025-kit-night-feeding-essentials-every-sleep-deprived-parent-needs\">The 3AM Feeding Black Friday/Cyber Monday 2025 Kit: Night Feeding Essentials Every Sleep-Deprived Parent Needs</a></li>\n</ul>\n</div>\n<div class=\"faqs\">\n<h2>Frequently Asked Questions</h2>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">What is the safest material for baby bowls?</summary>\n    <div class=\"faq-answer\">The safest materials for baby bowls are food-grade silicone, stainless steel, and natural wheat straw composites. Food-grade silicone is highly recommended because it's BPA-free, phthalate-free, and doesn't leach chemicals even when heated. It's soft, durable, and gentle on baby's gums. Wheat straw is an eco-friendly alternative made from natural agricultural byproducts, offering a biodegradable option that's also BPA-free and food-safe. Polypropylene (PP) plastic labeled as food-grade and BPA-free is also considered safe when used according to manufacturer guidelines. Avoid bowls with unknown plastics, those containing BPA, PVC, or phthalates, and painted or decorated bowls where the finish might chip into food. Always look for certifications like FDA approval or CPSIA compliance. Regardless of material, ensure bowls are specifically designed for infant feeding and can withstand repeated washing and sterilization without degrading.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">What age should I stop using suction plates?</summary>\n    <div class=\"faq-answer\">Most children can transition away from suction plates between 18-24 months, though this varies significantly based on individual development. Suction plates are most beneficial from 6-18 months when babies are learning self-feeding and lack the motor control to prevent spills. You can begin phasing them out when your toddler demonstrates consistent ability to eat without deliberately throwing or tipping plates, shows improved hand-eye coordination, and can sit calmly during most meals. However, many parents continue using suction plates until age 2-3 for convenience, especially for messier foods like pasta or soups. There's no harm in extended use if it reduces mealtime stress. Gradually introduce regular plates during calmer meals while keeping suction options available for challenging foods or particularly energetic days. The transition should be child-led and stress-free, as some children naturally become more careful eaters earlier than others.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">How many times a day should I feed solids to a 6 month old?</summary>\n    <div class=\"faq-answer\">At 6 months, start with one solid feeding per day for the first 2-3 weeks, then gradually increase to 2-3 times daily by 7-8 months. Initially, offer solids once daily at a time when your baby is alert and happy, not overly hungry or tired—many parents choose mid-morning or early afternoon. Begin with 1-2 tablespoons of single-ingredient purees or soft foods, maintaining breast milk or formula as the primary nutrition source (babies should still consume 24-32 ounces of milk daily). After your baby adjusts to eating solids and shows interest, add a second meal, then a third. By 8-9 months, most babies eat three small meals daily plus snacks. Remember that at 6 months, solids are primarily for practice and exploration, not nutrition—the goal is exposure to textures, tastes, and self-feeding skills. Follow your baby's hunger cues, never force feeding, and consult your pediatrician about your specific baby's needs, especially if there are growth concerns or feeding difficulties.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">What is the best suction bowl for babies?</summary>\n    <div class=\"faq-answer\">The best suction bowls for babies feature strong, food-grade silicone suction bases that adhere firmly to smooth surfaces, divided compartments for food variety, and are made from safe, non-toxic materials. Top characteristics include a wide suction base that creates strong adhesion to high chair trays and tables, making them difficult for babies to lift or tip. Food-grade silicone bowls are often superior because the entire bowl, including the suction base, is one flexible piece without gaps where food can hide. Look for bowls with divided sections (typically 2-3 compartments) that allow you to serve proteins, vegetables, and fruits separately, helping identify potential allergens and encouraging varied eating. The bowl should be shallow enough for babies to reach food easily but deep enough to contain messes. Microwave and dishwasher-safe options are practical for busy parents. The BabaKo Food-Grade Silicone Baby Divided Plate with non-slip grid design exemplifies these features, offering strong suction, safe materials, and practical compartments ideal for 6-month-olds beginning their solid food journey.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">Can 6-month-old babies use regular bowls or do they need special feeding bowls?</summary>\n    <div class=\"faq-answer\">Six-month-old babies benefit significantly from specialized feeding bowls rather than regular bowls due to their developmental stage and safety needs. Special baby feeding bowls are designed with features regular bowls lack: suction bases or non-slip bottoms that prevent tipping during early self-feeding attempts, appropriate portion sizes (60-100ML) for tiny appetites, materials specifically tested for infant safety and mouthing, and rounded edges gentle on developing gums. Regular bowls are typically too large, too heavy, easily tipped, and may contain materials not tested for infant use or repeated sterilization. At 6 months, babies are developing hand-eye coordination and will grab, bang, and explore bowls as much as eat from them—specialized bowls withstand this exploration safely. Additionally, baby bowls often feature bright colors and designs that engage visual interest, encouraging positive associations with mealtime. While you could technically use regular small bowls, specialized feeding bowls significantly reduce frustration, mess, and safety concerns during this crucial developmental window when babies are learning fundamental eating skills.</div>\n</details>\n</div>\n\n<style>\n.faq-dropdown {\n    border: 1px solid #e5e5e5;\n    border-radius: 8px;\n    margin-bottom: 12px;\n    overflow: hidden;\n}\n.faq-question {\n    padding: 16px 20px;\n    background: #f9f9f9;\n    cursor: pointer;\n    font-weight: 600;\n    list-style: none;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n}\n.faq-question::-webkit-details-marker {\n    display: none;\n}\n.faq-question::after {\n    content: \"+\";\n    font-size: 1.5em;\n    font-weight: 300;\n    transition: transform 0.2s;\n}\ndetails[open] .faq-question::after {\n    content: \"−\";\n}\ndetails[open] .faq-question {\n    background: #f0f0f0;\n}\n.faq-answer {\n    padding: 16px 20px;\n    line-height: 1.7;\n    color: #444;\n}\n</style>\n<div class=\"sources\">\n<h3>Sources</h3>\n<ul>\n<li>The Best Bowls &amp; Plates for Babies — www.babylist.com</li>\n<li>The Best Baby Plates — www.babygearlab.com</li>\n<li>The Best Plastic-Free Bowls, Plates, Cups, and Utensils for Babies and Kids — www.nytimes.com</li>\n<li>Baby Led Weaning For Beginners Recipes &amp; Tips | What bowls/plates are you using | Facebook — www.facebook.com</li>\n<li>Baby Feeding Products You'll Regret Buying (and what to buy instead) — www.youtube.com</li>\n</ul>\n</div>",
+      "published_at": "2025-12-18T11:59:24+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": false,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "shoppable-best-baby-feeding-bowls-for-6-months"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/669608345942"
+    },
+    {
       "id": 668121268566,
       "handle": "best-baby-shower-decorations-for-boy",
       "title": "Best Baby Shower Decorations for Boy - Premium Party Supplies",
@@ -1248,6 +1308,26 @@
       ],
       "published_scope": "web",
       "admin_graphql_api_id": "gid://shopify/Collection/669427499350"
+    },
+    {
+      "id": 669608444246,
+      "handle": "best-balloon-decorations-for-2nd-birthday",
+      "title": "Best Balloon Decorations for 2nd Birthday - Party Paradise",
+      "updated_at": "2025-12-18T12:01:52+00:00",
+      "body_html": "<p class=\"collection-intro\">Transform your toddler's milestone celebration with our carefully curated collection of the best balloon decorations for 2nd birthday parties. Whether you're planning an intimate family gathering or a larger celebration, our selection features everything from comprehensive 160-piece balloon sets to adorable birthday crowns and coordinating party accessories. Each product is chosen with both visual impact and toddler safety in mind, offering age-appropriate decorations that create stunning photo backdrops and festive atmospheres. From classic black and white polka dot designs to themed blue sets perfect for little boys and pink sequined crowns for precious girls, our collection provides complete party solutions. Mix and match latex balloons in multiple sizes (5-12 inches) with complementary accessories like birthday banners, wands, and favor boxes to create a professionally coordinated celebration that highlights this special milestone. Shop our collection to find high-quality, affordable balloon decorations that will make your child's 2nd birthday party memorable for years to come.</p>\n<div class=\"key-takeaways\">\n<h2>Key Takeaways</h2>\n<ul>\n<li>Choose age-appropriate balloon decorations with supervision - latex balloons should be kept away from toddlers when uninflated or popped</li>\n<li>Mix coordinating colors and sizes (5-12 inch) to create visual depth and professional-looking balloon arrangements</li>\n<li>Complete the party look with matching accessories like birthday crowns, banners, and favor boxes for a cohesive theme</li>\n<li>Number balloons and themed sets work perfectly for 2nd birthdays, making the milestone memorable in photos</li>\n</ul>\n</div>\n<div class=\"question-section\">\n<h3>What should you look for in 2nd birthday balloon decorations?</h3>\n<p>When selecting balloon decorations for a 2nd birthday party, prioritize safety, visual appeal, and age-appropriate designs. Look for high-quality latex balloons in various sizes (5-12 inches) that can create dimensional displays. Choose coordinating color schemes that photograph well - classic combinations like black and white polka dots offer timeless elegance, while blue or pink themed sets work beautifully for gender-specific celebrations. Consider complete balloon sets that include multiple pieces (100-160 pieces) to ensure you have enough decorations for your venue size. The best sets include a variety of balloon types: solid colors, confetti-filled, and themed designs featuring numbers or characters. Always verify that balloons are made from non-toxic materials and include clear supervision guidelines for toddler parties.</p>\n</div>\n<div class=\"question-section\">\n<h3>How do you choose the right balloon decorations for a toddler's 2nd birthday?</h3>\n<ul>\n<li>Select a cohesive color theme that matches your party's overall aesthetic - blue sets for boys, pink options for girls, or gender-neutral black and white combinations</li>\n<li>Opt for comprehensive sets (100+ pieces) that include various balloon sizes, garland strips, and coordinating accessories to simplify party planning</li>\n<li>Include special milestone markers like birthday crowns with sequins or flowers that make the birthday child feel extra special in photos</li>\n<li>Choose decorations with matching elements like banners, wands, and favor boxes to create a professionally coordinated look throughout your venue</li>\n<li>Consider balloon quality and thickness - premium latex balloons hold helium longer and are less likely to pop during the celebration</li>\n</ul>\n</div>\n<div class=\"read-also\">\n<h3>Read Also</h3>\n<ul>\n<li><a href=\"/blogs/journal/best-anti-colic-baby-bottles-reducing-gas-and-reflux\">Best Anti-Colic Baby Bottles: Reducing Gas and Reflux</a></li>\n<li><a href=\"/blogs/journal/best-baby-bottles-complete-buying-guide-reviews\">Best Baby Bottles: Complete Buying Guide &amp; Reviews</a></li>\n<li><a href=\"/blogs/journal/best-baby-bibs-2025-silicone-vs-cloth-vs-disposable-compared\">Best Baby Bibs 2025: Silicone vs Cloth vs Disposable Compared</a></li>\n</ul>\n</div>\n<div class=\"faqs\">\n<h2>Frequently Asked Questions</h2>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">What is a good idea for a 2 year old birthday party?</summary>\n    <div class=\"faq-answer\">A fantastic 2-year-old birthday party focuses on simple, colorful decorations and age-appropriate activities. Start with a cohesive balloon decoration theme - a 160-piece balloon set creates impressive backdrops, photo walls, and balloon arches without overwhelming your space. Add a special birthday crown for your toddler to wear during cake time, making them feel like the star of the celebration. Keep the party short (2-3 hours) and schedule it around nap time. Simple activities like bubble stations, soft play areas, and a small ball pit work wonderfully. Choose a recognizable theme like animals, colors, or favorite characters. Include matching favor boxes filled with age-appropriate treats and small toys for guests to take home. The key is creating a visually stunning but stress-free environment where toddlers can safely explore and play.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">Can 2 year olds play with balloons?</summary>\n    <div class=\"faq-answer\">Two-year-olds should only interact with balloons under constant adult supervision, and certain safety precautions are essential. Inflated, intact balloons can be safe for toddlers to play with when closely monitored, but uninflated or popped balloon pieces pose serious choking hazards. Never allow toddlers to put balloons in their mouths or try to inflate them independently. When decorating with latex balloons for a 2nd birthday party, keep them out of reach as decor elements - use them for balloon arches, ceiling decorations, or secured garlands rather than as toys. Immediately collect and dispose of any popped balloon fragments. Consider using balloon weights and securing arrangements high on walls or as ceiling decorations. Mylar (foil) balloons are generally safer than latex as they don't shatter into small pieces. Always supervise balloon activities and explain to older children at the party not to give balloons directly to toddlers.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">What are popular themes for 2 year old girls?</summary>\n    <div class=\"faq-answer\">Popular themes for 2-year-old girls include timeless favorites that are visually appealing and age-appropriate. Princess parties remain incredibly popular, featuring pink and gold balloon decorations with sequined crowns and matching accessories. Floral themes with pastel balloons in pink, lavender, and mint create elegant, Instagram-worthy celebrations. Character-based themes like unicorns, butterflies, or favorite cartoon characters work wonderfully at this age. A 'Two Sweet' theme using pink balloons with donut or ice cream accents is trending for second birthdays. Garden party themes with flower decorations and soft pink latex balloons create a whimsical outdoor celebration. Rainbow themes appeal to toddlers' love of colors and photograph beautifully with multi-colored balloon arrangements. Classic pink and gold combinations offer sophistication while remaining playful. The key is choosing a theme with clear visual elements that translate well to balloon decorations, banners, and coordinating party supplies like favor boxes and birthday crowns.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">What are some unique 2nd birthday ideas?</summary>\n    <div class=\"faq-answer\">Create a memorable 2nd birthday with these unique ideas that go beyond traditional celebrations. Design a balloon installation using 100+ balloons in varying sizes (5-12 inches) to create an impressive balloon wall or organic balloon garland as the party focal point. Set up a 'Two-tti Frutti' theme with colorful balloon clusters representing different fruits. Create a mini photo studio area with coordinated balloon decorations, a special birthday crown, and props where each child gets a mini photoshoot. Host a 'Breakfast Birthday' with morning celebrations featuring pastel balloons and pancake decorations. Design a 'Two Wild' safari theme using neutral balloons with animal accents. Set up activity stations with different colored balloon zones - each area features activities matching the balloon colors. Create personalized favor boxes that double as party decor before guests take them home. Use black and white polka dot balloons for a sophisticated 'Modern Minimalist' celebration that stands out from typical toddler parties. Include a special wand and banner set so the birthday child can 'conduct' the Happy Birthday song, making them an active participant in their celebration.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">How many balloons do you need for a 2nd birthday party?</summary>\n    <div class=\"faq-answer\">For a typical 2nd birthday party, plan for 80-160 balloons depending on your venue size and decoration ambitions. A small home party with 10-15 guests works well with 80-100 balloons, which allows for a balloon garland, table clusters, and scattered floor balloons. Larger venues or more elaborate displays benefit from 150-160 piece sets that provide enough balloons for a full balloon arch, multiple balloon bouquets, and comprehensive room coverage. Consider the decoration areas: a standard balloon garland uses 40-60 balloons, table centerpieces need 5-7 balloons each, and balloon bouquets require 6-10 balloons per arrangement. Mix sizes for visual interest - combine 12-inch balloons as anchors with 5-inch and 10-inch balloons as fillers. Complete sets that include various sizes and coordinating colors ensure you have adequate coverage without over-purchasing. Remember that having extra balloons is beneficial as some may pop during inflation or setup, and you can create last-minute arrangements for unexpected photo opportunities or decoration gaps.</div>\n</details>\n</div>\n\n<style>\n.faq-dropdown {\n    border: 1px solid #e5e5e5;\n    border-radius: 8px;\n    margin-bottom: 12px;\n    overflow: hidden;\n}\n.faq-question {\n    padding: 16px 20px;\n    background: #f9f9f9;\n    cursor: pointer;\n    font-weight: 600;\n    list-style: none;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n}\n.faq-question::-webkit-details-marker {\n    display: none;\n}\n.faq-question::after {\n    content: \"+\";\n    font-size: 1.5em;\n    font-weight: 300;\n    transition: transform 0.2s;\n}\ndetails[open] .faq-question::after {\n    content: \"−\";\n}\ndetails[open] .faq-question {\n    background: #f0f0f0;\n}\n.faq-answer {\n    padding: 16px 20px;\n    line-height: 1.7;\n    color: #444;\n}\n</style>\n<div class=\"sources\">\n<h3>Sources</h3>\n<ul>\n<li>The Biggest Event Planners and Balloon Artists Hub in US | I have a birthday party coming up for the cutest 2 year old ever | Facebook — www.facebook.com</li>\n<li>WHAT ARE THE TOP 7 BEST BALLOON BRANDS? | My Rating — www.youtube.com</li>\n<li>Amazon.com: 32 Inch Building Block Number 2 Balloons 2 Years Old Balloons Large Big Helium Foil Mylar Balloon for 2nd Birthday Party Decoration Supplies : Home &amp; Kitchen — www.amazon.com</li>\n<li>Kelcey Jensen on TikTok — www.tiktok.com</li>\n<li>I Tried An Amazon Balloon Garland Kit (Watch Before Buying!) Balloons and Business — www.youtube.com</li>\n</ul>\n</div>",
+      "published_at": "2025-12-18T12:01:10+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": false,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "shoppable-best-balloon-decorations-for-2nd-birthday"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/669608444246"
     },
     {
       "id": 668400943446,
@@ -1788,6 +1868,26 @@
       ],
       "published_scope": "web",
       "admin_graphql_api_id": "gid://shopify/Collection/667677950294"
+    },
+    {
+      "id": 669608575318,
+      "handle": "best-sippy-cups-18-months",
+      "title": "Best Sippy Cups for 18 Months - Premium Baby Feeding Collection",
+      "updated_at": "2025-12-18T12:03:43+00:00",
+      "body_html": "<p class=\"collection-intro\">Finding the best sippy cups for 18-month-olds is a crucial step in your toddler's feeding journey, marking the transition from bottles to independent drinking. At this developmental stage, your little one is rapidly building motor skills, asserting independence, and establishing habits that will shape their relationship with hydration and self-care. Our carefully curated collection features premium sippy cups and training bottles designed specifically for 18-month-olds, combining safety, functionality, and developmental support. Whether you're looking for leakproof 360° rotating cups that mimic regular cup drinking, ergonomic double-handled designs for confident gripping, or speech-therapist-recommended straw cups that support oral motor development, you'll find options that meet your toddler's unique needs. Each product in this collection is crafted from safe, BPA-free materials—including food-grade silicone, durable stainless steel, and eco-friendly wheat straw—ensuring your child's health is never compromised. With capacities perfectly sized at 240ml for toddler hydration needs and features like anti-colic systems and truly leakproof designs, these sippy cups make parenting easier while supporting your child's growth toward drinking independence. Explore our collection to discover the perfect sippy cup that will accompany your 18-month-old through this exciting milestone.</p>\n<div class=\"key-takeaways\">\n<h2>Key Takeaways</h2>\n<ul>\n<li>At 18 months, toddlers benefit most from sippy cups with easy-grip handles and leakproof designs that promote independence</li>\n<li>360° rim cups and straw cups are recommended by speech therapists for proper oral motor development</li>\n<li>Look for BPA-free materials like food-grade silicone, stainless steel, or wheat straw for safe daily use</li>\n<li>Transition cups with 240ml capacity are ideal for 18-month-olds, supporting hydration without excessive liquid intake</li>\n</ul>\n</div>\n<div class=\"question-section\">\n<h3>What should you look for in sippy cups for 18-month-olds?</h3>\n<p>When selecting sippy cups for 18-month-olds, prioritize features that support developmental milestones while ensuring safety and practicality. Look for cups with ergonomic double handles that fit comfortably in small hands, promoting self-feeding skills and independence. The capacity should be appropriate—typically 240ml—to encourage adequate hydration without being too heavy when full. Material safety is paramount; choose BPA-free, food-grade materials like silicone, stainless steel, or wheat straw that can withstand repeated use and cleaning. Leakproof designs are essential for reducing mess during this exploratory stage, while easy-to-clean construction with minimal parts saves time for busy parents. Consider cups that support proper oral development, such as 360° rim designs or straw cups, which speech therapists often recommend over traditional spout sippy cups for better tongue positioning and muscle development.</p>\n</div>\n<div class=\"question-section\">\n<h3>How do you choose the right sippy cup for your 18-month-old's needs?</h3>\n<ul>\n<li>Assess your child's drinking skills: If they're transitioning from bottles, start with handled cups featuring familiar shapes; for advanced drinkers, consider 360° rotating cups that mimic regular cup drinking</li>\n<li>Consider lifestyle factors: Stainless steel bottles work well for on-the-go families needing temperature retention, while lightweight silicone cups are perfect for home use and travel</li>\n<li>Evaluate cleaning convenience: Choose designs with wide openings and minimal crevices that can be easily hand-washed or are dishwasher-safe to maintain hygiene</li>\n<li>Match the cup type to developmental goals: Straw cups encourage proper swallowing patterns, while open-rim 360° cups prepare toddlers for regular cup drinking</li>\n<li>Test for true leakproof performance: Look for cups with secure locking mechanisms and valve systems that prevent spills during active toddler play</li>\n</ul>\n</div>\n<div class=\"read-also\">\n<h3>Read Also</h3>\n<ul>\n<li><a href=\"/blogs/journal/360-degree-baby-cups-black-friday-cyber-monday-2025-spill-proof-sippy-cup-deals-for-learning-to-drink\">360 Degree Baby Cups Black Friday/Cyber Monday 2025: Spill-Proof Sippy Cup Deals for Learning to Drink</a></li>\n<li><a href=\"/blogs/journal/sippy-cup-vs-straw-cup-vs-360-cup-a-dentist-approved-guide\">Sippy Cup vs. Straw Cup vs. 360 Cup: A Dentist-Approved Guide</a></li>\n<li><a href=\"/blogs/journal/best-anti-colic-baby-bottles-reducing-gas-and-reflux\">Best Anti-Colic Baby Bottles: Reducing Gas and Reflux</a></li>\n</ul>\n</div>\n<div class=\"faqs\">\n<h2>Frequently Asked Questions</h2>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">What sippy cup is best for an 18 month old?</summary>\n    <div class=\"faq-answer\">The best sippy cup for an 18-month-old is one that promotes independence while supporting healthy oral development. The 360° Sippy Cup with its leakproof 240ml capacity is an excellent choice, as it allows toddlers to drink from any side of the rim, mimicking regular cup drinking while preventing spills. The 360° Rotating Silicone Baby Water Cup with double handles is another top option, offering easy grip and maneuverability for developing motor skills. For toddlers who prefer straws, the Adorvia Anti-Colic PP Baby Bottle with Handle provides a comfortable transition with its wide straw design that's easier to use than traditional spouts. Speech therapists generally recommend straw cups or 360° rim cups over traditional hard-spout sippy cups because they better support tongue positioning, oral muscle development, and proper swallowing patterns. The key is choosing a cup that's appropriately sized (240ml is ideal), made from safe materials, truly leakproof, and easy for your toddler to hold and drink from independently.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">Should a 2 year old be drinking out of a sippy cup?</summary>\n    <div class=\"faq-answer\">While a 2-year-old can still use sippy cups, this is typically the age when parents should begin transitioning toward regular open cups or straw cups for most drinking occasions. The American Academy of Pediatrics recommends limiting sippy cup use by age 2 to prevent potential issues with tooth decay (from prolonged liquid exposure) and speech development delays. However, sippy cups can still serve practical purposes for 2-year-olds in specific situations—such as during car rides, at bedtime, or when out and about—to prevent spills and maintain convenience. The key is using sippy cups strategically rather than as the primary drinking method throughout the day. If you continue using sippy cups at age 2, opt for designs that promote healthy oral development, such as 360° rim cups or straw cups, rather than traditional hard-spout varieties. Encourage open cup drinking during meals and supervised times, reserving leakproof sippy cups for situations where spills would be particularly problematic. This balanced approach helps develop drinking skills while maintaining practicality for busy family life.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">What type of bottle should an 18 month old use?</summary>\n    <div class=\"faq-answer\">At 18 months, toddlers should ideally be transitioning away from traditional baby bottles toward sippy cups, straw cups, or training cups with handles. If you're still using bottles at this age, choose options that facilitate the transition to more advanced drinking methods. The Babivo Premium Stainless Steel Baby Feeding Bottle with Handle is an excellent transitional option, as the handles encourage self-feeding while the stainless steel construction is durable and maintains temperature. The Adorvia Anti-Colic PP Baby Bottle with Handle featuring a wide straw is another appropriate choice, as straw drinking promotes better oral motor skills than traditional bottle nipples. Pediatricians and dentists typically recommend weaning from bottles by 12-18 months to prevent tooth decay, speech delays, and over-dependence on bottles. At 18 months, focus on cups that have handles for easy gripping, are made from safe materials (BPA-free plastic, silicone, or stainless steel), and feature drinking mechanisms that support oral development—such as straws or 360° rims rather than bottle-style nipples. This transition supports your toddler's developmental milestones while establishing healthy drinking habits for years to come.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">What sippy cups do speech therapists recommend?</summary>\n    <div class=\"faq-answer\">Speech therapists consistently recommend straw cups and 360° rim cups over traditional hard-spout sippy cups for supporting proper oral motor development in toddlers. Straw cups, like the Adorvia Anti-Colic PP Baby Bottle with Handle, are particularly favored because they promote several important skills: they require lip rounding, encourage proper tongue retraction, strengthen cheek muscles, and support a mature swallowing pattern. These actions are foundational for clear speech development. The 360° Sippy Cup and 360° Rotating Silicone Baby Water Cup are also speech-therapist approved because they allow children to drink from any edge of the rim, similar to a regular open cup, which promotes proper tongue elevation and tip movement—critical for producing certain speech sounds. Speech therapists advise against prolonged use of traditional hard-spout sippy cups because they can encourage a forward tongue thrust (similar to bottle drinking), potentially leading to articulation difficulties, particularly with sounds like /s/, /z/, and /t/. If you must use spout cups, limit their duration and frequency. The ideal progression recommended by speech professionals is: bottle or breast → straw cup or 360° cup → regular open cup, with minimal time spent on traditional spouted sippy cups.</div>\n</details>\n\n<details class=\"faq-dropdown\">\n    <summary class=\"faq-question\">Are wheat straw baby feeding sets safe for 18-month-olds?</summary>\n    <div class=\"faq-answer\">Yes, wheat straw baby feeding sets are safe and increasingly popular for 18-month-olds as an eco-friendly alternative to traditional plastic dinnerware. Products like the 3-Piece Wheat Straw Baby Bowl Set and 3-Piece Wheat Straw Baby Feeding Set with Bear Bowl are made from natural wheat straw fiber combined with food-grade, BPA-free materials, making them non-toxic and safe for toddler use. Wheat straw products offer several advantages: they're biodegradable and environmentally sustainable, naturally antibacterial, lightweight yet durable enough to withstand toddler drops and throws, and resistant to staining and odors. These sets typically include appropriately sized bowls, spoons, and forks designed for small hands developing self-feeding skills. At 18 months, toddlers are refining their fine motor skills and learning to use utensils independently, making these complete feeding sets ideal for encouraging mealtime autonomy. When choosing wheat straw products, ensure they're labeled as food-grade, dishwasher-safe (most are), and free from harmful chemicals. While these sets focus on solid food feeding rather than drinking, they complement your sippy cup collection perfectly, creating a coordinated, safe, and sustainable feeding solution for your toddler.</div>\n</details>\n</div>\n\n<style>\n.faq-dropdown {\n    border: 1px solid #e5e5e5;\n    border-radius: 8px;\n    margin-bottom: 12px;\n    overflow: hidden;\n}\n.faq-question {\n    padding: 16px 20px;\n    background: #f9f9f9;\n    cursor: pointer;\n    font-weight: 600;\n    list-style: none;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n}\n.faq-question::-webkit-details-marker {\n    display: none;\n}\n.faq-question::after {\n    content: \"+\";\n    font-size: 1.5em;\n    font-weight: 300;\n    transition: transform 0.2s;\n}\ndetails[open] .faq-question::after {\n    content: \"−\";\n}\ndetails[open] .faq-question {\n    background: #f0f0f0;\n}\n.faq-answer {\n    padding: 16px 20px;\n    line-height: 1.7;\n    color: #444;\n}\n</style>\n<div class=\"sources\">\n<h3>Sources</h3>\n<ul>\n<li>The Best Sippy Cups — www.babygearlab.com</li>\n<li>The Best Cup for Toddlers - What's easy to clean &amp; leak proof? — inlifeandlittles.com</li>\n<li>11 Best Toddler Cups for Every Stage (2025, Tested by Parents) — www.thequalityedit.com</li>\n<li>From Bottle to Big Kid: The Best Sippy Cups Approved by Experts, Parents, &amp; Toddlers — www.parents.com</li>\n<li>Best Sippy Cups - Lafayette Mom — thelafayettemom.com</li>\n</ul>\n</div>",
+      "published_at": "2025-12-18T12:03:00+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": false,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "shoppable-best-sippy-cups-18-months"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/669608575318"
     },
     {
       "id": 668752085334,
@@ -2387,6 +2487,26 @@
         "height": 1024,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_24a41ea5-d319-4ef3-b4c2-fdcc077836ca.png?v=1758023600"
       }
+    },
+    {
+      "id": 669608739158,
+      "handle": "bpa-free-baby-bib",
+      "title": "BPA-Free Baby Bibs | Safe Feeding Essentials",
+      "updated_at": "2025-12-18T12:03:34+00:00",
+      "body_html": "<h2>BPA-Free Baby Bibs for Safe Feeding</h2>\n\n<p>Our BPA-free baby bibs are crafted from non-toxic, food-safe materials that prioritize your baby's health and safety. Each bib is designed without harmful chemicals like BPA, phthalates, or PVC, ensuring safe contact with your child's skin during every meal.</p>\n\n<p>These bibs feature durable construction that withstands daily washing while maintaining softness and flexibility. The easy-to-clean surfaces resist stains and odors, making cleanup quick and efficient after messy meals.</p>\n\n<h3>Key Features</h3>\n<ul>\n<li>100% BPA-free materials certified for baby safety</li>\n<li>Soft, flexible construction for comfortable wear</li>\n<li>Stain-resistant and waterproof surfaces</li>\n<li>Easy to wipe clean or machine washable</li>\n<li>Adjustable closures for growing babies</li>\n<li>Durable design for long-lasting use</li>\n</ul>\n\n<p>Suitable for infants and toddlers during feeding time, self-feeding practice, and messy meals. These bibs provide reliable protection while meeting the highest safety standards for baby products.</p>",
+      "published_at": "2025-12-18T12:03:34+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "bpa-free-baby-bib"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/669608739158"
     },
     {
       "id": 668529754454,
@@ -4269,6 +4389,46 @@
       "admin_graphql_api_id": "gid://shopify/Collection/669246947670"
     },
     {
+      "id": 669610508630,
+      "handle": "housewarming-gift-baby-essentials-new-parents",
+      "title": "Housewarming Gift Baby Essentials for New Parents",
+      "updated_at": "2025-12-18T12:23:36+00:00",
+      "body_html": "Welcome new homeowners with baby-safe feeding essentials perfect for setting up their first family kitchen. Practical gifts that help parents settle into their new space.",
+      "published_at": "2025-12-18T12:23:36+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Gift Box Set"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Feeding Spoon"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bottle"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Drinking Cup"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Baby Bottle Brush"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/669610508630"
+    },
+    {
       "id": 668405104982,
       "handle": "infant-rocker",
       "title": "Infant Rockers & Baby Bouncers",
@@ -4287,6 +4447,26 @@
       ],
       "published_scope": "web",
       "admin_graphql_api_id": "gid://shopify/Collection/668405104982"
+    },
+    {
+      "id": 669608640854,
+      "handle": "kids-party-favors",
+      "title": "Kids Party Favors - Fun Gifts for Birthday Parties",
+      "updated_at": "2025-12-18T12:03:06+00:00",
+      "body_html": "<h2>Kids Party Favors</h2>\n<p>Finding the right party favors can make any children's celebration memorable. Our collection features items designed to delight young guests and send them home with a smile.</p>\n<p>Party favors serve as thank-you gifts for attending birthday parties and special events. These small tokens help create lasting memories while keeping children entertained during and after the celebration.</p>\n<h3>What to Consider When Choosing Party Favors</h3>\n<p>Age-appropriate items ensure every child can enjoy their favor. Consider the party theme, guest count, and budget when selecting items. Popular options include toys, games, stickers, and creative activities that children can use right away or save for later.</p>\n<p>Quality matters when it comes to party favors. Items should be safe, durable, and engaging enough to provide value beyond the party itself. Many parents appreciate favors that encourage creativity or active play rather than single-use items.</p>\n<h3>Planning Your Party Favor Selection</h3>\n<p>Calculate one favor per guest, plus a few extras for unexpected attendees. Group items into themed sets or mix and match individual pieces based on your party style. Consider packaging options like small bags, boxes, or containers that complement your party decorations.</p>",
+      "published_at": "2025-12-18T12:03:06+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "kids-party-favors"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/669608640854"
     },
     {
       "id": 657383260502,
@@ -6514,6 +6694,26 @@
       "admin_graphql_api_id": "gid://shopify/Collection/658757386582"
     },
     {
+      "id": 669608771926,
+      "handle": "spill-proof-baby-bowl",
+      "title": "Spill Proof Baby Bowls | Non-Slip Toddler Feeding Bowls",
+      "updated_at": "2025-12-18T12:04:05+00:00",
+      "body_html": "<h2>Spill Proof Baby Bowls</h2>\n<p>Spill proof baby bowls feature suction cup bases and non-slip designs that stay firmly in place during mealtime. These feeding bowls help reduce mess while babies and toddlers develop independent eating skills.</p>\n<h3>Features of Spill Proof Bowls</h3>\n<ul>\n<li>\n<strong>Suction Base Technology:</strong> Strong suction cups adhere to highchairs, tables, and smooth surfaces to prevent tipping and throwing</li>\n<li>\n<strong>BPA-Free Materials:</strong> Made from food-grade silicone or plastic that's safe for babies 6 months and up</li>\n<li>\n<strong>Divided Sections:</strong> Compartments keep different foods separated for picky eaters</li>\n<li>\n<strong>Dishwasher Safe:</strong> Easy cleanup with microwave and dishwasher compatibility</li>\n<li>\n<strong>Ergonomic Design:</strong> Sized appropriately for small hands learning to scoop and self-feed</li>\n</ul>\n<h3>Benefits for Parents and Babies</h3>\n<p>Spill proof bowls minimize food waste and cleanup time during the messy stages of learning to eat. The stable base allows babies to practice scooping and utensil use without constant bowl movement. These bowls work well for purees, cereals, fruits, vegetables, and other baby foods.</p>\n<h3>Choosing the Right Spill Proof Bowl</h3>\n<p>Consider suction strength, material type, and capacity when selecting a spill proof bowl. Silicone bowls offer flexibility for easy food removal, while plastic options are typically more rigid. Look for bowls with strong suction that release easily when lifted from the tab or edge.</p>",
+      "published_at": "2025-12-18T12:04:05+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": null,
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "spill-proof-baby-bowl"
+        }
+      ],
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Collection/669608771926"
+    },
+    {
       "id": 667898282326,
       "handle": "stain-resistant",
       "title": "Stain-Resistant Products | Easy-Care & Durable",
@@ -7762,8 +7962,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 206,
-    "items_in_page": 206,
+    "total_items": 214,
+    "items_in_page": 214,
     "has_next_page": false,
     "has_previous_page": false
   }
