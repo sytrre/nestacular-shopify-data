@@ -778,8 +778,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916384280918",
       "variants": [
         {
-          "product_id": 9916384280918,
           "id": 51675187642710,
+          "product_id": 9916384280918,
           "title": "Assorted Color",
           "price": "29.95",
           "position": 1,
@@ -808,8 +808,8 @@
       ],
       "options": [
         {
-          "product_id": 9916384280918,
           "id": 12787248333142,
+          "product_id": 9916384280918,
           "name": "Color",
           "position": 1,
           "values": [

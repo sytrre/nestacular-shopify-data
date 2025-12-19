@@ -785,8 +785,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916384280918",
       "variants": [
         {
-          "product_id": 9916384280918,
           "id": 51675187642710,
+          "product_id": 9916384280918,
           "title": "Assorted Color",
           "price": "29.95",
           "position": 1,
@@ -815,8 +815,8 @@
       ],
       "options": [
         {
-          "product_id": 9916384280918,
           "id": 12787248333142,
+          "product_id": 9916384280918,
           "name": "Color",
           "position": 1,
           "values": [
@@ -27963,8 +27963,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870671544662",
       "variants": [
         {
-          "product_id": 9870671544662,
           "id": 51504761143638,
+          "product_id": 9870671544662,
           "title": "Lake Green",
           "price": "19.95",
           "position": 1,
@@ -27991,8 +27991,8 @@
           "image_id": 67399344587094
         },
         {
-          "product_id": 9870671544662,
           "id": 51504761176406,
+          "product_id": 9870671544662,
           "title": "Pink",
           "price": "19.95",
           "position": 2,
@@ -28021,8 +28021,8 @@
       ],
       "options": [
         {
-          "product_id": 9870671544662,
           "id": 12733818208598,
+          "product_id": 9870671544662,
           "name": "Color",
           "position": 1,
           "values": [
@@ -28771,8 +28771,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791674679638",
       "variants": [
         {
-          "product_id": 9791674679638,
           "id": 51197278388566,
+          "product_id": 9791674679638,
           "title": "330ml / Pink",
           "price": "18.48",
           "position": 1,
@@ -28799,8 +28799,8 @@
           "image_id": 66244551147862
         },
         {
-          "product_id": 9791674679638,
           "id": 51197278421334,
+          "product_id": 9791674679638,
           "title": "330ml / Sky Blue",
           "price": "18.48",
           "position": 2,
@@ -28827,8 +28827,8 @@
           "image_id": 66244551180630
         },
         {
-          "product_id": 9791674679638,
           "id": 51197278454102,
+          "product_id": 9791674679638,
           "title": "330ml / Brown",
           "price": "18.48",
           "position": 3,
@@ -28855,8 +28855,8 @@
           "image_id": 66244551213398
         },
         {
-          "product_id": 9791674679638,
           "id": 51197278486870,
+          "product_id": 9791674679638,
           "title": "260ml / Pink",
           "price": "18.48",
           "position": 4,
@@ -28883,8 +28883,8 @@
           "image_id": 66244551147862
         },
         {
-          "product_id": 9791674679638,
           "id": 51197278519638,
+          "product_id": 9791674679638,
           "title": "260ml / Sky Blue",
           "price": "18.48",
           "position": 5,
@@ -28911,8 +28911,8 @@
           "image_id": 66244551180630
         },
         {
-          "product_id": 9791674679638,
           "id": 51197278552406,
+          "product_id": 9791674679638,
           "title": "260ml / Brown",
           "price": "18.48",
           "position": 6,
@@ -28941,8 +28941,8 @@
       ],
       "options": [
         {
-          "product_id": 9791674679638,
           "id": 12640934134102,
+          "product_id": 9791674679638,
           "name": "Color",
           "position": 1,
           "values": [
@@ -28951,8 +28951,8 @@
           ]
         },
         {
-          "product_id": 9791674679638,
           "id": 12640934166870,
+          "product_id": 9791674679638,
           "name": "Capacity",
           "position": 2,
           "values": [
