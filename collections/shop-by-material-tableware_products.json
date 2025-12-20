@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765170086230",
       "variants": [
         {
-          "product_id": 9765170086230,
           "id": 51084378374486,
+          "product_id": 9765170086230,
           "title": "White 6 Inch Plate",
           "price": "19.96",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 65948823585110
         },
         {
-          "product_id": 9765170086230,
           "id": 51084378407254,
+          "product_id": 9765170086230,
           "title": "Blue 8 Inch Plate",
           "price": "27.61",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 65948834529622
         },
         {
-          "product_id": 9765170086230,
           "id": 51084378440022,
+          "product_id": 9765170086230,
           "title": "Blue 6 Inch Bowl",
           "price": "25.23",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 65948840624470
         },
         {
-          "product_id": 9765170086230,
           "id": 51084378472790,
+          "product_id": 9765170086230,
           "title": "Blue 6 Inch Plate",
           "price": "25.23",
           "position": 4,
@@ -136,8 +136,8 @@
           "image_id": 65948850848086
         },
         {
-          "product_id": 9765170086230,
           "id": 51084378505558,
+          "product_id": 9765170086230,
           "title": "Coffee  6 Inch Plate",
           "price": "19.96",
           "position": 5,
@@ -164,8 +164,8 @@
           "image_id": 65948857729366
         },
         {
-          "product_id": 9765170086230,
           "id": 51084378538326,
+          "product_id": 9765170086230,
           "title": "White 8 Inch Plate",
           "price": "27.61",
           "position": 6,
@@ -192,8 +192,8 @@
           "image_id": 65948861071702
         },
         {
-          "product_id": 9765170086230,
           "id": 51084378571094,
+          "product_id": 9765170086230,
           "title": "Coffee 8 Inch Plate",
           "price": "27.61",
           "position": 7,
@@ -220,8 +220,8 @@
           "image_id": 65948866445654
         },
         {
-          "product_id": 9765170086230,
           "id": 51084378603862,
+          "product_id": 9765170086230,
           "title": "White 6 Inch Bowl",
           "price": "25.23",
           "position": 8,
@@ -248,8 +248,8 @@
           "image_id": 65948880208214
         },
         {
-          "product_id": 9765170086230,
           "id": 51084378636630,
+          "product_id": 9765170086230,
           "title": "Coffee 6 Inch Bowl",
           "price": "25.23",
           "position": 9,
@@ -278,8 +278,8 @@
       ],
       "options": [
         {
-          "product_id": 9765170086230,
           "id": 12609595834710,
+          "product_id": 9765170086230,
           "name": "Color",
           "position": 1,
           "values": [
