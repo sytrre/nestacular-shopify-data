@@ -3125,8 +3125,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792651133270",
       "variants": [
         {
-          "product_id": 9792651133270,
           "id": 51201120665942,
+          "product_id": 9792651133270,
           "title": "Transparent",
           "price": "34.46",
           "position": 1,
@@ -3153,8 +3153,8 @@
           "image_id": 66253032751446
         },
         {
-          "product_id": 9792651133270,
           "id": 51201120698710,
+          "product_id": 9792651133270,
           "title": "Yellow",
           "price": "35.03",
           "position": 2,
@@ -3181,8 +3181,8 @@
           "image_id": 66253032784214
         },
         {
-          "product_id": 9792651133270,
           "id": 51201120731478,
+          "product_id": 9792651133270,
           "title": "Pink",
           "price": "35.03",
           "position": 3,
@@ -3211,8 +3211,8 @@
       ],
       "options": [
         {
-          "product_id": 9792651133270,
           "id": 12642098381142,
+          "product_id": 9792651133270,
           "name": "Color",
           "position": 1,
           "values": [
