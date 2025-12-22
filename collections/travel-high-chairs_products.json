@@ -18833,8 +18833,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9630314529110",
       "variants": [
         {
-          "id": 50481958682966,
           "product_id": 9630314529110,
+          "id": 50481958682966,
           "title": "Navy",
           "price": "50.95",
           "position": 1,
@@ -18861,8 +18861,8 @@
           "image_id": 62510060699990
         },
         {
-          "id": 50481958715734,
           "product_id": 9630314529110,
+          "id": 50481958715734,
           "title": "Army Green",
           "price": "50.95",
           "position": 2,
@@ -18891,8 +18891,8 @@
       ],
       "options": [
         {
-          "id": 12442863731030,
           "product_id": 9630314529110,
+          "id": 12442863731030,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34282,8 +34282,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828446798166",
       "variants": [
         {
-          "id": 51346718654806,
           "product_id": 9828446798166,
+          "id": 51346718654806,
           "title": "Almond Yellow",
           "price": "238.95",
           "position": 1,
@@ -34310,8 +34310,8 @@
           "image_id": 66937949651286
         },
         {
-          "id": 51346718687574,
           "product_id": 9828446798166,
+          "id": 51346718687574,
           "title": "Black Knight",
           "price": "238.95",
           "position": 2,
@@ -34338,8 +34338,8 @@
           "image_id": 66937949684054
         },
         {
-          "id": 51346718720342,
           "product_id": 9828446798166,
+          "id": 51346718720342,
           "title": "Jingyi White",
           "price": "238.95",
           "position": 3,
@@ -34366,8 +34366,8 @@
           "image_id": 66937949716822
         },
         {
-          "id": 51346718753110,
           "product_id": 9828446798166,
+          "id": 51346718753110,
           "title": "Morning Pink",
           "price": "238.95",
           "position": 4,
@@ -34396,8 +34396,8 @@
       ],
       "options": [
         {
-          "id": 12684671615318,
           "product_id": 9828446798166,
+          "id": 12684671615318,
           "name": "Color",
           "position": 1,
           "values": [
