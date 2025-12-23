@@ -5103,8 +5103,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9790202052950",
       "variants": [
         {
-          "id": 51191417930070,
           "product_id": 9790202052950,
+          "id": 51191417930070,
           "title": "1Sky Blue / USB",
           "price": "46.48",
           "position": 1,
@@ -5131,8 +5131,8 @@
           "image_id": 66229309243734
         },
         {
-          "id": 51191417962838,
           "product_id": 9790202052950,
+          "id": 51191417962838,
           "title": "Blue / USB",
           "price": "56.18",
           "position": 2,
@@ -5159,8 +5159,8 @@
           "image_id": 66229309276502
         },
         {
-          "id": 51191417995606,
           "product_id": 9790202052950,
+          "id": 51191417995606,
           "title": "Dark green / USB",
           "price": "52.02",
           "position": 3,
@@ -5187,8 +5187,8 @@
           "image_id": 66229309309270
         },
         {
-          "id": 51191418028374,
           "product_id": 9790202052950,
+          "id": 51191418028374,
           "title": "Light green / USB",
           "price": "49.25",
           "position": 4,
@@ -5215,8 +5215,8 @@
           "image_id": 66229309342038
         },
         {
-          "id": 51191418061142,
           "product_id": 9790202052950,
+          "id": 51191418061142,
           "title": "Pink / USB",
           "price": "56.18",
           "position": 5,
@@ -5245,8 +5245,8 @@
       ],
       "options": [
         {
-          "id": 12639150571862,
           "product_id": 9790202052950,
+          "id": 12639150571862,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5258,8 +5258,8 @@
           ]
         },
         {
-          "id": 12639150604630,
           "product_id": 9790202052950,
+          "id": 12639150604630,
           "name": "style",
           "position": 2,
           "values": [
