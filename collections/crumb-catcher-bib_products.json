@@ -2042,8 +2042,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9846988964182",
       "variants": [
         {
-          "product_id": 9846988964182,
           "id": 51417826656598,
+          "product_id": 9846988964182,
           "title": "Green",
           "price": "20.95",
           "position": 1,
@@ -2070,8 +2070,8 @@
           "image_id": 67146071671126
         },
         {
-          "product_id": 9846988964182,
           "id": 51417826689366,
+          "product_id": 9846988964182,
           "title": "Green Set",
           "price": "29.95",
           "position": 2,
@@ -2098,8 +2098,8 @@
           "image_id": 67146071703894
         },
         {
-          "product_id": 9846988964182,
           "id": 51417826722134,
+          "product_id": 9846988964182,
           "title": "White",
           "price": "20.95",
           "position": 3,
@@ -2126,8 +2126,8 @@
           "image_id": 67146071736662
         },
         {
-          "product_id": 9846988964182,
           "id": 51417826754902,
+          "product_id": 9846988964182,
           "title": "White Set",
           "price": "29.95",
           "position": 4,
@@ -2156,8 +2156,8 @@
       ],
       "options": [
         {
-          "product_id": 9846988964182,
           "id": 12706370781526,
+          "product_id": 9846988964182,
           "name": "Color",
           "position": 1,
           "values": [
