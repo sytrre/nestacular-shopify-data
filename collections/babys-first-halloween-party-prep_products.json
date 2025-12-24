@@ -3578,8 +3578,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765170020694",
       "variants": [
         {
-          "product_id": 9765170020694,
           "id": 51084378014038,
+          "product_id": 9765170020694,
           "title": "P",
           "price": "23.05",
           "position": 1,
@@ -3606,8 +3606,8 @@
           "image_id": 66259227181398
         },
         {
-          "product_id": 9765170020694,
           "id": 51084378046806,
+          "product_id": 9765170020694,
           "title": "L",
           "price": "23.29",
           "position": 2,
@@ -3634,8 +3634,8 @@
           "image_id": 66259235373398
         },
         {
-          "product_id": 9765170020694,
           "id": 51084378079574,
+          "product_id": 9765170020694,
           "title": "M",
           "price": "23.29",
           "position": 3,
@@ -3664,8 +3664,8 @@
       ],
       "options": [
         {
-          "product_id": 9765170020694,
           "id": 12609595769174,
+          "product_id": 9765170020694,
           "name": "Color",
           "position": 1,
           "values": [
