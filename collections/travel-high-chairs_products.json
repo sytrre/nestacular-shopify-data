@@ -11066,8 +11066,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9778362941782",
       "variants": [
         {
-          "product_id": 9778362941782,
           "id": 51136834568534,
+          "product_id": 9778362941782,
           "title": "Blue",
           "price": "193.95",
           "position": 1,
@@ -11094,8 +11094,8 @@
           "image_id": 66113394245974
         },
         {
-          "product_id": 9778362941782,
           "id": 51136834601302,
+          "product_id": 9778362941782,
           "title": "Gold",
           "price": "193.95",
           "position": 2,
@@ -11122,8 +11122,8 @@
           "image_id": 66113394278742
         },
         {
-          "product_id": 9778362941782,
           "id": 51136834634070,
+          "product_id": 9778362941782,
           "title": "Green",
           "price": "193.95",
           "position": 3,
@@ -11150,8 +11150,8 @@
           "image_id": 66113394311510
         },
         {
-          "product_id": 9778362941782,
           "id": 51136834666838,
+          "product_id": 9778362941782,
           "title": "Pink",
           "price": "193.95",
           "position": 4,
@@ -11180,8 +11180,8 @@
       ],
       "options": [
         {
-          "product_id": 9778362941782,
           "id": 12625198907734,
+          "product_id": 9778362941782,
           "name": "Color",
           "position": 1,
           "values": [
