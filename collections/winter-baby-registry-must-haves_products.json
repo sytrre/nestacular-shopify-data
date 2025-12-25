@@ -10874,8 +10874,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791453331798",
       "variants": [
         {
-          "product_id": 9791453331798,
           "id": 51196507783510,
+          "product_id": 9791453331798,
           "title": "Elephant",
           "price": "33.42",
           "position": 1,
@@ -10902,8 +10902,8 @@
           "image_id": 66242030666070
         },
         {
-          "product_id": 9791453331798,
           "id": 51196507816278,
+          "product_id": 9791453331798,
           "title": "Plush bear",
           "price": "33.42",
           "position": 2,
@@ -10930,8 +10930,8 @@
           "image_id": 66242030698838
         },
         {
-          "product_id": 9791453331798,
           "id": 51196507849046,
+          "product_id": 9791453331798,
           "title": "12 piece set",
           "price": "50.02",
           "position": 3,
@@ -10958,8 +10958,8 @@
           "image_id": 66242030731606
         },
         {
-          "product_id": 9791453331798,
           "id": 51196507881814,
+          "product_id": 9791453331798,
           "title": "Pineapple",
           "price": "33.42",
           "position": 4,
@@ -10986,8 +10986,8 @@
           "image_id": 66242030764374
         },
         {
-          "product_id": 9791453331798,
           "id": 51196507914582,
+          "product_id": 9791453331798,
           "title": "Lemon",
           "price": "33.42",
           "position": 5,
@@ -11014,8 +11014,8 @@
           "image_id": 66242030797142
         },
         {
-          "product_id": 9791453331798,
           "id": 51196507947350,
+          "product_id": 9791453331798,
           "title": "Dinosaur",
           "price": "33.42",
           "position": 6,
@@ -11042,8 +11042,8 @@
           "image_id": 66242030829910
         },
         {
-          "product_id": 9791453331798,
           "id": 51196507980118,
+          "product_id": 9791453331798,
           "title": "Lattice",
           "price": "33.42",
           "position": 7,
@@ -11070,8 +11070,8 @@
           "image_id": 66242030862678
         },
         {
-          "product_id": 9791453331798,
           "id": 51196508012886,
+          "product_id": 9791453331798,
           "title": "Bear",
           "price": "33.42",
           "position": 8,
@@ -11098,8 +11098,8 @@
           "image_id": 66242030895446
         },
         {
-          "product_id": 9791453331798,
           "id": 51196508045654,
+          "product_id": 9791453331798,
           "title": "Rabbit",
           "price": "33.42",
           "position": 9,
@@ -11126,8 +11126,8 @@
           "image_id": 66242030928214
         },
         {
-          "product_id": 9791453331798,
           "id": 51196508078422,
+          "product_id": 9791453331798,
           "title": "Sheep",
           "price": "33.42",
           "position": 10,
@@ -11154,8 +11154,8 @@
           "image_id": 66242030960982
         },
         {
-          "product_id": 9791453331798,
           "id": 51196508111190,
+          "product_id": 9791453331798,
           "title": "Fox",
           "price": "33.42",
           "position": 11,
@@ -11182,8 +11182,8 @@
           "image_id": 66242030993750
         },
         {
-          "product_id": 9791453331798,
           "id": 51196508143958,
+          "product_id": 9791453331798,
           "title": "Frog",
           "price": "33.42",
           "position": 12,
@@ -11210,8 +11210,8 @@
           "image_id": 66242031026518
         },
         {
-          "product_id": 9791453331798,
           "id": 51196508176726,
+          "product_id": 9791453331798,
           "title": "Color elephant",
           "price": "33.42",
           "position": 13,
@@ -11240,8 +11240,8 @@
       ],
       "options": [
         {
-          "product_id": 9791453331798,
           "id": 12640677101910,
+          "product_id": 9791453331798,
           "name": "Color",
           "position": 1,
           "values": [
