@@ -176,8 +176,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916481634646",
       "variants": [
         {
-          "id": 51675677884758,
           "product_id": 9916481634646,
+          "id": 51675677884758,
           "title": "12PCS / 12INCH",
           "price": "18.95",
           "position": 1,
@@ -206,8 +206,8 @@
       ],
       "options": [
         {
-          "id": 12787363152214,
           "product_id": 9916481634646,
+          "id": 12787363152214,
           "name": "Color",
           "position": 1,
           "values": [
@@ -215,8 +215,8 @@
           ]
         },
         {
-          "id": 12787363184982,
           "product_id": 9916481634646,
+          "id": 12787363184982,
           "name": "Ballon Size",
           "position": 2,
           "values": [
