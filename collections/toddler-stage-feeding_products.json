@@ -46704,8 +46704,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016024920406",
       "variants": [
         {
-          "product_id": 10016024920406,
           "id": 52013532578134,
+          "product_id": 10016024920406,
           "title": "TD1119M",
           "price": "2.41",
           "position": 1,
@@ -46732,8 +46732,8 @@
           "image_id": 69735048347990
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532610902,
+          "product_id": 10016024920406,
           "title": "TD1119F",
           "price": "1.92",
           "position": 2,
@@ -46760,8 +46760,8 @@
           "image_id": 69735048380758
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532643670,
+          "product_id": 10016024920406,
           "title": "TD1119L",
           "price": "2.47",
           "position": 3,
@@ -46788,8 +46788,8 @@
           "image_id": 69735048413526
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532676438,
+          "product_id": 10016024920406,
           "title": "TD1119K",
           "price": "2.40",
           "position": 4,
@@ -46816,8 +46816,8 @@
           "image_id": 69735048446294
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532709206,
+          "product_id": 10016024920406,
           "title": "TD1119I",
           "price": "1.89",
           "position": 5,
@@ -46844,8 +46844,8 @@
           "image_id": 69735048479062
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532741974,
+          "product_id": 10016024920406,
           "title": "TD1119G",
           "price": "1.92",
           "position": 6,
@@ -46874,8 +46874,8 @@
       ],
       "options": [
         {
-          "product_id": 10016024920406,
           "id": 12901930697046,
+          "product_id": 10016024920406,
           "name": "Color",
           "position": 1,
           "values": [
