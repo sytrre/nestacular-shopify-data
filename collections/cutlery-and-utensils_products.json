@@ -11138,8 +11138,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9910134833494",
       "variants": [
         {
-          "product_id": 9910134833494,
           "id": 51649033666902,
+          "product_id": 9910134833494,
           "title": "Pink",
           "price": "24.95",
           "position": 1,
@@ -11166,8 +11166,8 @@
           "image_id": 67698898960726
         },
         {
-          "product_id": 9910134833494,
           "id": 51649033699670,
+          "product_id": 9910134833494,
           "title": "Beige",
           "price": "24.95",
           "position": 2,
@@ -11194,8 +11194,8 @@
           "image_id": 67698898993494
         },
         {
-          "product_id": 9910134833494,
           "id": 51649033732438,
+          "product_id": 9910134833494,
           "title": "Green",
           "price": "24.95",
           "position": 3,
@@ -11224,8 +11224,8 @@
       ],
       "options": [
         {
-          "product_id": 9910134833494,
           "id": 12779921703254,
+          "product_id": 9910134833494,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17600,8 +17600,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016029671766",
       "variants": [
         {
-          "product_id": 10016029671766,
           "id": 52013539426646,
+          "product_id": 10016029671766,
           "title": "Green-round bottom",
           "price": "2.29",
           "position": 1,
@@ -17628,8 +17628,8 @@
           "image_id": 69735072661846
         },
         {
-          "product_id": 10016029671766,
           "id": 52013539459414,
+          "product_id": 10016029671766,
           "title": "Yellow-round bottom",
           "price": "2.29",
           "position": 2,
@@ -17656,8 +17656,8 @@
           "image_id": 69735072694614
         },
         {
-          "product_id": 10016029671766,
           "id": 52013539492182,
+          "product_id": 10016029671766,
           "title": "Pink-round bottom",
           "price": "2.29",
           "position": 3,
@@ -17684,8 +17684,8 @@
           "image_id": 69735072727382
         },
         {
-          "product_id": 10016029671766,
           "id": 52013539524950,
+          "product_id": 10016029671766,
           "title": "Blue-round bottom",
           "price": "2.29",
           "position": 4,
@@ -17714,8 +17714,8 @@
       ],
       "options": [
         {
-          "product_id": 10016029671766,
           "id": 12901935841622,
+          "product_id": 10016029671766,
           "name": "Color",
           "position": 1,
           "values": [

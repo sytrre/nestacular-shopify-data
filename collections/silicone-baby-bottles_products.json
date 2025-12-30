@@ -5330,8 +5330,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016029671766",
       "variants": [
         {
-          "product_id": 10016029671766,
           "id": 52013539426646,
+          "product_id": 10016029671766,
           "title": "Green-round bottom",
           "price": "2.29",
           "position": 1,
@@ -5358,8 +5358,8 @@
           "image_id": 69735072661846
         },
         {
-          "product_id": 10016029671766,
           "id": 52013539459414,
+          "product_id": 10016029671766,
           "title": "Yellow-round bottom",
           "price": "2.29",
           "position": 2,
@@ -5386,8 +5386,8 @@
           "image_id": 69735072694614
         },
         {
-          "product_id": 10016029671766,
           "id": 52013539492182,
+          "product_id": 10016029671766,
           "title": "Pink-round bottom",
           "price": "2.29",
           "position": 3,
@@ -5414,8 +5414,8 @@
           "image_id": 69735072727382
         },
         {
-          "product_id": 10016029671766,
           "id": 52013539524950,
+          "product_id": 10016029671766,
           "title": "Blue-round bottom",
           "price": "2.29",
           "position": 4,
@@ -5444,8 +5444,8 @@
       ],
       "options": [
         {
-          "product_id": 10016029671766,
           "id": 12901935841622,
+          "product_id": 10016029671766,
           "name": "Color",
           "position": 1,
           "values": [
