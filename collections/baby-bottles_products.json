@@ -4708,8 +4708,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791113134422",
       "variants": [
         {
-          "id": 51194526138710,
           "product_id": 9791113134422,
+          "id": 51194526138710,
           "title": "A",
           "price": "34.67",
           "position": 1,
@@ -4736,8 +4736,8 @@
           "image_id": 66236550676822
         },
         {
-          "id": 51194526171478,
           "product_id": 9791113134422,
+          "id": 51194526171478,
           "title": "B",
           "price": "37.05",
           "position": 2,
@@ -4764,8 +4764,8 @@
           "image_id": 66236550709590
         },
         {
-          "id": 51194526204246,
           "product_id": 9791113134422,
+          "id": 51194526204246,
           "title": "C",
           "price": "39.30",
           "position": 3,
@@ -4792,8 +4792,8 @@
           "image_id": 66236550742358
         },
         {
-          "id": 51194526237014,
           "product_id": 9791113134422,
+          "id": 51194526237014,
           "title": "D",
           "price": "39.30",
           "position": 4,
@@ -4820,8 +4820,8 @@
           "image_id": 66236550775126
         },
         {
-          "id": 51194526269782,
           "product_id": 9791113134422,
+          "id": 51194526269782,
           "title": "E",
           "price": "35.65",
           "position": 5,
@@ -4850,8 +4850,8 @@
       ],
       "options": [
         {
-          "id": 12640270418262,
           "product_id": 9791113134422,
+          "id": 12640270418262,
           "name": "style",
           "position": 1,
           "values": [
@@ -9968,8 +9968,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9907515392342",
       "variants": [
         {
-          "product_id": 9907515392342,
           "id": 51638612164950,
+          "product_id": 9907515392342,
           "title": "pink / 12pcs",
           "price": "23.95",
           "position": 1,
@@ -9996,8 +9996,8 @@
           "image_id": 67678224351574
         },
         {
-          "product_id": 9907515392342,
           "id": 51638612197718,
+          "product_id": 9907515392342,
           "title": "white / 12pcs",
           "price": "23.95",
           "position": 2,
@@ -10024,8 +10024,8 @@
           "image_id": 67678224384342
         },
         {
-          "product_id": 9907515392342,
           "id": 51638612230486,
+          "product_id": 9907515392342,
           "title": "blue / 12pcs",
           "price": "23.95",
           "position": 3,
@@ -10054,8 +10054,8 @@
       ],
       "options": [
         {
-          "product_id": 9907515392342,
           "id": 12776916582742,
+          "product_id": 9907515392342,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10065,8 +10065,8 @@
           ]
         },
         {
-          "product_id": 9907515392342,
           "id": 12776916615510,
+          "product_id": 9907515392342,
           "name": "Gift Box Size",
           "position": 2,
           "values": [
