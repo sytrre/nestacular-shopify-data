@@ -4460,8 +4460,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9810929123670",
       "variants": [
         {
-          "product_id": 9810929123670,
           "id": 51276583108950,
+          "product_id": 9810929123670,
           "title": "Dusty rose",
           "price": "30.95",
           "position": 1,
@@ -4488,8 +4488,8 @@
           "image_id": 66472387314006
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583141718,
+          "product_id": 9810929123670,
           "title": "Dusty rose Bib",
           "price": "27.95",
           "position": 2,
@@ -4516,8 +4516,8 @@
           "image_id": 66472387346774
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583174486,
+          "product_id": 9810929123670,
           "title": "Dusty rose set set",
           "price": "38.95",
           "position": 3,
@@ -4544,8 +4544,8 @@
           "image_id": 66472387379542
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583207254,
+          "product_id": 9810929123670,
           "title": "Raw sienna",
           "price": "30.45",
           "position": 4,
@@ -4572,8 +4572,8 @@
           "image_id": 66472387412310
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583240022,
+          "product_id": 9810929123670,
           "title": "Raw sienna Bib",
           "price": "27.95",
           "position": 5,
@@ -4600,8 +4600,8 @@
           "image_id": 66472387445078
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583272790,
+          "product_id": 9810929123670,
           "title": "Raw sienna set",
           "price": "38.95",
           "position": 6,
@@ -4628,8 +4628,8 @@
           "image_id": 66472387477846
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583305558,
+          "product_id": 9810929123670,
           "title": "Shifting sand",
           "price": "30.95",
           "position": 7,
@@ -4656,8 +4656,8 @@
           "image_id": 66472387510614
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583338326,
+          "product_id": 9810929123670,
           "title": "Shifting sand Bib",
           "price": "27.95",
           "position": 8,
@@ -4684,8 +4684,8 @@
           "image_id": 66472387543382
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583371094,
+          "product_id": 9810929123670,
           "title": "Shifting sand set",
           "price": "38.95",
           "position": 9,
@@ -4712,8 +4712,8 @@
           "image_id": 66472387576150
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583403862,
+          "product_id": 9810929123670,
           "title": "Silver sage",
           "price": "30.95",
           "position": 10,
@@ -4740,8 +4740,8 @@
           "image_id": 66472387608918
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583436630,
+          "product_id": 9810929123670,
           "title": "Silver sage Bib",
           "price": "27.95",
           "position": 11,
@@ -4768,8 +4768,8 @@
           "image_id": 66472387641686
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583469398,
+          "product_id": 9810929123670,
           "title": "Silver sage set",
           "price": "38.95",
           "position": 12,
@@ -4796,8 +4796,8 @@
           "image_id": 66472387674454
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583502166,
+          "product_id": 9810929123670,
           "title": "Tradewinds",
           "price": "30.95",
           "position": 13,
@@ -4824,8 +4824,8 @@
           "image_id": 66472387707222
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583534934,
+          "product_id": 9810929123670,
           "title": "Tradewinds Bib",
           "price": "27.95",
           "position": 14,
@@ -4852,8 +4852,8 @@
           "image_id": 66472387739990
         },
         {
-          "product_id": 9810929123670,
           "id": 51276583567702,
+          "product_id": 9810929123670,
           "title": "Tradewinds set",
           "price": "38.95",
           "position": 15,
@@ -4882,8 +4882,8 @@
       ],
       "options": [
         {
-          "product_id": 9810929123670,
           "id": 12663744921942,
+          "product_id": 9810929123670,
           "name": "Color",
           "position": 1,
           "values": [
@@ -71604,8 +71604,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016024920406",
       "variants": [
         {
-          "product_id": 10016024920406,
           "id": 52013532578134,
+          "product_id": 10016024920406,
           "title": "TD1119M",
           "price": "2.41",
           "position": 1,
@@ -71632,8 +71632,8 @@
           "image_id": 69735048347990
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532610902,
+          "product_id": 10016024920406,
           "title": "TD1119F",
           "price": "1.92",
           "position": 2,
@@ -71660,8 +71660,8 @@
           "image_id": 69735048380758
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532643670,
+          "product_id": 10016024920406,
           "title": "TD1119L",
           "price": "2.47",
           "position": 3,
@@ -71688,8 +71688,8 @@
           "image_id": 69735048413526
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532676438,
+          "product_id": 10016024920406,
           "title": "TD1119K",
           "price": "2.40",
           "position": 4,
@@ -71716,8 +71716,8 @@
           "image_id": 69735048446294
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532709206,
+          "product_id": 10016024920406,
           "title": "TD1119I",
           "price": "1.89",
           "position": 5,
@@ -71744,8 +71744,8 @@
           "image_id": 69735048479062
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532741974,
+          "product_id": 10016024920406,
           "title": "TD1119G",
           "price": "1.92",
           "position": 6,
@@ -71774,8 +71774,8 @@
       ],
       "options": [
         {
-          "product_id": 10016024920406,
           "id": 12901930697046,
+          "product_id": 10016024920406,
           "name": "Color",
           "position": 1,
           "values": [
