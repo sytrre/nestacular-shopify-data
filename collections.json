@@ -863,6 +863,43 @@
       }
     },
     {
+      "id": 671187599702,
+      "handle": "baby-toys",
+      "title": "Baby Toys",
+      "updated_at": "2026-01-02T17:35:26+00:00",
+      "body_html": "<p data-start=\"278\" data-end=\"598\">Discover our thoughtfully curated collection of baby toys designed to spark curiosity, encourage development, and bring everyday joy to little ones. From soft sensory toys and interactive play essentials to imaginative and educational favourites, each item is chosen with safety, quality, and gentle stimulation in mind.</p>\n<p data-start=\"600\" data-end=\"932\">Our toy range supports key early milestones such as motor skills, hand-eye coordination, creativity, and problem-solving—while remaining fun, engaging, and age-appropriate. Made with baby-safe materials and parent-approved designs, these toys are perfect for playtime at home, on the go, or as meaningful gifts for growing families.</p>\n<p data-start=\"934\" data-end=\"1005\">Because play isn’t just fun—it’s how babies learn, explore, and thrive.</p>",
+      "published_at": "2026-01-02T17:30:24+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "toys"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby toy"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "baby toys"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/671187599702",
+      "image": {
+        "created_at": "2026-01-02T17:30:22+00:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_f5d7b833-fec3-48df-969f-484e712ebb24.png?v=1767375024"
+      }
+    },
+    {
       "id": 659231310166,
       "handle": "babys-first-halloween-party-prep",
       "title": "Baby's First Halloween Party Prep",
@@ -7856,25 +7893,6 @@
       ],
       "published_scope": "web",
       "admin_graphql_api_id": "gid://shopify/Collection/667293942102"
-    },
-    {
-      "id": 671147032918,
-      "handle": "baby-toys",
-      "title": "Baby Toys",
-      "updated_at": "2026-01-02T06:40:07+00:00",
-      "body_html": "",
-      "published_at": "2026-01-02T04:57:55+00:00",
-      "sort_order": "best-selling",
-      "template_suffix": "",
-      "published_scope": "global",
-      "admin_graphql_api_id": "gid://shopify/Collection/671147032918",
-      "image": {
-        "created_at": "2026-01-02T06:38:47+00:00",
-        "alt": null,
-        "width": 1024,
-        "height": 1024,
-        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/collections/A_f5d7b833-fec3-48df-969f-484e712ebb24.png?v=1767335927"
-      }
     },
     {
       "id": 658907824470,

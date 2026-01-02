@@ -70432,17 +70432,17 @@
       "product_type": "",
       "created_at": "2026-01-02T04:33:33+00:00",
       "handle": "chickamic-matching-eggs-montessori-shape-sorter-educational-easter-set",
-      "updated_at": "2026-01-02T16:33:45+00:00",
+      "updated_at": "2026-01-02T17:34:44+00:00",
       "published_at": "2026-01-02T06:37:21+00:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "",
+      "tags": "baby toys",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10060960596310",
       "variants": [
         {
-          "id": 52195076735318,
           "product_id": 10060960596310,
+          "id": 52195076735318,
           "title": "6Pcs dinosaur egg",
           "price": "12.25",
           "position": 1,
@@ -70469,8 +70469,8 @@
           "image_id": 71027143410006
         },
         {
-          "id": 52195076768086,
           "product_id": 10060960596310,
+          "id": 52195076768086,
           "title": "dinosaur boxed egg",
           "price": "24.95",
           "position": 2,
@@ -70497,8 +70497,8 @@
           "image_id": 71027143639382
         },
         {
-          "id": 52195076800854,
           "product_id": 10060960596310,
+          "id": 52195076800854,
           "title": "6Pcs dinosaur sound",
           "price": "18.95",
           "position": 3,
@@ -70525,8 +70525,8 @@
           "image_id": 71027143442774
         },
         {
-          "id": 52195076833622,
           "product_id": 10060960596310,
+          "id": 52195076833622,
           "title": "12Pcs dinosaur",
           "price": "24.95",
           "position": 4,
@@ -70553,8 +70553,8 @@
           "image_id": 71027143475542
         },
         {
-          "id": 52195076866390,
           "product_id": 10060960596310,
+          "id": 52195076866390,
           "title": "12Pcs number",
           "price": "24.95",
           "position": 5,
@@ -70581,8 +70581,8 @@
           "image_id": 71027143672150
         },
         {
-          "id": 52195076899158,
           "product_id": 10060960596310,
+          "id": 52195076899158,
           "title": "12Pcs in box",
           "price": "24.95",
           "position": 6,
@@ -70609,8 +70609,8 @@
           "image_id": 71027143508310
         },
         {
-          "id": 52195076931926,
           "product_id": 10060960596310,
+          "id": 52195076931926,
           "title": "26Pcs letter",
           "price": "44.95",
           "position": 7,
@@ -70637,8 +70637,8 @@
           "image_id": 71027143541078
         },
         {
-          "id": 52195076964694,
           "product_id": 10060960596310,
+          "id": 52195076964694,
           "title": "Shape matching egg",
           "price": "27.95",
           "position": 8,
@@ -70665,8 +70665,8 @@
           "image_id": 71027143704918
         },
         {
-          "id": 52195076997462,
           "product_id": 10060960596310,
+          "id": 52195076997462,
           "title": "6Pcs dinosaur shape",
           "price": "12.75",
           "position": 9,
@@ -70693,8 +70693,8 @@
           "image_id": 71027143737686
         },
         {
-          "id": 52195077030230,
           "product_id": 10060960596310,
+          "id": 52195077030230,
           "title": "6Pcs no box",
           "price": "6.95",
           "position": 10,
@@ -70721,8 +70721,8 @@
           "image_id": 71027143573846
         },
         {
-          "id": 52195077062998,
           "product_id": 10060960596310,
+          "id": 52195077062998,
           "title": "6Pcs in box",
           "price": "12.95",
           "position": 11,
@@ -70749,8 +70749,8 @@
           "image_id": 71027143770454
         },
         {
-          "id": 52195077095766,
           "product_id": 10060960596310,
+          "id": 52195077095766,
           "title": "6Pcs in box 1",
           "price": "12.95",
           "position": 12,
@@ -70779,8 +70779,8 @@
       ],
       "options": [
         {
-          "id": 12956151349590,
           "product_id": 10060960596310,
+          "id": 12956151349590,
           "name": "Color",
           "position": 1,
           "values": [
@@ -85639,17 +85639,17 @@
       "product_type": "",
       "created_at": "2026-01-02T04:36:20+00:00",
       "handle": "earlytern-montessori-busy-board-sensory-toddler-activity-tool",
-      "updated_at": "2026-01-02T16:36:36+00:00",
+      "updated_at": "2026-01-02T17:34:20+00:00",
       "published_at": "2026-01-02T06:37:23+00:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "",
+      "tags": "baby toys",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10060960792918",
       "variants": [
         {
-          "id": 52195078144342,
           "product_id": 10060960792918,
+          "id": 52195078144342,
           "title": "NEW Pink",
           "price": "24.95",
           "position": 1,
@@ -85676,8 +85676,8 @@
           "image_id": 71027164414294
         },
         {
-          "id": 52195078177110,
           "product_id": 10060960792918,
+          "id": 52195078177110,
           "title": "NEW Blue",
           "price": "27.95",
           "position": 2,
@@ -85704,8 +85704,8 @@
           "image_id": 71027164447062
         },
         {
-          "id": 52195078209878,
           "product_id": 10060960792918,
+          "id": 52195078209878,
           "title": "For Boy",
           "price": "18.95",
           "position": 3,
@@ -85732,8 +85732,8 @@
           "image_id": 71027164479830
         },
         {
-          "id": 52195078242646,
           "product_id": 10060960792918,
+          "id": 52195078242646,
           "title": "Blue",
           "price": "28.95",
           "position": 4,
@@ -85760,8 +85760,8 @@
           "image_id": 71027164512598
         },
         {
-          "id": 52195078275414,
           "product_id": 10060960792918,
+          "id": 52195078275414,
           "title": "For Girl",
           "price": "18.95",
           "position": 5,
@@ -85790,8 +85790,8 @@
       ],
       "options": [
         {
-          "id": 12956151578966,
           "product_id": 10060960792918,
+          "id": 12956151578966,
           "name": "Color",
           "position": 1,
           "values": [

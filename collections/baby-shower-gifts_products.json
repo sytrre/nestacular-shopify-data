@@ -25414,17 +25414,17 @@
       "product_type": "",
       "created_at": "2026-01-02T04:37:05+00:00",
       "handle": "kolorsity-rainbow-hand-bell-colorful-half-round-party-percussion",
-      "updated_at": "2026-01-02T16:37:14+00:00",
+      "updated_at": "2026-01-02T17:34:10+00:00",
       "published_at": "2026-01-02T06:37:24+00:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "",
+      "tags": "baby toys",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10060960825686",
       "variants": [
         {
-          "id": 52195078340950,
           "product_id": 10060960825686,
+          "id": 52195078340950,
           "title": "1pcs color random",
           "price": "6.95",
           "position": 1,
@@ -25453,8 +25453,8 @@
       ],
       "options": [
         {
-          "id": 12956151611734,
           "product_id": 10060960825686,
+          "id": 12956151611734,
           "name": "Color",
           "position": 1,
           "values": [

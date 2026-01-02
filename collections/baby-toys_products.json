@@ -1,9 +1,9 @@
 {
   "collection": {
-    "id": 671147032918,
+    "id": 671187599702,
     "handle": "baby-toys",
     "title": "Baby Toys",
-    "body_html": "",
+    "body_html": "<p data-start=\"278\" data-end=\"598\">Discover our thoughtfully curated collection of baby toys designed to spark curiosity, encourage development, and bring everyday joy to little ones. From soft sensory toys and interactive play essentials to imaginative and educational favourites, each item is chosen with safety, quality, and gentle stimulation in mind.</p>\n<p data-start=\"600\" data-end=\"932\">Our toy range supports key early milestones such as motor skills, hand-eye coordination, creativity, and problem-solving—while remaining fun, engaging, and age-appropriate. Made with baby-safe materials and parent-approved designs, these toys are perfect for playtime at home, on the go, or as meaningful gifts for growing families.</p>\n<p data-start=\"934\" data-end=\"1005\">Because play isn’t just fun—it’s how babies learn, explore, and thrive.</p>",
     "products_count": 5
   },
   "products": [
@@ -15,17 +15,17 @@
       "product_type": "",
       "created_at": "2026-01-02T04:33:33+00:00",
       "handle": "chickamic-matching-eggs-montessori-shape-sorter-educational-easter-set",
-      "updated_at": "2026-01-02T16:33:45+00:00",
+      "updated_at": "2026-01-02T17:34:44+00:00",
       "published_at": "2026-01-02T06:37:21+00:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "",
+      "tags": "baby toys",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10060960596310",
       "variants": [
         {
-          "id": 52195076735318,
           "product_id": 10060960596310,
+          "id": 52195076735318,
           "title": "6Pcs dinosaur egg",
           "price": "12.25",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 71027143410006
         },
         {
-          "id": 52195076768086,
           "product_id": 10060960596310,
+          "id": 52195076768086,
           "title": "dinosaur boxed egg",
           "price": "24.95",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 71027143639382
         },
         {
-          "id": 52195076800854,
           "product_id": 10060960596310,
+          "id": 52195076800854,
           "title": "6Pcs dinosaur sound",
           "price": "18.95",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 71027143442774
         },
         {
-          "id": 52195076833622,
           "product_id": 10060960596310,
+          "id": 52195076833622,
           "title": "12Pcs dinosaur",
           "price": "24.95",
           "position": 4,
@@ -136,8 +136,8 @@
           "image_id": 71027143475542
         },
         {
-          "id": 52195076866390,
           "product_id": 10060960596310,
+          "id": 52195076866390,
           "title": "12Pcs number",
           "price": "24.95",
           "position": 5,
@@ -164,8 +164,8 @@
           "image_id": 71027143672150
         },
         {
-          "id": 52195076899158,
           "product_id": 10060960596310,
+          "id": 52195076899158,
           "title": "12Pcs in box",
           "price": "24.95",
           "position": 6,
@@ -192,8 +192,8 @@
           "image_id": 71027143508310
         },
         {
-          "id": 52195076931926,
           "product_id": 10060960596310,
+          "id": 52195076931926,
           "title": "26Pcs letter",
           "price": "44.95",
           "position": 7,
@@ -220,8 +220,8 @@
           "image_id": 71027143541078
         },
         {
-          "id": 52195076964694,
           "product_id": 10060960596310,
+          "id": 52195076964694,
           "title": "Shape matching egg",
           "price": "27.95",
           "position": 8,
@@ -248,8 +248,8 @@
           "image_id": 71027143704918
         },
         {
-          "id": 52195076997462,
           "product_id": 10060960596310,
+          "id": 52195076997462,
           "title": "6Pcs dinosaur shape",
           "price": "12.75",
           "position": 9,
@@ -276,8 +276,8 @@
           "image_id": 71027143737686
         },
         {
-          "id": 52195077030230,
           "product_id": 10060960596310,
+          "id": 52195077030230,
           "title": "6Pcs no box",
           "price": "6.95",
           "position": 10,
@@ -304,8 +304,8 @@
           "image_id": 71027143573846
         },
         {
-          "id": 52195077062998,
           "product_id": 10060960596310,
+          "id": 52195077062998,
           "title": "6Pcs in box",
           "price": "12.95",
           "position": 11,
@@ -332,8 +332,8 @@
           "image_id": 71027143770454
         },
         {
-          "id": 52195077095766,
           "product_id": 10060960596310,
+          "id": 52195077095766,
           "title": "6Pcs in box 1",
           "price": "12.95",
           "position": 12,
@@ -362,8 +362,8 @@
       ],
       "options": [
         {
-          "id": 12956151349590,
           "product_id": 10060960596310,
+          "id": 12956151349590,
           "name": "Color",
           "position": 1,
           "values": [
@@ -989,17 +989,17 @@
       "product_type": "",
       "created_at": "2026-01-02T04:36:20+00:00",
       "handle": "earlytern-montessori-busy-board-sensory-toddler-activity-tool",
-      "updated_at": "2026-01-02T16:36:36+00:00",
+      "updated_at": "2026-01-02T17:34:20+00:00",
       "published_at": "2026-01-02T06:37:23+00:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "",
+      "tags": "baby toys",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10060960792918",
       "variants": [
         {
-          "id": 52195078144342,
           "product_id": 10060960792918,
+          "id": 52195078144342,
           "title": "NEW Pink",
           "price": "24.95",
           "position": 1,
@@ -1026,8 +1026,8 @@
           "image_id": 71027164414294
         },
         {
-          "id": 52195078177110,
           "product_id": 10060960792918,
+          "id": 52195078177110,
           "title": "NEW Blue",
           "price": "27.95",
           "position": 2,
@@ -1054,8 +1054,8 @@
           "image_id": 71027164447062
         },
         {
-          "id": 52195078209878,
           "product_id": 10060960792918,
+          "id": 52195078209878,
           "title": "For Boy",
           "price": "18.95",
           "position": 3,
@@ -1082,8 +1082,8 @@
           "image_id": 71027164479830
         },
         {
-          "id": 52195078242646,
           "product_id": 10060960792918,
+          "id": 52195078242646,
           "title": "Blue",
           "price": "28.95",
           "position": 4,
@@ -1110,8 +1110,8 @@
           "image_id": 71027164512598
         },
         {
-          "id": 52195078275414,
           "product_id": 10060960792918,
+          "id": 52195078275414,
           "title": "For Girl",
           "price": "18.95",
           "position": 5,
@@ -1140,8 +1140,8 @@
       ],
       "options": [
         {
-          "id": 12956151578966,
           "product_id": 10060960792918,
+          "id": 12956151578966,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1798,17 +1798,17 @@
       "product_type": "",
       "created_at": "2026-01-02T04:37:05+00:00",
       "handle": "kolorsity-rainbow-hand-bell-colorful-half-round-party-percussion",
-      "updated_at": "2026-01-02T16:37:14+00:00",
+      "updated_at": "2026-01-02T17:34:10+00:00",
       "published_at": "2026-01-02T06:37:24+00:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "",
+      "tags": "baby toys",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10060960825686",
       "variants": [
         {
-          "id": 52195078340950,
           "product_id": 10060960825686,
+          "id": 52195078340950,
           "title": "1pcs color random",
           "price": "6.95",
           "position": 1,
@@ -1837,8 +1837,8 @@
       ],
       "options": [
         {
-          "id": 12956151611734,
           "product_id": 10060960825686,
+          "id": 12956151611734,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2067,11 +2067,11 @@
       "product_type": "",
       "created_at": "2026-01-02T06:20:38+00:00",
       "handle": "lilcoat-wooden-roller-coaster-colorful-montessori-bead-maze",
-      "updated_at": "2026-01-02T06:37:27+00:00",
+      "updated_at": "2026-01-02T17:33:06+00:00",
       "published_at": "2026-01-02T06:37:25+00:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "",
+      "tags": "baby toy",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10060975112534",
       "variants": [
@@ -2289,17 +2289,17 @@
       "product_type": "",
       "created_at": "2026-01-02T04:35:01+00:00",
       "handle": "sencory-black-white-cloth-book-high-contrast-montessori-crib-bumper",
-      "updated_at": "2026-01-02T16:35:13+00:00",
+      "updated_at": "2026-01-02T17:34:30+00:00",
       "published_at": "2026-01-02T06:37:22+00:00",
       "template_suffix": null,
       "published_scope": "global",
-      "tags": "",
+      "tags": "baby toys",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10060960694614",
       "variants": [
         {
-          "id": 52195077194070,
           "product_id": 10060960694614,
+          "id": 52195077194070,
           "title": "Colorful Traffic",
           "price": "9.95",
           "position": 1,
@@ -2326,8 +2326,8 @@
           "image_id": 71027151798614
         },
         {
-          "id": 52195077226838,
           "product_id": 10060960694614,
+          "id": 52195077226838,
           "title": "Colorful Ocean",
           "price": "9.95",
           "position": 2,
@@ -2354,8 +2354,8 @@
           "image_id": 71027152093526
         },
         {
-          "id": 52195077259606,
           "product_id": 10060960694614,
+          "id": 52195077259606,
           "title": "TA266",
           "price": "18.95",
           "position": 3,
@@ -2382,8 +2382,8 @@
           "image_id": 71027151962454
         },
         {
-          "id": 52195077292374,
           "product_id": 10060960694614,
+          "id": 52195077292374,
           "title": "Animal Plants Insect",
           "price": "9.95",
           "position": 4,
@@ -2410,8 +2410,8 @@
           "image_id": 71027152355670
         },
         {
-          "id": 52195077325142,
           "product_id": 10060960694614,
+          "id": 52195077325142,
           "title": "Black white letters",
           "price": "9.95",
           "position": 5,
@@ -2438,8 +2438,8 @@
           "image_id": 71027152126294
         },
         {
-          "id": 52195077357910,
           "product_id": 10060960694614,
+          "id": 52195077357910,
           "title": "Colorful Alphabet",
           "price": "9.95",
           "position": 6,
@@ -2466,8 +2466,8 @@
           "image_id": 71027152159062
         },
         {
-          "id": 52195077390678,
           "product_id": 10060960694614,
+          "id": 52195077390678,
           "title": "Forest Animals",
           "price": "9.95",
           "position": 7,
@@ -2494,8 +2494,8 @@
           "image_id": 71027152388438
         },
         {
-          "id": 52195077423446,
           "product_id": 10060960694614,
+          "id": 52195077423446,
           "title": "TH264",
           "price": "9.95",
           "position": 8,
@@ -2522,8 +2522,8 @@
           "image_id": 71027152421206
         },
         {
-          "id": 52195077456214,
           "product_id": 10060960694614,
+          "id": 52195077456214,
           "title": "TH263",
           "price": "9.95",
           "position": 9,
@@ -2550,8 +2550,8 @@
           "image_id": 71027152191830
         },
         {
-          "id": 52195077488982,
           "product_id": 10060960694614,
+          "id": 52195077488982,
           "title": "300155",
           "price": "6.95",
           "position": 10,
@@ -2578,8 +2578,8 @@
           "image_id": 71027152224598
         },
         {
-          "id": 52195077521750,
           "product_id": 10060960694614,
+          "id": 52195077521750,
           "title": "300154",
           "price": "6.95",
           "position": 11,
@@ -2606,8 +2606,8 @@
           "image_id": 71027151995222
         },
         {
-          "id": 52195077554518,
           "product_id": 10060960694614,
+          "id": 52195077554518,
           "title": "300153",
           "price": "6.95",
           "position": 12,
@@ -2634,8 +2634,8 @@
           "image_id": 71027151831382
         },
         {
-          "id": 52195077587286,
           "product_id": 10060960694614,
+          "id": 52195077587286,
           "title": "300152",
           "price": "6.95",
           "position": 13,
@@ -2662,8 +2662,8 @@
           "image_id": 71027151864150
         },
         {
-          "id": 52195077620054,
           "product_id": 10060960694614,
+          "id": 52195077620054,
           "title": "green turtle",
           "price": "9.95",
           "position": 14,
@@ -2690,8 +2690,8 @@
           "image_id": 71027152257366
         },
         {
-          "id": 52195077652822,
           "product_id": 10060960694614,
+          "id": 52195077652822,
           "title": "owl",
           "price": "9.95",
           "position": 15,
@@ -2718,8 +2718,8 @@
           "image_id": 71027151896918
         },
         {
-          "id": 52195077685590,
           "product_id": 10060960694614,
+          "id": 52195077685590,
           "title": "Christmas tree",
           "price": "9.95",
           "position": 16,
@@ -2746,8 +2746,8 @@
           "image_id": 71027152290134
         },
         {
-          "id": 52195077718358,
           "product_id": 10060960694614,
+          "id": 52195077718358,
           "title": "butterfly",
           "price": "9.95",
           "position": 17,
@@ -2774,8 +2774,8 @@
           "image_id": 71027151634774
         },
         {
-          "id": 52195077751126,
           "product_id": 10060960694614,
+          "id": 52195077751126,
           "title": "ship",
           "price": "9.95",
           "position": 18,
@@ -2802,8 +2802,8 @@
           "image_id": 71027151667542
         },
         {
-          "id": 52195077783894,
           "product_id": 10060960694614,
+          "id": 52195077783894,
           "title": "number",
           "price": "6.95",
           "position": 19,
@@ -2830,8 +2830,8 @@
           "image_id": 71027151700310
         },
         {
-          "id": 52195077816662,
           "product_id": 10060960694614,
+          "id": 52195077816662,
           "title": "bee",
           "price": "9.95",
           "position": 20,
@@ -2858,8 +2858,8 @@
           "image_id": 71027152322902
         },
         {
-          "id": 52195077849430,
           "product_id": 10060960694614,
+          "id": 52195077849430,
           "title": "mix",
           "price": "6.95",
           "position": 21,
@@ -2886,8 +2886,8 @@
           "image_id": 71027151733078
         },
         {
-          "id": 52195077882198,
           "product_id": 10060960694614,
+          "id": 52195077882198,
           "title": "animal",
           "price": "6.95",
           "position": 22,
@@ -2914,8 +2914,8 @@
           "image_id": 71027151765846
         },
         {
-          "id": 52195077914966,
           "product_id": 10060960694614,
+          "id": 52195077914966,
           "title": "DD361",
           "price": "9.95",
           "position": 23,
@@ -2942,8 +2942,8 @@
           "image_id": 71027151929686
         },
         {
-          "id": 52195077947734,
           "product_id": 10060960694614,
+          "id": 52195077947734,
           "title": "letter",
           "price": "6.95",
           "position": 24,
@@ -2970,8 +2970,8 @@
           "image_id": 71027152027990
         },
         {
-          "id": 52195077980502,
           "product_id": 10060960694614,
+          "id": 52195077980502,
           "title": "DD359",
           "price": "9.95",
           "position": 25,
@@ -3000,8 +3000,8 @@
       ],
       "options": [
         {
-          "id": 12956151480662,
           "product_id": 10060960694614,
+          "id": 12956151480662,
           "name": "Color",
           "position": 1,
           "values": [
