@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-02T04:47:42.747271Z",
+  "generated": "2026-01-02T05:32:11.440693Z",
   "repository": "nestacular-shopify-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -34,6 +34,7 @@
       "baby-shower-gifts": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-shower-gifts_products.json",
       "baby-shower-host-feeding-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-shower-host-feeding-essentials_products.json",
       "baby-tableware": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-tableware_products.json",
+      "baby-toys": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baby-toys_products.json",
       "babys-first-halloween-party-prep": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/babys-first-halloween-party-prep_products.json",
       "bamboo-tableware": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/bamboo-tableware_products.json",
       "baptism-christening-guest-gift-essentials": "https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections/baptism-christening-guest-gift-essentials_products.json",

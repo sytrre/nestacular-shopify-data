@@ -4616,7 +4616,7 @@
       "id": 657381654870,
       "handle": "mess-free-essentials",
       "title": "Mess-Free Essentials",
-      "updated_at": "2025-12-03T13:47:17+00:00",
+      "updated_at": "2026-01-02T05:07:46+00:00",
       "body_html": "<p>While a truly mess-free meal is a parent's dream, this collection of clever products comes close! Discover our best suction tableware, full-coverage bibs, and spill-proof cups designed to contain the chaos.</p>",
       "published_at": "2025-08-30T03:28:00+01:00",
       "sort_order": "best-selling",
@@ -7858,6 +7858,18 @@
       "admin_graphql_api_id": "gid://shopify/Collection/667293942102"
     },
     {
+      "id": 671147032918,
+      "handle": "baby-toys",
+      "title": "Baby Toys",
+      "updated_at": "2026-01-02T05:27:26+00:00",
+      "body_html": "",
+      "published_at": "2026-01-02T04:57:55+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/671147032918"
+    },
+    {
       "id": 658907824470,
       "handle": "hammock",
       "title": "Hammock",
@@ -7962,8 +7974,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 214,
-    "items_in_page": 214,
+    "total_items": 215,
+    "items_in_page": 215,
     "has_next_page": false,
     "has_previous_page": false
   }
