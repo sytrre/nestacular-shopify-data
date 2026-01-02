@@ -83603,8 +83603,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9909924168022",
       "variants": [
         {
-          "id": 51648529400150,
           "product_id": 9909924168022,
+          "id": 51648529400150,
           "title": "10pc Cup Set",
           "price": "39.95",
           "position": 1,
@@ -83631,8 +83631,8 @@
           "image_id": 67697314758998
         },
         {
-          "id": 51648529432918,
           "product_id": 9909924168022,
+          "id": 51648529432918,
           "title": "9pc Cup Set",
           "price": "33.95",
           "position": 2,
@@ -83659,8 +83659,8 @@
           "image_id": 67697314791766
         },
         {
-          "id": 51648529465686,
           "product_id": 9909924168022,
+          "id": 51648529465686,
           "title": "5 pc Cup",
           "price": "29.95",
           "position": 3,
@@ -83689,8 +83689,8 @@
       ],
       "options": [
         {
-          "id": 12779694293334,
           "product_id": 9909924168022,
+          "id": 12779694293334,
           "name": "Color",
           "position": 1,
           "values": [
