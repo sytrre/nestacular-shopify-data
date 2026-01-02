@@ -5690,8 +5690,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9907522634070",
       "variants": [
         {
-          "id": 51638654861654,
           "product_id": 9907522634070,
+          "id": 51638654861654,
           "title": "blue / 9 x 4cm",
           "price": "39.95",
           "position": 1,
@@ -5718,8 +5718,8 @@
           "image_id": 67678274814294
         },
         {
-          "id": 51638654894422,
           "product_id": 9907522634070,
+          "id": 51638654894422,
           "title": "pink / 9 x 4cm",
           "price": "39.95",
           "position": 2,
@@ -5748,8 +5748,8 @@
       ],
       "options": [
         {
-          "id": 12776925331798,
           "product_id": 9907522634070,
+          "id": 12776925331798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5758,8 +5758,8 @@
           ]
         },
         {
-          "id": 12776925364566,
           "product_id": 9907522634070,
+          "id": 12776925364566,
           "name": "Gift Box Size",
           "position": 2,
           "values": [
@@ -70432,10 +70432,10 @@
       "product_type": "",
       "created_at": "2026-01-02T04:33:33+00:00",
       "handle": "chickamic-matching-eggs-montessori-shape-sorter-educational-easter-set",
-      "updated_at": "2026-01-02T05:10:02+00:00",
-      "published_at": null,
+      "updated_at": "2026-01-02T06:37:24+00:00",
+      "published_at": "2026-01-02T06:37:21+00:00",
       "template_suffix": null,
-      "published_scope": "web",
+      "published_scope": "global",
       "tags": "",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10060960596310",
@@ -85639,10 +85639,10 @@
       "product_type": "",
       "created_at": "2026-01-02T04:36:20+00:00",
       "handle": "earlytern-montessori-busy-board-sensory-toddler-activity-tool",
-      "updated_at": "2026-01-02T06:04:39+00:00",
-      "published_at": null,
+      "updated_at": "2026-01-02T06:37:26+00:00",
+      "published_at": "2026-01-02T06:37:23+00:00",
       "template_suffix": null,
-      "published_scope": "web",
+      "published_scope": "global",
       "tags": "",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10060960792918",
