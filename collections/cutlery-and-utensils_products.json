@@ -20616,8 +20616,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792648642902",
       "variants": [
         {
-          "product_id": 9792648642902,
           "id": 51201108738390,
+          "product_id": 9792648642902,
           "title": "Army Green",
           "price": "15.74",
           "position": 1,
@@ -20644,8 +20644,8 @@
           "image_id": 66252988088662
         },
         {
-          "product_id": 9792648642902,
           "id": 51201108771158,
+          "product_id": 9792648642902,
           "title": "Powder blue",
           "price": "15.74",
           "position": 2,
@@ -20672,8 +20672,8 @@
           "image_id": 66252988121430
         },
         {
-          "product_id": 9792648642902,
           "id": 51201108803926,
+          "product_id": 9792648642902,
           "title": "Light Grey",
           "price": "15.74",
           "position": 3,
@@ -20700,8 +20700,8 @@
           "image_id": 66252988154198
         },
         {
-          "product_id": 9792648642902,
           "id": 51201108836694,
+          "product_id": 9792648642902,
           "title": "Navajo",
           "price": "15.74",
           "position": 4,
@@ -20728,8 +20728,8 @@
           "image_id": 66252988186966
         },
         {
-          "product_id": 9792648642902,
           "id": 51201108869462,
+          "product_id": 9792648642902,
           "title": "Baby blue",
           "price": "15.74",
           "position": 5,
@@ -20756,8 +20756,8 @@
           "image_id": 66252988219734
         },
         {
-          "product_id": 9792648642902,
           "id": 51201108902230,
+          "product_id": 9792648642902,
           "title": "Mint",
           "price": "15.74",
           "position": 6,
@@ -20784,8 +20784,8 @@
           "image_id": 66252988252502
         },
         {
-          "product_id": 9792648642902,
           "id": 51201108934998,
+          "product_id": 9792648642902,
           "title": "Dim grey",
           "price": "15.74",
           "position": 7,
@@ -20812,8 +20812,8 @@
           "image_id": 66252988285270
         },
         {
-          "product_id": 9792648642902,
           "id": 51201108967766,
+          "product_id": 9792648642902,
           "title": "Rose quartz",
           "price": "15.74",
           "position": 8,
@@ -20840,8 +20840,8 @@
           "image_id": 66252988318038
         },
         {
-          "product_id": 9792648642902,
           "id": 51201109000534,
+          "product_id": 9792648642902,
           "title": "Mustard",
           "price": "15.74",
           "position": 9,
@@ -20870,8 +20870,8 @@
       ],
       "options": [
         {
-          "product_id": 9792648642902,
           "id": 12642095595862,
+          "product_id": 9792648642902,
           "name": "Color",
           "position": 1,
           "values": [
