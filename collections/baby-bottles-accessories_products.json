@@ -2377,8 +2377,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9907522634070",
       "variants": [
         {
-          "product_id": 9907522634070,
           "id": 51638654861654,
+          "product_id": 9907522634070,
           "title": "blue / 9 x 4cm",
           "price": "39.95",
           "position": 1,
@@ -2405,8 +2405,8 @@
           "image_id": 67678274814294
         },
         {
-          "product_id": 9907522634070,
           "id": 51638654894422,
+          "product_id": 9907522634070,
           "title": "pink / 9 x 4cm",
           "price": "39.95",
           "position": 2,
@@ -2435,8 +2435,8 @@
       ],
       "options": [
         {
-          "product_id": 9907522634070,
           "id": 12776925331798,
+          "product_id": 9907522634070,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2445,8 +2445,8 @@
           ]
         },
         {
-          "product_id": 9907522634070,
           "id": 12776925364566,
+          "product_id": 9907522634070,
           "name": "Gift Box Size",
           "position": 2,
           "values": [
