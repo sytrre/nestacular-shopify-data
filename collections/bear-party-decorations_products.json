@@ -9549,8 +9549,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916370846038",
       "variants": [
         {
-          "product_id": 9916370846038,
           "id": 51675111883094,
+          "product_id": 9916370846038,
           "title": "gift bag / 10pcs",
           "price": "18.95",
           "position": 1,
@@ -9577,8 +9577,8 @@
           "image_id": 67816557412694
         },
         {
-          "product_id": 9916370846038,
           "id": 51675111915862,
+          "product_id": 9916370846038,
           "title": "gift bag / 20pcs",
           "price": "22.95",
           "position": 2,
@@ -9605,8 +9605,8 @@
           "image_id": 67816557412694
         },
         {
-          "product_id": 9916370846038,
           "id": 51675111948630,
+          "product_id": 9916370846038,
           "title": "gift bag / 30pcs",
           "price": "23.95",
           "position": 3,
@@ -9633,8 +9633,8 @@
           "image_id": 67816557412694
         },
         {
-          "product_id": 9916370846038,
           "id": 51675111981398,
+          "product_id": 9916370846038,
           "title": "gift bag / 40pcs",
           "price": "24.95",
           "position": 4,
@@ -9663,8 +9663,8 @@
       ],
       "options": [
         {
-          "product_id": 9916370846038,
           "id": 12787233685846,
+          "product_id": 9916370846038,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9672,8 +9672,8 @@
           ]
         },
         {
-          "product_id": 9916370846038,
           "id": 12787233718614,
+          "product_id": 9916370846038,
           "name": "Size",
           "position": 2,
           "values": [
