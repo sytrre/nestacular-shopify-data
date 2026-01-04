@@ -58902,8 +58902,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9810693685590",
       "variants": [
         {
-          "product_id": 9810693685590,
           "id": 51275586666838,
+          "product_id": 9810693685590,
           "title": "Y1 / 8pcs",
           "price": "44.95",
           "position": 1,
@@ -58930,8 +58930,8 @@
           "image_id": 66464524435798
         },
         {
-          "product_id": 9810693685590,
           "id": 51275586699606,
+          "product_id": 9810693685590,
           "title": "Y10 / 8pcs",
           "price": "45.25",
           "position": 2,
@@ -58958,8 +58958,8 @@
           "image_id": 66464524468566
         },
         {
-          "product_id": 9810693685590,
           "id": 51275586732374,
+          "product_id": 9810693685590,
           "title": "Y16 / 8pcs",
           "price": "44.95",
           "position": 3,
@@ -58986,8 +58986,8 @@
           "image_id": 66464524501334
         },
         {
-          "product_id": 9810693685590,
           "id": 51275586765142,
+          "product_id": 9810693685590,
           "title": "Y2 / 8pcs",
           "price": "44.95",
           "position": 4,
@@ -59014,8 +59014,8 @@
           "image_id": 66464524534102
         },
         {
-          "product_id": 9810693685590,
           "id": 51275586797910,
+          "product_id": 9810693685590,
           "title": "Y3 / 8pcs",
           "price": "44.95",
           "position": 5,
@@ -59042,8 +59042,8 @@
           "image_id": 66464524566870
         },
         {
-          "product_id": 9810693685590,
           "id": 51275586830678,
+          "product_id": 9810693685590,
           "title": "Y4 / 8pcs",
           "price": "44.95",
           "position": 6,
@@ -59070,8 +59070,8 @@
           "image_id": 66464524599638
         },
         {
-          "product_id": 9810693685590,
           "id": 51275586863446,
+          "product_id": 9810693685590,
           "title": "Y5 / 8pcs",
           "price": "44.95",
           "position": 7,
@@ -59098,8 +59098,8 @@
           "image_id": 66464524632406
         },
         {
-          "product_id": 9810693685590,
           "id": 51275586896214,
+          "product_id": 9810693685590,
           "title": "Y6 / 8pcs",
           "price": "44.95",
           "position": 8,
@@ -59128,8 +59128,8 @@
       ],
       "options": [
         {
-          "product_id": 9810693685590,
           "id": 12663459840342,
+          "product_id": 9810693685590,
           "name": "Color",
           "position": 1,
           "values": [
@@ -59144,8 +59144,8 @@
           ]
         },
         {
-          "product_id": 9810693685590,
           "id": 12663459873110,
+          "product_id": 9810693685590,
           "name": "format",
           "position": 2,
           "values": [
