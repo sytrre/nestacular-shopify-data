@@ -3214,8 +3214,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870560919894",
       "variants": [
         {
-          "product_id": 9870560919894,
           "id": 51504609624406,
+          "product_id": 9870560919894,
           "title": "Kid",
           "price": "19.95",
           "position": 1,
@@ -3242,8 +3242,8 @@
           "image_id": 67399076118870
         },
         {
-          "product_id": 9870560919894,
           "id": 51504609657174,
+          "product_id": 9870560919894,
           "title": "Pet",
           "price": "19.95",
           "position": 2,
@@ -3272,8 +3272,8 @@
       ],
       "options": [
         {
-          "product_id": 9870560919894,
           "id": 12733703684438,
+          "product_id": 9870560919894,
           "name": "Model",
           "position": 1,
           "values": [
