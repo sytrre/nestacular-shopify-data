@@ -19528,8 +19528,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776255795542",
       "variants": [
         {
-          "id": 51128411390294,
           "product_id": 9776255795542,
+          "id": 51128411390294,
           "title": "Green",
           "price": "24.95",
           "position": 1,
@@ -19558,8 +19558,8 @@
       ],
       "options": [
         {
-          "id": 12622695956822,
           "product_id": 9776255795542,
+          "id": 12622695956822,
           "name": "Color",
           "position": 1,
           "values": [
