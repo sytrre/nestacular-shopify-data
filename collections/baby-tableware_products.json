@@ -73474,8 +73474,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9846487286102",
       "variants": [
         {
-          "id": 51415756112214,
           "product_id": 9846487286102,
+          "id": 51415756112214,
           "title": "Green / Cover to tray to storage bag",
           "price": "74.95",
           "position": 1,
@@ -73502,8 +73502,8 @@
           "image_id": 67142842351958
         },
         {
-          "id": 51415756144982,
           "product_id": 9846487286102,
+          "id": 51415756144982,
           "title": "Grey / Cover to tray to storage bag",
           "price": "74.95",
           "position": 2,
@@ -73530,8 +73530,8 @@
           "image_id": 67142842384726
         },
         {
-          "id": 51415756177750,
           "product_id": 9846487286102,
+          "id": 51415756177750,
           "title": "Pink / Cover to tray to storage bag",
           "price": "74.95",
           "position": 3,
@@ -73560,8 +73560,8 @@
       ],
       "options": [
         {
-          "id": 12705780105558,
           "product_id": 9846487286102,
+          "id": 12705780105558,
           "name": "Color",
           "position": 1,
           "values": [
@@ -73571,8 +73571,8 @@
           ]
         },
         {
-          "id": 12705780138326,
           "product_id": 9846487286102,
+          "id": 12705780138326,
           "name": "style",
           "position": 2,
           "values": [

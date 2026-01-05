@@ -58227,8 +58227,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9742590771542",
       "variants": [
         {
-          "id": 50994682397014,
           "product_id": 9742590771542,
+          "id": 50994682397014,
           "title": "Phase I",
           "price": "22.95",
           "position": 1,
@@ -58255,8 +58255,8 @@
           "image_id": 65098072949078
         },
         {
-          "id": 50994682429782,
           "product_id": 9742590771542,
+          "id": 50994682429782,
           "title": "Phase II",
           "price": "22.95",
           "position": 2,
@@ -58283,8 +58283,8 @@
           "image_id": 65098073080150
         },
         {
-          "id": 50994682462550,
           "product_id": 9742590771542,
+          "id": 50994682462550,
           "title": "Phase III",
           "price": "22.95",
           "position": 3,
@@ -58311,8 +58311,8 @@
           "image_id": 65098072850774
         },
         {
-          "id": 50994682495318,
           "product_id": 9742590771542,
+          "id": 50994682495318,
           "title": "Set",
           "price": "31.95",
           "position": 4,
@@ -58341,8 +58341,8 @@
       ],
       "options": [
         {
-          "id": 12583064797526,
           "product_id": 9742590771542,
+          "id": 12583064797526,
           "name": "style",
           "position": 1,
           "values": [
@@ -58563,8 +58563,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9409661567318",
       "variants": [
         {
-          "product_id": 9409661567318,
           "id": 50217638854998,
+          "product_id": 9409661567318,
           "title": "Black / 4 Bands & 30 Adhesive Tabs",
           "price": "39.44",
           "position": 1,
@@ -58591,8 +58591,8 @@
           "image_id": 59221008580950
         },
         {
-          "product_id": 9409661567318,
           "id": 50151601045846,
+          "product_id": 9409661567318,
           "title": "Black / 4 Bands & 15 Adhesive Tabs",
           "price": "34.44",
           "position": 2,
@@ -58619,8 +58619,8 @@
           "image_id": 61060236509526
         },
         {
-          "product_id": 9409661567318,
           "id": 50217638887766,
+          "product_id": 9409661567318,
           "title": "White / 4 Bands & 30 Adhesive Tabs",
           "price": "39.44",
           "position": 3,
@@ -58647,8 +58647,8 @@
           "image_id": 59221006745942
         },
         {
-          "product_id": 9409661567318,
           "id": 50151601078614,
+          "product_id": 9409661567318,
           "title": "White / 4 Bands & 15 Adhesive Tabs",
           "price": "34.44",
           "position": 4,
@@ -58677,8 +58677,8 @@
       ],
       "options": [
         {
-          "product_id": 9409661567318,
           "id": 12179586810198,
+          "product_id": 9409661567318,
           "name": "Color",
           "position": 1,
           "values": [
@@ -58687,8 +58687,8 @@
           ]
         },
         {
-          "product_id": 9409661567318,
           "id": 12179586875734,
+          "product_id": 9409661567318,
           "name": "Option",
           "position": 2,
           "values": [
