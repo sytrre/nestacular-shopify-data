@@ -7574,8 +7574,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016021414230",
       "variants": [
         {
-          "product_id": 10016021414230,
           "id": 52013525041494,
+          "product_id": 10016021414230,
           "title": "21dangshuxian / USB",
           "price": "4.68",
           "position": 1,
@@ -7602,8 +7602,8 @@
           "image_id": 69735030554966
         },
         {
-          "product_id": 10016021414230,
           "id": 52013525074262,
+          "product_id": 10016021414230,
           "title": "21dangshuxian 1 / USB",
           "price": "4.68",
           "position": 2,
@@ -7630,8 +7630,8 @@
           "image_id": 69735030587734
         },
         {
-          "product_id": 10016021414230,
           "id": 52013525107030,
+          "product_id": 10016021414230,
           "title": "21dangshuxian 2 / USB",
           "price": "4.99",
           "position": 3,
@@ -7658,8 +7658,8 @@
           "image_id": 69735030620502
         },
         {
-          "product_id": 10016021414230,
           "id": 52013525139798,
+          "product_id": 10016021414230,
           "title": "21dangshuxian 3 / USB",
           "price": "4.78",
           "position": 4,
@@ -7688,8 +7688,8 @@
       ],
       "options": [
         {
-          "product_id": 10016021414230,
           "id": 12901926797654,
+          "product_id": 10016021414230,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7700,8 +7700,8 @@
           ]
         },
         {
-          "product_id": 10016021414230,
           "id": 12901926830422,
+          "product_id": 10016021414230,
           "name": "Voltage",
           "position": 2,
           "values": [
