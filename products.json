@@ -58227,8 +58227,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9742590771542",
       "variants": [
         {
-          "product_id": 9742590771542,
           "id": 50994682397014,
+          "product_id": 9742590771542,
           "title": "Phase I",
           "price": "22.95",
           "position": 1,
@@ -58255,8 +58255,8 @@
           "image_id": 65098072949078
         },
         {
-          "product_id": 9742590771542,
           "id": 50994682429782,
+          "product_id": 9742590771542,
           "title": "Phase II",
           "price": "22.95",
           "position": 2,
@@ -58283,8 +58283,8 @@
           "image_id": 65098073080150
         },
         {
-          "product_id": 9742590771542,
           "id": 50994682462550,
+          "product_id": 9742590771542,
           "title": "Phase III",
           "price": "22.95",
           "position": 3,
@@ -58311,8 +58311,8 @@
           "image_id": 65098072850774
         },
         {
-          "product_id": 9742590771542,
           "id": 50994682495318,
+          "product_id": 9742590771542,
           "title": "Set",
           "price": "31.95",
           "position": 4,
@@ -58341,8 +58341,8 @@
       ],
       "options": [
         {
-          "product_id": 9742590771542,
           "id": 12583064797526,
+          "product_id": 9742590771542,
           "name": "style",
           "position": 1,
           "values": [
