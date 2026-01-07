@@ -657,8 +657,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791126864214",
       "variants": [
         {
-          "product_id": 9791126864214,
           "id": 51194885669206,
+          "product_id": 9791126864214,
           "title": "Nano",
           "price": "17.00",
           "position": 1,
@@ -685,8 +685,8 @@
           "image_id": 66236721463638
         },
         {
-          "product_id": 9791126864214,
           "id": 51194885701974,
+          "product_id": 9791126864214,
           "title": "White",
           "price": "17.00",
           "position": 2,
@@ -715,8 +715,8 @@
       ],
       "options": [
         {
-          "product_id": 9791126864214,
           "id": 12640293912918,
+          "product_id": 9791126864214,
           "name": "Color",
           "position": 1,
           "values": [
