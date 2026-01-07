@@ -1665,8 +1665,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821652255062",
       "variants": [
         {
-          "product_id": 9821652255062,
           "id": 51323336819030,
+          "product_id": 9821652255062,
           "title": "Mica Gray / US adapter",
           "price": "219.95",
           "position": 1,
@@ -1693,8 +1693,8 @@
           "image_id": 66791802503510
         },
         {
-          "product_id": 9821652255062,
           "id": 51323336851798,
+          "product_id": 9821652255062,
           "title": "Mica White / US adapter",
           "price": "219.95",
           "position": 2,
@@ -1723,8 +1723,8 @@
       ],
       "options": [
         {
-          "product_id": 9821652255062,
           "id": 12676613341526,
+          "product_id": 9821652255062,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1733,8 +1733,8 @@
           ]
         },
         {
-          "product_id": 9821652255062,
           "id": 12676613374294,
+          "product_id": 9821652255062,
           "name": "Power specification",
           "position": 2,
           "values": [
