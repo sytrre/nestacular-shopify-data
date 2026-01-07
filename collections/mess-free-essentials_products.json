@@ -68079,8 +68079,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765169791318",
       "variants": [
         {
-          "id": 51084377096534,
           "product_id": 9765169791318,
+          "id": 51084377096534,
           "title": "Green",
           "price": "16.12",
           "position": 1,
@@ -68107,8 +68107,8 @@
           "image_id": 65932721389910
         },
         {
-          "id": 51084377129302,
           "product_id": 9765169791318,
+          "id": 51084377129302,
           "title": "Violet",
           "price": "16.22",
           "position": 2,
@@ -68137,8 +68137,8 @@
       ],
       "options": [
         {
-          "id": 12609595539798,
           "product_id": 9765169791318,
+          "id": 12609595539798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -101595,8 +101595,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793808826710",
       "variants": [
         {
-          "id": 51206559957334,
           "product_id": 9793808826710,
+          "id": 51206559957334,
           "title": "Fresh Blue",
           "price": "16.40",
           "position": 1,
@@ -101623,8 +101623,8 @@
           "image_id": 66262987768150
         },
         {
-          "id": 51206559990102,
           "product_id": 9793808826710,
+          "id": 51206559990102,
           "title": "Lovely Pink",
           "price": "16.40",
           "position": 2,
@@ -101651,8 +101651,8 @@
           "image_id": 66262987800918
         },
         {
-          "id": 51206560022870,
           "product_id": 9793808826710,
+          "id": 51206560022870,
           "title": "Bright Orange white",
           "price": "16.40",
           "position": 3,
@@ -101681,8 +101681,8 @@
       ],
       "options": [
         {
-          "id": 12643543089494,
           "product_id": 9793808826710,
+          "id": 12643543089494,
           "name": "Color",
           "position": 1,
           "values": [
