@@ -998,8 +998,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10060960792918",
       "variants": [
         {
-          "product_id": 10060960792918,
           "id": 52195078144342,
+          "product_id": 10060960792918,
           "title": "NEW Pink",
           "price": "24.95",
           "position": 1,
@@ -1026,8 +1026,8 @@
           "image_id": 71027164414294
         },
         {
-          "product_id": 10060960792918,
           "id": 52195078177110,
+          "product_id": 10060960792918,
           "title": "NEW Blue",
           "price": "27.95",
           "position": 2,
@@ -1054,8 +1054,8 @@
           "image_id": 71027164447062
         },
         {
-          "product_id": 10060960792918,
           "id": 52195078209878,
+          "product_id": 10060960792918,
           "title": "For Boy",
           "price": "18.95",
           "position": 3,
@@ -1082,8 +1082,8 @@
           "image_id": 71027164479830
         },
         {
-          "product_id": 10060960792918,
           "id": 52195078242646,
+          "product_id": 10060960792918,
           "title": "Blue",
           "price": "28.95",
           "position": 4,
@@ -1110,8 +1110,8 @@
           "image_id": 71027164512598
         },
         {
-          "product_id": 10060960792918,
           "id": 52195078275414,
+          "product_id": 10060960792918,
           "title": "For Girl",
           "price": "18.95",
           "position": 5,
@@ -1140,8 +1140,8 @@
       ],
       "options": [
         {
-          "product_id": 10060960792918,
           "id": 12956151578966,
+          "product_id": 10060960792918,
           "name": "Color",
           "position": 1,
           "values": [
