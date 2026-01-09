@@ -24606,8 +24606,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792651264342",
       "variants": [
         {
-          "id": 51201121288534,
           "product_id": 9792651264342,
+          "id": 51201121288534,
           "title": "Dark Blue Dinosaurs",
           "price": "25.85",
           "position": 1,
@@ -24636,8 +24636,8 @@
       ],
       "options": [
         {
-          "id": 12642098512214,
           "product_id": 9792651264342,
+          "id": 12642098512214,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25784,8 +25784,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791457427798",
       "variants": [
         {
-          "id": 51196520202582,
           "product_id": 9791457427798,
+          "id": 51196520202582,
           "title": "Pink",
           "price": "20.79",
           "position": 1,
@@ -25812,8 +25812,8 @@
           "image_id": 66242096496982
         },
         {
-          "id": 51196520235350,
           "product_id": 9791457427798,
+          "id": 51196520235350,
           "title": "Green",
           "price": "20.79",
           "position": 2,
@@ -25840,8 +25840,8 @@
           "image_id": 66242096529750
         },
         {
-          "id": 51196520268118,
           "product_id": 9791457427798,
+          "id": 51196520268118,
           "title": "Blue",
           "price": "20.79",
           "position": 3,
@@ -25870,8 +25870,8 @@
       ],
       "options": [
         {
-          "id": 12640681460054,
           "product_id": 9791457427798,
+          "id": 12640681460054,
           "name": "Color",
           "position": 1,
           "values": [
@@ -92043,10 +92043,10 @@
       "product_type": "",
       "created_at": "2025-12-03T13:48:28+00:00",
       "handle": "thematerset-mom-peri-bottle-minimalist-postpartum-cleansing-essential",
-      "updated_at": "2026-01-09T11:56:20+00:00",
-      "published_at": null,
+      "updated_at": "2026-01-09T16:06:41+00:00",
+      "published_at": "2026-01-09T16:06:28+00:00",
       "template_suffix": null,
-      "published_scope": "web",
+      "published_scope": "global",
       "tags": "Baby Bottle, Baby Bottles",
       "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10016023707990",
