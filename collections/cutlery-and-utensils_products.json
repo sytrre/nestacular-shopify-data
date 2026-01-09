@@ -3602,8 +3602,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792650314070",
       "variants": [
         {
-          "id": 51201118339414,
           "product_id": 9792650314070,
+          "id": 51201118339414,
           "title": "Pink",
           "price": "26.22",
           "position": 1,
@@ -3630,8 +3630,8 @@
           "image_id": 66253019283798
         },
         {
-          "id": 51201118372182,
           "product_id": 9792650314070,
+          "id": 51201118372182,
           "title": "Blue",
           "price": "26.22",
           "position": 2,
@@ -3660,8 +3660,8 @@
       ],
       "options": [
         {
-          "id": 12642097496406,
           "product_id": 9792650314070,
+          "id": 12642097496406,
           "name": "Color",
           "position": 1,
           "values": [
