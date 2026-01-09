@@ -56739,8 +56739,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776255795542",
       "variants": [
         {
-          "product_id": 9776255795542,
           "id": 51128411390294,
+          "product_id": 9776255795542,
           "title": "Green",
           "price": "24.95",
           "position": 1,
@@ -56769,8 +56769,8 @@
       ],
       "options": [
         {
-          "product_id": 9776255795542,
           "id": 12622695956822,
+          "product_id": 9776255795542,
           "name": "Color",
           "position": 1,
           "values": [
@@ -92644,12 +92644,12 @@
       "product_type": "",
       "created_at": "2025-12-03T13:48:52+00:00",
       "handle": "softuru-baby-feeding-bottle-silicone-spoon-milk-cereal-feeder",
-      "updated_at": "2026-01-09T11:42:26+00:00",
+      "updated_at": "2026-01-09T11:43:34+00:00",
       "published_at": null,
       "template_suffix": null,
       "published_scope": "web",
-      "tags": "",
-      "status": "draft",
+      "tags": "Baby Bottle, Baby Bottles",
+      "status": "active",
       "admin_graphql_api_id": "gid://shopify/Product/10016024920406",
       "variants": [
         {
@@ -92796,17 +92796,17 @@
           "id": 52013532741974,
           "product_id": 10016024920406,
           "title": "TD1119G",
-          "price": "1.92",
+          "price": "14.95",
           "position": 6,
           "inventory_policy": "deny",
-          "compare_at_price": "1.92",
+          "compare_at_price": "24.95",
           "option1": "TD1119G",
           "option2": null,
           "option3": null,
           "created_at": "2025-12-03T13:48:54+00:00",
-          "updated_at": "2025-12-03T13:48:54+00:00",
+          "updated_at": "2026-01-09T11:42:52+00:00",
           "taxable": false,
-          "barcode": null,
+          "barcode": "",
           "fulfillment_service": "dsers-fulfillment-service",
           "grams": 96,
           "inventory_management": "dsers-fulfillment-service",
