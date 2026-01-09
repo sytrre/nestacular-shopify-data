@@ -579,8 +579,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791063392598",
       "variants": [
         {
-          "product_id": 9791063392598,
           "id": 51194333299030,
+          "product_id": 9791063392598,
           "title": "S",
           "price": "31.29",
           "position": 1,
@@ -607,8 +607,8 @@
           "image_id": 66235947254102
         },
         {
-          "product_id": 9791063392598,
           "id": 51194333331798,
+          "product_id": 9791063392598,
           "title": "M",
           "price": "31.29",
           "position": 2,
@@ -635,8 +635,8 @@
           "image_id": 66235947286870
         },
         {
-          "product_id": 9791063392598,
           "id": 51194333364566,
+          "product_id": 9791063392598,
           "title": "L",
           "price": "31.29",
           "position": 3,
@@ -663,8 +663,8 @@
           "image_id": 66235947319638
         },
         {
-          "product_id": 9791063392598,
           "id": 51194333397334,
+          "product_id": 9791063392598,
           "title": "XL",
           "price": "31.29",
           "position": 4,
@@ -693,8 +693,8 @@
       ],
       "options": [
         {
-          "product_id": 9791063392598,
           "id": 12640213696854,
+          "product_id": 9791063392598,
           "name": "Size",
           "position": 1,
           "values": [
