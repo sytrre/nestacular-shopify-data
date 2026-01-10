@@ -1967,8 +1967,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9910342353238",
       "variants": [
         {
-          "product_id": 9910342353238,
           "id": 51649661993302,
+          "product_id": 9910342353238,
           "title": "1pcs cake topper",
           "price": "18.95",
           "position": 1,
@@ -1995,8 +1995,8 @@
           "image_id": 67700382007638
         },
         {
-          "product_id": 9910342353238,
           "id": 51649662026070,
+          "product_id": 9910342353238,
           "title": "12pcs Gift Bags",
           "price": "28.95",
           "position": 2,
@@ -2025,8 +2025,8 @@
       ],
       "options": [
         {
-          "product_id": 9910342353238,
           "id": 12780162711894,
+          "product_id": 9910342353238,
           "name": "Color",
           "position": 1,
           "values": [
