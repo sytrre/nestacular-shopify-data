@@ -11817,8 +11817,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9912331305302",
       "variants": [
         {
-          "product_id": 9912331305302,
           "id": 51658548117846,
+          "product_id": 9912331305302,
           "title": "A 4PCS / 18X22X2cm",
           "price": "23.95",
           "position": 1,
@@ -11847,8 +11847,8 @@
       ],
       "options": [
         {
-          "product_id": 9912331305302,
           "id": 12782477803862,
+          "product_id": 9912331305302,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11856,8 +11856,8 @@
           ]
         },
         {
-          "product_id": 9912331305302,
           "id": 12782477836630,
+          "product_id": 9912331305302,
           "name": "Size",
           "position": 2,
           "values": [
