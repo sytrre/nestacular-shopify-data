@@ -68171,8 +68171,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9776269787478",
       "variants": [
         {
-          "product_id": 9776269787478,
           "id": 51128468734294,
+          "product_id": 9776269787478,
           "title": "Acrobatic Dolphin Bib",
           "price": "12.95",
           "position": 1,
@@ -68199,8 +68199,8 @@
           "image_id": 66088330035542
         },
         {
-          "product_id": 9776269787478,
           "id": 51128468767062,
+          "product_id": 9776269787478,
           "title": "Christmas Bunny Bib",
           "price": "12.95",
           "position": 2,
@@ -68227,8 +68227,8 @@
           "image_id": 66088330068310
         },
         {
-          "product_id": 9776269787478,
           "id": 51128468799830,
+          "product_id": 9776269787478,
           "title": "Flowers Bunny Bib",
           "price": "12.95",
           "position": 3,
@@ -68255,8 +68255,8 @@
           "image_id": 66088330101078
         },
         {
-          "product_id": 9776269787478,
           "id": 51128468832598,
+          "product_id": 9776269787478,
           "title": "Happy Date Bib",
           "price": "12.95",
           "position": 4,
@@ -68283,8 +68283,8 @@
           "image_id": 66088330133846
         },
         {
-          "product_id": 9776269787478,
           "id": 51128468865366,
+          "product_id": 9776269787478,
           "title": "Line Rabbit Bib",
           "price": "12.95",
           "position": 5,
@@ -68311,8 +68311,8 @@
           "image_id": 66088330166614
         },
         {
-          "product_id": 9776269787478,
           "id": 51128468898134,
+          "product_id": 9776269787478,
           "title": "Ribbon Bunny Bib",
           "price": "12.95",
           "position": 6,
@@ -68339,8 +68339,8 @@
           "image_id": 66088330199382
         },
         {
-          "product_id": 9776269787478,
           "id": 51128468930902,
+          "product_id": 9776269787478,
           "title": "Star Moon Bib",
           "price": "12.95",
           "position": 7,
@@ -68367,8 +68367,8 @@
           "image_id": 66088330232150
         },
         {
-          "product_id": 9776269787478,
           "id": 51128468963670,
+          "product_id": 9776269787478,
           "title": "Starry Sky Hot Air Balloon Bib",
           "price": "12.95",
           "position": 8,
@@ -68395,8 +68395,8 @@
           "image_id": 66088330264918
         },
         {
-          "product_id": 9776269787478,
           "id": 51128468996438,
+          "product_id": 9776269787478,
           "title": "Temperament Dr Lu Bib",
           "price": "12.95",
           "position": 9,
@@ -68425,8 +68425,8 @@
       ],
       "options": [
         {
-          "product_id": 9776269787478,
           "id": 12622711882070,
+          "product_id": 9776269787478,
           "name": "Color",
           "position": 1,
           "values": [
