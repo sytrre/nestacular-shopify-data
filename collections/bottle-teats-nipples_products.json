@@ -827,8 +827,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791181783382",
       "variants": [
         {
-          "id": 51195240743254,
           "product_id": 9791181783382,
+          "id": 51195240743254,
           "title": "Pink",
           "price": "16.26",
           "position": 1,
@@ -855,8 +855,8 @@
           "image_id": 66238650745174
         },
         {
-          "id": 51195240776022,
           "product_id": 9791181783382,
+          "id": 51195240776022,
           "title": "Dark Grey",
           "price": "16.26",
           "position": 2,
@@ -883,8 +883,8 @@
           "image_id": 66238652580182
         },
         {
-          "id": 51195240808790,
           "product_id": 9791181783382,
+          "id": 51195240808790,
           "title": "Beige",
           "price": "16.26",
           "position": 3,
@@ -911,8 +911,8 @@
           "image_id": 66238652612950
         },
         {
-          "id": 51195240841558,
           "product_id": 9791181783382,
+          "id": 51195240841558,
           "title": "Blue",
           "price": "16.26",
           "position": 4,
@@ -939,8 +939,8 @@
           "image_id": 66238652645718
         },
         {
-          "id": 51195240874326,
           "product_id": 9791181783382,
+          "id": 51195240874326,
           "title": "Light Grey",
           "price": "16.26",
           "position": 5,
@@ -969,8 +969,8 @@
       ],
       "options": [
         {
-          "id": 12640358859094,
           "product_id": 9791181783382,
+          "id": 12640358859094,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1092,8 +1092,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791156584790",
       "variants": [
         {
-          "id": 51195123269974,
           "product_id": 9791156584790,
+          "id": 51195123269974,
           "title": "A4 S",
           "price": "15.26",
           "position": 1,
@@ -1120,8 +1120,8 @@
           "image_id": 66237563339094
         },
         {
-          "id": 51195123302742,
           "product_id": 9791156584790,
+          "id": 51195123302742,
           "title": "A4 M",
           "price": "15.26",
           "position": 2,
@@ -1148,8 +1148,8 @@
           "image_id": 66237563339094
         },
         {
-          "id": 51195123335510,
           "product_id": 9791156584790,
+          "id": 51195123335510,
           "title": "A4 L",
           "price": "15.26",
           "position": 3,
@@ -1176,8 +1176,8 @@
           "image_id": 66237563339094
         },
         {
-          "id": 51195123368278,
           "product_id": 9791156584790,
+          "id": 51195123368278,
           "title": "A4 Cross Hole",
           "price": "15.26",
           "position": 4,
@@ -1206,8 +1206,8 @@
       ],
       "options": [
         {
-          "id": 12640329924950,
           "product_id": 9791156584790,
+          "id": 12640329924950,
           "name": "Size",
           "position": 1,
           "values": [

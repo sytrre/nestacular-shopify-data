@@ -20201,8 +20201,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9806025654614",
       "variants": [
         {
-          "id": 51256443896150,
           "product_id": 9806025654614,
+          "id": 51256443896150,
           "title": "Baby Feeding Set Pink",
           "price": "40.95",
           "position": 1,
@@ -20231,8 +20231,8 @@
       ],
       "options": [
         {
-          "id": 12657915593046,
           "product_id": 9806025654614,
+          "id": 12657915593046,
           "name": "Baby Feding Set",
           "position": 1,
           "values": [
