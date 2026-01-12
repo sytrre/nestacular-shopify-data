@@ -1012,8 +1012,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791181783382",
       "variants": [
         {
-          "product_id": 9791181783382,
           "id": 51195240743254,
+          "product_id": 9791181783382,
           "title": "Pink",
           "price": "16.26",
           "position": 1,
@@ -1040,8 +1040,8 @@
           "image_id": 66238650745174
         },
         {
-          "product_id": 9791181783382,
           "id": 51195240776022,
+          "product_id": 9791181783382,
           "title": "Dark Grey",
           "price": "16.26",
           "position": 2,
@@ -1068,8 +1068,8 @@
           "image_id": 66238652580182
         },
         {
-          "product_id": 9791181783382,
           "id": 51195240808790,
+          "product_id": 9791181783382,
           "title": "Beige",
           "price": "16.26",
           "position": 3,
@@ -1096,8 +1096,8 @@
           "image_id": 66238652612950
         },
         {
-          "product_id": 9791181783382,
           "id": 51195240841558,
+          "product_id": 9791181783382,
           "title": "Blue",
           "price": "16.26",
           "position": 4,
@@ -1124,8 +1124,8 @@
           "image_id": 66238652645718
         },
         {
-          "product_id": 9791181783382,
           "id": 51195240874326,
+          "product_id": 9791181783382,
           "title": "Light Grey",
           "price": "16.26",
           "position": 5,
@@ -1154,8 +1154,8 @@
       ],
       "options": [
         {
-          "product_id": 9791181783382,
           "id": 12640358859094,
+          "product_id": 9791181783382,
           "name": "Color",
           "position": 1,
           "values": [
