@@ -264,8 +264,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9881421316438",
       "variants": [
         {
-          "id": 51532578685270,
           "product_id": 9881421316438,
+          "id": 51532578685270,
           "title": "Flat head for night use [Comes with storage box + anti-drop chain",
           "price": "18.95",
           "position": 1,
@@ -292,8 +292,8 @@
           "image_id": 67453171106134
         },
         {
-          "id": 51532578718038,
           "product_id": 9881421316438,
+          "id": 51532578718038,
           "title": "(2 pieces) Daily use + Night use [Comes with storage box + anti-drop chain",
           "price": "18.95",
           "position": 2,
@@ -320,8 +320,8 @@
           "image_id": 67453171138902
         },
         {
-          "id": 51532578750806,
           "product_id": 9881421316438,
+          "id": 51532578750806,
           "title": "Daily-use round head [Comes with storage box + anti-drop chain",
           "price": "18.95",
           "position": 3,
@@ -350,8 +350,8 @@
       ],
       "options": [
         {
-          "id": 12745863168342,
           "product_id": 9881421316438,
+          "id": 12745863168342,
           "name": "SPECS",
           "position": 1,
           "values": [
