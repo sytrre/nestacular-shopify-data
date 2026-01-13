@@ -2127,8 +2127,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791088460118",
       "variants": [
         {
-          "product_id": 9791088460118,
           "id": 51194420789590,
+          "product_id": 9791088460118,
           "title": "Pink",
           "price": "17.74",
           "position": 1,
@@ -2155,8 +2155,8 @@
           "image_id": 66236264055126
         },
         {
-          "product_id": 9791088460118,
           "id": 51194420822358,
+          "product_id": 9791088460118,
           "title": "Gray",
           "price": "17.74",
           "position": 2,
@@ -2185,8 +2185,8 @@
       ],
       "options": [
         {
-          "product_id": 9791088460118,
           "id": 12640242336086,
+          "product_id": 9791088460118,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2784,8 +2784,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793806106966",
       "variants": [
         {
-          "product_id": 9793806106966,
           "id": 51206547865942,
+          "product_id": 9793806106966,
           "title": "White / A",
           "price": "16.74",
           "position": 1,
@@ -2812,8 +2812,8 @@
           "image_id": 66262968893782
         },
         {
-          "product_id": 9793806106966,
           "id": 51206547898710,
+          "product_id": 9793806106966,
           "title": "White / B",
           "price": "16.72",
           "position": 2,
@@ -2840,8 +2840,8 @@
           "image_id": 66262968926550
         },
         {
-          "product_id": 9793806106966,
           "id": 51206547931478,
+          "product_id": 9793806106966,
           "title": "Pink / A",
           "price": "16.72",
           "position": 3,
@@ -2868,8 +2868,8 @@
           "image_id": 66262968959318
         },
         {
-          "product_id": 9793806106966,
           "id": 51206547964246,
+          "product_id": 9793806106966,
           "title": "Pink / B",
           "price": "16.72",
           "position": 4,
@@ -2896,8 +2896,8 @@
           "image_id": 66262968992086
         },
         {
-          "product_id": 9793806106966,
           "id": 51206547997014,
+          "product_id": 9793806106966,
           "title": "Yellow / A",
           "price": "16.72",
           "position": 5,
@@ -2924,8 +2924,8 @@
           "image_id": 66262969024854
         },
         {
-          "product_id": 9793806106966,
           "id": 51206548029782,
+          "product_id": 9793806106966,
           "title": "Yellow / B",
           "price": "16.72",
           "position": 6,
@@ -2952,8 +2952,8 @@
           "image_id": 66262969057622
         },
         {
-          "product_id": 9793806106966,
           "id": 51206548062550,
+          "product_id": 9793806106966,
           "title": "Green / A",
           "price": "16.74",
           "position": 7,
@@ -2980,8 +2980,8 @@
           "image_id": 66262969090390
         },
         {
-          "product_id": 9793806106966,
           "id": 51206548095318,
+          "product_id": 9793806106966,
           "title": "Green / B",
           "price": "16.72",
           "position": 8,
@@ -3008,8 +3008,8 @@
           "image_id": 66262969123158
         },
         {
-          "product_id": 9793806106966,
           "id": 51206548128086,
+          "product_id": 9793806106966,
           "title": "Blue / A",
           "price": "16.72",
           "position": 9,
@@ -3036,8 +3036,8 @@
           "image_id": 66262969155926
         },
         {
-          "product_id": 9793806106966,
           "id": 51206548160854,
+          "product_id": 9793806106966,
           "title": "Blue / B",
           "price": "16.72",
           "position": 10,
@@ -3066,8 +3066,8 @@
       ],
       "options": [
         {
-          "product_id": 9793806106966,
           "id": 12643539091798,
+          "product_id": 9793806106966,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3079,8 +3079,8 @@
           ]
         },
         {
-          "product_id": 9793806106966,
           "id": 12643539124566,
+          "product_id": 9793806106966,
           "name": "style",
           "position": 2,
           "values": [
@@ -7890,8 +7890,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793334280534",
       "variants": [
         {
-          "product_id": 9793334280534,
           "id": 51204703355222,
+          "product_id": 9793334280534,
           "title": "Dark Red",
           "price": "47.37",
           "position": 1,
@@ -7918,8 +7918,8 @@
           "image_id": 66259649397078
         },
         {
-          "product_id": 9793334280534,
           "id": 51204703387990,
+          "product_id": 9793334280534,
           "title": "Grey blue",
           "price": "47.37",
           "position": 2,
@@ -7946,8 +7946,8 @@
           "image_id": 66259649429846
         },
         {
-          "product_id": 9793334280534,
           "id": 51204703420758,
+          "product_id": 9793334280534,
           "title": "Olive green",
           "price": "47.37",
           "position": 3,
@@ -7974,8 +7974,8 @@
           "image_id": 66259649462614
         },
         {
-          "product_id": 9793334280534,
           "id": 51204703453526,
+          "product_id": 9793334280534,
           "title": "Mango",
           "price": "47.37",
           "position": 4,
@@ -8002,8 +8002,8 @@
           "image_id": 66259649495382
         },
         {
-          "product_id": 9793334280534,
           "id": 51204703486294,
+          "product_id": 9793334280534,
           "title": "Light pink",
           "price": "47.37",
           "position": 5,
@@ -8030,8 +8030,8 @@
           "image_id": 66259649528150
         },
         {
-          "product_id": 9793334280534,
           "id": 51204703519062,
+          "product_id": 9793334280534,
           "title": "Grey",
           "price": "47.37",
           "position": 6,
@@ -8060,8 +8060,8 @@
       ],
       "options": [
         {
-          "product_id": 9793334280534,
           "id": 12642924527958,
+          "product_id": 9793334280534,
           "name": "Color",
           "position": 1,
           "values": [

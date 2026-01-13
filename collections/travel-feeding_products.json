@@ -548,8 +548,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844880245078",
       "variants": [
         {
-          "product_id": 9844880245078,
           "id": 51409647927638,
+          "product_id": 9844880245078,
           "title": "Army green",
           "price": "28.95",
           "position": 1,
@@ -576,8 +576,8 @@
           "image_id": 67126275965270
         },
         {
-          "product_id": 9844880245078,
           "id": 51409647960406,
+          "product_id": 9844880245078,
           "title": "Bright pink",
           "price": "28.95",
           "position": 2,
@@ -604,8 +604,8 @@
           "image_id": 67126275998038
         },
         {
-          "product_id": 9844880245078,
           "id": 51409647993174,
+          "product_id": 9844880245078,
           "title": "Bright purple",
           "price": "28.95",
           "position": 3,
@@ -632,8 +632,8 @@
           "image_id": 67126276030806
         },
         {
-          "product_id": 9844880245078,
           "id": 51409648025942,
+          "product_id": 9844880245078,
           "title": "Lavender",
           "price": "28.95",
           "position": 4,
@@ -660,8 +660,8 @@
           "image_id": 67126276063574
         },
         {
-          "product_id": 9844880245078,
           "id": 51409648058710,
+          "product_id": 9844880245078,
           "title": "Light Grey",
           "price": "28.95",
           "position": 5,
@@ -688,8 +688,8 @@
           "image_id": 67126276096342
         },
         {
-          "product_id": 9844880245078,
           "id": 51409648091478,
+          "product_id": 9844880245078,
           "title": "Mustard yellow",
           "price": "28.95",
           "position": 6,
@@ -716,8 +716,8 @@
           "image_id": 67126276129110
         },
         {
-          "product_id": 9844880245078,
           "id": 51409648124246,
+          "product_id": 9844880245078,
           "title": "Pink",
           "price": "28.95",
           "position": 7,
@@ -744,8 +744,8 @@
           "image_id": 67126276161878
         },
         {
-          "product_id": 9844880245078,
           "id": 51409648157014,
+          "product_id": 9844880245078,
           "title": "Sky Blue",
           "price": "28.95",
           "position": 8,
@@ -772,8 +772,8 @@
           "image_id": 67126276194646
         },
         {
-          "product_id": 9844880245078,
           "id": 51409648189782,
+          "product_id": 9844880245078,
           "title": "Smoked blue",
           "price": "28.95",
           "position": 9,
@@ -800,8 +800,8 @@
           "image_id": 67126276227414
         },
         {
-          "product_id": 9844880245078,
           "id": 51409648222550,
+          "product_id": 9844880245078,
           "title": "Yellow",
           "price": "28.95",
           "position": 10,
@@ -830,8 +830,8 @@
       ],
       "options": [
         {
-          "product_id": 9844880245078,
           "id": 12703834603862,
+          "product_id": 9844880245078,
           "name": "Color",
           "position": 1,
           "values": [

@@ -83244,8 +83244,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9409666810198",
       "variants": [
         {
-          "product_id": 9409666810198,
           "id": 49664722698582,
+          "product_id": 9409666810198,
           "title": "Black",
           "price": "53.93",
           "position": 1,
@@ -83272,8 +83272,8 @@
           "image_id": 59210096116054
         },
         {
-          "product_id": 9409666810198,
           "id": 49664722731350,
+          "product_id": 9409666810198,
           "title": "Clear Blue",
           "price": "53.93",
           "position": 2,
@@ -83300,8 +83300,8 @@
           "image_id": 59210096148822
         },
         {
-          "product_id": 9409666810198,
           "id": 49664722764118,
+          "product_id": 9409666810198,
           "title": "Purple",
           "price": "53.93",
           "position": 4,
@@ -83328,8 +83328,8 @@
           "image_id": 59210095984982
         },
         {
-          "product_id": 9409666810198,
           "id": 49664722796886,
+          "product_id": 9409666810198,
           "title": "Pink",
           "price": "53.93",
           "position": 5,
@@ -83358,8 +83358,8 @@
       ],
       "options": [
         {
-          "product_id": 9409666810198,
           "id": 12179592708438,
+          "product_id": 9409666810198,
           "name": "Color",
           "position": 1,
           "values": [
