@@ -1180,8 +1180,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765170544982",
       "variants": [
         {
-          "id": 51084382601558,
           "product_id": 9765170544982,
+          "id": 51084382601558,
           "title": "Type 2 Bowl",
           "price": "26.33",
           "position": 1,
@@ -1208,8 +1208,8 @@
           "image_id": 66262354067798
         },
         {
-          "id": 51084382634326,
           "product_id": 9765170544982,
+          "id": 51084382634326,
           "title": "Type 4 Bowl Set",
           "price": "28.51",
           "position": 2,
@@ -1236,8 +1236,8 @@
           "image_id": 65954849882454
         },
         {
-          "id": 51084382667094,
           "product_id": 9765170544982,
+          "id": 51084382667094,
           "title": "Type 7 Bowl Set",
           "price": "28.22",
           "position": 3,
@@ -1264,8 +1264,8 @@
           "image_id": 65954859221334
         },
         {
-          "id": 51084382699862,
           "product_id": 9765170544982,
+          "id": 51084382699862,
           "title": "Type 5 Bowl Set",
           "price": "28.04",
           "position": 4,
@@ -1292,8 +1292,8 @@
           "image_id": 65954867937622
         },
         {
-          "id": 51084382732630,
           "product_id": 9765170544982,
+          "id": 51084382732630,
           "title": "Type 1 Bowl",
           "price": "26.42",
           "position": 5,
@@ -1320,8 +1320,8 @@
           "image_id": 65954872000854
         },
         {
-          "id": 51084382765398,
           "product_id": 9765170544982,
+          "id": 51084382765398,
           "title": "Type 6 Bowl Set",
           "price": "28.51",
           "position": 6,
@@ -1348,8 +1348,8 @@
           "image_id": 65954883600726
         },
         {
-          "id": 51084382798166,
           "product_id": 9765170544982,
+          "id": 51084382798166,
           "title": "Type 2 Bowl Set",
           "price": "29.41",
           "position": 7,
@@ -1376,8 +1376,8 @@
           "image_id": 65954888417622
         },
         {
-          "id": 51084382830934,
           "product_id": 9765170544982,
+          "id": 51084382830934,
           "title": "Type 3 Bowl Set",
           "price": "29.27",
           "position": 8,
@@ -1404,8 +1404,8 @@
           "image_id": 65954897854806
         },
         {
-          "id": 51084382863702,
           "product_id": 9765170544982,
+          "id": 51084382863702,
           "title": "Type 1 Bowl Set",
           "price": "29.08",
           "position": 9,
@@ -1434,8 +1434,8 @@
       ],
       "options": [
         {
-          "id": 12609596293462,
           "product_id": 9765170544982,
+          "id": 12609596293462,
           "name": "Color",
           "position": 1,
           "values": [
