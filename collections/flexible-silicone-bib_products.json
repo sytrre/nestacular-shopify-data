@@ -1493,8 +1493,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791387304278",
       "variants": [
         {
-          "product_id": 9791387304278,
           "id": 51196298363222,
+          "product_id": 9791387304278,
           "title": "Blue",
           "price": "16.99",
           "position": 1,
@@ -1521,8 +1521,8 @@
           "image_id": 66241142784342
         },
         {
-          "product_id": 9791387304278,
           "id": 51196298395990,
+          "product_id": 9791387304278,
           "title": "Pink",
           "price": "16.99",
           "position": 2,
@@ -1551,8 +1551,8 @@
       ],
       "options": [
         {
-          "product_id": 9791387304278,
           "id": 12640603898198,
+          "product_id": 9791387304278,
           "name": "Color",
           "position": 1,
           "values": [

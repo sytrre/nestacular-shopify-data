@@ -3042,8 +3042,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866621518166",
       "variants": [
         {
-          "product_id": 9866621518166,
           "id": 51489768210774,
+          "product_id": 9866621518166,
           "title": "Blue",
           "price": "19.45",
           "position": 1,
@@ -3070,8 +3070,8 @@
           "image_id": 67364192354646
         },
         {
-          "product_id": 9866621518166,
           "id": 51489768243542,
+          "product_id": 9866621518166,
           "title": "Green",
           "price": "20.45",
           "position": 2,
@@ -3098,8 +3098,8 @@
           "image_id": 67364192387414
         },
         {
-          "product_id": 9866621518166,
           "id": 51489768276310,
+          "product_id": 9866621518166,
           "title": "Nano",
           "price": "20.45",
           "position": 3,
@@ -3126,8 +3126,8 @@
           "image_id": 67364192420182
         },
         {
-          "product_id": 9866621518166,
           "id": 51489768309078,
+          "product_id": 9866621518166,
           "title": "Pink",
           "price": "19.55",
           "position": 4,
@@ -3156,8 +3156,8 @@
       ],
       "options": [
         {
-          "product_id": 9866621518166,
           "id": 12729087394134,
+          "product_id": 9866621518166,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5820,8 +5820,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649363798",
       "variants": [
         {
-          "product_id": 9792649363798,
           "id": 51201111753046,
+          "product_id": 9792649363798,
           "title": "Pink",
           "price": "15.44",
           "position": 1,
@@ -5848,8 +5848,8 @@
           "image_id": 66252997493078
         },
         {
-          "product_id": 9792649363798,
           "id": 51201111785814,
+          "product_id": 9792649363798,
           "title": "Green small",
           "price": "15.44",
           "position": 2,
@@ -5876,8 +5876,8 @@
           "image_id": 66252997525846
         },
         {
-          "product_id": 9792649363798,
           "id": 51201111818582,
+          "product_id": 9792649363798,
           "title": "Dark green small",
           "price": "15.44",
           "position": 3,
@@ -5904,8 +5904,8 @@
           "image_id": 66252997558614
         },
         {
-          "product_id": 9792649363798,
           "id": 51201111851350,
+          "product_id": 9792649363798,
           "title": "Purple small",
           "price": "15.44",
           "position": 4,
@@ -5934,8 +5934,8 @@
       ],
       "options": [
         {
-          "product_id": 9792649363798,
           "id": 12642096447830,
+          "product_id": 9792649363798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -13219,8 +13219,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649920854",
       "variants": [
         {
-          "product_id": 9792649920854,
           "id": 51201115160918,
+          "product_id": 9792649920854,
           "title": "Color",
           "price": "16.18",
           "position": 1,
@@ -13249,8 +13249,8 @@
       ],
       "options": [
         {
-          "product_id": 9792649920854,
           "id": 12642097070422,
+          "product_id": 9792649920854,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16864,8 +16864,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9806025654614",
       "variants": [
         {
-          "product_id": 9806025654614,
           "id": 51256443896150,
+          "product_id": 9806025654614,
           "title": "Baby Feeding Set Pink",
           "price": "40.95",
           "position": 1,
@@ -16894,8 +16894,8 @@
       ],
       "options": [
         {
-          "product_id": 9806025654614,
           "id": 12657915593046,
+          "product_id": 9806025654614,
           "name": "Baby Feding Set",
           "position": 1,
           "values": [

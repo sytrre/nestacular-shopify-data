@@ -535,8 +535,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791088460118",
       "variants": [
         {
-          "product_id": 9791088460118,
           "id": 51194420789590,
+          "product_id": 9791088460118,
           "title": "Pink",
           "price": "17.74",
           "position": 1,
@@ -563,8 +563,8 @@
           "image_id": 66236264055126
         },
         {
-          "product_id": 9791088460118,
           "id": 51194420822358,
+          "product_id": 9791088460118,
           "title": "Gray",
           "price": "17.74",
           "position": 2,
@@ -593,8 +593,8 @@
       ],
       "options": [
         {
-          "product_id": 9791088460118,
           "id": 12640242336086,
+          "product_id": 9791088460118,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2668,8 +2668,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791156584790",
       "variants": [
         {
-          "product_id": 9791156584790,
           "id": 51195123269974,
+          "product_id": 9791156584790,
           "title": "A4 S",
           "price": "15.26",
           "position": 1,
@@ -2696,8 +2696,8 @@
           "image_id": 66237563339094
         },
         {
-          "product_id": 9791156584790,
           "id": 51195123302742,
+          "product_id": 9791156584790,
           "title": "A4 M",
           "price": "15.26",
           "position": 2,
@@ -2724,8 +2724,8 @@
           "image_id": 66237563339094
         },
         {
-          "product_id": 9791156584790,
           "id": 51195123335510,
+          "product_id": 9791156584790,
           "title": "A4 L",
           "price": "15.26",
           "position": 3,
@@ -2752,8 +2752,8 @@
           "image_id": 66237563339094
         },
         {
-          "product_id": 9791156584790,
           "id": 51195123368278,
+          "product_id": 9791156584790,
           "title": "A4 Cross Hole",
           "price": "15.26",
           "position": 4,
@@ -2782,8 +2782,8 @@
       ],
       "options": [
         {
-          "product_id": 9791156584790,
           "id": 12640329924950,
+          "product_id": 9791156584790,
           "name": "Size",
           "position": 1,
           "values": [
