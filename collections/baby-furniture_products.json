@@ -8998,8 +8998,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9830085886294",
       "variants": [
         {
-          "product_id": 9830085886294,
           "id": 51354750976342,
+          "product_id": 9830085886294,
           "title": "Bear dining chair",
           "price": "66.95",
           "position": 1,
@@ -9026,8 +9026,8 @@
           "image_id": 66960201122134
         },
         {
-          "product_id": 9830085886294,
           "id": 51354751009110,
+          "product_id": 9830085886294,
           "title": "Rabbit Dining Chair",
           "price": "66.95",
           "position": 2,
@@ -9054,8 +9054,8 @@
           "image_id": 66960201154902
         },
         {
-          "product_id": 9830085886294,
           "id": 51354751041878,
+          "product_id": 9830085886294,
           "title": "Threedimensional chrysanthemu",
           "price": "66.95",
           "position": 3,
@@ -9084,8 +9084,8 @@
       ],
       "options": [
         {
-          "product_id": 9830085886294,
           "id": 12686730527062,
+          "product_id": 9830085886294,
           "name": "style",
           "position": 1,
           "values": [
