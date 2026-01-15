@@ -3255,8 +3255,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9909975449942",
       "variants": [
         {
-          "product_id": 9909975449942,
           "id": 51648635896150,
+          "product_id": 9909975449942,
           "title": "Grey Set",
           "price": "24.95",
           "position": 1,
@@ -3283,8 +3283,8 @@
           "image_id": 67697663902038
         },
         {
-          "product_id": 9909975449942,
           "id": 51648635928918,
+          "product_id": 9909975449942,
           "title": "Orange Set",
           "price": "24.95",
           "position": 2,
@@ -3311,8 +3311,8 @@
           "image_id": 67697663967574
         },
         {
-          "product_id": 9909975449942,
           "id": 51648635961686,
+          "product_id": 9909975449942,
           "title": "Yellow Set",
           "price": "24.95",
           "position": 3,
@@ -3339,8 +3339,8 @@
           "image_id": 67697663705430
         },
         {
-          "product_id": 9909975449942,
           "id": 51648635994454,
+          "product_id": 9909975449942,
           "title": "Grey Blue Set",
           "price": "24.95",
           "position": 4,
@@ -3367,8 +3367,8 @@
           "image_id": 67697663738198
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636027222,
+          "product_id": 9909975449942,
           "title": "Bean Red Set",
           "price": "24.95",
           "position": 5,
@@ -3395,8 +3395,8 @@
           "image_id": 67697663770966
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636059990,
+          "product_id": 9909975449942,
           "title": "Beige Set",
           "price": "23.95",
           "position": 6,
@@ -3423,8 +3423,8 @@
           "image_id": 67697663803734
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636092758,
+          "product_id": 9909975449942,
           "title": "Khaki Set",
           "price": "24.95",
           "position": 7,
@@ -3451,8 +3451,8 @@
           "image_id": 67697664098646
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636125526,
+          "product_id": 9909975449942,
           "title": "Blue Set",
           "price": "24.95",
           "position": 8,
@@ -3479,8 +3479,8 @@
           "image_id": 67697663836502
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636158294,
+          "product_id": 9909975449942,
           "title": "Orange Set 1",
           "price": "24.95",
           "position": 9,
@@ -3507,8 +3507,8 @@
           "image_id": 67697664000342
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636191062,
+          "product_id": 9909975449942,
           "title": "Army Green Set",
           "price": "24.95",
           "position": 10,
@@ -3535,8 +3535,8 @@
           "image_id": 67697663869270
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636223830,
+          "product_id": 9909975449942,
           "title": "Grey Blue Set 1",
           "price": "24.95",
           "position": 11,
@@ -3563,8 +3563,8 @@
           "image_id": 67697664033110
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636256598,
+          "product_id": 9909975449942,
           "title": "Grey Set 1",
           "price": "24.95",
           "position": 12,
@@ -3591,8 +3591,8 @@
           "image_id": 67697664065878
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636289366,
+          "product_id": 9909975449942,
           "title": "Bean Red Set 1",
           "price": "24.95",
           "position": 13,
@@ -3619,8 +3619,8 @@
           "image_id": 67697663541590
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636322134,
+          "product_id": 9909975449942,
           "title": "Yellow Set 1",
           "price": "24.95",
           "position": 14,
@@ -3647,8 +3647,8 @@
           "image_id": 67697663574358
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636354902,
+          "product_id": 9909975449942,
           "title": "Blue Set 1",
           "price": "24.95",
           "position": 15,
@@ -3675,8 +3675,8 @@
           "image_id": 67697663934806
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636387670,
+          "product_id": 9909975449942,
           "title": "Beige Set 1",
           "price": "24.95",
           "position": 16,
@@ -3703,8 +3703,8 @@
           "image_id": 67697663607126
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636420438,
+          "product_id": 9909975449942,
           "title": "Army Green Set 1",
           "price": "24.95",
           "position": 17,
@@ -3731,8 +3731,8 @@
           "image_id": 67697663639894
         },
         {
-          "product_id": 9909975449942,
           "id": 51648636453206,
+          "product_id": 9909975449942,
           "title": "Khaki Set 1",
           "price": "24.95",
           "position": 18,
@@ -3761,8 +3761,8 @@
       ],
       "options": [
         {
-          "product_id": 9909975449942,
           "id": 12779748688214,
+          "product_id": 9909975449942,
           "name": "Color",
           "position": 1,
           "values": [
