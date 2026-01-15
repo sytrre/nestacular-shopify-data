@@ -36143,8 +36143,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870616330582",
       "variants": [
         {
-          "product_id": 9870616330582,
           "id": 51504675488086,
+          "product_id": 9870616330582,
           "title": "1style / One size",
           "price": "19.95",
           "position": 1,
@@ -36171,8 +36171,8 @@
           "image_id": 67399225966934
         },
         {
-          "product_id": 9870616330582,
           "id": 51504675520854,
+          "product_id": 9870616330582,
           "title": "2style / One size",
           "price": "20.95",
           "position": 2,
@@ -36199,8 +36199,8 @@
           "image_id": 67399225999702
         },
         {
-          "product_id": 9870616330582,
           "id": 51504675553622,
+          "product_id": 9870616330582,
           "title": "3style / One size",
           "price": "19.75",
           "position": 3,
@@ -36227,8 +36227,8 @@
           "image_id": 67399226032470
         },
         {
-          "product_id": 9870616330582,
           "id": 51504675586390,
+          "product_id": 9870616330582,
           "title": "4style / One size",
           "price": "19.75",
           "position": 4,
@@ -36255,8 +36255,8 @@
           "image_id": 67399226065238
         },
         {
-          "product_id": 9870616330582,
           "id": 51504675619158,
+          "product_id": 9870616330582,
           "title": "5style / One size",
           "price": "19.75",
           "position": 5,
@@ -36283,8 +36283,8 @@
           "image_id": 67399226098006
         },
         {
-          "product_id": 9870616330582,
           "id": 51504675651926,
+          "product_id": 9870616330582,
           "title": "6style / One size",
           "price": "20.45",
           "position": 6,
@@ -36311,8 +36311,8 @@
           "image_id": 67399226130774
         },
         {
-          "product_id": 9870616330582,
           "id": 51504675684694,
+          "product_id": 9870616330582,
           "title": "7style / One size",
           "price": "20.45",
           "position": 7,
@@ -36341,8 +36341,8 @@
       ],
       "options": [
         {
-          "product_id": 9870616330582,
           "id": 12733761323350,
+          "product_id": 9870616330582,
           "name": "Color",
           "position": 1,
           "values": [
@@ -36356,8 +36356,8 @@
           ]
         },
         {
-          "product_id": 9870616330582,
           "id": 12733761356118,
+          "product_id": 9870616330582,
           "name": "Size",
           "position": 2,
           "values": [
