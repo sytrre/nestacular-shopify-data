@@ -4889,8 +4889,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870977532246",
       "variants": [
         {
-          "product_id": 9870977532246,
           "id": 51505806967126,
+          "product_id": 9870977532246,
           "title": "Blue PVC Soft cushion",
           "price": "164.95",
           "position": 1,
@@ -4917,8 +4917,8 @@
           "image_id": 67400485962070
         },
         {
-          "product_id": 9870977532246,
           "id": 51505806999894,
+          "product_id": 9870977532246,
           "title": "Pink PVC Soft cushion",
           "price": "164.95",
           "position": 2,
@@ -4945,8 +4945,8 @@
           "image_id": 67400485994838
         },
         {
-          "product_id": 9870977532246,
           "id": 51505807032662,
+          "product_id": 9870977532246,
           "title": "Purple PU Soft cushion",
           "price": "166.95",
           "position": 3,
@@ -4973,8 +4973,8 @@
           "image_id": 67400486027606
         },
         {
-          "product_id": 9870977532246,
           "id": 51505807065430,
+          "product_id": 9870977532246,
           "title": "White PU Soft cushion",
           "price": "168.95",
           "position": 4,
@@ -5003,8 +5003,8 @@
       ],
       "options": [
         {
-          "product_id": 9870977532246,
           "id": 12734180819286,
+          "product_id": 9870977532246,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9823,8 +9823,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828521804118",
       "variants": [
         {
-          "id": 51347000951126,
           "product_id": 9828521804118,
+          "id": 51347000951126,
           "title": "Green",
           "price": "102.95",
           "position": 1,
@@ -9853,8 +9853,8 @@
       ],
       "options": [
         {
-          "id": 12684764447062,
           "product_id": 9828521804118,
+          "id": 12684764447062,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11840,8 +11840,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825914552662",
       "variants": [
         {
-          "id": 51339723276630,
           "product_id": 9825914552662,
+          "id": 51339723276630,
           "title": "Natural",
           "price": "99.95",
           "position": 1,
@@ -11870,8 +11870,8 @@
       ],
       "options": [
         {
-          "id": 12681741336918,
           "product_id": 9825914552662,
+          "id": 12681741336918,
           "name": "Color",
           "position": 1,
           "values": [
