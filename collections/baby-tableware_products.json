@@ -23014,8 +23014,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9810549637462",
       "variants": [
         {
-          "product_id": 9810549637462,
           "id": 51275169300822,
+          "product_id": 9810549637462,
           "title": "Army Green",
           "price": "28.95",
           "position": 1,
@@ -23042,8 +23042,8 @@
           "image_id": 66462634410326
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169333590,
+          "product_id": 9810549637462,
           "title": "Beige",
           "price": "28.95",
           "position": 2,
@@ -23070,8 +23070,8 @@
           "image_id": 66462634443094
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169366358,
+          "product_id": 9810549637462,
           "title": "Dark Blue",
           "price": "28.95",
           "position": 3,
@@ -23098,8 +23098,8 @@
           "image_id": 66462634475862
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169399126,
+          "product_id": 9810549637462,
           "title": "Deep Pink",
           "price": "28.95",
           "position": 4,
@@ -23126,8 +23126,8 @@
           "image_id": 66462634508630
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169431894,
+          "product_id": 9810549637462,
           "title": "Deep Purple",
           "price": "28.95",
           "position": 5,
@@ -23154,8 +23154,8 @@
           "image_id": 66462634541398
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169464662,
+          "product_id": 9810549637462,
           "title": "Gray And Blue",
           "price": "28.95",
           "position": 6,
@@ -23182,8 +23182,8 @@
           "image_id": 66462634574166
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169497430,
+          "product_id": 9810549637462,
           "title": "Light Purple",
           "price": "28.95",
           "position": 7,
@@ -23210,8 +23210,8 @@
           "image_id": 66462634606934
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169530198,
+          "product_id": 9810549637462,
           "title": "Lotus Root Starch",
           "price": "28.95",
           "position": 8,
@@ -23238,8 +23238,8 @@
           "image_id": 66462634639702
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169562966,
+          "product_id": 9810549637462,
           "title": "Marble",
           "price": "28.95",
           "position": 9,
@@ -23266,8 +23266,8 @@
           "image_id": 66462634672470
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169595734,
+          "product_id": 9810549637462,
           "title": "Mint Green",
           "price": "28.95",
           "position": 10,
@@ -23294,8 +23294,8 @@
           "image_id": 66462634705238
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169628502,
+          "product_id": 9810549637462,
           "title": "Orange Red",
           "price": "28.95",
           "position": 11,
@@ -23322,8 +23322,8 @@
           "image_id": 66462634738006
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169661270,
+          "product_id": 9810549637462,
           "title": "Pink",
           "price": "28.95",
           "position": 12,
@@ -23350,8 +23350,8 @@
           "image_id": 66462634770774
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169694038,
+          "product_id": 9810549637462,
           "title": "Smoky Gray",
           "price": "28.95",
           "position": 13,
@@ -23378,8 +23378,8 @@
           "image_id": 66462634803542
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169726806,
+          "product_id": 9810549637462,
           "title": "Turmeric",
           "price": "28.95",
           "position": 14,
@@ -23406,8 +23406,8 @@
           "image_id": 66462634836310
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169759574,
+          "product_id": 9810549637462,
           "title": "Walnut",
           "price": "28.95",
           "position": 15,
@@ -23434,8 +23434,8 @@
           "image_id": 66462634869078
         },
         {
-          "product_id": 9810549637462,
           "id": 51275169792342,
+          "product_id": 9810549637462,
           "title": "Yellow",
           "price": "28.95",
           "position": 16,
@@ -23464,8 +23464,8 @@
       ],
       "options": [
         {
-          "product_id": 9810549637462,
           "id": 12663301505366,
+          "product_id": 9810549637462,
           "name": "Color",
           "position": 1,
           "values": [
