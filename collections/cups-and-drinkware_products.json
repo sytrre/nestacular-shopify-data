@@ -8931,8 +8931,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9409664713046",
       "variants": [
         {
-          "product_id": 9409664713046,
           "id": 49664717357398,
+          "product_id": 9409664713046,
           "title": "Gold / US",
           "price": "107.93",
           "position": 1,
@@ -8959,8 +8959,8 @@
           "image_id": 59210179510614
         },
         {
-          "product_id": 9409664713046,
           "id": 49664717390166,
+          "product_id": 9409664713046,
           "title": "Red / US",
           "price": "107.93",
           "position": 2,
@@ -8989,8 +8989,8 @@
       ],
       "options": [
         {
-          "product_id": 9409664713046,
           "id": 12179590512982,
+          "product_id": 9409664713046,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8999,8 +8999,8 @@
           ]
         },
         {
-          "product_id": 9409664713046,
           "id": 12179590545750,
+          "product_id": 9409664713046,
           "name": "Plug",
           "position": 2,
           "values": [
