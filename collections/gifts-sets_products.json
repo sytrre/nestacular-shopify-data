@@ -40279,8 +40279,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916460466518",
       "variants": [
         {
-          "product_id": 9916460466518,
           "id": 51675549532502,
+          "product_id": 9916460466518,
           "title": "Bib / 1pcs",
           "price": "23.95",
           "position": 1,
@@ -40309,8 +40309,8 @@
       ],
       "options": [
         {
-          "product_id": 9916460466518,
           "id": 12787331531094,
+          "product_id": 9916460466518,
           "name": "Color",
           "position": 1,
           "values": [
@@ -40318,8 +40318,8 @@
           ]
         },
         {
-          "product_id": 9916460466518,
           "id": 12787331563862,
+          "product_id": 9916460466518,
           "name": "Size",
           "position": 2,
           "values": [
