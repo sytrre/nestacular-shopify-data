@@ -3930,8 +3930,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791153439062",
       "variants": [
         {
-          "id": 51195089322326,
           "product_id": 9791153439062,
+          "id": 51195089322326,
           "title": "Extra Large Bear Base",
           "price": "44.95",
           "position": 1,
@@ -3958,8 +3958,8 @@
           "image_id": 66237304930646
         },
         {
-          "id": 51195089355094,
           "product_id": 9791153439062,
+          "id": 51195089355094,
           "title": "Large Bear Foundation",
           "price": "37.95",
           "position": 2,
@@ -3986,8 +3986,8 @@
           "image_id": 66237309223254
         },
         {
-          "id": 51195089387862,
           "product_id": 9791153439062,
+          "id": 51195089387862,
           "title": "Large Dinosaur Planet",
           "price": "37.95",
           "position": 3,
@@ -4014,8 +4014,8 @@
           "image_id": 66237309256022
         },
         {
-          "id": 51195089420630,
           "product_id": 9791153439062,
+          "id": 51195089420630,
           "title": "Large Love Rabbit Foundation",
           "price": "37.95",
           "position": 4,
@@ -4044,8 +4044,8 @@
       ],
       "options": [
         {
-          "id": 12640325894486,
           "product_id": 9791153439062,
+          "id": 12640325894486,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4242,8 +4242,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828521804118",
       "variants": [
         {
-          "id": 51347000951126,
           "product_id": 9828521804118,
+          "id": 51347000951126,
           "title": "Green",
           "price": "102.95",
           "position": 1,
@@ -4272,8 +4272,8 @@
       ],
       "options": [
         {
-          "id": 12684764447062,
           "product_id": 9828521804118,
+          "id": 12684764447062,
           "name": "Color",
           "position": 1,
           "values": [
