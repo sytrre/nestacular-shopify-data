@@ -60594,8 +60594,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825679475030",
       "variants": [
         {
-          "product_id": 9825679475030,
           "id": 51339165696342,
+          "product_id": 9825679475030,
           "title": "Grey",
           "price": "25.95",
           "position": 1,
@@ -60624,8 +60624,8 @@
       ],
       "options": [
         {
-          "product_id": 9825679475030,
           "id": 12681477816662,
+          "product_id": 9825679475030,
           "name": "Color",
           "position": 1,
           "values": [
@@ -104225,8 +104225,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791457034582",
       "variants": [
         {
-          "product_id": 9791457034582,
           "id": 51196519285078,
+          "product_id": 9791457034582,
           "title": "Grey",
           "price": "26.27",
           "position": 1,
@@ -104253,8 +104253,8 @@
           "image_id": 66242092400982
         },
         {
-          "product_id": 9791457034582,
           "id": 51196519317846,
+          "product_id": 9791457034582,
           "title": "Pineapple style",
           "price": "26.27",
           "position": 2,
@@ -104283,8 +104283,8 @@
       ],
       "options": [
         {
-          "product_id": 9791457034582,
           "id": 12640681066838,
+          "product_id": 9791457034582,
           "name": "Color",
           "position": 1,
           "values": [

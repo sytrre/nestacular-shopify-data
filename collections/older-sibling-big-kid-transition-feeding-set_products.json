@@ -9823,8 +9823,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828521804118",
       "variants": [
         {
-          "product_id": 9828521804118,
           "id": 51347000951126,
+          "product_id": 9828521804118,
           "title": "Green",
           "price": "102.95",
           "position": 1,
@@ -9853,8 +9853,8 @@
       ],
       "options": [
         {
-          "product_id": 9828521804118,
           "id": 12684764447062,
+          "product_id": 9828521804118,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11840,8 +11840,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9825914552662",
       "variants": [
         {
-          "product_id": 9825914552662,
           "id": 51339723276630,
+          "product_id": 9825914552662,
           "title": "Natural",
           "price": "99.95",
           "position": 1,
@@ -11870,8 +11870,8 @@
       ],
       "options": [
         {
-          "product_id": 9825914552662,
           "id": 12681741336918,
+          "product_id": 9825914552662,
           "name": "Color",
           "position": 1,
           "values": [
