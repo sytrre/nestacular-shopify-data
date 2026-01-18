@@ -6059,8 +6059,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016011845974",
       "variants": [
         {
-          "product_id": 10016011845974,
           "id": 52013503480150,
+          "product_id": 10016011845974,
           "title": "1 pc",
           "price": "17.95",
           "position": 1,
@@ -6089,8 +6089,8 @@
       ],
       "options": [
         {
-          "product_id": 10016011845974,
           "id": 12901916508502,
+          "product_id": 10016011845974,
           "name": "Color",
           "position": 1,
           "values": [
