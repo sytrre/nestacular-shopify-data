@@ -22283,8 +22283,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10060960825686",
       "variants": [
         {
-          "product_id": 10060960825686,
           "id": 52195078340950,
+          "product_id": 10060960825686,
           "title": "1pcs color random",
           "price": "6.95",
           "position": 1,
@@ -22313,8 +22313,8 @@
       ],
       "options": [
         {
-          "product_id": 10060960825686,
           "id": 12956151611734,
+          "product_id": 10060960825686,
           "name": "Color",
           "position": 1,
           "values": [
