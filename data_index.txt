@@ -1,12 +1,14 @@
 NESTACULAR SHOPIFY DATA INDEX
-Generated: 2026-01-20T22:50:00.935180Z
+Generated: 2026-01-20T23:30:04.600506Z
 Currency: GBP
 Pagination: 250 items per page
 
 === MAIN FILES ===
 
-PRODUCTS (1 pages):
+PRODUCTS (3 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/products.json
+• Page 2: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/products_page2.json
+• Page 3: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/products_page3.json
 
 COLLECTIONS (1 pages):
 • Page 1: https://raw.githubusercontent.com/sytrre/nestacular-shopify-data/refs/heads/main/collections.json
