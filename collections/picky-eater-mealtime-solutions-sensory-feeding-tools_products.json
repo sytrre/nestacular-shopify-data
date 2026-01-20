@@ -7375,8 +7375,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866611130710",
       "variants": [
         {
-          "product_id": 9866611130710,
           "id": 51489693630806,
+          "product_id": 9866611130710,
           "title": "150ml Grey",
           "price": "44.95",
           "position": 1,
@@ -7403,8 +7403,8 @@
           "image_id": 67363928441174
         },
         {
-          "product_id": 9866611130710,
           "id": 51489693663574,
+          "product_id": 9866611130710,
           "title": "150ml Pink",
           "price": "44.95",
           "position": 2,
@@ -7431,8 +7431,8 @@
           "image_id": 67363928473942
         },
         {
-          "product_id": 9866611130710,
           "id": 51489693696342,
+          "product_id": 9866611130710,
           "title": "80ml Grey",
           "price": "44.15",
           "position": 3,
@@ -7459,8 +7459,8 @@
           "image_id": 67363928441174
         },
         {
-          "product_id": 9866611130710,
           "id": 51489693729110,
+          "product_id": 9866611130710,
           "title": "80ml Pink",
           "price": "44.15",
           "position": 4,
@@ -7489,8 +7489,8 @@
       ],
       "options": [
         {
-          "product_id": 9866611130710,
           "id": 12729075794262,
+          "product_id": 9866611130710,
           "name": "capacity",
           "position": 1,
           "values": [

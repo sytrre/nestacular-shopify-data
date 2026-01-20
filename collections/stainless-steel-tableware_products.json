@@ -1910,8 +1910,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9860546593110",
       "variants": [
         {
-          "id": 51469059555670,
           "product_id": 9860546593110,
+          "id": 51469059555670,
           "title": "Bear head spoon",
           "price": "13.95",
           "position": 1,
@@ -1940,8 +1940,8 @@
       ],
       "options": [
         {
-          "id": 12722267816278,
           "product_id": 9860546593110,
+          "id": 12722267816278,
           "name": "Color",
           "position": 1,
           "values": [
