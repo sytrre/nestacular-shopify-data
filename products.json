@@ -84417,8 +84417,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9742237794646",
       "variants": [
         {
-          "product_id": 9742237794646,
           "id": 50993416634710,
+          "product_id": 9742237794646,
           "title": "Army Green",
           "price": "80.95",
           "position": 1,
@@ -84445,8 +84445,8 @@
           "image_id": 65086219682134
         },
         {
-          "product_id": 9742237794646,
           "id": 50993416667478,
+          "product_id": 9742237794646,
           "title": "Black",
           "price": "80.95",
           "position": 2,
@@ -84473,8 +84473,8 @@
           "image_id": 65086219878742
         },
         {
-          "product_id": 9742237794646,
           "id": 50993416700246,
+          "product_id": 9742237794646,
           "title": "Green",
           "price": "80.95",
           "position": 3,
@@ -84501,8 +84501,8 @@
           "image_id": 65086219026774
         },
         {
-          "product_id": 9742237794646,
           "id": 50993416733014,
+          "product_id": 9742237794646,
           "title": "Orange",
           "price": "80.95",
           "position": 4,
@@ -84529,8 +84529,8 @@
           "image_id": 65086218633558
         },
         {
-          "product_id": 9742237794646,
           "id": 50993416765782,
+          "product_id": 9742237794646,
           "title": "Pink",
           "price": "80.95",
           "position": 5,
@@ -84557,8 +84557,8 @@
           "image_id": 65086218699094
         },
         {
-          "product_id": 9742237794646,
           "id": 50993416798550,
+          "product_id": 9742237794646,
           "title": "Purple",
           "price": "80.95",
           "position": 6,
@@ -84587,8 +84587,8 @@
       ],
       "options": [
         {
-          "product_id": 9742237794646,
           "id": 12582632882518,
+          "product_id": 9742237794646,
           "name": "Color",
           "position": 1,
           "values": [
