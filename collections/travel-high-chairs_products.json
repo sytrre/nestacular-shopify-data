@@ -17535,8 +17535,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9612696256854",
       "variants": [
         {
-          "id": 50413878018390,
           "product_id": 9612696256854,
+          "id": 50413878018390,
           "title": "WHITE",
           "price": "77.95",
           "position": 1,
@@ -17563,8 +17563,8 @@
           "image_id": 62090826154326
         },
         {
-          "id": 50413878051158,
           "product_id": 9612696256854,
+          "id": 50413878051158,
           "title": "Black",
           "price": "77.95",
           "position": 2,
@@ -17593,8 +17593,8 @@
       ],
       "options": [
         {
-          "id": 12422488621398,
           "product_id": 9612696256854,
+          "id": 12422488621398,
           "name": "color",
           "position": 1,
           "values": [
@@ -32906,8 +32906,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9847084745046",
       "variants": [
         {
-          "product_id": 9847084745046,
           "id": 51418311655766,
+          "product_id": 9847084745046,
           "title": "Green",
           "price": "19.95",
           "position": 1,
@@ -32934,8 +32934,8 @@
           "image_id": 67146739941718
         },
         {
-          "product_id": 9847084745046,
           "id": 51418311688534,
+          "product_id": 9847084745046,
           "title": "Purple",
           "price": "19.95",
           "position": 2,
@@ -32962,8 +32962,8 @@
           "image_id": 67146739974486
         },
         {
-          "product_id": 9847084745046,
           "id": 51418311721302,
+          "product_id": 9847084745046,
           "title": "White",
           "price": "19.95",
           "position": 3,
@@ -32992,8 +32992,8 @@
       ],
       "options": [
         {
-          "product_id": 9847084745046,
           "id": 12706472853846,
+          "product_id": 9847084745046,
           "name": "Color",
           "position": 1,
           "values": [
