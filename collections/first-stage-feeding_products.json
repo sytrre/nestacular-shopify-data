@@ -16481,8 +16481,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791822692694",
       "variants": [
         {
-          "product_id": 9791822692694,
           "id": 51197645062486,
+          "product_id": 9791822692694,
           "title": "Cloud Blue / US",
           "price": "142.97",
           "position": 1,
@@ -16509,8 +16509,8 @@
           "image_id": 66245751439702
         },
         {
-          "product_id": 9791822692694,
           "id": 51197645095254,
+          "product_id": 9791822692694,
           "title": "Cloud Blue / EU",
           "price": "142.97",
           "position": 2,
@@ -16537,8 +16537,8 @@
           "image_id": 66245751439702
         },
         {
-          "product_id": 9791822692694,
           "id": 51197645128022,
+          "product_id": 9791822692694,
           "title": "Cloud Blue / UK",
           "price": "142.97",
           "position": 3,
@@ -16567,8 +16567,8 @@
       ],
       "options": [
         {
-          "product_id": 9791822692694,
           "id": 12641099415894,
+          "product_id": 9791822692694,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16576,8 +16576,8 @@
           ]
         },
         {
-          "product_id": 9791822692694,
           "id": 12641099448662,
+          "product_id": 9791822692694,
           "name": "规格",
           "position": 2,
           "values": [
