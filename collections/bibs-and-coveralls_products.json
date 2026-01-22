@@ -34241,8 +34241,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852575908182",
       "variants": [
         {
-          "product_id": 9852575908182,
           "id": 51440566763862,
+          "product_id": 9852575908182,
           "title": "Avocado",
           "price": "20.95",
           "position": 1,
@@ -34269,8 +34269,8 @@
           "image_id": 67226584678742
         },
         {
-          "product_id": 9852575908182,
           "id": 51440566796630,
+          "product_id": 9852575908182,
           "title": "Car",
           "price": "20.95",
           "position": 2,
@@ -34297,8 +34297,8 @@
           "image_id": 67226584711510
         },
         {
-          "product_id": 9852575908182,
           "id": 51440566829398,
+          "product_id": 9852575908182,
           "title": "Dinosaur world",
           "price": "20.95",
           "position": 3,
@@ -34325,8 +34325,8 @@
           "image_id": 67226584744278
         },
         {
-          "product_id": 9852575908182,
           "id": 51440566862166,
+          "product_id": 9852575908182,
           "title": "Red grapefruit",
           "price": "20.95",
           "position": 4,
@@ -34353,8 +34353,8 @@
           "image_id": 67226584777046
         },
         {
-          "product_id": 9852575908182,
           "id": 51440566894934,
+          "product_id": 9852575908182,
           "title": "Star crown",
           "price": "20.95",
           "position": 5,
@@ -34383,8 +34383,8 @@
       ],
       "options": [
         {
-          "product_id": 9852575908182,
           "id": 12713114468694,
+          "product_id": 9852575908182,
           "name": "style",
           "position": 1,
           "values": [
