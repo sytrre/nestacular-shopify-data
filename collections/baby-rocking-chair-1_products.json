@@ -7995,8 +7995,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9837681475926",
       "variants": [
         {
-          "id": 51383481401686,
           "product_id": 9837681475926,
+          "id": 51383481401686,
           "title": "Blue / Bluetooth model",
           "price": "235.95",
           "position": 1,
@@ -8023,8 +8023,8 @@
           "image_id": 67055478931798
         },
         {
-          "id": 51383481434454,
           "product_id": 9837681475926,
+          "id": 51383481434454,
           "title": "Grey / Bluetooth model",
           "price": "235.95",
           "position": 2,
@@ -8051,8 +8051,8 @@
           "image_id": 67055478964566
         },
         {
-          "id": 51383481467222,
           "product_id": 9837681475926,
+          "id": 51383481467222,
           "title": "Pink / Bluetooth model",
           "price": "235.95",
           "position": 3,
@@ -8081,8 +8081,8 @@
       ],
       "options": [
         {
-          "id": 12695477354838,
           "product_id": 9837681475926,
+          "id": 12695477354838,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8092,8 +8092,8 @@
           ]
         },
         {
-          "id": 12695477387606,
           "product_id": 9837681475926,
+          "id": 12695477387606,
           "name": "style",
           "position": 2,
           "values": [
