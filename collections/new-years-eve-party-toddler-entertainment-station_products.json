@@ -5434,8 +5434,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9784064377174",
       "variants": [
         {
-          "id": 51163217232214,
           "product_id": 9784064377174,
+          "id": 51163217232214,
           "title": "Photo Color",
           "price": "15.95",
           "position": 1,
@@ -5464,8 +5464,8 @@
       ],
       "options": [
         {
-          "id": 12631974576470,
           "product_id": 9784064377174,
+          "id": 12631974576470,
           "name": "Color",
           "position": 1,
           "values": [

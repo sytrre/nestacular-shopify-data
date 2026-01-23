@@ -3866,8 +3866,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828614144342",
       "variants": [
         {
-          "id": 51347294191958,
           "product_id": 9828614144342,
+          "id": 51347294191958,
           "title": "Black",
           "price": "385.95",
           "position": 1,
@@ -3894,8 +3894,8 @@
           "image_id": 66940251570518
         },
         {
-          "id": 51347294224726,
           "product_id": 9828614144342,
+          "id": 51347294224726,
           "title": "Brown",
           "price": "385.95",
           "position": 2,
@@ -3922,8 +3922,8 @@
           "image_id": 66940251603286
         },
         {
-          "id": 51347294257494,
           "product_id": 9828614144342,
+          "id": 51347294257494,
           "title": "Champagne gold",
           "price": "385.95",
           "position": 3,
@@ -3950,8 +3950,8 @@
           "image_id": 66940251636054
         },
         {
-          "id": 51347294290262,
           "product_id": 9828614144342,
+          "id": 51347294290262,
           "title": "Orange",
           "price": "385.95",
           "position": 4,
@@ -3980,8 +3980,8 @@
       ],
       "options": [
         {
-          "id": 12684878086486,
           "product_id": 9828614144342,
+          "id": 12684878086486,
           "name": "Color",
           "position": 1,
           "values": [
@@ -81538,8 +81538,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9784064377174",
       "variants": [
         {
-          "id": 51163217232214,
           "product_id": 9784064377174,
+          "id": 51163217232214,
           "title": "Photo Color",
           "price": "15.95",
           "position": 1,
@@ -81568,8 +81568,8 @@
       ],
       "options": [
         {
-          "id": 12631974576470,
           "product_id": 9784064377174,
+          "id": 12631974576470,
           "name": "Color",
           "position": 1,
           "values": [

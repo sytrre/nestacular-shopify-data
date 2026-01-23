@@ -2440,8 +2440,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866546151766",
       "variants": [
         {
-          "id": 51489401438550,
           "product_id": 9866546151766,
+          "id": 51489401438550,
           "title": "Green Nipple / 160ml",
           "price": "24.45",
           "position": 1,
@@ -2468,8 +2468,8 @@
           "image_id": 67363400384854
         },
         {
-          "id": 51489401471318,
           "product_id": 9866546151766,
+          "id": 51489401471318,
           "title": "Green Nipple / 240ml",
           "price": "24.45",
           "position": 2,
@@ -2496,8 +2496,8 @@
           "image_id": 67363400384854
         },
         {
-          "id": 51489401504086,
           "product_id": 9866546151766,
+          "id": 51489401504086,
           "title": "Green Nipple / 330ml",
           "price": "24.45",
           "position": 3,
@@ -2524,8 +2524,8 @@
           "image_id": 67363400384854
         },
         {
-          "id": 51489401536854,
           "product_id": 9866546151766,
+          "id": 51489401536854,
           "title": "Pink Nipple Style / 160ml",
           "price": "24.45",
           "position": 4,
@@ -2552,8 +2552,8 @@
           "image_id": 67363400417622
         },
         {
-          "id": 51489401569622,
           "product_id": 9866546151766,
+          "id": 51489401569622,
           "title": "Pink Nipple Style / 240ml",
           "price": "24.45",
           "position": 5,
@@ -2580,8 +2580,8 @@
           "image_id": 67363400417622
         },
         {
-          "id": 51489401602390,
           "product_id": 9866546151766,
+          "id": 51489401602390,
           "title": "Pink Nipple Style / 330ml",
           "price": "24.45",
           "position": 6,
@@ -2610,8 +2610,8 @@
       ],
       "options": [
         {
-          "id": 12729003180374,
           "product_id": 9866546151766,
+          "id": 12729003180374,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2620,8 +2620,8 @@
           ]
         },
         {
-          "id": 12729003213142,
           "product_id": 9866546151766,
+          "id": 12729003213142,
           "name": "Capacity",
           "position": 2,
           "values": [
