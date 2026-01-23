@@ -10032,8 +10032,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9828614144342",
       "variants": [
         {
-          "product_id": 9828614144342,
           "id": 51347294191958,
+          "product_id": 9828614144342,
           "title": "Black",
           "price": "385.95",
           "position": 1,
@@ -10060,8 +10060,8 @@
           "image_id": 66940251570518
         },
         {
-          "product_id": 9828614144342,
           "id": 51347294224726,
+          "product_id": 9828614144342,
           "title": "Brown",
           "price": "385.95",
           "position": 2,
@@ -10088,8 +10088,8 @@
           "image_id": 66940251603286
         },
         {
-          "product_id": 9828614144342,
           "id": 51347294257494,
+          "product_id": 9828614144342,
           "title": "Champagne gold",
           "price": "385.95",
           "position": 3,
@@ -10116,8 +10116,8 @@
           "image_id": 66940251636054
         },
         {
-          "product_id": 9828614144342,
           "id": 51347294290262,
+          "product_id": 9828614144342,
           "title": "Orange",
           "price": "385.95",
           "position": 4,
@@ -10146,8 +10146,8 @@
       ],
       "options": [
         {
-          "product_id": 9828614144342,
           "id": 12684878086486,
+          "product_id": 9828614144342,
           "name": "Color",
           "position": 1,
           "values": [
