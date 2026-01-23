@@ -22831,8 +22831,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852819571030",
       "variants": [
         {
-          "product_id": 9852819571030,
           "id": 51441429709142,
+          "product_id": 9852819571030,
           "title": "Beige",
           "price": "24.95",
           "position": 1,
@@ -22859,8 +22859,8 @@
           "image_id": 67228532408662
         },
         {
-          "product_id": 9852819571030,
           "id": 51441429741910,
+          "product_id": 9852819571030,
           "title": "Blue",
           "price": "24.95",
           "position": 2,
@@ -22887,8 +22887,8 @@
           "image_id": 67228532441430
         },
         {
-          "product_id": 9852819571030,
           "id": 51441429774678,
+          "product_id": 9852819571030,
           "title": "Pink",
           "price": "24.95",
           "position": 3,
@@ -22917,8 +22917,8 @@
       ],
       "options": [
         {
-          "product_id": 9852819571030,
           "id": 12713389883734,
+          "product_id": 9852819571030,
           "name": "Color",
           "position": 1,
           "values": [
@@ -26321,8 +26321,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791154258262",
       "variants": [
         {
-          "id": 51195098661206,
           "product_id": 9791154258262,
+          "id": 51195098661206,
           "title": "A",
           "price": "27.38",
           "position": 1,
@@ -26349,8 +26349,8 @@
           "image_id": 66237373186390
         },
         {
-          "id": 51195098693974,
           "product_id": 9791154258262,
+          "id": 51195098693974,
           "title": "B",
           "price": "27.38",
           "position": 2,
@@ -26377,8 +26377,8 @@
           "image_id": 66237373219158
         },
         {
-          "id": 51195098726742,
           "product_id": 9791154258262,
+          "id": 51195098726742,
           "title": "C",
           "price": "27.38",
           "position": 3,
@@ -26405,8 +26405,8 @@
           "image_id": null
         },
         {
-          "id": 51195098759510,
           "product_id": 9791154258262,
+          "id": 51195098759510,
           "title": "D",
           "price": "27.38",
           "position": 4,
@@ -26435,8 +26435,8 @@
       ],
       "options": [
         {
-          "id": 12640327139670,
           "product_id": 9791154258262,
+          "id": 12640327139670,
           "name": "Color",
           "position": 1,
           "values": [
