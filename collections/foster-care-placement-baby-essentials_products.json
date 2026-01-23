@@ -21725,8 +21725,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016023707990",
       "variants": [
         {
-          "product_id": 10016023707990,
           "id": 52013531136342,
+          "product_id": 10016023707990,
           "title": "500ML Blue",
           "price": "19.95",
           "position": 1,
@@ -21753,8 +21753,8 @@
           "image_id": 69735043170646
         },
         {
-          "product_id": 10016023707990,
           "id": 52013531169110,
+          "product_id": 10016023707990,
           "title": "500ML Pink",
           "price": "19.95",
           "position": 2,
@@ -21781,8 +21781,8 @@
           "image_id": 69735043203414
         },
         {
-          "product_id": 10016023707990,
           "id": 52013531201878,
+          "product_id": 10016023707990,
           "title": "Blue nozzles",
           "price": "14.95",
           "position": 3,
@@ -21809,8 +21809,8 @@
           "image_id": 69735043236182
         },
         {
-          "product_id": 10016023707990,
           "id": 52013531234646,
+          "product_id": 10016023707990,
           "title": "Pink nozzles",
           "price": "14.95",
           "position": 4,
@@ -21839,8 +21839,8 @@
       ],
       "options": [
         {
-          "product_id": 10016023707990,
           "id": 12901929419094,
+          "product_id": 10016023707990,
           "name": "Color",
           "position": 1,
           "values": [
