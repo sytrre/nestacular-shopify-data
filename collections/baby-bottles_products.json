@@ -26388,8 +26388,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791154258262",
       "variants": [
         {
-          "product_id": 9791154258262,
           "id": 51195098661206,
+          "product_id": 9791154258262,
           "title": "A",
           "price": "27.38",
           "position": 1,
@@ -26416,8 +26416,8 @@
           "image_id": 66237373186390
         },
         {
-          "product_id": 9791154258262,
           "id": 51195098693974,
+          "product_id": 9791154258262,
           "title": "B",
           "price": "27.38",
           "position": 2,
@@ -26444,8 +26444,8 @@
           "image_id": 66237373219158
         },
         {
-          "product_id": 9791154258262,
           "id": 51195098726742,
+          "product_id": 9791154258262,
           "title": "C",
           "price": "27.38",
           "position": 3,
@@ -26472,8 +26472,8 @@
           "image_id": null
         },
         {
-          "product_id": 9791154258262,
           "id": 51195098759510,
+          "product_id": 9791154258262,
           "title": "D",
           "price": "27.38",
           "position": 4,
@@ -26502,8 +26502,8 @@
       ],
       "options": [
         {
-          "product_id": 9791154258262,
           "id": 12640327139670,
+          "product_id": 9791154258262,
           "name": "Color",
           "position": 1,
           "values": [
