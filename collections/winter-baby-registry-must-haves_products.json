@@ -6213,8 +6213,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016017449302",
       "variants": [
         {
-          "product_id": 10016017449302,
           "id": 52013518717270,
+          "product_id": 10016017449302,
           "title": "B-Green Dog",
           "price": "18.95",
           "position": 1,
@@ -6241,8 +6241,8 @@
           "image_id": 69735012565334
         },
         {
-          "product_id": 10016017449302,
           "id": 52013518750038,
+          "product_id": 10016017449302,
           "title": "A-Light yellow",
           "price": "16.95",
           "position": 2,
@@ -6269,8 +6269,8 @@
           "image_id": 69735012598102
         },
         {
-          "product_id": 10016017449302,
           "id": 52013518782806,
+          "product_id": 10016017449302,
           "title": "B-Coffee",
           "price": "18.95",
           "position": 3,
@@ -6297,8 +6297,8 @@
           "image_id": 69735012630870
         },
         {
-          "product_id": 10016017449302,
           "id": 52013518815574,
+          "product_id": 10016017449302,
           "title": "A-Blue",
           "price": "16.95",
           "position": 4,
@@ -6325,8 +6325,8 @@
           "image_id": 69735012663638
         },
         {
-          "product_id": 10016017449302,
           "id": 52013518848342,
+          "product_id": 10016017449302,
           "title": "B-Blue",
           "price": "18.95",
           "position": 5,
@@ -6353,8 +6353,8 @@
           "image_id": 69735012303190
         },
         {
-          "product_id": 10016017449302,
           "id": 52013518881110,
+          "product_id": 10016017449302,
           "title": "A-Yellow Pink",
           "price": "18.95",
           "position": 6,
@@ -6381,8 +6381,8 @@
           "image_id": 69735012434262
         },
         {
-          "product_id": 10016017449302,
           "id": 52013518913878,
+          "product_id": 10016017449302,
           "title": "B-Pink",
           "price": "18.95",
           "position": 7,
@@ -6409,8 +6409,8 @@
           "image_id": 69735012335958
         },
         {
-          "product_id": 10016017449302,
           "id": 52013518946646,
+          "product_id": 10016017449302,
           "title": "A-Blue Pink",
           "price": "19.95",
           "position": 8,
@@ -6437,8 +6437,8 @@
           "image_id": 69735012467030
         },
         {
-          "product_id": 10016017449302,
           "id": 52013518979414,
+          "product_id": 10016017449302,
           "title": "B-Green Panda",
           "price": "18.95",
           "position": 9,
@@ -6465,8 +6465,8 @@
           "image_id": 69735012499798
         },
         {
-          "product_id": 10016017449302,
           "id": 52013519012182,
+          "product_id": 10016017449302,
           "title": "A-4 color",
           "price": "22.95",
           "position": 10,
@@ -6493,8 +6493,8 @@
           "image_id": 69735012368726
         },
         {
-          "product_id": 10016017449302,
           "id": 52013519044950,
+          "product_id": 10016017449302,
           "title": "A-Pink",
           "price": "16.95",
           "position": 11,
@@ -6521,8 +6521,8 @@
           "image_id": 69735012401494
         },
         {
-          "product_id": 10016017449302,
           "id": 52013519077718,
+          "product_id": 10016017449302,
           "title": "A-Grey green",
           "price": "16.95",
           "position": 12,
@@ -6551,8 +6551,8 @@
       ],
       "options": [
         {
-          "product_id": 10016017449302,
           "id": 12901922406742,
+          "product_id": 10016017449302,
           "name": "Color",
           "position": 1,
           "values": [
