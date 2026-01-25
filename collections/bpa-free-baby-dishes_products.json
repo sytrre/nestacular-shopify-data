@@ -1219,8 +1219,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789376725334",
       "variants": [
         {
-          "product_id": 9789376725334,
           "id": 51187857424726,
+          "product_id": 9789376725334,
           "title": "Poultry",
           "price": "43.22",
           "position": 1,
@@ -1247,8 +1247,8 @@
           "image_id": 66221198147926
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857457494,
+          "product_id": 9789376725334,
           "title": "Owl",
           "price": "43.22",
           "position": 2,
@@ -1275,8 +1275,8 @@
           "image_id": 66221198180694
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857490262,
+          "product_id": 9789376725334,
           "title": "Batman",
           "price": "43.22",
           "position": 3,
@@ -1303,8 +1303,8 @@
           "image_id": 66221198213462
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857523030,
+          "product_id": 9789376725334,
           "title": "Flower Fairy",
           "price": "43.22",
           "position": 4,
@@ -1331,8 +1331,8 @@
           "image_id": 66221198246230
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857555798,
+          "product_id": 9789376725334,
           "title": "Universe",
           "price": "43.22",
           "position": 5,
@@ -1359,8 +1359,8 @@
           "image_id": 66221198278998
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857588566,
+          "product_id": 9789376725334,
           "title": "Green zoo",
           "price": "43.22",
           "position": 6,
@@ -1387,8 +1387,8 @@
           "image_id": 66221198311766
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857621334,
+          "product_id": 9789376725334,
           "title": "Green ball elephant",
           "price": "43.22",
           "position": 7,
@@ -1415,8 +1415,8 @@
           "image_id": 66221198344534
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857654102,
+          "product_id": 9789376725334,
           "title": "Car",
           "price": "43.22",
           "position": 8,
@@ -1443,8 +1443,8 @@
           "image_id": 66221198377302
         },
         {
-          "product_id": 9789376725334,
           "id": 51187857686870,
+          "product_id": 9789376725334,
           "title": "Whale ocean",
           "price": "43.22",
           "position": 9,
@@ -1473,8 +1473,8 @@
       ],
       "options": [
         {
-          "product_id": 9789376725334,
           "id": 12638096392534,
+          "product_id": 9789376725334,
           "name": "Style",
           "position": 1,
           "values": [
