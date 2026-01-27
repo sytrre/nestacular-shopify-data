@@ -20757,8 +20757,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016034586966",
       "variants": [
         {
-          "id": 52013550797142,
           "product_id": 10016034586966,
+          "id": 52013550797142,
           "title": "A blue",
           "price": "14.95",
           "position": 1,
@@ -20785,8 +20785,8 @@
           "image_id": 69735462306134
         },
         {
-          "id": 52013550829910,
           "product_id": 10016034586966,
+          "id": 52013550829910,
           "title": "A green",
           "price": "14.95",
           "position": 2,
@@ -20813,8 +20813,8 @@
           "image_id": 69735462338902
         },
         {
-          "id": 52013550862678,
           "product_id": 10016034586966,
+          "id": 52013550862678,
           "title": "B blue",
           "price": "14.95",
           "position": 3,
@@ -20841,8 +20841,8 @@
           "image_id": 69735462371670
         },
         {
-          "id": 52013550895446,
           "product_id": 10016034586966,
+          "id": 52013550895446,
           "title": "B purple",
           "price": "14.95",
           "position": 4,
@@ -20869,8 +20869,8 @@
           "image_id": 69735462142294
         },
         {
-          "id": 52013550928214,
           "product_id": 10016034586966,
+          "id": 52013550928214,
           "title": "A pink",
           "price": "14.95",
           "position": 5,
@@ -20897,8 +20897,8 @@
           "image_id": 69735462175062
         },
         {
-          "id": 52013550960982,
           "product_id": 10016034586966,
+          "id": 52013550960982,
           "title": "B pink",
           "price": "14.95",
           "position": 6,
@@ -20925,8 +20925,8 @@
           "image_id": 69735462207830
         },
         {
-          "id": 52013550993750,
           "product_id": 10016034586966,
+          "id": 52013550993750,
           "title": "B green",
           "price": "14.95",
           "position": 7,
@@ -20953,8 +20953,8 @@
           "image_id": 69735462240598
         },
         {
-          "id": 52013551026518,
           "product_id": 10016034586966,
+          "id": 52013551026518,
           "title": "Pacifier",
           "price": "12.95",
           "position": 8,
@@ -20983,8 +20983,8 @@
       ],
       "options": [
         {
-          "id": 12901940887894,
           "product_id": 10016034586966,
+          "id": 12901940887894,
           "name": "Color",
           "position": 1,
           "values": [
@@ -28894,8 +28894,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791839699286",
       "variants": [
         {
-          "product_id": 9791839699286,
           "id": 51197705027926,
+          "product_id": 9791839699286,
           "title": "Green",
           "price": "26.19",
           "position": 1,
@@ -28922,8 +28922,8 @@
           "image_id": 66245971804502
         },
         {
-          "product_id": 9791839699286,
           "id": 51197705060694,
+          "product_id": 9791839699286,
           "title": "Light Blue",
           "price": "26.19",
           "position": 2,
@@ -28950,8 +28950,8 @@
           "image_id": 66245971837270
         },
         {
-          "product_id": 9791839699286,
           "id": 51197705093462,
+          "product_id": 9791839699286,
           "title": "Yellow",
           "price": "26.19",
           "position": 3,
@@ -28980,8 +28980,8 @@
       ],
       "options": [
         {
-          "product_id": 9791839699286,
           "id": 12641119011158,
+          "product_id": 9791839699286,
           "name": "Color",
           "position": 1,
           "values": [
