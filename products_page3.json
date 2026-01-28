@@ -36712,8 +36712,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791674155350",
       "variants": [
         {
-          "id": 51197275406678,
           "product_id": 9791674155350,
+          "id": 51197275406678,
           "title": "Nano Silver Boxed",
           "price": "15.72",
           "position": 1,
@@ -36740,8 +36740,8 @@
           "image_id": 66244542693718
         },
         {
-          "id": 51197275439446,
           "product_id": 9791674155350,
+          "id": 51197275439446,
           "title": "Transparent Boxed",
           "price": "15.72",
           "position": 2,
@@ -36770,8 +36770,8 @@
       ],
       "options": [
         {
-          "id": 12640933413206,
           "product_id": 9791674155350,
+          "id": 12640933413206,
           "name": "Size",
           "position": 1,
           "values": [
