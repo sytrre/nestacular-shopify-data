@@ -2950,8 +2950,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649920854",
       "variants": [
         {
-          "id": 51201115160918,
           "product_id": 9792649920854,
+          "id": 51201115160918,
           "title": "Color",
           "price": "16.18",
           "position": 1,
@@ -2980,8 +2980,8 @@
       ],
       "options": [
         {
-          "id": 12642097070422,
           "product_id": 9792649920854,
+          "id": 12642097070422,
           "name": "Color",
           "position": 1,
           "values": [
@@ -64583,8 +64583,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10115787424086",
       "variants": [
         {
-          "product_id": 10115787424086,
           "id": 52285897408854,
+          "product_id": 10115787424086,
           "title": "SNORLAX / OPP Bag",
           "price": "2.26",
           "position": 1,
@@ -64611,8 +64611,8 @@
           "image_id": 71167405621590
         },
         {
-          "product_id": 10115787424086,
           "id": 52285897441622,
+          "product_id": 10115787424086,
           "title": "EEVEE / OPP Bag",
           "price": "2.10",
           "position": 2,
@@ -64639,8 +64639,8 @@
           "image_id": 71167405654358
         },
         {
-          "product_id": 10115787424086,
           "id": 52285897474390,
+          "product_id": 10115787424086,
           "title": "PIKACHU / OPP Bag",
           "price": "2.01",
           "position": 3,
@@ -64667,8 +64667,8 @@
           "image_id": 71167405687126
         },
         {
-          "product_id": 10115787424086,
           "id": 52285897507158,
+          "product_id": 10115787424086,
           "title": "JIRACHI / OPP Bag",
           "price": "1.90",
           "position": 4,
@@ -64695,8 +64695,8 @@
           "image_id": 71167405719894
         },
         {
-          "product_id": 10115787424086,
           "id": 52285897539926,
+          "product_id": 10115787424086,
           "title": "KOMALA / OPP Bag",
           "price": "2.10",
           "position": 5,
@@ -64723,8 +64723,8 @@
           "image_id": 71167405752662
         },
         {
-          "product_id": 10115787424086,
           "id": 52285897572694,
+          "product_id": 10115787424086,
           "title": "BULBASAUR / OPP Bag",
           "price": "2.29",
           "position": 6,
@@ -64753,8 +64753,8 @@
       ],
       "options": [
         {
-          "product_id": 10115787424086,
           "id": 13012492550486,
+          "product_id": 10115787424086,
           "name": "Color",
           "position": 1,
           "values": [
@@ -64767,8 +64767,8 @@
           ]
         },
         {
-          "product_id": 10115787424086,
           "id": 13012492583254,
+          "product_id": 10115787424086,
           "name": "Size",
           "position": 2,
           "values": [
