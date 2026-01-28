@@ -70534,8 +70534,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9778338857302",
       "variants": [
         {
-          "product_id": 9778338857302,
           "id": 51136716374358,
+          "product_id": 9778338857302,
           "title": "Beige Small No Plate WZ6",
           "price": "72.95",
           "position": 1,
@@ -70562,8 +70562,8 @@
           "image_id": 66113000800598
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716407126,
+          "product_id": 9778338857302,
           "title": "Green Small",
           "price": "73.45",
           "position": 2,
@@ -70590,8 +70590,8 @@
           "image_id": 66113000833366
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716439894,
+          "product_id": 9778338857302,
           "title": "Large Beige",
           "price": "74.55",
           "position": 3,
@@ -70618,8 +70618,8 @@
           "image_id": 66113000866134
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716472662,
+          "product_id": 9778338857302,
           "title": "Large Flagship Beige",
           "price": "75.45",
           "position": 4,
@@ -70646,8 +70646,8 @@
           "image_id": 66113000898902
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716505430,
+          "product_id": 9778338857302,
           "title": "Large Flagship Green",
           "price": "75.45",
           "position": 5,
@@ -70674,8 +70674,8 @@
           "image_id": 66113000931670
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716538198,
+          "product_id": 9778338857302,
           "title": "Large Green",
           "price": "74.55",
           "position": 6,
@@ -70702,8 +70702,8 @@
           "image_id": 66113000964438
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716570966,
+          "product_id": 9778338857302,
           "title": "Large Plus Size Beige",
           "price": "78.95",
           "position": 7,
@@ -70730,8 +70730,8 @@
           "image_id": 66113000997206
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716603734,
+          "product_id": 9778338857302,
           "title": "Large Plus Size Green",
           "price": "78.95",
           "position": 8,
@@ -70758,8 +70758,8 @@
           "image_id": 66113001029974
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716636502,
+          "product_id": 9778338857302,
           "title": "Little Green Flagship",
           "price": "74.55",
           "position": 9,
@@ -70786,8 +70786,8 @@
           "image_id": 66113001062742
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716669270,
+          "product_id": 9778338857302,
           "title": "Small Beige Flagship",
           "price": "74.55",
           "position": 10,
@@ -70814,8 +70814,8 @@
           "image_id": 66113001095510
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716702038,
+          "product_id": 9778338857302,
           "title": "Small Size Beige",
           "price": "73.45",
           "position": 11,
@@ -70842,8 +70842,8 @@
           "image_id": 66113001128278
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716734806,
+          "product_id": 9778338857302,
           "title": "Small Size Exclusive Beige",
           "price": "77.45",
           "position": 12,
@@ -70870,8 +70870,8 @@
           "image_id": 66113001161046
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716767574,
+          "product_id": 9778338857302,
           "title": "Small Size Exclusive Green",
           "price": "77.45",
           "position": 13,
@@ -70898,8 +70898,8 @@
           "image_id": 66113001193814
         },
         {
-          "product_id": 9778338857302,
           "id": 51136716800342,
+          "product_id": 9778338857302,
           "title": "Sunshade",
           "price": "28.95",
           "position": 14,
@@ -70928,8 +70928,8 @@
       ],
       "options": [
         {
-          "product_id": 9778338857302,
           "id": 12625170563414,
+          "product_id": 9778338857302,
           "name": "Color",
           "position": 1,
           "values": [
