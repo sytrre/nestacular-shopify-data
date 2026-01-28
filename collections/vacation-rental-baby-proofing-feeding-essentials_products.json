@@ -2174,8 +2174,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9844469432662",
       "variants": [
         {
-          "product_id": 9844469432662,
           "id": 51408487547222,
+          "product_id": 9844469432662,
           "title": "Blue Tiger / 0to2 years old",
           "price": "20.95",
           "position": 1,
@@ -2202,8 +2202,8 @@
           "image_id": 67123815186774
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487579990,
+          "product_id": 9844469432662,
           "title": "Blue Tiger / 2to4 years old",
           "price": "21.95",
           "position": 2,
@@ -2230,8 +2230,8 @@
           "image_id": 67123815186774
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487612758,
+          "product_id": 9844469432662,
           "title": "Green Tiger / 0to2 years old",
           "price": "20.95",
           "position": 3,
@@ -2258,8 +2258,8 @@
           "image_id": 67123815219542
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487645526,
+          "product_id": 9844469432662,
           "title": "Green Tiger / 2to4 years old",
           "price": "21.95",
           "position": 4,
@@ -2286,8 +2286,8 @@
           "image_id": 67123815219542
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487678294,
+          "product_id": 9844469432662,
           "title": "Little green monster / 0to2 years old",
           "price": "20.95",
           "position": 5,
@@ -2314,8 +2314,8 @@
           "image_id": 67123815252310
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487711062,
+          "product_id": 9844469432662,
           "title": "Little green monster / 2to4 years old",
           "price": "21.95",
           "position": 6,
@@ -2342,8 +2342,8 @@
           "image_id": 67123815252310
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487743830,
+          "product_id": 9844469432662,
           "title": "Little yellow monster / 0to2 years old",
           "price": "20.95",
           "position": 7,
@@ -2370,8 +2370,8 @@
           "image_id": 67123815285078
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487776598,
+          "product_id": 9844469432662,
           "title": "Little yellow monster / 2to4 years old",
           "price": "21.95",
           "position": 8,
@@ -2398,8 +2398,8 @@
           "image_id": 67123815285078
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487809366,
+          "product_id": 9844469432662,
           "title": "Orange pink radish rabbit / 0to2 years old",
           "price": "20.95",
           "position": 9,
@@ -2426,8 +2426,8 @@
           "image_id": 67123815317846
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487842134,
+          "product_id": 9844469432662,
           "title": "Orange pink radish rabbit / 2to4 years old",
           "price": "21.95",
           "position": 10,
@@ -2454,8 +2454,8 @@
           "image_id": 67123815317846
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487874902,
+          "product_id": 9844469432662,
           "title": "Pink radish rabbit / 0to2 years old",
           "price": "20.95",
           "position": 11,
@@ -2482,8 +2482,8 @@
           "image_id": 67123815350614
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487907670,
+          "product_id": 9844469432662,
           "title": "Pink radish rabbit / 2to4 years old",
           "price": "21.95",
           "position": 12,
@@ -2510,8 +2510,8 @@
           "image_id": 67123815350614
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487940438,
+          "product_id": 9844469432662,
           "title": "Pink squirrel / 0to2 years old",
           "price": "20.95",
           "position": 13,
@@ -2538,8 +2538,8 @@
           "image_id": 67123815383382
         },
         {
-          "product_id": 9844469432662,
           "id": 51408487973206,
+          "product_id": 9844469432662,
           "title": "Pink squirrel / 2to4 years old",
           "price": "21.95",
           "position": 14,
@@ -2566,8 +2566,8 @@
           "image_id": 67123815383382
         },
         {
-          "product_id": 9844469432662,
           "id": 51408488005974,
+          "product_id": 9844469432662,
           "title": "Yellow squirrel / 0to2 years old",
           "price": "20.95",
           "position": 15,
@@ -2594,8 +2594,8 @@
           "image_id": 67123815416150
         },
         {
-          "product_id": 9844469432662,
           "id": 51408488038742,
+          "product_id": 9844469432662,
           "title": "Yellow squirrel / 2to4 years old",
           "price": "21.95",
           "position": 16,
@@ -2624,8 +2624,8 @@
       ],
       "options": [
         {
-          "product_id": 9844469432662,
           "id": 12703386534230,
+          "product_id": 9844469432662,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2640,8 +2640,8 @@
           ]
         },
         {
-          "product_id": 9844469432662,
           "id": 12703386566998,
+          "product_id": 9844469432662,
           "name": "Size",
           "position": 2,
           "values": [
