@@ -1375,8 +1375,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9909901001046",
       "variants": [
         {
-          "product_id": 9909901001046,
           "id": 51648461537622,
+          "product_id": 9909901001046,
           "title": "Whale",
           "price": "39.95",
           "position": 1,
@@ -1403,8 +1403,8 @@
           "image_id": 67697118904662
         },
         {
-          "product_id": 9909901001046,
           "id": 51648461570390,
+          "product_id": 9909901001046,
           "title": "Elephant",
           "price": "39.95",
           "position": 2,
@@ -1431,8 +1431,8 @@
           "image_id": 67697118740822
         },
         {
-          "product_id": 9909901001046,
           "id": 51648461603158,
+          "product_id": 9909901001046,
           "title": "Owl",
           "price": "39.95",
           "position": 3,
@@ -1459,8 +1459,8 @@
           "image_id": 67697118937430
         },
         {
-          "product_id": 9909901001046,
           "id": 51648461635926,
+          "product_id": 9909901001046,
           "title": "Pig",
           "price": "39.95",
           "position": 4,
@@ -1487,8 +1487,8 @@
           "image_id": 67697118773590
         },
         {
-          "product_id": 9909901001046,
           "id": 51648461668694,
+          "product_id": 9909901001046,
           "title": "Koala",
           "price": "39.95",
           "position": 5,
@@ -1515,8 +1515,8 @@
           "image_id": 67697118970198
         },
         {
-          "product_id": 9909901001046,
           "id": 51648461701462,
+          "product_id": 9909901001046,
           "title": "Lion",
           "price": "39.95",
           "position": 6,
@@ -1543,8 +1543,8 @@
           "image_id": 67697118806358
         },
         {
-          "product_id": 9909901001046,
           "id": 51648461734230,
+          "product_id": 9909901001046,
           "title": "Giraffe",
           "price": "39.95",
           "position": 7,
@@ -1571,8 +1571,8 @@
           "image_id": 67697118839126
         },
         {
-          "product_id": 9909901001046,
           "id": 51648461766998,
+          "product_id": 9909901001046,
           "title": "Horse",
           "price": "39.95",
           "position": 8,
@@ -1599,8 +1599,8 @@
           "image_id": 67697119002966
         },
         {
-          "product_id": 9909901001046,
           "id": 51648461799766,
+          "product_id": 9909901001046,
           "title": "Cat",
           "price": "39.95",
           "position": 9,
@@ -1629,8 +1629,8 @@
       ],
       "options": [
         {
-          "product_id": 9909901001046,
           "id": 12779668570454,
+          "product_id": 9909901001046,
           "name": "Color",
           "position": 1,
           "values": [
