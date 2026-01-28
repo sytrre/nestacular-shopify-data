@@ -4336,8 +4336,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10115770712406",
       "variants": [
         {
-          "id": 52285815325014,
           "product_id": 10115770712406,
+          "id": 52285815325014,
           "title": "Cartoon Style",
           "price": "2.75",
           "position": 1,
@@ -4364,8 +4364,8 @@
           "image_id": 71167275303254
         },
         {
-          "id": 52285815357782,
           "product_id": 10115770712406,
+          "id": 52285815357782,
           "title": "Number Style",
           "price": "2.12",
           "position": 2,
@@ -4392,8 +4392,8 @@
           "image_id": 71167275336022
         },
         {
-          "id": 52285815390550,
           "product_id": 10115770712406,
+          "id": 52285815390550,
           "title": "Geometric Style",
           "price": "2.70",
           "position": 3,
@@ -4422,8 +4422,8 @@
       ],
       "options": [
         {
-          "id": 13012472103254,
           "product_id": 10115770712406,
+          "id": 13012472103254,
           "name": "Color",
           "position": 1,
           "values": [
