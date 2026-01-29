@@ -4098,8 +4098,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9907522634070",
       "variants": [
         {
-          "id": 51638654861654,
           "product_id": 9907522634070,
+          "id": 51638654861654,
           "title": "blue / 9 x 4cm",
           "price": "39.95",
           "position": 1,
@@ -4126,8 +4126,8 @@
           "image_id": 67678274814294
         },
         {
-          "id": 51638654894422,
           "product_id": 9907522634070,
+          "id": 51638654894422,
           "title": "pink / 9 x 4cm",
           "price": "39.95",
           "position": 2,
@@ -4156,8 +4156,8 @@
       ],
       "options": [
         {
-          "id": 12776925331798,
           "product_id": 9907522634070,
+          "id": 12776925331798,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4166,8 +4166,8 @@
           ]
         },
         {
-          "id": 12776925364566,
           "product_id": 9907522634070,
+          "id": 12776925364566,
           "name": "Gift Box Size",
           "position": 2,
           "values": [
@@ -89285,8 +89285,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792649593174",
       "variants": [
         {
-          "id": 51201112408406,
           "product_id": 9792649593174,
+          "id": 51201112408406,
           "title": "Purple",
           "price": "17.75",
           "position": 1,
@@ -89313,8 +89313,8 @@
           "image_id": 66253000802646
         },
         {
-          "id": 51201112441174,
           "product_id": 9792649593174,
+          "id": 51201112441174,
           "title": "Blue",
           "price": "17.75",
           "position": 2,
@@ -89341,8 +89341,8 @@
           "image_id": 66253000835414
         },
         {
-          "id": 51201112473942,
           "product_id": 9792649593174,
+          "id": 51201112473942,
           "title": "Pink",
           "price": "17.75",
           "position": 3,
@@ -89371,8 +89371,8 @@
       ],
       "options": [
         {
-          "id": 12642096709974,
           "product_id": 9792649593174,
+          "id": 12642096709974,
           "name": "Color",
           "position": 1,
           "values": [
