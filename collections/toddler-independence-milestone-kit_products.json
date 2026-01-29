@@ -496,8 +496,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9871324217686",
       "variants": [
         {
-          "product_id": 9871324217686,
           "id": 51507357253974,
+          "product_id": 9871324217686,
           "title": "A Blue / One size",
           "price": "19.95",
           "position": 1,
@@ -524,8 +524,8 @@
           "image_id": 67402545070422
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357286742,
+          "product_id": 9871324217686,
           "title": "A Pink / One size",
           "price": "19.95",
           "position": 2,
@@ -552,8 +552,8 @@
           "image_id": 67402545103190
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357319510,
+          "product_id": 9871324217686,
           "title": "Blue 2PC / M",
           "price": "19.75",
           "position": 3,
@@ -580,8 +580,8 @@
           "image_id": 67402545135958
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357352278,
+          "product_id": 9871324217686,
           "title": "Blue Set2 / L",
           "price": "21.95",
           "position": 4,
@@ -608,8 +608,8 @@
           "image_id": 67402545168726
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357385046,
+          "product_id": 9871324217686,
           "title": "Blue Set2 / M",
           "price": "21.75",
           "position": 5,
@@ -636,8 +636,8 @@
           "image_id": 67402545201494
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357417814,
+          "product_id": 9871324217686,
           "title": "Blue / L",
           "price": "19.45",
           "position": 6,
@@ -664,8 +664,8 @@
           "image_id": 67402545234262
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357450582,
+          "product_id": 9871324217686,
           "title": "Blue / M",
           "price": "19.25",
           "position": 7,
@@ -692,8 +692,8 @@
           "image_id": 67402545234262
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357483350,
+          "product_id": 9871324217686,
           "title": "Blue / S",
           "price": "19.05",
           "position": 8,
@@ -720,8 +720,8 @@
           "image_id": 67402545234262
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357516118,
+          "product_id": 9871324217686,
           "title": "Green 2PC / M",
           "price": "19.85",
           "position": 9,
@@ -748,8 +748,8 @@
           "image_id": 67402545267030
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357548886,
+          "product_id": 9871324217686,
           "title": "Green Set2 / L",
           "price": "21.95",
           "position": 10,
@@ -776,8 +776,8 @@
           "image_id": 67402545299798
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357581654,
+          "product_id": 9871324217686,
           "title": "Green Set2 / M",
           "price": "21.85",
           "position": 11,
@@ -804,8 +804,8 @@
           "image_id": 67402545332566
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357614422,
+          "product_id": 9871324217686,
           "title": "Green Set2 / S",
           "price": "21.55",
           "position": 12,
@@ -832,8 +832,8 @@
           "image_id": 67402545365334
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357647190,
+          "product_id": 9871324217686,
           "title": "Green / L",
           "price": "19.45",
           "position": 13,
@@ -860,8 +860,8 @@
           "image_id": 67402545398102
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357679958,
+          "product_id": 9871324217686,
           "title": "Green / M",
           "price": "19.25",
           "position": 14,
@@ -888,8 +888,8 @@
           "image_id": 67402545398102
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357712726,
+          "product_id": 9871324217686,
           "title": "Green / S",
           "price": "19.05",
           "position": 15,
@@ -916,8 +916,8 @@
           "image_id": 67402545398102
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357745494,
+          "product_id": 9871324217686,
           "title": "Light Green / L",
           "price": "19.55",
           "position": 16,
@@ -944,8 +944,8 @@
           "image_id": 67402545430870
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357778262,
+          "product_id": 9871324217686,
           "title": "Light Green / M",
           "price": "19.30",
           "position": 17,
@@ -972,8 +972,8 @@
           "image_id": 67402545463638
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357811030,
+          "product_id": 9871324217686,
           "title": "Light Green / S",
           "price": "19.10",
           "position": 18,
@@ -1000,8 +1000,8 @@
           "image_id": 67402545496406
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357843798,
+          "product_id": 9871324217686,
           "title": "Pink 2PC / M",
           "price": "19.85",
           "position": 19,
@@ -1028,8 +1028,8 @@
           "image_id": 67402545529174
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357876566,
+          "product_id": 9871324217686,
           "title": "Pink Set2 / M",
           "price": "21.85",
           "position": 20,
@@ -1056,8 +1056,8 @@
           "image_id": 67402545561942
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357909334,
+          "product_id": 9871324217686,
           "title": "Pink Set2 / S",
           "price": "21.55",
           "position": 21,
@@ -1084,8 +1084,8 @@
           "image_id": 67402545594710
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357942102,
+          "product_id": 9871324217686,
           "title": "Pink / L",
           "price": "19.45",
           "position": 22,
@@ -1112,8 +1112,8 @@
           "image_id": 67402545627478
         },
         {
-          "product_id": 9871324217686,
           "id": 51507357974870,
+          "product_id": 9871324217686,
           "title": "Pink / M",
           "price": "19.25",
           "position": 23,
@@ -1140,8 +1140,8 @@
           "image_id": 67402545627478
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358007638,
+          "product_id": 9871324217686,
           "title": "Pink / S",
           "price": "19.05",
           "position": 24,
@@ -1168,8 +1168,8 @@
           "image_id": 67402545627478
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358040406,
+          "product_id": 9871324217686,
           "title": "Rose Red / L",
           "price": "19.55",
           "position": 25,
@@ -1196,8 +1196,8 @@
           "image_id": 67402545660246
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358073174,
+          "product_id": 9871324217686,
           "title": "Rose Red / M",
           "price": "19.30",
           "position": 26,
@@ -1224,8 +1224,8 @@
           "image_id": 67402545693014
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358105942,
+          "product_id": 9871324217686,
           "title": "Rose Red / S",
           "price": "19.10",
           "position": 27,
@@ -1252,8 +1252,8 @@
           "image_id": 67402545725782
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358138710,
+          "product_id": 9871324217686,
           "title": "Yellow 2PC / M",
           "price": "19.85",
           "position": 28,
@@ -1280,8 +1280,8 @@
           "image_id": 67402545758550
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358171478,
+          "product_id": 9871324217686,
           "title": "Yellow Set1 / S",
           "price": "22.15",
           "position": 29,
@@ -1308,8 +1308,8 @@
           "image_id": 67402545791318
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358204246,
+          "product_id": 9871324217686,
           "title": "Yellow Set2 / L",
           "price": "21.95",
           "position": 30,
@@ -1336,8 +1336,8 @@
           "image_id": 67402545824086
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358237014,
+          "product_id": 9871324217686,
           "title": "Yellow Set2 / M",
           "price": "21.85",
           "position": 31,
@@ -1364,8 +1364,8 @@
           "image_id": 67402545856854
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358269782,
+          "product_id": 9871324217686,
           "title": "Yellow Set2 / S",
           "price": "21.55",
           "position": 32,
@@ -1392,8 +1392,8 @@
           "image_id": 67402545889622
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358302550,
+          "product_id": 9871324217686,
           "title": "Yellow / L",
           "price": "19.45",
           "position": 33,
@@ -1420,8 +1420,8 @@
           "image_id": 67402545922390
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358335318,
+          "product_id": 9871324217686,
           "title": "Yellow / M",
           "price": "19.25",
           "position": 34,
@@ -1448,8 +1448,8 @@
           "image_id": 67402545922390
         },
         {
-          "product_id": 9871324217686,
           "id": 51507358368086,
+          "product_id": 9871324217686,
           "title": "Yellow / S",
           "price": "19.05",
           "position": 35,
@@ -1478,8 +1478,8 @@
       ],
       "options": [
         {
-          "product_id": 9871324217686,
           "id": 12734616404310,
+          "product_id": 9871324217686,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1503,8 +1503,8 @@
           ]
         },
         {
-          "product_id": 9871324217686,
           "id": 12734616437078,
+          "product_id": 9871324217686,
           "name": "Size",
           "position": 2,
           "values": [
