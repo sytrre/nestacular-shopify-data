@@ -1210,8 +1210,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214683478",
       "variants": [
         {
-          "id": 51084622430550,
           "product_id": 9765214683478,
+          "id": 51084622430550,
           "title": "Blue",
           "price": "25.71",
           "position": 1,
@@ -1238,8 +1238,8 @@
           "image_id": 65933314589014
         },
         {
-          "id": 51084622463318,
           "product_id": 9765214683478,
+          "id": 51084622463318,
           "title": "Pink",
           "price": "28.22",
           "position": 2,
@@ -1266,8 +1266,8 @@
           "image_id": 66259479920982
         },
         {
-          "id": 51084622496086,
           "product_id": 9765214683478,
+          "id": 51084622496086,
           "title": "Green",
           "price": "27.80",
           "position": 3,
@@ -1296,8 +1296,8 @@
       ],
       "options": [
         {
-          "id": 12609650229590,
           "product_id": 9765214683478,
+          "id": 12609650229590,
           "name": "Color",
           "position": 1,
           "values": [
@@ -55894,8 +55894,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791386812758",
       "variants": [
         {
-          "id": 51196295971158,
           "product_id": 9791386812758,
+          "id": 51196295971158,
           "title": "Yellow Silicone Training Spoon",
           "price": "17.59",
           "position": 1,
@@ -55922,8 +55922,8 @@
           "image_id": 66241130627414
         },
         {
-          "id": 51196296003926,
           "product_id": 9791386812758,
+          "id": 51196296003926,
           "title": "Dark Pink Silicone Spoon",
           "price": "17.11",
           "position": 2,
@@ -55950,8 +55950,8 @@
           "image_id": 66241130660182
         },
         {
-          "id": 51196296036694,
           "product_id": 9791386812758,
+          "id": 51196296036694,
           "title": "Blue Silicone Spoon",
           "price": "17.11",
           "position": 3,
@@ -55978,8 +55978,8 @@
           "image_id": 66241130692950
         },
         {
-          "id": 51196296069462,
           "product_id": 9791386812758,
+          "id": 51196296069462,
           "title": "Red Silicone Spoon",
           "price": "17.11",
           "position": 4,
@@ -56006,8 +56006,8 @@
           "image_id": 66241130725718
         },
         {
-          "id": 51196296102230,
           "product_id": 9791386812758,
+          "id": 51196296102230,
           "title": "Beige Silicone Spoon",
           "price": "17.11",
           "position": 5,
@@ -56034,8 +56034,8 @@
           "image_id": 66241130758486
         },
         {
-          "id": 51196296134998,
           "product_id": 9791386812758,
+          "id": 51196296134998,
           "title": "Light Gray Silicone Spoon",
           "price": "17.11",
           "position": 6,
@@ -56062,8 +56062,8 @@
           "image_id": 66241130791254
         },
         {
-          "id": 51196296167766,
           "product_id": 9791386812758,
+          "id": 51196296167766,
           "title": "Gray Blue Silicone Spoon",
           "price": "17.11",
           "position": 7,
@@ -56090,8 +56090,8 @@
           "image_id": 66241130824022
         },
         {
-          "id": 51196296200534,
           "product_id": 9791386812758,
+          "id": 51196296200534,
           "title": "Yellow Silicone Spoon",
           "price": "17.11",
           "position": 8,
@@ -56118,8 +56118,8 @@
           "image_id": 66241130856790
         },
         {
-          "id": 51196296233302,
           "product_id": 9791386812758,
+          "id": 51196296233302,
           "title": "Gray Silicone Spoon",
           "price": "17.11",
           "position": 9,
@@ -56146,8 +56146,8 @@
           "image_id": 66241130889558
         },
         {
-          "id": 51196296266070,
           "product_id": 9791386812758,
+          "id": 51196296266070,
           "title": "Set",
           "price": "18.36",
           "position": 10,
@@ -56176,8 +56176,8 @@
       ],
       "options": [
         {
-          "id": 12640603275606,
           "product_id": 9791386812758,
+          "id": 12640603275606,
           "name": "Color",
           "position": 1,
           "values": [
