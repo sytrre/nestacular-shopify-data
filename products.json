@@ -3869,8 +3869,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9765214683478",
       "variants": [
         {
-          "product_id": 9765214683478,
           "id": 51084622430550,
+          "product_id": 9765214683478,
           "title": "Blue",
           "price": "25.71",
           "position": 1,
@@ -3897,8 +3897,8 @@
           "image_id": 65933314589014
         },
         {
-          "product_id": 9765214683478,
           "id": 51084622463318,
+          "product_id": 9765214683478,
           "title": "Pink",
           "price": "28.22",
           "position": 2,
@@ -3925,8 +3925,8 @@
           "image_id": 66259479920982
         },
         {
-          "product_id": 9765214683478,
           "id": 51084622496086,
+          "product_id": 9765214683478,
           "title": "Green",
           "price": "27.80",
           "position": 3,
@@ -3955,8 +3955,8 @@
       ],
       "options": [
         {
-          "product_id": 9765214683478,
           "id": 12609650229590,
+          "product_id": 9765214683478,
           "name": "Color",
           "position": 1,
           "values": [
@@ -53923,8 +53923,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792648806742",
       "variants": [
         {
-          "product_id": 9792648806742,
           "id": 51201109492054,
+          "product_id": 9792648806742,
           "title": "Pink / 150ml",
           "price": "16.71",
           "position": 1,
@@ -53951,8 +53951,8 @@
           "image_id": 66252990087510
         },
         {
-          "product_id": 9792648806742,
           "id": 51201109524822,
+          "product_id": 9792648806742,
           "title": "Blue / 150ml",
           "price": "16.71",
           "position": 2,
@@ -53981,8 +53981,8 @@
       ],
       "options": [
         {
-          "product_id": 9792648806742,
           "id": 12642095759702,
+          "product_id": 9792648806742,
           "name": "Color",
           "position": 1,
           "values": [
@@ -53991,8 +53991,8 @@
           ]
         },
         {
-          "product_id": 9792648806742,
           "id": 12642095792470,
+          "product_id": 9792648806742,
           "name": "Capacity",
           "position": 2,
           "values": [
