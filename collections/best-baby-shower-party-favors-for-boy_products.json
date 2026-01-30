@@ -15,7 +15,7 @@
       "product_type": "",
       "created_at": "2025-10-26T11:01:52+00:00",
       "handle": "10-pcs-graduation-hat-bear-baby-gifts-party-favors-cloth-flower-bouquet",
-      "updated_at": "2025-12-17T03:31:31+00:00",
+      "updated_at": "2026-01-30T15:44:24+00:00",
       "published_at": "2025-10-26T11:08:58+00:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -167,7 +167,7 @@
       "product_type": "",
       "created_at": "2025-10-26T12:11:02+00:00",
       "handle": "12-pcs-baby-bottle-candy-box-favors-boxes-shower-decorations-bottles-bulk-party-feeding-for",
-      "updated_at": "2025-12-18T12:01:14+00:00",
+      "updated_at": "2026-01-30T15:44:24+00:00",
       "published_at": "2025-10-26T12:19:03+00:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -321,7 +321,7 @@
       "product_type": "",
       "created_at": "2025-10-26T08:19:14+00:00",
       "handle": "a-group-of-20-babies-welcome-the-party-to-give-back-gifts-various-colors-of-baby-elephant-keychain-transparent-hard-sandbag",
-      "updated_at": "2025-12-17T03:31:31+00:00",
+      "updated_at": "2026-01-30T15:44:23+00:00",
       "published_at": "2025-10-26T09:30:26+00:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -973,7 +973,7 @@
       "product_type": "",
       "created_at": "2025-10-22T15:19:14+01:00",
       "handle": "36pcs-baby-shower-favor-blue-pink-mini-milk-bottle-for-girls-boy-party-gift-boxes-halloween-wedding-festival",
-      "updated_at": "2025-12-17T03:31:31+00:00",
+      "updated_at": "2026-01-30T15:44:18+00:00",
       "published_at": "2025-10-24T10:19:10+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -982,8 +982,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9907522634070",
       "variants": [
         {
-          "product_id": 9907522634070,
           "id": 51638654861654,
+          "product_id": 9907522634070,
           "title": "blue / 9 x 4cm",
           "price": "39.95",
           "position": 1,
@@ -1010,8 +1010,8 @@
           "image_id": 67678274814294
         },
         {
-          "product_id": 9907522634070,
           "id": 51638654894422,
+          "product_id": 9907522634070,
           "title": "pink / 9 x 4cm",
           "price": "39.95",
           "position": 2,
@@ -1040,8 +1040,8 @@
       ],
       "options": [
         {
-          "product_id": 9907522634070,
           "id": 12776925331798,
+          "product_id": 9907522634070,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1050,8 +1050,8 @@
           ]
         },
         {
-          "product_id": 9907522634070,
           "id": 12776925364566,
+          "product_id": 9907522634070,
           "name": "Gift Box Size",
           "position": 2,
           "values": [
@@ -1165,7 +1165,7 @@
       "product_type": "",
       "created_at": "2025-10-24T13:12:02+01:00",
       "handle": "5-10-12inch-10-20-30pcs-baby-blue-latex-balloons-red-green-white-sand-wedding-decoration-globos-baby-shower-birthday-party-decor",
-      "updated_at": "2025-12-18T12:01:20+00:00",
+      "updated_at": "2026-01-30T15:44:22+00:00",
       "published_at": "2025-10-24T14:44:59+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -4440,7 +4440,7 @@
       "product_type": "",
       "created_at": "2025-10-26T09:42:36+00:00",
       "handle": "10pcs-baby-carriage-candy-box-sweet-wedding-favor-and-gifts-boxes-with-ribbon-baby-shower-for-baptism-birthday-party-decoration",
-      "updated_at": "2025-12-17T03:31:31+00:00",
+      "updated_at": "2026-01-30T15:44:23+00:00",
       "published_at": "2025-10-26T10:26:10+00:00",
       "template_suffix": null,
       "published_scope": "global",
