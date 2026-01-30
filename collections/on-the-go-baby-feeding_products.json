@@ -290,8 +290,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9792648806742",
       "variants": [
         {
-          "product_id": 9792648806742,
           "id": 51201109492054,
+          "product_id": 9792648806742,
           "title": "Pink / 150ml",
           "price": "16.71",
           "position": 1,
@@ -318,8 +318,8 @@
           "image_id": 66252990087510
         },
         {
-          "product_id": 9792648806742,
           "id": 51201109524822,
+          "product_id": 9792648806742,
           "title": "Blue / 150ml",
           "price": "16.71",
           "position": 2,
@@ -348,8 +348,8 @@
       ],
       "options": [
         {
-          "product_id": 9792648806742,
           "id": 12642095759702,
+          "product_id": 9792648806742,
           "name": "Color",
           "position": 1,
           "values": [
@@ -358,8 +358,8 @@
           ]
         },
         {
-          "product_id": 9792648806742,
           "id": 12642095792470,
+          "product_id": 9792648806742,
           "name": "Capacity",
           "position": 2,
           "values": [
