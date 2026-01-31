@@ -2076,8 +2076,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10060975112534",
       "variants": [
         {
-          "product_id": 10060975112534,
           "id": 52195151774038,
+          "product_id": 10060975112534,
           "title": "1PCs Lion",
           "price": "6.95",
           "position": 1,
@@ -2104,8 +2104,8 @@
           "image_id": 71028089094486
         },
         {
-          "product_id": 10060975112534,
           "id": 52195151806806,
+          "product_id": 10060975112534,
           "title": "1PCs Random",
           "price": "6.95",
           "position": 2,
@@ -2134,8 +2134,8 @@
       ],
       "options": [
         {
-          "product_id": 10060975112534,
           "id": 12956173926742,
+          "product_id": 10060975112534,
           "name": "Color",
           "position": 1,
           "values": [

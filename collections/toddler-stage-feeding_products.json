@@ -38268,8 +38268,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791386812758",
       "variants": [
         {
-          "product_id": 9791386812758,
           "id": 51196295971158,
+          "product_id": 9791386812758,
           "title": "Yellow Silicone Training Spoon",
           "price": "17.59",
           "position": 1,
@@ -38296,8 +38296,8 @@
           "image_id": 66241130627414
         },
         {
-          "product_id": 9791386812758,
           "id": 51196296003926,
+          "product_id": 9791386812758,
           "title": "Dark Pink Silicone Spoon",
           "price": "17.11",
           "position": 2,
@@ -38324,8 +38324,8 @@
           "image_id": 66241130660182
         },
         {
-          "product_id": 9791386812758,
           "id": 51196296036694,
+          "product_id": 9791386812758,
           "title": "Blue Silicone Spoon",
           "price": "17.11",
           "position": 3,
@@ -38352,8 +38352,8 @@
           "image_id": 66241130692950
         },
         {
-          "product_id": 9791386812758,
           "id": 51196296069462,
+          "product_id": 9791386812758,
           "title": "Red Silicone Spoon",
           "price": "17.11",
           "position": 4,
@@ -38380,8 +38380,8 @@
           "image_id": 66241130725718
         },
         {
-          "product_id": 9791386812758,
           "id": 51196296102230,
+          "product_id": 9791386812758,
           "title": "Beige Silicone Spoon",
           "price": "17.11",
           "position": 5,
@@ -38408,8 +38408,8 @@
           "image_id": 66241130758486
         },
         {
-          "product_id": 9791386812758,
           "id": 51196296134998,
+          "product_id": 9791386812758,
           "title": "Light Gray Silicone Spoon",
           "price": "17.11",
           "position": 6,
@@ -38436,8 +38436,8 @@
           "image_id": 66241130791254
         },
         {
-          "product_id": 9791386812758,
           "id": 51196296167766,
+          "product_id": 9791386812758,
           "title": "Gray Blue Silicone Spoon",
           "price": "17.11",
           "position": 7,
@@ -38464,8 +38464,8 @@
           "image_id": 66241130824022
         },
         {
-          "product_id": 9791386812758,
           "id": 51196296200534,
+          "product_id": 9791386812758,
           "title": "Yellow Silicone Spoon",
           "price": "17.11",
           "position": 8,
@@ -38492,8 +38492,8 @@
           "image_id": 66241130856790
         },
         {
-          "product_id": 9791386812758,
           "id": 51196296233302,
+          "product_id": 9791386812758,
           "title": "Gray Silicone Spoon",
           "price": "17.11",
           "position": 9,
@@ -38520,8 +38520,8 @@
           "image_id": 66241130889558
         },
         {
-          "product_id": 9791386812758,
           "id": 51196296266070,
+          "product_id": 9791386812758,
           "title": "Set",
           "price": "18.36",
           "position": 10,
@@ -38550,8 +38550,8 @@
       ],
       "options": [
         {
-          "product_id": 9791386812758,
           "id": 12640603275606,
+          "product_id": 9791386812758,
           "name": "Color",
           "position": 1,
           "values": [
@@ -49739,8 +49739,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9852866724182",
       "variants": [
         {
-          "product_id": 9852866724182,
           "id": 51441598595414,
+          "product_id": 9852866724182,
           "title": "Brick Red",
           "price": "27.95",
           "position": 1,
@@ -49767,8 +49767,8 @@
           "image_id": 67229128786262
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598628182,
+          "product_id": 9852866724182,
           "title": "Caramel Color",
           "price": "27.95",
           "position": 2,
@@ -49795,8 +49795,8 @@
           "image_id": 67229128819030
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598660950,
+          "product_id": 9852866724182,
           "title": "Dark Gray",
           "price": "27.95",
           "position": 3,
@@ -49823,8 +49823,8 @@
           "image_id": 67229128851798
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598693718,
+          "product_id": 9852866724182,
           "title": "Ginger Yellow",
           "price": "27.95",
           "position": 4,
@@ -49851,8 +49851,8 @@
           "image_id": 67229128884566
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598726486,
+          "product_id": 9852866724182,
           "title": "Gray Blue",
           "price": "27.95",
           "position": 5,
@@ -49879,8 +49879,8 @@
           "image_id": 67229128917334
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598759254,
+          "product_id": 9852866724182,
           "title": "Gray Green",
           "price": "27.95",
           "position": 6,
@@ -49907,8 +49907,8 @@
           "image_id": 67229128950102
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598792022,
+          "product_id": 9852866724182,
           "title": "Leather Pink",
           "price": "27.95",
           "position": 7,
@@ -49935,8 +49935,8 @@
           "image_id": 67229128982870
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598824790,
+          "product_id": 9852866724182,
           "title": "Milk Tea Color",
           "price": "28.55",
           "position": 8,
@@ -49963,8 +49963,8 @@
           "image_id": 67229129015638
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598857558,
+          "product_id": 9852866724182,
           "title": "Rose",
           "price": "27.95",
           "position": 9,
@@ -49991,8 +49991,8 @@
           "image_id": 67229129048406
         },
         {
-          "product_id": 9852866724182,
           "id": 51441598890326,
+          "product_id": 9852866724182,
           "title": "Steel Gray",
           "price": "27.95",
           "position": 10,
@@ -50021,8 +50021,8 @@
       ],
       "options": [
         {
-          "product_id": 9852866724182,
           "id": 12713451389270,
+          "product_id": 9852866724182,
           "name": "Color",
           "position": 1,
           "values": [

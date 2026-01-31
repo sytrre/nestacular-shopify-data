@@ -410,8 +410,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793808367958",
       "variants": [
         {
-          "product_id": 9793808367958,
           "id": 51206554976598,
+          "product_id": 9793808367958,
           "title": "Bunny",
           "price": "17.16",
           "position": 1,
@@ -438,8 +438,8 @@
           "image_id": 66262983115094
         },
         {
-          "product_id": 9793808367958,
           "id": 51206555009366,
+          "product_id": 9793808367958,
           "title": "Forest fox",
           "price": "17.16",
           "position": 2,
@@ -466,8 +466,8 @@
           "image_id": 66262983147862
         },
         {
-          "product_id": 9793808367958,
           "id": 51206555042134,
+          "product_id": 9793808367958,
           "title": "Owl",
           "price": "17.16",
           "position": 3,
@@ -494,8 +494,8 @@
           "image_id": 66262983180630
         },
         {
-          "product_id": 9793808367958,
           "id": 51206555074902,
+          "product_id": 9793808367958,
           "title": "Traveller",
           "price": "17.16",
           "position": 4,
@@ -522,8 +522,8 @@
           "image_id": 66262983213398
         },
         {
-          "product_id": 9793808367958,
           "id": 51206555107670,
+          "product_id": 9793808367958,
           "title": "Stars and moon",
           "price": "17.16",
           "position": 5,
@@ -550,8 +550,8 @@
           "image_id": 66262983246166
         },
         {
-          "product_id": 9793808367958,
           "id": 51206555140438,
+          "product_id": 9793808367958,
           "title": "Panda",
           "price": "17.16",
           "position": 6,
@@ -578,8 +578,8 @@
           "image_id": 66262983278934
         },
         {
-          "product_id": 9793808367958,
           "id": 51206555173206,
+          "product_id": 9793808367958,
           "title": "Whale",
           "price": "17.16",
           "position": 7,
@@ -606,8 +606,8 @@
           "image_id": 66262983311702
         },
         {
-          "product_id": 9793808367958,
           "id": 51206555205974,
+          "product_id": 9793808367958,
           "title": "Fantasy north pole",
           "price": "17.16",
           "position": 8,
@@ -634,8 +634,8 @@
           "image_id": 66262983344470
         },
         {
-          "product_id": 9793808367958,
           "id": 51206555238742,
+          "product_id": 9793808367958,
           "title": "Elephant baby",
           "price": "17.16",
           "position": 9,
@@ -664,8 +664,8 @@
       ],
       "options": [
         {
-          "product_id": 9793808367958,
           "id": 12643542270294,
+          "product_id": 9793808367958,
           "name": "Color",
           "position": 1,
           "values": [
