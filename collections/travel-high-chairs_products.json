@@ -23865,8 +23865,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791161237846",
       "variants": [
         {
-          "product_id": 9791161237846,
           "id": 51195150926166,
+          "product_id": 9791161237846,
           "title": "Rocking Chair Green",
           "price": "95.95",
           "position": 1,
@@ -23893,8 +23893,8 @@
           "image_id": 66237783277910
         },
         {
-          "product_id": 9791161237846,
           "id": 51195150958934,
+          "product_id": 9791161237846,
           "title": "Rocking Chair Green Tent",
           "price": "95.95",
           "position": 2,
@@ -23921,8 +23921,8 @@
           "image_id": 66237783310678
         },
         {
-          "product_id": 9791161237846,
           "id": 51195150991702,
+          "product_id": 9791161237846,
           "title": "Rocking Chair Pink",
           "price": "95.95",
           "position": 3,
@@ -23949,8 +23949,8 @@
           "image_id": 66237783343446
         },
         {
-          "product_id": 9791161237846,
           "id": 51195151024470,
+          "product_id": 9791161237846,
           "title": "Rocking Chair Pink Tent",
           "price": "95.95",
           "position": 4,
@@ -23979,8 +23979,8 @@
       ],
       "options": [
         {
-          "product_id": 9791161237846,
           "id": 12640335331670,
+          "product_id": 9791161237846,
           "name": "Color",
           "position": 1,
           "values": [
