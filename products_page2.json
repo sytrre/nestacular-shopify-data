@@ -21298,8 +21298,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9732319674710",
       "variants": [
         {
-          "product_id": 9732319674710,
           "id": 50948372169046,
+          "product_id": 9732319674710,
           "title": "Green / 110V",
           "price": "120.95",
           "position": 1,
@@ -21328,8 +21328,8 @@
       ],
       "options": [
         {
-          "product_id": 9732319674710,
           "id": 12570572915030,
+          "product_id": 9732319674710,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21337,8 +21337,8 @@
           ]
         },
         {
-          "product_id": 9732319674710,
           "id": 12570572947798,
+          "product_id": 9732319674710,
           "name": "Voltage",
           "position": 2,
           "values": [
