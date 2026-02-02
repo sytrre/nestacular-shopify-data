@@ -52117,8 +52117,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866563584342",
       "variants": [
         {
-          "id": 51489472676182,
           "product_id": 9866563584342,
+          "id": 51489472676182,
           "title": "18cm",
           "price": "34.95",
           "position": 1,
@@ -52147,8 +52147,8 @@
       ],
       "options": [
         {
-          "id": 12729022087510,
           "product_id": 9866563584342,
+          "id": 12729022087510,
           "name": "Height",
           "position": 1,
           "values": [
