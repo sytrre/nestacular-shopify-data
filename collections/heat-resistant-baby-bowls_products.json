@@ -256,8 +256,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9910013854038",
       "variants": [
         {
-          "product_id": 9910013854038,
           "id": 51648746717526,
+          "product_id": 9910013854038,
           "title": "Peach-8",
           "price": "39.95",
           "position": 1,
@@ -284,8 +284,8 @@
           "image_id": 67697905500502
         },
         {
-          "product_id": 9910013854038,
           "id": 51648746750294,
+          "product_id": 9910013854038,
           "title": "set-4",
           "price": "42.95",
           "position": 2,
@@ -312,8 +312,8 @@
           "image_id": 67697905172822
         },
         {
-          "product_id": 9910013854038,
           "id": 51648746783062,
+          "product_id": 9910013854038,
           "title": "Marble-7",
           "price": "39.95",
           "position": 3,
@@ -340,8 +340,8 @@
           "image_id": 67697905566038
         },
         {
-          "product_id": 9910013854038,
           "id": 51648746815830,
+          "product_id": 9910013854038,
           "title": "set-3",
           "price": "42.95",
           "position": 4,
@@ -368,8 +368,8 @@
           "image_id": 67697905533270
         },
         {
-          "product_id": 9910013854038,
           "id": 51648746848598,
+          "product_id": 9910013854038,
           "title": "set-5",
           "price": "38.95",
           "position": 5,
@@ -396,8 +396,8 @@
           "image_id": 67697905205590
         },
         {
-          "product_id": 9910013854038,
           "id": 51648746881366,
+          "product_id": 9910013854038,
           "title": "set-2",
           "price": "42.95",
           "position": 6,
@@ -424,8 +424,8 @@
           "image_id": 67697905336662
         },
         {
-          "product_id": 9910013854038,
           "id": 51648746914134,
+          "product_id": 9910013854038,
           "title": "set-4 1",
           "price": "38.95",
           "position": 7,
@@ -452,8 +452,8 @@
           "image_id": 67697905598806
         },
         {
-          "product_id": 9910013854038,
           "id": 51648746946902,
+          "product_id": 9910013854038,
           "title": "set-1",
           "price": "42.95",
           "position": 8,
@@ -480,8 +480,8 @@
           "image_id": 67697905238358
         },
         {
-          "product_id": 9910013854038,
           "id": 51648746979670,
+          "product_id": 9910013854038,
           "title": "set-3 1",
           "price": "38.95",
           "position": 9,
@@ -508,8 +508,8 @@
           "image_id": 67697905369430
         },
         {
-          "product_id": 9910013854038,
           "id": 51648747012438,
+          "product_id": 9910013854038,
           "title": "set-2 1",
           "price": "38.95",
           "position": 10,
@@ -536,8 +536,8 @@
           "image_id": 67697905271126
         },
         {
-          "product_id": 9910013854038,
           "id": 51648747045206,
+          "product_id": 9910013854038,
           "title": "set-1 1",
           "price": "38.95",
           "position": 11,
@@ -564,8 +564,8 @@
           "image_id": 67697905402198
         },
         {
-          "product_id": 9910013854038,
           "id": 51648747077974,
+          "product_id": 9910013854038,
           "title": "set-5 1",
           "price": "42.95",
           "position": 12,
@@ -592,8 +592,8 @@
           "image_id": 67697905303894
         },
         {
-          "product_id": 9910013854038,
           "id": 51648747110742,
+          "product_id": 9910013854038,
           "title": "Mint-11",
           "price": "39.95",
           "position": 13,
@@ -620,8 +620,8 @@
           "image_id": 67697905631574
         },
         {
-          "product_id": 9910013854038,
           "id": 51648747143510,
+          "product_id": 9910013854038,
           "title": "Yellow-10",
           "price": "39.95",
           "position": 14,
@@ -648,8 +648,8 @@
           "image_id": 67697905434966
         },
         {
-          "product_id": 9910013854038,
           "id": 51648747176278,
+          "product_id": 9910013854038,
           "title": "Pink-9",
           "price": "39.95",
           "position": 15,
@@ -678,8 +678,8 @@
       ],
       "options": [
         {
-          "product_id": 9910013854038,
           "id": 12779793318230,
+          "product_id": 9910013854038,
           "name": "Color",
           "position": 1,
           "values": [
