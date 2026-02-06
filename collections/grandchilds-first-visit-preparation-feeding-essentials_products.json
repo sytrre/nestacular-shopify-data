@@ -9688,8 +9688,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9778432573782",
       "variants": [
         {
-          "product_id": 9778432573782,
           "id": 51137207796054,
+          "product_id": 9778432573782,
           "title": "Avocado Green",
           "price": "158.95",
           "position": 1,
@@ -9716,8 +9716,8 @@
           "image_id": 66114343010646
         },
         {
-          "product_id": 9778432573782,
           "id": 51137207828822,
+          "product_id": 9778432573782,
           "title": "Caramel Mocha",
           "price": "158.95",
           "position": 2,
@@ -9744,8 +9744,8 @@
           "image_id": 66114343043414
         },
         {
-          "product_id": 9778432573782,
           "id": 51137207861590,
+          "product_id": 9778432573782,
           "title": "Cherry Pink",
           "price": "158.95",
           "position": 3,
@@ -9772,8 +9772,8 @@
           "image_id": 66114343076182
         },
         {
-          "product_id": 9778432573782,
           "id": 51137207894358,
+          "product_id": 9778432573782,
           "title": "Graphite Gray",
           "price": "158.95",
           "position": 4,
@@ -9800,8 +9800,8 @@
           "image_id": 66114343108950
         },
         {
-          "product_id": 9778432573782,
           "id": 51137207927126,
+          "product_id": 9778432573782,
           "title": "Ink Green",
           "price": "158.95",
           "position": 5,
@@ -9828,8 +9828,8 @@
           "image_id": 66114343141718
         },
         {
-          "product_id": 9778432573782,
           "id": 51137207959894,
+          "product_id": 9778432573782,
           "title": "Light Luxury Black",
           "price": "158.95",
           "position": 6,
@@ -9856,8 +9856,8 @@
           "image_id": 66114343174486
         },
         {
-          "product_id": 9778432573782,
           "id": 51137207992662,
+          "product_id": 9778432573782,
           "title": "Mango Yellow",
           "price": "158.95",
           "position": 7,
@@ -9884,8 +9884,8 @@
           "image_id": 66114343207254
         },
         {
-          "product_id": 9778432573782,
           "id": 51137208025430,
+          "product_id": 9778432573782,
           "title": "Red Feather White",
           "price": "158.95",
           "position": 8,
@@ -9912,8 +9912,8 @@
           "image_id": 66114343240022
         },
         {
-          "product_id": 9778432573782,
           "id": 51137208058198,
+          "product_id": 9778432573782,
           "title": "Rouge Pink",
           "price": "158.95",
           "position": 9,
@@ -9940,8 +9940,8 @@
           "image_id": 66114343272790
         },
         {
-          "product_id": 9778432573782,
           "id": 51137208090966,
+          "product_id": 9778432573782,
           "title": "Sky Blue",
           "price": "158.95",
           "position": 10,
@@ -9970,8 +9970,8 @@
       ],
       "options": [
         {
-          "product_id": 9778432573782,
           "id": 12625292558678,
+          "product_id": 9778432573782,
           "name": "Color",
           "position": 1,
           "values": [
