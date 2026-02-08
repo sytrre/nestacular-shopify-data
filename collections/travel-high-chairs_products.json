@@ -4065,8 +4065,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9823540379990",
       "variants": [
         {
-          "id": 51330460614998,
           "product_id": 9823540379990,
+          "id": 51330460614998,
           "title": "Beige",
           "price": "30.48",
           "position": 1,
@@ -4093,8 +4093,8 @@
           "image_id": 66855209730390
         },
         {
-          "id": 51330460647766,
           "product_id": 9823540379990,
+          "id": 51330460647766,
           "title": "Beige Umbrella",
           "price": "31.48",
           "position": 2,
@@ -4121,8 +4121,8 @@
           "image_id": 66855209763158
         },
         {
-          "id": 51330460680534,
           "product_id": 9823540379990,
+          "id": 51330460680534,
           "title": "Gray",
           "price": "30.48",
           "position": 3,
@@ -4149,8 +4149,8 @@
           "image_id": 66855209795926
         },
         {
-          "id": 51330460713302,
           "product_id": 9823540379990,
+          "id": 51330460713302,
           "title": "Gray Umbrella",
           "price": "31.48",
           "position": 4,
@@ -4177,8 +4177,8 @@
           "image_id": 66855209828694
         },
         {
-          "id": 51330460746070,
           "product_id": 9823540379990,
+          "id": 51330460746070,
           "title": "Pink",
           "price": "30.48",
           "position": 5,
@@ -4205,8 +4205,8 @@
           "image_id": 66855209861462
         },
         {
-          "id": 51330460778838,
           "product_id": 9823540379990,
+          "id": 51330460778838,
           "title": "Pink Umbrella",
           "price": "31.48",
           "position": 6,
@@ -4235,8 +4235,8 @@
       ],
       "options": [
         {
-          "id": 12678857163094,
           "product_id": 9823540379990,
+          "id": 12678857163094,
           "name": "Color",
           "position": 1,
           "values": [
