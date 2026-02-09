@@ -8258,8 +8258,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9805951697238",
       "variants": [
         {
-          "product_id": 9805951697238,
           "id": 51255845323094,
+          "product_id": 9805951697238,
           "title": "Εααααα Elegant Purple [basic Model] Height Unadjustable",
           "price": "120.95",
           "position": 1,
@@ -8286,8 +8286,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845355862,
+          "product_id": 9805951697238,
           "title": "Elegant Purple [upgraded Version] Adjustable Height + Double Plates",
           "price": "120.95",
           "position": 2,
@@ -8314,8 +8314,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845388630,
+          "product_id": 9805951697238,
           "title": "Dream Blue [luxury Edition] Adjustable Height + Leather Case",
           "price": "120.95",
           "position": 3,
@@ -8342,8 +8342,8 @@
           "image_id": 66367301091670
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845421398,
+          "product_id": 9805951697238,
           "title": "Purple [luxury Edition] Adjustable Height + Leather Case",
           "price": "120.95",
           "position": 4,
@@ -8370,8 +8370,8 @@
           "image_id": 66367372558678
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845454166,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [upgraded Version] Adjustable Height + Double Plates",
           "price": "120.95",
           "position": 5,
@@ -8398,8 +8398,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845486934,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [flagship Model] Adjustable Height + Leather Case + Double Plates",
           "price": "120.95",
           "position": 6,
@@ -8426,8 +8426,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845519702,
+          "product_id": 9805951697238,
           "title": "Blue [flagship Model] Adjustable Height + Leather Case + Double Plates",
           "price": "120.95",
           "position": 7,
@@ -8454,8 +8454,8 @@
           "image_id": 66367301091670
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845552470,
+          "product_id": 9805951697238,
           "title": "Εααααα Lemon Yellow [luxury Edition]",
           "price": "120.95",
           "position": 8,
@@ -8482,8 +8482,8 @@
           "image_id": 66367266554198
         },
         {
-          "product_id": 9805951697238,
           "id": 51255845585238,
+          "product_id": 9805951697238,
           "title": "Lemon Yellow [basic Model] Height Unadjustable -",
           "price": "120.95",
           "position": 9,
@@ -8512,8 +8512,8 @@
       ],
       "options": [
         {
-          "product_id": 9805951697238,
           "id": 12657815290198,
+          "product_id": 9805951697238,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16108,8 +16108,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791138333014",
       "variants": [
         {
-          "product_id": 9791138333014,
           "id": 51194928038230,
+          "product_id": 9791138333014,
           "title": "Beige",
           "price": "8.48",
           "position": 1,
@@ -16136,8 +16136,8 @@
           "image_id": 66236903686486
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928070998,
+          "product_id": 9791138333014,
           "title": "Black",
           "price": "8.13",
           "position": 2,
@@ -16164,8 +16164,8 @@
           "image_id": 66236903719254
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928103766,
+          "product_id": 9791138333014,
           "title": "Blue",
           "price": "7.88",
           "position": 3,
@@ -16192,8 +16192,8 @@
           "image_id": 66236903752022
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928136534,
+          "product_id": 9791138333014,
           "title": "Brown",
           "price": "8.13",
           "position": 4,
@@ -16220,8 +16220,8 @@
           "image_id": 66236903784790
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928169302,
+          "product_id": 9791138333014,
           "title": "Green",
           "price": "8.28",
           "position": 5,
@@ -16248,8 +16248,8 @@
           "image_id": 66236903817558
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928202070,
+          "product_id": 9791138333014,
           "title": "Grey",
           "price": "8.28",
           "position": 6,
@@ -16276,8 +16276,8 @@
           "image_id": 66236903850326
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928234838,
+          "product_id": 9791138333014,
           "title": "Letter",
           "price": "8.13",
           "position": 7,
@@ -16304,8 +16304,8 @@
           "image_id": 66236903883094
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928267606,
+          "product_id": 9791138333014,
           "title": "Light blue",
           "price": "8.28",
           "position": 8,
@@ -16332,8 +16332,8 @@
           "image_id": 66236903915862
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928300374,
+          "product_id": 9791138333014,
           "title": "Linen Blue",
           "price": "8.13",
           "position": 9,
@@ -16360,8 +16360,8 @@
           "image_id": 66236903948630
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928333142,
+          "product_id": 9791138333014,
           "title": "Lotus root starch",
           "price": "8.13",
           "position": 10,
@@ -16388,8 +16388,8 @@
           "image_id": 66236903981398
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928365910,
+          "product_id": 9791138333014,
           "title": "Orange",
           "price": "8.13",
           "position": 11,
@@ -16416,8 +16416,8 @@
           "image_id": 66236904014166
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928398678,
+          "product_id": 9791138333014,
           "title": "Pink",
           "price": "8.13",
           "position": 12,
@@ -16444,8 +16444,8 @@
           "image_id": 66236904046934
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928431446,
+          "product_id": 9791138333014,
           "title": "Purple",
           "price": "8.13",
           "position": 13,
@@ -16472,8 +16472,8 @@
           "image_id": 66236904079702
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928464214,
+          "product_id": 9791138333014,
           "title": "Rose red",
           "price": "8.28",
           "position": 14,
@@ -16500,8 +16500,8 @@
           "image_id": 66236904112470
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928496982,
+          "product_id": 9791138333014,
           "title": "Scarlet",
           "price": "8.13",
           "position": 15,
@@ -16528,8 +16528,8 @@
           "image_id": 66236904145238
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928529750,
+          "product_id": 9791138333014,
           "title": "Shallow Khaki",
           "price": "8.28",
           "position": 16,
@@ -16556,8 +16556,8 @@
           "image_id": 66236904178006
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928562518,
+          "product_id": 9791138333014,
           "title": "Spot",
           "price": "8.13",
           "position": 17,
@@ -16584,8 +16584,8 @@
           "image_id": 66236904210774
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928595286,
+          "product_id": 9791138333014,
           "title": "Stripe",
           "price": "8.13",
           "position": 18,
@@ -16612,8 +16612,8 @@
           "image_id": 66236904243542
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928628054,
+          "product_id": 9791138333014,
           "title": "Wine red",
           "price": "8.13",
           "position": 19,
@@ -16640,8 +16640,8 @@
           "image_id": 66236904276310
         },
         {
-          "product_id": 9791138333014,
           "id": 51194928660822,
+          "product_id": 9791138333014,
           "title": "Yellow",
           "price": "8.28",
           "position": 20,
@@ -16670,8 +16670,8 @@
       ],
       "options": [
         {
-          "product_id": 9791138333014,
           "id": 12640306856278,
+          "product_id": 9791138333014,
           "name": "Color",
           "position": 1,
           "values": [
