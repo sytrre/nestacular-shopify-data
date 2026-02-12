@@ -8168,8 +8168,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9871193047382",
       "variants": [
         {
-          "id": 51506862424406,
           "product_id": 9871193047382,
+          "id": 51506862424406,
           "title": "Dark aquatic green",
           "price": "84.95",
           "position": 1,
@@ -8196,8 +8196,8 @@
           "image_id": 67401891545430
         },
         {
-          "id": 51506862457174,
           "product_id": 9871193047382,
+          "id": 51506862457174,
           "title": "Light ocean blue",
           "price": "84.95",
           "position": 2,
@@ -8224,8 +8224,8 @@
           "image_id": 67401891578198
         },
         {
-          "id": 51506862489942,
           "product_id": 9871193047382,
+          "id": 51506862489942,
           "title": "Simple triangle",
           "price": "84.95",
           "position": 3,
@@ -8254,8 +8254,8 @@
       ],
       "options": [
         {
-          "id": 12734450696534,
           "product_id": 9871193047382,
+          "id": 12734450696534,
           "name": "Color",
           "position": 1,
           "values": [
