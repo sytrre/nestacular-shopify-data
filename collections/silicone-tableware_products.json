@@ -4882,8 +4882,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9870713815382",
       "variants": [
         {
-          "product_id": 9870713815382,
           "id": 51504809673046,
+          "product_id": 9870713815382,
           "title": "Blue / L",
           "price": "9.98",
           "position": 1,
@@ -4910,8 +4910,8 @@
           "image_id": 67399396196694
         },
         {
-          "product_id": 9870713815382,
           "id": 51504809705814,
+          "product_id": 9870713815382,
           "title": "Blue / M",
           "price": "9.95",
           "position": 2,
@@ -4938,8 +4938,8 @@
           "image_id": 67399396196694
         },
         {
-          "product_id": 9870713815382,
           "id": 51504809738582,
+          "product_id": 9870713815382,
           "title": "Blue / S",
           "price": "9.93",
           "position": 3,
@@ -4966,8 +4966,8 @@
           "image_id": 67399396196694
         },
         {
-          "product_id": 9870713815382,
           "id": 51504809771350,
+          "product_id": 9870713815382,
           "title": "Pink / L",
           "price": "9.98",
           "position": 4,
@@ -4994,8 +4994,8 @@
           "image_id": 67399396229462
         },
         {
-          "product_id": 9870713815382,
           "id": 51504809804118,
+          "product_id": 9870713815382,
           "title": "Pink / M",
           "price": "9.95",
           "position": 5,
@@ -5022,8 +5022,8 @@
           "image_id": 67399396229462
         },
         {
-          "product_id": 9870713815382,
           "id": 51504809836886,
+          "product_id": 9870713815382,
           "title": "Pink / S",
           "price": "9.93",
           "position": 6,
@@ -5052,8 +5052,8 @@
       ],
       "options": [
         {
-          "product_id": 9870713815382,
           "id": 12733861429590,
+          "product_id": 9870713815382,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5062,8 +5062,8 @@
           ]
         },
         {
-          "product_id": 9870713815382,
           "id": 12733861462358,
+          "product_id": 9870713815382,
           "name": "Size",
           "position": 2,
           "values": [
@@ -17202,8 +17202,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866603266390",
       "variants": [
         {
-          "product_id": 9866603266390,
           "id": 51489656275286,
+          "product_id": 9866603266390,
           "title": "Beige",
           "price": "22.48",
           "position": 1,
@@ -17230,8 +17230,8 @@
           "image_id": 67363872309590
         },
         {
-          "product_id": 9866603266390,
           "id": 51489656308054,
+          "product_id": 9866603266390,
           "title": "Brick Red",
           "price": "22.48",
           "position": 2,
@@ -17258,8 +17258,8 @@
           "image_id": 67363872342358
         },
         {
-          "product_id": 9866603266390,
           "id": 51489656340822,
+          "product_id": 9866603266390,
           "title": "Cloudy Blue",
           "price": "22.48",
           "position": 3,
@@ -17286,8 +17286,8 @@
           "image_id": 67363872375126
         },
         {
-          "product_id": 9866603266390,
           "id": 51489656373590,
+          "product_id": 9866603266390,
           "title": "Ginger Yellow",
           "price": "22.48",
           "position": 4,
@@ -17316,8 +17316,8 @@
       ],
       "options": [
         {
-          "product_id": 9866603266390,
           "id": 12729067209046,
+          "product_id": 9866603266390,
           "name": "Color",
           "position": 1,
           "values": [
