@@ -13413,8 +13413,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016034586966",
       "variants": [
         {
-          "id": 52013550797142,
           "product_id": 10016034586966,
+          "id": 52013550797142,
           "title": "A blue",
           "price": "7.48",
           "position": 1,
@@ -13441,8 +13441,8 @@
           "image_id": 69735462306134
         },
         {
-          "id": 52013550829910,
           "product_id": 10016034586966,
+          "id": 52013550829910,
           "title": "A green",
           "price": "7.48",
           "position": 2,
@@ -13469,8 +13469,8 @@
           "image_id": 69735462338902
         },
         {
-          "id": 52013550862678,
           "product_id": 10016034586966,
+          "id": 52013550862678,
           "title": "B blue",
           "price": "7.48",
           "position": 3,
@@ -13497,8 +13497,8 @@
           "image_id": 69735462371670
         },
         {
-          "id": 52013550895446,
           "product_id": 10016034586966,
+          "id": 52013550895446,
           "title": "B purple",
           "price": "7.48",
           "position": 4,
@@ -13525,8 +13525,8 @@
           "image_id": 69735462142294
         },
         {
-          "id": 52013550928214,
           "product_id": 10016034586966,
+          "id": 52013550928214,
           "title": "A pink",
           "price": "7.48",
           "position": 5,
@@ -13553,8 +13553,8 @@
           "image_id": 69735462175062
         },
         {
-          "id": 52013550960982,
           "product_id": 10016034586966,
+          "id": 52013550960982,
           "title": "B pink",
           "price": "7.48",
           "position": 6,
@@ -13581,8 +13581,8 @@
           "image_id": 69735462207830
         },
         {
-          "id": 52013550993750,
           "product_id": 10016034586966,
+          "id": 52013550993750,
           "title": "B green",
           "price": "7.48",
           "position": 7,
@@ -13609,8 +13609,8 @@
           "image_id": 69735462240598
         },
         {
-          "id": 52013551026518,
           "product_id": 10016034586966,
+          "id": 52013551026518,
           "title": "Pacifier",
           "price": "6.48",
           "position": 8,
@@ -13639,8 +13639,8 @@
       ],
       "options": [
         {
-          "id": 12901940887894,
           "product_id": 10016034586966,
+          "id": 12901940887894,
           "name": "Color",
           "position": 1,
           "values": [
@@ -23161,8 +23161,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016023707990",
       "variants": [
         {
-          "product_id": 10016023707990,
           "id": 52013531136342,
+          "product_id": 10016023707990,
           "title": "500ML Blue",
           "price": "9.98",
           "position": 1,
@@ -23189,8 +23189,8 @@
           "image_id": 69735043170646
         },
         {
-          "product_id": 10016023707990,
           "id": 52013531169110,
+          "product_id": 10016023707990,
           "title": "500ML Pink",
           "price": "9.98",
           "position": 2,
@@ -23217,8 +23217,8 @@
           "image_id": 69735043203414
         },
         {
-          "product_id": 10016023707990,
           "id": 52013531201878,
+          "product_id": 10016023707990,
           "title": "Blue nozzles",
           "price": "7.48",
           "position": 3,
@@ -23245,8 +23245,8 @@
           "image_id": 69735043236182
         },
         {
-          "product_id": 10016023707990,
           "id": 52013531234646,
+          "product_id": 10016023707990,
           "title": "Pink nozzles",
           "price": "7.48",
           "position": 4,
@@ -23275,8 +23275,8 @@
       ],
       "options": [
         {
-          "product_id": 10016023707990,
           "id": 12901929419094,
+          "product_id": 10016023707990,
           "name": "Color",
           "position": 1,
           "values": [
