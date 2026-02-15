@@ -4025,8 +4025,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016031998294",
       "variants": [
         {
-          "product_id": 10016031998294,
           "id": 52013545718102,
+          "product_id": 10016031998294,
           "title": "Pink-250ml / Plastic",
           "price": "9.48",
           "position": 1,
@@ -4053,8 +4053,8 @@
           "image_id": 69735448838486
         },
         {
-          "product_id": 10016031998294,
           "id": 52013545750870,
+          "product_id": 10016031998294,
           "title": "35ml / Plastic",
           "price": "9.23",
           "position": 2,
@@ -4081,8 +4081,8 @@
           "image_id": 69735448871254
         },
         {
-          "product_id": 10016031998294,
           "id": 52013545783638,
+          "product_id": 10016031998294,
           "title": "Blue-250ml / Plastic",
           "price": "9.48",
           "position": 3,
@@ -4111,8 +4111,8 @@
       ],
       "options": [
         {
-          "product_id": 10016031998294,
           "id": 12901938233686,
+          "product_id": 10016031998294,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4122,8 +4122,8 @@
           ]
         },
         {
-          "product_id": 10016031998294,
           "id": 12901938266454,
+          "product_id": 10016031998294,
           "name": "Material",
           "position": 2,
           "values": [

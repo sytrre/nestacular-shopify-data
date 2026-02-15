@@ -11654,8 +11654,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016031998294",
       "variants": [
         {
-          "product_id": 10016031998294,
           "id": 52013545718102,
+          "product_id": 10016031998294,
           "title": "Pink-250ml / Plastic",
           "price": "9.48",
           "position": 1,
@@ -11682,8 +11682,8 @@
           "image_id": 69735448838486
         },
         {
-          "product_id": 10016031998294,
           "id": 52013545750870,
+          "product_id": 10016031998294,
           "title": "35ml / Plastic",
           "price": "9.23",
           "position": 2,
@@ -11710,8 +11710,8 @@
           "image_id": 69735448871254
         },
         {
-          "product_id": 10016031998294,
           "id": 52013545783638,
+          "product_id": 10016031998294,
           "title": "Blue-250ml / Plastic",
           "price": "9.48",
           "position": 3,
@@ -11740,8 +11740,8 @@
       ],
       "options": [
         {
-          "product_id": 10016031998294,
           "id": 12901938233686,
+          "product_id": 10016031998294,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11751,8 +11751,8 @@
           ]
         },
         {
-          "product_id": 10016031998294,
           "id": 12901938266454,
+          "product_id": 10016031998294,
           "name": "Material",
           "position": 2,
           "values": [
@@ -22815,8 +22815,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016021414230",
       "variants": [
         {
-          "id": 52013525041494,
           "product_id": 10016021414230,
+          "id": 52013525041494,
           "title": "21dangshuxian / USB",
           "price": "11.48",
           "position": 1,
@@ -22843,8 +22843,8 @@
           "image_id": 69735030554966
         },
         {
-          "id": 52013525074262,
           "product_id": 10016021414230,
+          "id": 52013525074262,
           "title": "21dangshuxian 1 / USB",
           "price": "11.48",
           "position": 2,
@@ -22871,8 +22871,8 @@
           "image_id": 69735030587734
         },
         {
-          "id": 52013525107030,
           "product_id": 10016021414230,
+          "id": 52013525107030,
           "title": "21dangshuxian 2 / USB",
           "price": "11.48",
           "position": 3,
@@ -22899,8 +22899,8 @@
           "image_id": 69735030620502
         },
         {
-          "id": 52013525139798,
           "product_id": 10016021414230,
+          "id": 52013525139798,
           "title": "21dangshuxian 3 / USB",
           "price": "11.48",
           "position": 4,
@@ -22929,8 +22929,8 @@
       ],
       "options": [
         {
-          "id": 12901926797654,
           "product_id": 10016021414230,
+          "id": 12901926797654,
           "name": "Color",
           "position": 1,
           "values": [
@@ -22941,8 +22941,8 @@
           ]
         },
         {
-          "id": 12901926830422,
           "product_id": 10016021414230,
+          "id": 12901926830422,
           "name": "Voltage",
           "position": 2,
           "values": [
