@@ -14966,8 +14966,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016021414230",
       "variants": [
         {
-          "product_id": 10016021414230,
           "id": 52013525041494,
+          "product_id": 10016021414230,
           "title": "21dangshuxian / USB",
           "price": "11.48",
           "position": 1,
@@ -14994,8 +14994,8 @@
           "image_id": 69735030554966
         },
         {
-          "product_id": 10016021414230,
           "id": 52013525074262,
+          "product_id": 10016021414230,
           "title": "21dangshuxian 1 / USB",
           "price": "11.48",
           "position": 2,
@@ -15022,8 +15022,8 @@
           "image_id": 69735030587734
         },
         {
-          "product_id": 10016021414230,
           "id": 52013525107030,
+          "product_id": 10016021414230,
           "title": "21dangshuxian 2 / USB",
           "price": "11.48",
           "position": 3,
@@ -15050,8 +15050,8 @@
           "image_id": 69735030620502
         },
         {
-          "product_id": 10016021414230,
           "id": 52013525139798,
+          "product_id": 10016021414230,
           "title": "21dangshuxian 3 / USB",
           "price": "11.48",
           "position": 4,
@@ -15080,8 +15080,8 @@
       ],
       "options": [
         {
-          "product_id": 10016021414230,
           "id": 12901926797654,
+          "product_id": 10016021414230,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15092,8 +15092,8 @@
           ]
         },
         {
-          "product_id": 10016021414230,
           "id": 12901926830422,
+          "product_id": 10016021414230,
           "name": "Voltage",
           "position": 2,
           "values": [
@@ -23754,8 +23754,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791102681430",
       "variants": [
         {
-          "id": 51194467942742,
           "product_id": 9791102681430,
+          "id": 51194467942742,
           "title": "Car cigar head",
           "price": "14.08",
           "position": 1,
@@ -23784,8 +23784,8 @@
       ],
       "options": [
         {
-          "id": 12640258294102,
           "product_id": 9791102681430,
+          "id": 12640258294102,
           "name": "Color",
           "position": 1,
           "values": [
