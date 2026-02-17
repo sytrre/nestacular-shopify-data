@@ -27358,8 +27358,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9585894981974",
       "variants": [
         {
-          "id": 50302280827222,
           "product_id": 9585894981974,
+          "id": 50302280827222,
           "title": "14K gold/real gold color / 3.2mm",
           "price": "7.48",
           "position": 1,
@@ -27386,8 +27386,8 @@
           "image_id": 61873893409110
         },
         {
-          "id": 50302280859990,
           "product_id": 9585894981974,
+          "id": 50302280859990,
           "title": "White gold/Real gold color / 4mm",
           "price": "7.48",
           "position": 2,
@@ -27414,8 +27414,8 @@
           "image_id": 61873893409110
         },
         {
-          "id": 50302280892758,
           "product_id": 9585894981974,
+          "id": 50302280892758,
           "title": "14K gold/real gold color / 4mm",
           "price": "7.48",
           "position": 3,
@@ -27442,8 +27442,8 @@
           "image_id": 61873893409110
         },
         {
-          "id": 50302280925526,
           "product_id": 9585894981974,
+          "id": 50302280925526,
           "title": "Silver/thick silver preserving color / 3.2mm",
           "price": "7.48",
           "position": 4,
@@ -27470,8 +27470,8 @@
           "image_id": 61873893441878
         },
         {
-          "id": 50302280958294,
           "product_id": 9585894981974,
+          "id": 50302280958294,
           "title": "18K gold/real gold color / 3.2mm",
           "price": "7.48",
           "position": 5,
@@ -27498,8 +27498,8 @@
           "image_id": 61873893409110
         },
         {
-          "id": 50302280991062,
           "product_id": 9585894981974,
+          "id": 50302280991062,
           "title": "White gold/Real gold color / 3.2mm",
           "price": "7.48",
           "position": 6,
@@ -27526,8 +27526,8 @@
           "image_id": 61873893409110
         },
         {
-          "id": 50302281023830,
           "product_id": 9585894981974,
+          "id": 50302281023830,
           "title": "18K gold/real gold color / 4mm",
           "price": "7.48",
           "position": 7,
@@ -27554,8 +27554,8 @@
           "image_id": 61873893409110
         },
         {
-          "id": 50302281056598,
           "product_id": 9585894981974,
+          "id": 50302281056598,
           "title": "Silver/thick silver preserving color / 4mm",
           "price": "7.48",
           "position": 8,
@@ -27584,8 +27584,8 @@
       ],
       "options": [
         {
-          "id": 12386931966294,
           "product_id": 9585894981974,
+          "id": 12386931966294,
           "name": "Color",
           "position": 1,
           "values": [
@@ -27596,8 +27596,8 @@
           ]
         },
         {
-          "id": 12386931999062,
           "product_id": 9585894981974,
+          "id": 12386931999062,
           "name": "model",
           "position": 2,
           "values": [
