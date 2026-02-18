@@ -1687,8 +1687,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9808140992854",
       "variants": [
         {
-          "id": 51266280816982,
           "product_id": 9808140992854,
+          "id": 51266280816982,
           "title": "Yellow / Five piece set",
           "price": "9.98",
           "position": 1,
@@ -1717,8 +1717,8 @@
       ],
       "options": [
         {
-          "id": 12660540539222,
           "product_id": 9808140992854,
+          "id": 12660540539222,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1726,8 +1726,8 @@
           ]
         },
         {
-          "id": 12660540571990,
           "product_id": 9808140992854,
+          "id": 12660540571990,
           "name": "Style",
           "position": 2,
           "values": [
