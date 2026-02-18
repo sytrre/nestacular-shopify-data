@@ -6068,8 +6068,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9821265461590",
       "variants": [
         {
-          "product_id": 9821265461590,
           "id": 51322181681494,
+          "product_id": 9821265461590,
           "title": "Green / EU",
           "price": "78.98",
           "position": 1,
@@ -6096,8 +6096,8 @@
           "image_id": 66784573391190
         },
         {
-          "product_id": 9821265461590,
           "id": 51322181714262,
+          "product_id": 9821265461590,
           "title": "Green / UK",
           "price": "78.98",
           "position": 2,
@@ -6124,8 +6124,8 @@
           "image_id": 66784573391190
         },
         {
-          "product_id": 9821265461590,
           "id": 51322181747030,
+          "product_id": 9821265461590,
           "title": "Green / US",
           "price": "78.98",
           "position": 3,
@@ -6152,8 +6152,8 @@
           "image_id": 66784573391190
         },
         {
-          "product_id": 9821265461590,
           "id": 51322181779798,
+          "product_id": 9821265461590,
           "title": "Grey / EU",
           "price": "78.98",
           "position": 4,
@@ -6180,8 +6180,8 @@
           "image_id": 66784573423958
         },
         {
-          "product_id": 9821265461590,
           "id": 51322181812566,
+          "product_id": 9821265461590,
           "title": "Grey / UK",
           "price": "78.98",
           "position": 5,
@@ -6208,8 +6208,8 @@
           "image_id": 66784573423958
         },
         {
-          "product_id": 9821265461590,
           "id": 51322181845334,
+          "product_id": 9821265461590,
           "title": "Grey / US",
           "price": "78.98",
           "position": 6,
@@ -6236,8 +6236,8 @@
           "image_id": 66784573423958
         },
         {
-          "product_id": 9821265461590,
           "id": 51322181878102,
+          "product_id": 9821265461590,
           "title": "Pink / EU",
           "price": "78.98",
           "position": 7,
@@ -6264,8 +6264,8 @@
           "image_id": 66784573456726
         },
         {
-          "product_id": 9821265461590,
           "id": 51322181910870,
+          "product_id": 9821265461590,
           "title": "Pink / UK",
           "price": "78.98",
           "position": 8,
@@ -6292,8 +6292,8 @@
           "image_id": 66784573456726
         },
         {
-          "product_id": 9821265461590,
           "id": 51322181943638,
+          "product_id": 9821265461590,
           "title": "Pink / US",
           "price": "78.98",
           "position": 9,
@@ -6322,8 +6322,8 @@
       ],
       "options": [
         {
-          "product_id": 9821265461590,
           "id": 12676128670038,
+          "product_id": 9821265461590,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6333,8 +6333,8 @@
           ]
         },
         {
-          "product_id": 9821265461590,
           "id": 12676128702806,
+          "product_id": 9821265461590,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
