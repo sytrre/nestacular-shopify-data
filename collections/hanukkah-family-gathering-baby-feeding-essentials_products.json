@@ -12322,8 +12322,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016033309014",
       "variants": [
         {
-          "product_id": 10016033309014,
           "id": 52013548470614,
+          "product_id": 10016033309014,
           "title": "Tritan Lotus color",
           "price": "12.48",
           "position": 1,
@@ -12350,8 +12350,8 @@
           "image_id": 69735455916374
         },
         {
-          "product_id": 10016033309014,
           "id": 52013548503382,
+          "product_id": 10016033309014,
           "title": "ppTritan Lotus color",
           "price": "11.38",
           "position": 2,
@@ -12378,8 +12378,8 @@
           "image_id": 69735455916374
         },
         {
-          "product_id": 10016033309014,
           "id": 52013548536150,
+          "product_id": 10016033309014,
           "title": "Tritan pink",
           "price": "11.98",
           "position": 3,
@@ -12406,8 +12406,8 @@
           "image_id": 69735455785302
         },
         {
-          "product_id": 10016033309014,
           "id": 52013548568918,
+          "product_id": 10016033309014,
           "title": "pp pink",
           "price": "11.38",
           "position": 4,
@@ -12434,8 +12434,8 @@
           "image_id": 69735455818070
         },
         {
-          "product_id": 10016033309014,
           "id": 52013548601686,
+          "product_id": 10016033309014,
           "title": "Tritan blue",
           "price": "11.98",
           "position": 5,
@@ -12462,8 +12462,8 @@
           "image_id": 69735455850838
         },
         {
-          "product_id": 10016033309014,
           "id": 52013548634454,
+          "product_id": 10016033309014,
           "title": "pp blue",
           "price": "11.38",
           "position": 6,
@@ -12492,8 +12492,8 @@
       ],
       "options": [
         {
-          "product_id": 10016033309014,
           "id": 12901939577174,
+          "product_id": 10016033309014,
           "name": "Color",
           "position": 1,
           "values": [

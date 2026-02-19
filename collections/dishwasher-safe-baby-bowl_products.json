@@ -5945,8 +5945,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9861039096150",
       "variants": [
         {
-          "product_id": 9861039096150,
           "id": 51470822965590,
+          "product_id": 9861039096150,
           "title": "Straw / Blue",
           "price": "9.98",
           "position": 1,
@@ -5973,8 +5973,8 @@
           "image_id": 67302361629014
         },
         {
-          "product_id": 9861039096150,
           "id": 51470822998358,
+          "product_id": 9861039096150,
           "title": "Straw / Green",
           "price": "9.98",
           "position": 2,
@@ -6001,8 +6001,8 @@
           "image_id": 67302361661782
         },
         {
-          "product_id": 9861039096150,
           "id": 51470823031126,
+          "product_id": 9861039096150,
           "title": "Straw / Pink",
           "price": "9.98",
           "position": 3,
@@ -6029,8 +6029,8 @@
           "image_id": 67302361694550
         },
         {
-          "product_id": 9861039096150,
           "id": 51470823063894,
+          "product_id": 9861039096150,
           "title": "Straw / Red",
           "price": "9.98",
           "position": 4,
@@ -6057,8 +6057,8 @@
           "image_id": 67302361727318
         },
         {
-          "product_id": 9861039096150,
           "id": 51470823096662,
+          "product_id": 9861039096150,
           "title": "dust cover / White",
           "price": "10.78",
           "position": 5,
@@ -6087,8 +6087,8 @@
       ],
       "options": [
         {
-          "product_id": 9861039096150,
           "id": 12722862096726,
+          "product_id": 9861039096150,
           "name": "style",
           "position": 1,
           "values": [
@@ -6097,8 +6097,8 @@
           ]
         },
         {
-          "product_id": 9861039096150,
           "id": 12722862129494,
+          "product_id": 9861039096150,
           "name": "Color",
           "position": 2,
           "values": [
