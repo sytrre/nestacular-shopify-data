@@ -14762,8 +14762,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791006507350",
       "variants": [
         {
-          "product_id": 9791006507350,
           "id": 51194134495574,
+          "product_id": 9791006507350,
           "title": "B Blue",
           "price": "7.98",
           "position": 1,
@@ -14790,8 +14790,8 @@
           "image_id": 66235254309206
         },
         {
-          "product_id": 9791006507350,
           "id": 51194134528342,
+          "product_id": 9791006507350,
           "title": "B Green",
           "price": "7.98",
           "position": 2,
@@ -14818,8 +14818,8 @@
           "image_id": 66235254341974
         },
         {
-          "product_id": 9791006507350,
           "id": 51194134561110,
+          "product_id": 9791006507350,
           "title": "B Pink",
           "price": "7.98",
           "position": 3,
@@ -14846,8 +14846,8 @@
           "image_id": 66235254374742
         },
         {
-          "product_id": 9791006507350,
           "id": 51194134593878,
+          "product_id": 9791006507350,
           "title": "B White",
           "price": "7.98",
           "position": 4,
@@ -14874,8 +14874,8 @@
           "image_id": 66235254407510
         },
         {
-          "product_id": 9791006507350,
           "id": 51194134626646,
+          "product_id": 9791006507350,
           "title": "B Yellow",
           "price": "7.98",
           "position": 5,
@@ -14902,8 +14902,8 @@
           "image_id": 66235254440278
         },
         {
-          "product_id": 9791006507350,
           "id": 51194134659414,
+          "product_id": 9791006507350,
           "title": "Blue",
           "price": "7.73",
           "position": 6,
@@ -14930,8 +14930,8 @@
           "image_id": 66235254473046
         },
         {
-          "product_id": 9791006507350,
           "id": 51194134692182,
+          "product_id": 9791006507350,
           "title": "Blue c",
           "price": "7.70",
           "position": 7,
@@ -14958,8 +14958,8 @@
           "image_id": 66235254505814
         },
         {
-          "product_id": 9791006507350,
           "id": 51194134724950,
+          "product_id": 9791006507350,
           "title": "Green",
           "price": "7.73",
           "position": 8,
@@ -14986,8 +14986,8 @@
           "image_id": 66235254538582
         },
         {
-          "product_id": 9791006507350,
           "id": 51194134757718,
+          "product_id": 9791006507350,
           "title": "Pink",
           "price": "8.08",
           "position": 9,
@@ -15014,8 +15014,8 @@
           "image_id": 66235254571350
         },
         {
-          "product_id": 9791006507350,
           "id": 51194134790486,
+          "product_id": 9791006507350,
           "title": "Pink C",
           "price": "7.70",
           "position": 10,
@@ -15042,8 +15042,8 @@
           "image_id": 66235254604118
         },
         {
-          "product_id": 9791006507350,
           "id": 51194134823254,
+          "product_id": 9791006507350,
           "title": "White",
           "price": "7.83",
           "position": 11,
@@ -15070,8 +15070,8 @@
           "image_id": 66235254636886
         },
         {
-          "product_id": 9791006507350,
           "id": 51194134856022,
+          "product_id": 9791006507350,
           "title": "Yellow",
           "price": "7.73",
           "position": 12,
@@ -15100,8 +15100,8 @@
       ],
       "options": [
         {
-          "product_id": 9791006507350,
           "id": 12640148095318,
+          "product_id": 9791006507350,
           "name": "Color",
           "position": 1,
           "values": [
