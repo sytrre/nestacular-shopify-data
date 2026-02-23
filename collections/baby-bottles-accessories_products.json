@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9916472197462",
       "variants": [
         {
-          "id": 51675628568918,
           "product_id": 9916472197462,
+          "id": 51675628568918,
           "title": "other",
           "price": "14.48",
           "position": 1,
@@ -54,8 +54,8 @@
       ],
       "options": [
         {
-          "id": 12787348603222,
           "product_id": 9916472197462,
+          "id": 12787348603222,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1890,8 +1890,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791235293526",
       "variants": [
         {
-          "id": 51195358118230,
           "product_id": 9791235293526,
+          "id": 51195358118230,
           "title": "Green / Usb",
           "price": "21.97",
           "position": 1,
@@ -1918,8 +1918,8 @@
           "image_id": 66238945689942
         },
         {
-          "id": 51195358150998,
           "product_id": 9791235293526,
+          "id": 51195358150998,
           "title": "Yellow / Usb",
           "price": "21.81",
           "position": 2,
@@ -1948,8 +1948,8 @@
       ],
       "options": [
         {
-          "id": 12640417710422,
           "product_id": 9791235293526,
+          "id": 12640417710422,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1958,8 +1958,8 @@
           ]
         },
         {
-          "id": 12640417743190,
           "product_id": 9791235293526,
+          "id": 12640417743190,
           "name": "style",
           "position": 2,
           "values": [
