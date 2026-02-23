@@ -56050,8 +56050,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9507800252758",
       "variants": [
         {
-          "id": 50043297268054,
           "product_id": 9507800252758,
+          "id": 50043297268054,
           "title": "Beige / Fabric",
           "price": "22.98",
           "position": 1,
@@ -56078,8 +56078,8 @@
           "image_id": 60647138001238
         },
         {
-          "id": 50043297366358,
           "product_id": 9507800252758,
+          "id": 50043297366358,
           "title": "Beige / Cotton",
           "price": "22.98",
           "position": 2,
@@ -56106,8 +56106,8 @@
           "image_id": 60647138001238
         },
         {
-          "id": 50043297300822,
           "product_id": 9507800252758,
+          "id": 50043297300822,
           "title": "White / Fabric",
           "price": "22.98",
           "position": 3,
@@ -56134,8 +56134,8 @@
           "image_id": 60647189676374
         },
         {
-          "id": 50043297399126,
           "product_id": 9507800252758,
+          "id": 50043297399126,
           "title": "White / Cotton",
           "price": "22.98",
           "position": 4,
@@ -56162,8 +56162,8 @@
           "image_id": 60647189676374
         },
         {
-          "id": 50043297333590,
           "product_id": 9507800252758,
+          "id": 50043297333590,
           "title": "Multicolor / Fabric",
           "price": "22.98",
           "position": 5,
@@ -56190,8 +56190,8 @@
           "image_id": 60647189741910
         },
         {
-          "id": 50043297431894,
           "product_id": 9507800252758,
+          "id": 50043297431894,
           "title": "Multicolor / Cotton",
           "price": "22.98",
           "position": 6,
@@ -56220,8 +56220,8 @@
       ],
       "options": [
         {
-          "id": 12308260585814,
           "product_id": 9507800252758,
+          "id": 12308260585814,
           "name": "Color",
           "position": 1,
           "values": [
@@ -56231,8 +56231,8 @@
           ]
         },
         {
-          "id": 12308260553046,
           "product_id": 9507800252758,
+          "id": 12308260553046,
           "name": "Material",
           "position": 2,
           "values": [
