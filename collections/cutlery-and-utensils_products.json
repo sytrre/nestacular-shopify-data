@@ -29304,8 +29304,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9860702994774",
       "variants": [
         {
-          "product_id": 9860702994774,
           "id": 51469564903766,
+          "product_id": 9860702994774,
           "title": "Blue / 2piece set",
           "price": "13.98",
           "position": 1,
@@ -29332,8 +29332,8 @@
           "image_id": 67300206281046
         },
         {
-          "product_id": 9860702994774,
           "id": 51469564936534,
+          "product_id": 9860702994774,
           "title": "Blue / 3piece set",
           "price": "14.28",
           "position": 2,
@@ -29360,8 +29360,8 @@
           "image_id": 67300206313814
         },
         {
-          "product_id": 9860702994774,
           "id": 51469564969302,
+          "product_id": 9860702994774,
           "title": "Green / 2piece set",
           "price": "13.98",
           "position": 3,
@@ -29388,8 +29388,8 @@
           "image_id": 67300206346582
         },
         {
-          "product_id": 9860702994774,
           "id": 51469565002070,
+          "product_id": 9860702994774,
           "title": "Green / 3piece set",
           "price": "14.28",
           "position": 4,
@@ -29416,8 +29416,8 @@
           "image_id": 67300206379350
         },
         {
-          "product_id": 9860702994774,
           "id": 51469565034838,
+          "product_id": 9860702994774,
           "title": "Pink / 2piece set",
           "price": "13.98",
           "position": 5,
@@ -29444,8 +29444,8 @@
           "image_id": 67300206412118
         },
         {
-          "product_id": 9860702994774,
           "id": 51469565067606,
+          "product_id": 9860702994774,
           "title": "Pink / 3piece set",
           "price": "14.28",
           "position": 6,
@@ -29474,8 +29474,8 @@
       ],
       "options": [
         {
-          "product_id": 9860702994774,
           "id": 12722445812054,
+          "product_id": 9860702994774,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29485,8 +29485,8 @@
           ]
         },
         {
-          "product_id": 9860702994774,
           "id": 12722445844822,
+          "product_id": 9860702994774,
           "name": "style",
           "position": 2,
           "values": [
