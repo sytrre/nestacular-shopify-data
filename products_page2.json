@@ -64357,8 +64357,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10115785949526",
       "variants": [
         {
-          "id": 52285891805526,
           "product_id": 10115785949526,
+          "id": 52285891805526,
           "title": "1 / 12cm",
           "price": "0.75",
           "position": 1,
@@ -64387,8 +64387,8 @@
       ],
       "options": [
         {
-          "id": 13012490584406,
           "product_id": 10115785949526,
+          "id": 13012490584406,
           "name": "Color",
           "position": 1,
           "values": [
@@ -64396,8 +64396,8 @@
           ]
         },
         {
-          "id": 13012490617174,
           "product_id": 10115785949526,
+          "id": 13012490617174,
           "name": "Size",
           "position": 2,
           "values": [
