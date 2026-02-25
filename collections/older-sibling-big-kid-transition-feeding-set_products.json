@@ -2800,8 +2800,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9794928607574",
       "variants": [
         {
-          "id": 51211147182422,
           "product_id": 9794928607574,
+          "id": 51211147182422,
           "title": "Premium Grey (Luxury Style)",
           "price": "300.95",
           "position": 1,
@@ -2828,8 +2828,8 @@
           "image_id": 66311766966614
         },
         {
-          "id": 51211147215190,
           "product_id": 9794928607574,
+          "id": 51211147215190,
           "title": "Sky Blue (Deluxe Edition)",
           "price": "300.95",
           "position": 2,
@@ -2856,8 +2856,8 @@
           "image_id": 66311653589334
         },
         {
-          "id": 51211147247958,
           "product_id": 9794928607574,
+          "id": 51211147247958,
           "title": "Mocha Brown (Deluxe Edition)",
           "price": "300.95",
           "position": 3,
@@ -2886,8 +2886,8 @@
       ],
       "options": [
         {
-          "id": 12644908335446,
           "product_id": 9794928607574,
+          "id": 12644908335446,
           "name": "Color",
           "position": 1,
           "values": [
