@@ -8040,8 +8040,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9789337436502",
       "variants": [
         {
-          "product_id": 9789337436502,
           "id": 51187700760918,
+          "product_id": 9789337436502,
           "title": "5style",
           "price": "10.01",
           "position": 1,
@@ -8068,8 +8068,8 @@
           "image_id": 66220994822486
         },
         {
-          "product_id": 9789337436502,
           "id": 51187700793686,
+          "product_id": 9789337436502,
           "title": "2style",
           "price": "10.01",
           "position": 2,
@@ -8096,8 +8096,8 @@
           "image_id": 66220994855254
         },
         {
-          "product_id": 9789337436502,
           "id": 51187700826454,
+          "product_id": 9789337436502,
           "title": "4style",
           "price": "10.01",
           "position": 3,
@@ -8124,8 +8124,8 @@
           "image_id": 66220994888022
         },
         {
-          "product_id": 9789337436502,
           "id": 51187700859222,
+          "product_id": 9789337436502,
           "title": "3style",
           "price": "10.01",
           "position": 4,
@@ -8152,8 +8152,8 @@
           "image_id": 66220994920790
         },
         {
-          "product_id": 9789337436502,
           "id": 51187700891990,
+          "product_id": 9789337436502,
           "title": "1style",
           "price": "10.01",
           "position": 5,
@@ -8180,8 +8180,8 @@
           "image_id": 66220994953558
         },
         {
-          "product_id": 9789337436502,
           "id": 51187700924758,
+          "product_id": 9789337436502,
           "title": "6style",
           "price": "10.01",
           "position": 6,
@@ -8210,8 +8210,8 @@
       ],
       "options": [
         {
-          "product_id": 9789337436502,
           "id": 12638056284502,
+          "product_id": 9789337436502,
           "name": "Color",
           "position": 1,
           "values": [
