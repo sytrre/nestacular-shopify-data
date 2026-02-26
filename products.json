@@ -10282,8 +10282,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9794965766486",
       "variants": [
         {
-          "id": 51211364827478,
           "product_id": 9794965766486,
+          "id": 51211364827478,
           "title": "The Grey bear",
           "price": "102.95",
           "position": 1,
@@ -10310,8 +10310,8 @@
           "image_id": 66272409747798
         },
         {
-          "id": 51211364860246,
           "product_id": 9794965766486,
+          "id": 51211364860246,
           "title": "Grey single chair",
           "price": "102.95",
           "position": 2,
@@ -10340,8 +10340,8 @@
       ],
       "options": [
         {
-          "id": 12644954210646,
           "product_id": 9794965766486,
+          "id": 12644954210646,
           "name": "Color",
           "position": 1,
           "values": [
@@ -47713,8 +47713,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9409658454358",
       "variants": [
         {
-          "product_id": 9409658454358,
           "id": 49664702480726,
+          "product_id": 9409658454358,
           "title": "Red With box",
           "price": "22.97",
           "position": 1,
@@ -47741,8 +47741,8 @@
           "image_id": 59210157654358
         },
         {
-          "product_id": 9409658454358,
           "id": 49664702513494,
+          "product_id": 9409658454358,
           "title": "Pink With box",
           "price": "22.97",
           "position": 2,
@@ -47769,8 +47769,8 @@
           "image_id": 59210158965078
         },
         {
-          "product_id": 9409658454358,
           "id": 49664702546262,
+          "product_id": 9409658454358,
           "title": "Cream With box",
           "price": "22.97",
           "position": 3,
@@ -47797,8 +47797,8 @@
           "image_id": 59210160931158
         },
         {
-          "product_id": 9409658454358,
           "id": 49664702579030,
+          "product_id": 9409658454358,
           "title": "White With box",
           "price": "22.97",
           "position": 4,
@@ -47827,8 +47827,8 @@
       ],
       "options": [
         {
-          "product_id": 9409658454358,
           "id": 12179582026070,
+          "product_id": 9409658454358,
           "name": "Color",
           "position": 1,
           "values": [
