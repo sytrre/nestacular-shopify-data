@@ -16635,8 +16635,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10115858792790",
       "variants": [
         {
-          "product_id": 10115858792790,
           "id": 52286311924054,
+          "product_id": 10115858792790,
           "title": "White Parrot Blocks / in-bag",
           "price": "0.91",
           "position": 1,
@@ -16663,8 +16663,8 @@
           "image_id": 71167979553110
         },
         {
-          "product_id": 10115858792790,
           "id": 52286311956822,
+          "product_id": 10115858792790,
           "title": "Diamond parrot / with-box",
           "price": "1.22",
           "position": 2,
@@ -16691,8 +16691,8 @@
           "image_id": 71167979389270
         },
         {
-          "product_id": 10115858792790,
           "id": 52286311989590,
+          "product_id": 10115858792790,
           "title": "Diamond parrot / in-bag",
           "price": "1.15",
           "position": 3,
@@ -16719,8 +16719,8 @@
           "image_id": 71167979389270
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312022358,
+          "product_id": 10115858792790,
           "title": "Red Parrot Blocks / in-bag",
           "price": "0.88",
           "position": 4,
@@ -16747,8 +16747,8 @@
           "image_id": 71167979422038
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312055126,
+          "product_id": 10115858792790,
           "title": "Brown Parrot Blocks / with-box",
           "price": "1.03",
           "position": 5,
@@ -16775,8 +16775,8 @@
           "image_id": 71167979454806
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312087894,
+          "product_id": 10115858792790,
           "title": "Yellow Green Parrot / in-bag",
           "price": "0.98",
           "position": 6,
@@ -16803,8 +16803,8 @@
           "image_id": 71167979585878
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312120662,
+          "product_id": 10115858792790,
           "title": "Yellow Green Parrot / with-box",
           "price": "1.01",
           "position": 7,
@@ -16831,8 +16831,8 @@
           "image_id": 71167979585878
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312153430,
+          "product_id": 10115858792790,
           "title": "Orange Parrot Blocks / in-bag",
           "price": "0.93",
           "position": 8,
@@ -16859,8 +16859,8 @@
           "image_id": 71167979618646
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312186198,
+          "product_id": 10115858792790,
           "title": "Pink Parrot Blocks / with-box",
           "price": "0.97",
           "position": 9,
@@ -16887,8 +16887,8 @@
           "image_id": 71167979290966
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312218966,
+          "product_id": 10115858792790,
           "title": "Pink Parrot Blocks / in-bag",
           "price": "0.94",
           "position": 10,
@@ -16915,8 +16915,8 @@
           "image_id": 71167979290966
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312251734,
+          "product_id": 10115858792790,
           "title": "Yellow Parrot Blocks / with-box",
           "price": "0.90",
           "position": 11,
@@ -16943,8 +16943,8 @@
           "image_id": 71167979323734
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312284502,
+          "product_id": 10115858792790,
           "title": "Yellow Parrot Blocks / in-bag",
           "price": "0.88",
           "position": 12,
@@ -16971,8 +16971,8 @@
           "image_id": 71167979323734
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312317270,
+          "product_id": 10115858792790,
           "title": "Green Parrot Blocks / with-box",
           "price": "0.98",
           "position": 13,
@@ -16999,8 +16999,8 @@
           "image_id": 71167979487574
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312350038,
+          "product_id": 10115858792790,
           "title": "Green Parrot Blocks / in-bag",
           "price": "0.93",
           "position": 14,
@@ -17027,8 +17027,8 @@
           "image_id": 71167979487574
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312382806,
+          "product_id": 10115858792790,
           "title": "9 set Parrot / with-box",
           "price": "7.83",
           "position": 15,
@@ -17055,8 +17055,8 @@
           "image_id": 71167979520342
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312415574,
+          "product_id": 10115858792790,
           "title": "9 set Parrot / in-bag",
           "price": "7.37",
           "position": 16,
@@ -17083,8 +17083,8 @@
           "image_id": 71167979520342
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312448342,
+          "product_id": 10115858792790,
           "title": "Blue Parrot Blocks / with-box",
           "price": "0.97",
           "position": 17,
@@ -17111,8 +17111,8 @@
           "image_id": 71167979356502
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312481110,
+          "product_id": 10115858792790,
           "title": "Blue Parrot Blocks / in-bag",
           "price": "0.92",
           "position": 18,
@@ -17139,8 +17139,8 @@
           "image_id": 71167979356502
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312513878,
+          "product_id": 10115858792790,
           "title": "Orange Parrot Blocks / with-box",
           "price": "0.88",
           "position": 19,
@@ -17167,8 +17167,8 @@
           "image_id": 71167979422038
         },
         {
-          "product_id": 10115858792790,
           "id": 52286312546646,
+          "product_id": 10115858792790,
           "title": "White Parrot Blocks / with-box",
           "price": "0.99",
           "position": 20,
@@ -17197,8 +17197,8 @@
       ],
       "options": [
         {
-          "product_id": 10115858792790,
           "id": 13012576108886,
+          "product_id": 10115858792790,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17216,8 +17216,8 @@
           ]
         },
         {
-          "product_id": 10115858792790,
           "id": 13012576141654,
+          "product_id": 10115858792790,
           "name": "Size",
           "position": 2,
           "values": [
