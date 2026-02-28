@@ -14159,8 +14159,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9840986128726",
       "variants": [
         {
-          "product_id": 9840986128726,
           "id": 51392487817558,
+          "product_id": 9840986128726,
           "title": "Bernice",
           "price": "17.98",
           "position": 1,
@@ -14187,8 +14187,8 @@
           "image_id": 67077557649750
         },
         {
-          "product_id": 9840986128726,
           "id": 51392487850326,
+          "product_id": 9840986128726,
           "title": "Ordinary Angela Paradise",
           "price": "16.98",
           "position": 2,
@@ -14215,8 +14215,8 @@
           "image_id": 67077557682518
         },
         {
-          "product_id": 9840986128726,
           "id": 51392487883094,
+          "product_id": 9840986128726,
           "title": "Ordinary Style XINGX Wish",
           "price": "15.98",
           "position": 3,
@@ -14243,8 +14243,8 @@
           "image_id": 67077557715286
         },
         {
-          "product_id": 9840986128726,
           "id": 51392487915862,
+          "product_id": 9840986128726,
           "title": "Thickened Aisha Paradise",
           "price": "17.23",
           "position": 4,
@@ -14271,8 +14271,8 @@
           "image_id": 67077557748054
         },
         {
-          "product_id": 9840986128726,
           "id": 51392487948630,
+          "product_id": 9840986128726,
           "title": "Thickened Angela Paradise",
           "price": "17.23",
           "position": 5,
@@ -14299,8 +14299,8 @@
           "image_id": 67077557780822
         },
         {
-          "product_id": 9840986128726,
           "id": 51392487981398,
+          "product_id": 9840986128726,
           "title": "Thickened Charlotte Kingdom",
           "price": "17.23",
           "position": 6,
@@ -14327,8 +14327,8 @@
           "image_id": 67077557813590
         },
         {
-          "product_id": 9840986128726,
           "id": 51392488014166,
+          "product_id": 9840986128726,
           "title": "Thickened Sand Rock",
           "price": "17.23",
           "position": 7,
@@ -14357,8 +14357,8 @@
       ],
       "options": [
         {
-          "product_id": 9840986128726,
           "id": 12699065483606,
+          "product_id": 9840986128726,
           "name": "Color",
           "position": 1,
           "values": [
