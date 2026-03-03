@@ -7241,8 +7241,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791088460118",
       "variants": [
         {
-          "product_id": 9791088460118,
           "id": 51194420789590,
+          "product_id": 9791088460118,
           "title": "Pink",
           "price": "8.87",
           "position": 1,
@@ -7269,8 +7269,8 @@
           "image_id": 66236264055126
         },
         {
-          "product_id": 9791088460118,
           "id": 51194420822358,
+          "product_id": 9791088460118,
           "title": "Gray",
           "price": "8.87",
           "position": 2,
@@ -7299,8 +7299,8 @@
       ],
       "options": [
         {
-          "product_id": 9791088460118,
           "id": 12640242336086,
+          "product_id": 9791088460118,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21895,8 +21895,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866563584342",
       "variants": [
         {
-          "product_id": 9866563584342,
           "id": 51489472676182,
+          "product_id": 9866563584342,
           "title": "18cm",
           "price": "17.48",
           "position": 1,
@@ -21925,8 +21925,8 @@
       ],
       "options": [
         {
-          "product_id": 9866563584342,
           "id": 12729022087510,
+          "product_id": 9866563584342,
           "name": "Height",
           "position": 1,
           "values": [
