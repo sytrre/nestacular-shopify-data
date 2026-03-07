@@ -67560,8 +67560,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791384224086",
       "variants": [
         {
-          "product_id": 9791384224086,
           "id": 51196290138454,
+          "product_id": 9791384224086,
           "title": "Blue",
           "price": "8.02",
           "position": 1,
@@ -67588,8 +67588,8 @@
           "image_id": 66241074200918
         },
         {
-          "product_id": 9791384224086,
           "id": 51196290171222,
+          "product_id": 9791384224086,
           "title": "Pink set",
           "price": "9.77",
           "position": 2,
@@ -67616,8 +67616,8 @@
           "image_id": 66241074233686
         },
         {
-          "product_id": 9791384224086,
           "id": 51196290203990,
+          "product_id": 9791384224086,
           "title": "Blue set",
           "price": "9.60",
           "position": 3,
@@ -67644,8 +67644,8 @@
           "image_id": 66241074266454
         },
         {
-          "product_id": 9791384224086,
           "id": 51196290236758,
+          "product_id": 9791384224086,
           "title": "Pink",
           "price": "8.02",
           "position": 4,
@@ -67672,8 +67672,8 @@
           "image_id": 66241074299222
         },
         {
-          "product_id": 9791384224086,
           "id": 51196290269526,
+          "product_id": 9791384224086,
           "title": "Yellow",
           "price": "8.12",
           "position": 5,
@@ -67700,8 +67700,8 @@
           "image_id": 66241074331990
         },
         {
-          "product_id": 9791384224086,
           "id": 51196290302294,
+          "product_id": 9791384224086,
           "title": "White",
           "price": "7.90",
           "position": 6,
@@ -67728,8 +67728,8 @@
           "image_id": 66241074364758
         },
         {
-          "product_id": 9791384224086,
           "id": 51196290335062,
+          "product_id": 9791384224086,
           "title": "Navy blue",
           "price": "7.90",
           "position": 7,
@@ -67758,8 +67758,8 @@
       ],
       "options": [
         {
-          "product_id": 9791384224086,
           "id": 12640599703894,
+          "product_id": 9791384224086,
           "name": "Color",
           "position": 1,
           "values": [
