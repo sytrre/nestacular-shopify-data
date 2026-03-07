@@ -47468,8 +47468,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9408744358230",
       "variants": [
         {
-          "product_id": 9408744358230,
           "id": 49660653437270,
+          "product_id": 9408744358230,
           "title": "Red With box",
           "price": "19.98",
           "position": 1,
@@ -47496,8 +47496,8 @@
           "image_id": 60515212984662
         },
         {
-          "product_id": 9408744358230,
           "id": 49660653470038,
+          "product_id": 9408744358230,
           "title": "Pink With box",
           "price": "19.98",
           "position": 2,
@@ -47524,8 +47524,8 @@
           "image_id": 59210155917654
         },
         {
-          "product_id": 9408744358230,
           "id": 49660653502806,
+          "product_id": 9408744358230,
           "title": "Cream With box",
           "price": "19.98",
           "position": 3,
@@ -47552,8 +47552,8 @@
           "image_id": 59210156015958
         },
         {
-          "product_id": 9408744358230,
           "id": 49660653535574,
+          "product_id": 9408744358230,
           "title": "White With box",
           "price": "19.98",
           "position": 4,
@@ -47582,8 +47582,8 @@
       ],
       "options": [
         {
-          "product_id": 9408744358230,
           "id": 12178452808022,
+          "product_id": 9408744358230,
           "name": "Color",
           "position": 1,
           "values": [
