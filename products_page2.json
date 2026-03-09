@@ -12306,8 +12306,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016022593878",
       "variants": [
         {
-          "id": 52013527925078,
           "product_id": 10016022593878,
+          "id": 52013527925078,
           "title": "Grey Bunny",
           "price": "7.48",
           "position": 1,
@@ -12334,8 +12334,8 @@
           "image_id": 69735036322134
         },
         {
-          "id": 52013527957846,
           "product_id": 10016022593878,
+          "id": 52013527957846,
           "title": "Blue Sloth",
           "price": "7.48",
           "position": 2,
@@ -12362,8 +12362,8 @@
           "image_id": 69735036354902
         },
         {
-          "id": 52013527990614,
           "product_id": 10016022593878,
+          "id": 52013527990614,
           "title": "Green Dinosaur",
           "price": "7.48",
           "position": 3,
@@ -12390,8 +12390,8 @@
           "image_id": 69735036387670
         },
         {
-          "id": 52013528023382,
           "product_id": 10016022593878,
+          "id": 52013528023382,
           "title": "Beige Penguin",
           "price": "7.48",
           "position": 4,
@@ -12418,8 +12418,8 @@
           "image_id": 69735036420438
         },
         {
-          "id": 52013528056150,
           "product_id": 10016022593878,
+          "id": 52013528056150,
           "title": "Brown Bear",
           "price": "7.48",
           "position": 5,
@@ -12448,8 +12448,8 @@
       ],
       "options": [
         {
-          "id": 12901928108374,
           "product_id": 10016022593878,
+          "id": 12901928108374,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14912,8 +14912,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9881789071702",
       "variants": [
         {
-          "id": 51533380092246,
           "product_id": 9881789071702,
+          "id": 51533380092246,
           "title": "Extruded rice paste bottle (mesh bag style)",
           "price": "11.98",
           "position": 1,
@@ -14940,8 +14940,8 @@
           "image_id": 67453803037014
         },
         {
-          "id": 51533380125014,
           "product_id": 9881789071702,
+          "id": 51533380125014,
           "title": "Extruded rice paste bottle (Spoon head type)",
           "price": "11.98",
           "position": 2,
@@ -14970,8 +14970,8 @@
       ],
       "options": [
         {
-          "id": 12746270572886,
           "product_id": 9881789071702,
+          "id": 12746270572886,
           "name": "color",
           "position": 1,
           "values": [
