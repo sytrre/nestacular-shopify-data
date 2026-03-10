@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10060960596310",
       "variants": [
         {
-          "product_id": 10060960596310,
           "id": 52195076735318,
+          "product_id": 10060960596310,
           "title": "6Pcs dinosaur egg",
           "price": "6.13",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 71027143410006
         },
         {
-          "product_id": 10060960596310,
           "id": 52195076768086,
+          "product_id": 10060960596310,
           "title": "dinosaur boxed egg",
           "price": "12.48",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 71027143639382
         },
         {
-          "product_id": 10060960596310,
           "id": 52195076800854,
+          "product_id": 10060960596310,
           "title": "6Pcs dinosaur sound",
           "price": "9.48",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 71027143442774
         },
         {
-          "product_id": 10060960596310,
           "id": 52195076833622,
+          "product_id": 10060960596310,
           "title": "12Pcs dinosaur",
           "price": "12.48",
           "position": 4,
@@ -136,8 +136,8 @@
           "image_id": 71027143475542
         },
         {
-          "product_id": 10060960596310,
           "id": 52195076866390,
+          "product_id": 10060960596310,
           "title": "12Pcs number",
           "price": "12.48",
           "position": 5,
@@ -164,8 +164,8 @@
           "image_id": 71027143672150
         },
         {
-          "product_id": 10060960596310,
           "id": 52195076899158,
+          "product_id": 10060960596310,
           "title": "12Pcs in box",
           "price": "12.48",
           "position": 6,
@@ -192,8 +192,8 @@
           "image_id": 71027143508310
         },
         {
-          "product_id": 10060960596310,
           "id": 52195076931926,
+          "product_id": 10060960596310,
           "title": "26Pcs letter",
           "price": "22.48",
           "position": 7,
@@ -220,8 +220,8 @@
           "image_id": 71027143541078
         },
         {
-          "product_id": 10060960596310,
           "id": 52195076964694,
+          "product_id": 10060960596310,
           "title": "Shape matching egg",
           "price": "13.98",
           "position": 8,
@@ -248,8 +248,8 @@
           "image_id": 71027143704918
         },
         {
-          "product_id": 10060960596310,
           "id": 52195076997462,
+          "product_id": 10060960596310,
           "title": "6Pcs dinosaur shape",
           "price": "6.38",
           "position": 9,
@@ -276,8 +276,8 @@
           "image_id": 71027143737686
         },
         {
-          "product_id": 10060960596310,
           "id": 52195077030230,
+          "product_id": 10060960596310,
           "title": "6Pcs no box",
           "price": "3.48",
           "position": 10,
@@ -304,8 +304,8 @@
           "image_id": 71027143573846
         },
         {
-          "product_id": 10060960596310,
           "id": 52195077062998,
+          "product_id": 10060960596310,
           "title": "6Pcs in box",
           "price": "6.48",
           "position": 11,
@@ -332,8 +332,8 @@
           "image_id": 71027143770454
         },
         {
-          "product_id": 10060960596310,
           "id": 52195077095766,
+          "product_id": 10060960596310,
           "title": "6Pcs in box 1",
           "price": "6.48",
           "position": 12,
@@ -362,8 +362,8 @@
       ],
       "options": [
         {
-          "product_id": 10060960596310,
           "id": 12956151349590,
+          "product_id": 10060960596310,
           "name": "Color",
           "position": 1,
           "values": [
