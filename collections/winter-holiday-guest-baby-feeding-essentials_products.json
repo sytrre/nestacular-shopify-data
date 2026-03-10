@@ -8014,8 +8014,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016022593878",
       "variants": [
         {
-          "product_id": 10016022593878,
           "id": 52013527925078,
+          "product_id": 10016022593878,
           "title": "Grey Bunny",
           "price": "7.48",
           "position": 1,
@@ -8042,8 +8042,8 @@
           "image_id": 69735036322134
         },
         {
-          "product_id": 10016022593878,
           "id": 52013527957846,
+          "product_id": 10016022593878,
           "title": "Blue Sloth",
           "price": "7.48",
           "position": 2,
@@ -8070,8 +8070,8 @@
           "image_id": 69735036354902
         },
         {
-          "product_id": 10016022593878,
           "id": 52013527990614,
+          "product_id": 10016022593878,
           "title": "Green Dinosaur",
           "price": "7.48",
           "position": 3,
@@ -8098,8 +8098,8 @@
           "image_id": 69735036387670
         },
         {
-          "product_id": 10016022593878,
           "id": 52013528023382,
+          "product_id": 10016022593878,
           "title": "Beige Penguin",
           "price": "7.48",
           "position": 4,
@@ -8126,8 +8126,8 @@
           "image_id": 69735036420438
         },
         {
-          "product_id": 10016022593878,
           "id": 52013528056150,
+          "product_id": 10016022593878,
           "title": "Brown Bear",
           "price": "7.48",
           "position": 5,
@@ -8156,8 +8156,8 @@
       ],
       "options": [
         {
-          "product_id": 10016022593878,
           "id": 12901928108374,
+          "product_id": 10016022593878,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8863,8 +8863,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9881789071702",
       "variants": [
         {
-          "product_id": 9881789071702,
           "id": 51533380092246,
+          "product_id": 9881789071702,
           "title": "Extruded rice paste bottle (mesh bag style)",
           "price": "11.98",
           "position": 1,
@@ -8891,8 +8891,8 @@
           "image_id": 67453803037014
         },
         {
-          "product_id": 9881789071702,
           "id": 51533380125014,
+          "product_id": 9881789071702,
           "title": "Extruded rice paste bottle (Spoon head type)",
           "price": "11.98",
           "position": 2,
@@ -8921,8 +8921,8 @@
       ],
       "options": [
         {
-          "product_id": 9881789071702,
           "id": 12746270572886,
+          "product_id": 9881789071702,
           "name": "color",
           "position": 1,
           "values": [
@@ -14971,8 +14971,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016024920406",
       "variants": [
         {
-          "product_id": 10016024920406,
           "id": 52013532578134,
+          "product_id": 10016024920406,
           "title": "TD1119M",
           "price": "8.98",
           "position": 1,
@@ -14999,8 +14999,8 @@
           "image_id": 69735048347990
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532610902,
+          "product_id": 10016024920406,
           "title": "TD1119F",
           "price": "7.48",
           "position": 2,
@@ -15027,8 +15027,8 @@
           "image_id": 69735048380758
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532643670,
+          "product_id": 10016024920406,
           "title": "TD1119L",
           "price": "8.98",
           "position": 3,
@@ -15055,8 +15055,8 @@
           "image_id": 69735048413526
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532676438,
+          "product_id": 10016024920406,
           "title": "TD1119K",
           "price": "8.98",
           "position": 4,
@@ -15083,8 +15083,8 @@
           "image_id": 69735048446294
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532709206,
+          "product_id": 10016024920406,
           "title": "TD1119I",
           "price": "7.48",
           "position": 5,
@@ -15111,8 +15111,8 @@
           "image_id": 69735048479062
         },
         {
-          "product_id": 10016024920406,
           "id": 52013532741974,
+          "product_id": 10016024920406,
           "title": "TD1119G",
           "price": "7.48",
           "position": 6,
@@ -15141,8 +15141,8 @@
       ],
       "options": [
         {
-          "product_id": 10016024920406,
           "id": 12901930697046,
+          "product_id": 10016024920406,
           "name": "Color",
           "position": 1,
           "values": [
