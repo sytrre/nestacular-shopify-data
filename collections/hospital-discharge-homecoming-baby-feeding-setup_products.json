@@ -4648,8 +4648,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9882516848982",
       "variants": [
         {
-          "id": 51534667415894,
           "product_id": 9882516848982,
+          "id": 51534667415894,
           "title": "Blue",
           "price": "17.48",
           "position": 1,
@@ -4676,8 +4676,8 @@
           "image_id": 67455315411286
         },
         {
-          "id": 51534667448662,
           "product_id": 9882516848982,
+          "id": 51534667448662,
           "title": "Green",
           "price": "17.43",
           "position": 2,
@@ -4704,8 +4704,8 @@
           "image_id": 67455315444054
         },
         {
-          "id": 51534667481430,
           "product_id": 9882516848982,
+          "id": 51534667481430,
           "title": "Orange",
           "price": "16.98",
           "position": 3,
@@ -4734,8 +4734,8 @@
       ],
       "options": [
         {
-          "id": 12747036983638,
           "product_id": 9882516848982,
+          "id": 12747036983638,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5930,8 +5930,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9881789071702",
       "variants": [
         {
-          "id": 51533380092246,
           "product_id": 9881789071702,
+          "id": 51533380092246,
           "title": "Extruded rice paste bottle (mesh bag style)",
           "price": "11.98",
           "position": 1,
@@ -5958,8 +5958,8 @@
           "image_id": 67453803037014
         },
         {
-          "id": 51533380125014,
           "product_id": 9881789071702,
+          "id": 51533380125014,
           "title": "Extruded rice paste bottle (Spoon head type)",
           "price": "11.98",
           "position": 2,
@@ -5988,8 +5988,8 @@
       ],
       "options": [
         {
-          "id": 12746270572886,
           "product_id": 9881789071702,
+          "id": 12746270572886,
           "name": "color",
           "position": 1,
           "values": [
@@ -8844,8 +8844,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016023707990",
       "variants": [
         {
-          "id": 52013531136342,
           "product_id": 10016023707990,
+          "id": 52013531136342,
           "title": "500ML Blue",
           "price": "9.98",
           "position": 1,
@@ -8872,8 +8872,8 @@
           "image_id": 69735043170646
         },
         {
-          "id": 52013531169110,
           "product_id": 10016023707990,
+          "id": 52013531169110,
           "title": "500ML Pink",
           "price": "9.98",
           "position": 2,
@@ -8900,8 +8900,8 @@
           "image_id": 69735043203414
         },
         {
-          "id": 52013531201878,
           "product_id": 10016023707990,
+          "id": 52013531201878,
           "title": "Blue nozzles",
           "price": "7.48",
           "position": 3,
@@ -8928,8 +8928,8 @@
           "image_id": 69735043236182
         },
         {
-          "id": 52013531234646,
           "product_id": 10016023707990,
+          "id": 52013531234646,
           "title": "Pink nozzles",
           "price": "7.48",
           "position": 4,
@@ -8958,8 +8958,8 @@
       ],
       "options": [
         {
-          "id": 12901929419094,
           "product_id": 10016023707990,
+          "id": 12901929419094,
           "name": "Color",
           "position": 1,
           "values": [
