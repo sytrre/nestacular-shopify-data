@@ -3800,8 +3800,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9882516848982",
       "variants": [
         {
-          "product_id": 9882516848982,
           "id": 51534667415894,
+          "product_id": 9882516848982,
           "title": "Blue",
           "price": "17.48",
           "position": 1,
@@ -3828,8 +3828,8 @@
           "image_id": 67455315411286
         },
         {
-          "product_id": 9882516848982,
           "id": 51534667448662,
+          "product_id": 9882516848982,
           "title": "Green",
           "price": "17.43",
           "position": 2,
@@ -3856,8 +3856,8 @@
           "image_id": 67455315444054
         },
         {
-          "product_id": 9882516848982,
           "id": 51534667481430,
+          "product_id": 9882516848982,
           "title": "Orange",
           "price": "16.98",
           "position": 3,
@@ -3886,8 +3886,8 @@
       ],
       "options": [
         {
-          "product_id": 9882516848982,
           "id": 12747036983638,
+          "product_id": 9882516848982,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5873,8 +5873,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9881936232790",
       "variants": [
         {
-          "product_id": 9881936232790,
           "id": 51533625786710,
+          "product_id": 9881936232790,
           "title": "Blue Upgraded Version - Height Adjustment [Foot pedal + Strap",
           "price": "88.95",
           "position": 1,
@@ -5901,8 +5901,8 @@
           "image_id": 67454096146774
         },
         {
-          "product_id": 9881936232790,
           "id": 51533625819478,
+          "product_id": 9881936232790,
           "title": "Pink upgraded version - Height adjustment [Foot pedal + strap",
           "price": "88.95",
           "position": 2,
@@ -5929,8 +5929,8 @@
           "image_id": 67454096179542
         },
         {
-          "product_id": 9881936232790,
           "id": 51533625852246,
+          "product_id": 9881936232790,
           "title": "The Upgraded Khaki Version - Height Adjustment [footrests + Straps]",
           "price": "88.95",
           "position": 3,
@@ -5959,8 +5959,8 @@
       ],
       "options": [
         {
-          "product_id": 9881936232790,
           "id": 12746423959894,
+          "product_id": 9881936232790,
           "name": "color",
           "position": 1,
           "values": [

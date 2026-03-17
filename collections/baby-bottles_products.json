@@ -12769,8 +12769,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9907515392342",
       "variants": [
         {
-          "product_id": 9907515392342,
           "id": 51638612164950,
+          "product_id": 9907515392342,
           "title": "pink / 12pcs",
           "price": "11.98",
           "position": 1,
@@ -12797,8 +12797,8 @@
           "image_id": 67678224351574
         },
         {
-          "product_id": 9907515392342,
           "id": 51638612197718,
+          "product_id": 9907515392342,
           "title": "white / 12pcs",
           "price": "11.98",
           "position": 2,
@@ -12825,8 +12825,8 @@
           "image_id": 67678224384342
         },
         {
-          "product_id": 9907515392342,
           "id": 51638612230486,
+          "product_id": 9907515392342,
           "title": "blue / 12pcs",
           "price": "11.98",
           "position": 3,
@@ -12855,8 +12855,8 @@
       ],
       "options": [
         {
-          "product_id": 9907515392342,
           "id": 12776916582742,
+          "product_id": 9907515392342,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12866,8 +12866,8 @@
           ]
         },
         {
-          "product_id": 9907515392342,
           "id": 12776916615510,
+          "product_id": 9907515392342,
           "name": "Gift Box Size",
           "position": 2,
           "values": [
@@ -23161,8 +23161,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10016023707990",
       "variants": [
         {
-          "product_id": 10016023707990,
           "id": 52013531136342,
+          "product_id": 10016023707990,
           "title": "500ML Blue",
           "price": "9.98",
           "position": 1,
@@ -23189,8 +23189,8 @@
           "image_id": 69735043170646
         },
         {
-          "product_id": 10016023707990,
           "id": 52013531169110,
+          "product_id": 10016023707990,
           "title": "500ML Pink",
           "price": "9.98",
           "position": 2,
@@ -23217,8 +23217,8 @@
           "image_id": 69735043203414
         },
         {
-          "product_id": 10016023707990,
           "id": 52013531201878,
+          "product_id": 10016023707990,
           "title": "Blue nozzles",
           "price": "7.48",
           "position": 3,
@@ -23245,8 +23245,8 @@
           "image_id": 69735043236182
         },
         {
-          "product_id": 10016023707990,
           "id": 52013531234646,
+          "product_id": 10016023707990,
           "title": "Pink nozzles",
           "price": "7.48",
           "position": 4,
@@ -23275,8 +23275,8 @@
       ],
       "options": [
         {
-          "product_id": 10016023707990,
           "id": 12901929419094,
+          "product_id": 10016023707990,
           "name": "Color",
           "position": 1,
           "values": [

@@ -176,8 +176,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9915863236950",
       "variants": [
         {
-          "product_id": 9915863236950,
           "id": 51674158629206,
+          "product_id": 9915863236950,
           "title": "set / M / CHINA",
           "price": "14.98",
           "position": 1,
@@ -204,8 +204,8 @@
           "image_id": 67809783251286
         },
         {
-          "product_id": 9915863236950,
           "id": 51674158661974,
+          "product_id": 9915863236950,
           "title": "set 1 / M / CHINA",
           "price": "14.98",
           "position": 2,
@@ -232,8 +232,8 @@
           "image_id": 67809783284054
         },
         {
-          "product_id": 9915863236950,
           "id": 51674158694742,
+          "product_id": 9915863236950,
           "title": "set 2 / M / CHINA",
           "price": "14.98",
           "position": 3,
@@ -260,8 +260,8 @@
           "image_id": 67809783382358
         },
         {
-          "product_id": 9915863236950,
           "id": 51674158727510,
+          "product_id": 9915863236950,
           "title": "set 3 / M / CHINA",
           "price": "14.98",
           "position": 4,
@@ -288,8 +288,8 @@
           "image_id": 67809783120214
         },
         {
-          "product_id": 9915863236950,
           "id": 51674158760278,
+          "product_id": 9915863236950,
           "title": "set 4 / M / CHINA",
           "price": "14.98",
           "position": 5,
@@ -316,8 +316,8 @@
           "image_id": 67809783152982
         },
         {
-          "product_id": 9915863236950,
           "id": 51674158793046,
+          "product_id": 9915863236950,
           "title": "set 5 / M / CHINA",
           "price": "14.48",
           "position": 6,
@@ -344,8 +344,8 @@
           "image_id": 67809783316822
         },
         {
-          "product_id": 9915863236950,
           "id": 51674158825814,
+          "product_id": 9915863236950,
           "title": "set 6 / M / CHINA",
           "price": "14.98",
           "position": 7,
@@ -372,8 +372,8 @@
           "image_id": 67809783185750
         },
         {
-          "product_id": 9915863236950,
           "id": 51674158858582,
+          "product_id": 9915863236950,
           "title": "set 7 / M / CHINA",
           "price": "14.48",
           "position": 8,
@@ -400,8 +400,8 @@
           "image_id": 67809783218518
         },
         {
-          "product_id": 9915863236950,
           "id": 51674158891350,
+          "product_id": 9915863236950,
           "title": "set 8 / M / CHINA",
           "price": "14.98",
           "position": 9,
@@ -430,8 +430,8 @@
       ],
       "options": [
         {
-          "product_id": 9915863236950,
           "id": 12786684821846,
+          "product_id": 9915863236950,
           "name": "Color",
           "position": 1,
           "values": [
@@ -447,8 +447,8 @@
           ]
         },
         {
-          "product_id": 9915863236950,
           "id": 12786684854614,
+          "product_id": 9915863236950,
           "name": "Size",
           "position": 2,
           "values": [
@@ -456,8 +456,8 @@
           ]
         },
         {
-          "product_id": 9915863236950,
           "id": 12786684887382,
+          "product_id": 9915863236950,
           "name": "Ships From",
           "position": 3,
           "values": [
@@ -1571,8 +1571,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9912264720726",
       "variants": [
         {
-          "product_id": 9912264720726,
           "id": 51658227351894,
+          "product_id": 9912264720726,
           "title": "Set 2 / CHINA",
           "price": "11.98",
           "position": 1,
@@ -1599,8 +1599,8 @@
           "image_id": 67718056739158
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227384662,
+          "product_id": 9912264720726,
           "title": "Set 13 / CHINA",
           "price": "11.98",
           "position": 2,
@@ -1627,8 +1627,8 @@
           "image_id": 67718056608086
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227417430,
+          "product_id": 9912264720726,
           "title": "Set 1 / CHINA",
           "price": "11.98",
           "position": 3,
@@ -1655,8 +1655,8 @@
           "image_id": 67718056509782
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227450198,
+          "product_id": 9912264720726,
           "title": "Set 14 / CHINA",
           "price": "11.98",
           "position": 4,
@@ -1683,8 +1683,8 @@
           "image_id": 67718057001302
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227482966,
+          "product_id": 9912264720726,
           "title": "Set 4 / CHINA",
           "price": "12.48",
           "position": 5,
@@ -1711,8 +1711,8 @@
           "image_id": 67718056771926
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227515734,
+          "product_id": 9912264720726,
           "title": "Set 15 / CHINA",
           "price": "11.98",
           "position": 6,
@@ -1739,8 +1739,8 @@
           "image_id": 67718056640854
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227548502,
+          "product_id": 9912264720726,
           "title": "Set 3 / CHINA",
           "price": "11.98",
           "position": 7,
@@ -1767,8 +1767,8 @@
           "image_id": 67718056804694
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227581270,
+          "product_id": 9912264720726,
           "title": "Set 16 / CHINA",
           "price": "11.98",
           "position": 8,
@@ -1795,8 +1795,8 @@
           "image_id": 67718056837462
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227614038,
+          "product_id": 9912264720726,
           "title": "Set 7 / CHINA",
           "price": "11.98",
           "position": 9,
@@ -1823,8 +1823,8 @@
           "image_id": 67718056673622
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227646806,
+          "product_id": 9912264720726,
           "title": "Set 17 / CHINA",
           "price": "12.98",
           "position": 10,
@@ -1851,8 +1851,8 @@
           "image_id": 67718056870230
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227679574,
+          "product_id": 9912264720726,
           "title": "Set 6 / CHINA",
           "price": "11.98",
           "position": 11,
@@ -1879,8 +1879,8 @@
           "image_id": 67718056706390
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227712342,
+          "product_id": 9912264720726,
           "title": "Set 18 / CHINA",
           "price": "13.48",
           "position": 12,
@@ -1907,8 +1907,8 @@
           "image_id": 67718057034070
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227745110,
+          "product_id": 9912264720726,
           "title": "Set 8 / CHINA",
           "price": "11.98",
           "position": 13,
@@ -1935,8 +1935,8 @@
           "image_id": 67718056902998
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227777878,
+          "product_id": 9912264720726,
           "title": "Set 19 / CHINA",
           "price": "12.98",
           "position": 14,
@@ -1963,8 +1963,8 @@
           "image_id": 67718057066838
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227810646,
+          "product_id": 9912264720726,
           "title": "Set 5 / CHINA",
           "price": "11.98",
           "position": 15,
@@ -1991,8 +1991,8 @@
           "image_id": 67718057099606
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227843414,
+          "product_id": 9912264720726,
           "title": "Set 20 / CHINA",
           "price": "12.98",
           "position": 16,
@@ -2019,8 +2019,8 @@
           "image_id": 67718056935766
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227876182,
+          "product_id": 9912264720726,
           "title": "Set 9 / CHINA",
           "price": "12.98",
           "position": 17,
@@ -2047,8 +2047,8 @@
           "image_id": 67718056542550
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227908950,
+          "product_id": 9912264720726,
           "title": "Set 12 / CHINA",
           "price": "12.98",
           "position": 18,
@@ -2075,8 +2075,8 @@
           "image_id": 67718056968534
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227941718,
+          "product_id": 9912264720726,
           "title": "Set 11 / CHINA",
           "price": "12.98",
           "position": 19,
@@ -2103,8 +2103,8 @@
           "image_id": 67718057132374
         },
         {
-          "product_id": 9912264720726,
           "id": 51658227974486,
+          "product_id": 9912264720726,
           "title": "Set 10 / CHINA",
           "price": "12.98",
           "position": 20,
@@ -2133,8 +2133,8 @@
       ],
       "options": [
         {
-          "product_id": 9912264720726,
           "id": 12782382711126,
+          "product_id": 9912264720726,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2161,8 +2161,8 @@
           ]
         },
         {
-          "product_id": 9912264720726,
           "id": 12782382743894,
+          "product_id": 9912264720726,
           "name": "Ships From",
           "position": 2,
           "values": [
