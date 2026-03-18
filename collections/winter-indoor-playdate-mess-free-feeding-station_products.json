@@ -2242,8 +2242,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9888477479254",
       "variants": [
         {
-          "product_id": 9888477479254,
           "id": 51558136250710,
+          "product_id": 9888477479254,
           "title": "Blue",
           "price": "9.98",
           "position": 1,
@@ -2270,8 +2270,8 @@
           "image_id": 67517596827990
         },
         {
-          "product_id": 9888477479254,
           "id": 51558136283478,
+          "product_id": 9888477479254,
           "title": "Green",
           "price": "9.98",
           "position": 2,
@@ -2298,8 +2298,8 @@
           "image_id": 67517596860758
         },
         {
-          "product_id": 9888477479254,
           "id": 51558136316246,
+          "product_id": 9888477479254,
           "title": "White blue",
           "price": "9.98",
           "position": 3,
@@ -2326,8 +2326,8 @@
           "image_id": 67517596893526
         },
         {
-          "product_id": 9888477479254,
           "id": 51558136349014,
+          "product_id": 9888477479254,
           "title": "White pink",
           "price": "9.98",
           "position": 4,
@@ -2354,8 +2354,8 @@
           "image_id": 67517596926294
         },
         {
-          "product_id": 9888477479254,
           "id": 51558136381782,
+          "product_id": 9888477479254,
           "title": "White yellow",
           "price": "9.98",
           "position": 5,
@@ -2384,8 +2384,8 @@
       ],
       "options": [
         {
-          "product_id": 9888477479254,
           "id": 12754211733846,
+          "product_id": 9888477479254,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6043,8 +6043,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9794928607574",
       "variants": [
         {
-          "id": 51211147182422,
           "product_id": 9794928607574,
+          "id": 51211147182422,
           "title": "Premium Grey (Luxury Style)",
           "price": "300.95",
           "position": 1,
@@ -6071,8 +6071,8 @@
           "image_id": 66311766966614
         },
         {
-          "id": 51211147215190,
           "product_id": 9794928607574,
+          "id": 51211147215190,
           "title": "Sky Blue (Deluxe Edition)",
           "price": "300.95",
           "position": 2,
@@ -6099,8 +6099,8 @@
           "image_id": 66311653589334
         },
         {
-          "id": 51211147247958,
           "product_id": 9794928607574,
+          "id": 51211147247958,
           "title": "Mocha Brown (Deluxe Edition)",
           "price": "300.95",
           "position": 3,
@@ -6129,8 +6129,8 @@
       ],
       "options": [
         {
-          "id": 12644908335446,
           "product_id": 9794928607574,
+          "id": 12644908335446,
           "name": "Color",
           "position": 1,
           "values": [

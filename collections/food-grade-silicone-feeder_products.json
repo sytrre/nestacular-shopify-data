@@ -3552,8 +3552,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791164711254",
       "variants": [
         {
-          "product_id": 9791164711254,
           "id": 51195167113558,
+          "product_id": 9791164711254,
           "title": "Pink / O",
           "price": "14.19",
           "position": 1,
@@ -3580,8 +3580,8 @@
           "image_id": null
         },
         {
-          "product_id": 9791164711254,
           "id": 51195167146326,
+          "product_id": 9791164711254,
           "title": "Pink / octopus",
           "price": "14.14",
           "position": 2,
@@ -3608,8 +3608,8 @@
           "image_id": 66237996761430
         },
         {
-          "product_id": 9791164711254,
           "id": 51195167179094,
+          "product_id": 9791164711254,
           "title": "Green / O",
           "price": "14.14",
           "position": 3,
@@ -3636,8 +3636,8 @@
           "image_id": 66237996794198
         },
         {
-          "product_id": 9791164711254,
           "id": 51195167211862,
+          "product_id": 9791164711254,
           "title": "Green / octopus",
           "price": "14.14",
           "position": 4,
@@ -3666,8 +3666,8 @@
       ],
       "options": [
         {
-          "product_id": 9791164711254,
           "id": 12640339001686,
+          "product_id": 9791164711254,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3676,8 +3676,8 @@
           ]
         },
         {
-          "product_id": 9791164711254,
           "id": 12640339034454,
+          "product_id": 9791164711254,
           "name": "style",
           "position": 2,
           "values": [

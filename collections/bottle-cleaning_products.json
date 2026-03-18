@@ -260,8 +260,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791182143830",
       "variants": [
         {
-          "id": 51195242152278,
           "product_id": 9791182143830,
+          "id": 51195242152278,
           "title": "Pink / Bottle brush",
           "price": "8.42",
           "position": 1,
@@ -288,8 +288,8 @@
           "image_id": 66238660772182
         },
         {
-          "id": 51195242185046,
           "product_id": 9791182143830,
+          "id": 51195242185046,
           "title": "Blue / Bottle brush",
           "price": "8.42",
           "position": 2,
@@ -316,8 +316,8 @@
           "image_id": 66238657397078
         },
         {
-          "id": 51195242217814,
           "product_id": 9791182143830,
+          "id": 51195242217814,
           "title": "Blue / Set",
           "price": "8.56",
           "position": 3,
@@ -344,8 +344,8 @@
           "image_id": 66238657397078
         },
         {
-          "id": 51195242250582,
           "product_id": 9791182143830,
+          "id": 51195242250582,
           "title": "Pink / Set",
           "price": "8.56",
           "position": 4,
@@ -372,8 +372,8 @@
           "image_id": 66238660870486
         },
         {
-          "id": 51195242283350,
           "product_id": 9791182143830,
+          "id": 51195242283350,
           "title": "Pink / Pacifier brush",
           "price": "8.25",
           "position": 5,
@@ -400,8 +400,8 @@
           "image_id": 66238660903254
         },
         {
-          "id": 51195242316118,
           "product_id": 9791182143830,
+          "id": 51195242316118,
           "title": "Blue / Pacifier brush",
           "price": "8.25",
           "position": 6,
@@ -430,8 +430,8 @@
       ],
       "options": [
         {
-          "id": 12640359219542,
           "product_id": 9791182143830,
+          "id": 12640359219542,
           "name": "Color",
           "position": 1,
           "values": [
@@ -440,8 +440,8 @@
           ]
         },
         {
-          "id": 12640359252310,
           "product_id": 9791182143830,
+          "id": 12640359252310,
           "name": "Style",
           "position": 2,
           "values": [
@@ -1115,8 +1115,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791088460118",
       "variants": [
         {
-          "id": 51194420789590,
           "product_id": 9791088460118,
+          "id": 51194420789590,
           "title": "Pink",
           "price": "8.87",
           "position": 1,
@@ -1143,8 +1143,8 @@
           "image_id": 66236264055126
         },
         {
-          "id": 51194420822358,
           "product_id": 9791088460118,
+          "id": 51194420822358,
           "title": "Gray",
           "price": "8.87",
           "position": 2,
@@ -1173,8 +1173,8 @@
       ],
       "options": [
         {
-          "id": 12640242336086,
           "product_id": 9791088460118,
+          "id": 12640242336086,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2852,8 +2852,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791346573654",
       "variants": [
         {
-          "id": 51196011708758,
           "product_id": 9791346573654,
+          "id": 51196011708758,
           "title": "Blue",
           "price": "8.36",
           "position": 1,
@@ -2880,8 +2880,8 @@
           "image_id": 66240231899478
         },
         {
-          "id": 51196011741526,
           "product_id": 9791346573654,
+          "id": 51196011741526,
           "title": "Yellow",
           "price": "8.76",
           "position": 2,
@@ -2908,8 +2908,8 @@
           "image_id": 66240231932246
         },
         {
-          "id": 51196011774294,
           "product_id": 9791346573654,
+          "id": 51196011774294,
           "title": "Small green",
           "price": "8.22",
           "position": 3,
@@ -2936,8 +2936,8 @@
           "image_id": 66240231965014
         },
         {
-          "id": 51196011807062,
           "product_id": 9791346573654,
+          "id": 51196011807062,
           "title": "Small pink",
           "price": "8.22",
           "position": 4,
@@ -2964,8 +2964,8 @@
           "image_id": 66240231997782
         },
         {
-          "id": 51196011839830,
           "product_id": 9791346573654,
+          "id": 51196011839830,
           "title": "Pink 3pieces set opp",
           "price": "8.76",
           "position": 5,
@@ -2994,8 +2994,8 @@
       ],
       "options": [
         {
-          "id": 12640550748502,
           "product_id": 9791346573654,
+          "id": 12640550748502,
           "name": "Color",
           "position": 1,
           "values": [
