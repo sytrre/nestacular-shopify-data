@@ -38575,8 +38575,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9793342996822",
       "variants": [
         {
-          "product_id": 9793342996822,
           "id": 51204718723414,
+          "product_id": 9793342996822,
           "title": "Classic cars",
           "price": "20.74",
           "position": 1,
@@ -38603,8 +38603,8 @@
           "image_id": 66259673481558
         },
         {
-          "product_id": 9793342996822,
           "id": 51204718756182,
+          "product_id": 9793342996822,
           "title": "Daisy",
           "price": "20.74",
           "position": 2,
@@ -38631,8 +38631,8 @@
           "image_id": 66259673514326
         },
         {
-          "product_id": 9793342996822,
           "id": 51204718788950,
+          "product_id": 9793342996822,
           "title": "White letters",
           "price": "20.74",
           "position": 3,
@@ -38659,8 +38659,8 @@
           "image_id": 66259673547094
         },
         {
-          "product_id": 9793342996822,
           "id": 51204718821718,
+          "product_id": 9793342996822,
           "title": "White shell",
           "price": "20.74",
           "position": 4,
@@ -38689,8 +38689,8 @@
       ],
       "options": [
         {
-          "product_id": 9793342996822,
           "id": 12642934358358,
+          "product_id": 9793342996822,
           "name": "Color",
           "position": 1,
           "values": [
