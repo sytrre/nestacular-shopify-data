@@ -4799,8 +4799,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9791182143830",
       "variants": [
         {
-          "product_id": 9791182143830,
           "id": 51195242152278,
+          "product_id": 9791182143830,
           "title": "Pink / Bottle brush",
           "price": "8.42",
           "position": 1,
@@ -4827,8 +4827,8 @@
           "image_id": 66238660772182
         },
         {
-          "product_id": 9791182143830,
           "id": 51195242185046,
+          "product_id": 9791182143830,
           "title": "Blue / Bottle brush",
           "price": "8.42",
           "position": 2,
@@ -4855,8 +4855,8 @@
           "image_id": 66238657397078
         },
         {
-          "product_id": 9791182143830,
           "id": 51195242217814,
+          "product_id": 9791182143830,
           "title": "Blue / Set",
           "price": "8.56",
           "position": 3,
@@ -4883,8 +4883,8 @@
           "image_id": 66238657397078
         },
         {
-          "product_id": 9791182143830,
           "id": 51195242250582,
+          "product_id": 9791182143830,
           "title": "Pink / Set",
           "price": "8.56",
           "position": 4,
@@ -4911,8 +4911,8 @@
           "image_id": 66238660870486
         },
         {
-          "product_id": 9791182143830,
           "id": 51195242283350,
+          "product_id": 9791182143830,
           "title": "Pink / Pacifier brush",
           "price": "8.25",
           "position": 5,
@@ -4939,8 +4939,8 @@
           "image_id": 66238660903254
         },
         {
-          "product_id": 9791182143830,
           "id": 51195242316118,
+          "product_id": 9791182143830,
           "title": "Blue / Pacifier brush",
           "price": "8.25",
           "position": 6,
@@ -4969,8 +4969,8 @@
       ],
       "options": [
         {
-          "product_id": 9791182143830,
           "id": 12640359219542,
+          "product_id": 9791182143830,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4979,8 +4979,8 @@
           ]
         },
         {
-          "product_id": 9791182143830,
           "id": 12640359252310,
+          "product_id": 9791182143830,
           "name": "Style",
           "position": 2,
           "values": [
@@ -21895,8 +21895,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/9866563584342",
       "variants": [
         {
-          "product_id": 9866563584342,
           "id": 51489472676182,
+          "product_id": 9866563584342,
           "title": "18cm",
           "price": "17.48",
           "position": 1,
@@ -21925,8 +21925,8 @@
       ],
       "options": [
         {
-          "product_id": 9866563584342,
           "id": 12729022087510,
+          "product_id": 9866563584342,
           "name": "Height",
           "position": 1,
           "values": [
