@@ -41525,7 +41525,7 @@
       "product_type": "",
       "created_at": "2026-04-02T02:32:36+01:00",
       "handle": "nestacular-busy-book",
-      "updated_at": "2026-04-02T15:19:33+01:00",
+      "updated_at": "2026-04-02T16:08:36+01:00",
       "published_at": "2026-04-02T03:05:36+01:00",
       "template_suffix": "atlas-quiet-focus-montessori-learning-book",
       "published_scope": "web",
@@ -41741,6 +41741,19 @@
           "variant_ids": [
             53008711024982
           ]
+        },
+        {
+          "id": 73962030858582,
+          "alt": null,
+          "position": 9,
+          "product_id": 10306742550870,
+          "created_at": "2026-04-02T16:08:10+01:00",
+          "updated_at": "2026-04-02T16:08:35+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58587006763350",
+          "width": 4096,
+          "height": 4096,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/image-287744.jpg?v=1775142496",
+          "variant_ids": []
         }
       ],
       "image": {
