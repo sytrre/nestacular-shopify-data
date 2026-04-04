@@ -41178,7 +41178,7 @@
       "product_type": "",
       "created_at": "2026-04-04T00:16:28+01:00",
       "handle": "nestacular-bath-bomb-balls",
-      "updated_at": "2026-04-04T12:16:39+01:00",
+      "updated_at": "2026-04-04T14:46:39+01:00",
       "published_at": "2026-04-04T00:16:42+01:00",
       "template_suffix": "atlas-natural-mega-bubble-surprise-collection",
       "published_scope": "web",
@@ -41198,7 +41198,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2026-04-04T00:16:29+01:00",
-          "updated_at": "2026-04-04T08:03:28+01:00",
+          "updated_at": "2026-04-04T14:46:39+01:00",
           "taxable": true,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -41212,7 +41212,7 @@
           "inventory_quantity": 0,
           "old_inventory_quantity": 0,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53028715430230",
-          "image_id": null
+          "image_id": 74035218055510
         },
         {
           "id": 53028715462998,
@@ -41226,7 +41226,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2026-04-04T00:16:41+01:00",
-          "updated_at": "2026-04-04T08:03:28+01:00",
+          "updated_at": "2026-04-04T14:46:39+01:00",
           "taxable": true,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -41240,7 +41240,7 @@
           "inventory_quantity": 0,
           "old_inventory_quantity": 0,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53028715462998",
-          "image_id": null
+          "image_id": 74108802138454
         },
         {
           "id": 53028715495766,
@@ -41254,7 +41254,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2026-04-04T00:16:41+01:00",
-          "updated_at": "2026-04-04T08:03:28+01:00",
+          "updated_at": "2026-04-04T14:46:39+01:00",
           "taxable": true,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -41268,7 +41268,7 @@
           "inventory_quantity": 0,
           "old_inventory_quantity": 0,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53028715495766",
-          "image_id": null
+          "image_id": 74108808331606
         }
       ],
       "options": [
@@ -41296,7 +41296,9 @@
           "width": 4096,
           "height": 4096,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3aec2b1db87b3d61a22d_original_images3.jpg?v=1775258318",
-          "variant_ids": []
+          "variant_ids": [
+            53028715430230
+          ]
         },
         {
           "id": 74035218022742,
@@ -41427,6 +41429,36 @@
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/8275221ec0c95ecd257e_ae27e2b76d88438f8e315049175a7e64_jpg_1.jpg?v=1775258193",
           "variant_ids": []
+        },
+        {
+          "id": 74108802138454,
+          "alt": null,
+          "position": 12,
+          "product_id": 10311190380886,
+          "created_at": "2026-04-04T14:46:08+01:00",
+          "updated_at": "2026-04-04T14:46:13+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58635733795158",
+          "width": 4096,
+          "height": 4096,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/variant3.jpg?v=1775310373",
+          "variant_ids": [
+            53028715462998
+          ]
+        },
+        {
+          "id": 74108808331606,
+          "alt": null,
+          "position": 13,
+          "product_id": 10311190380886,
+          "created_at": "2026-04-04T14:46:17+01:00",
+          "updated_at": "2026-04-04T14:46:22+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58635739922774",
+          "width": 4096,
+          "height": 4096,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/variant2.jpg?v=1775310382",
+          "variant_ids": [
+            53028715495766
+          ]
         }
       ],
       "image": {
@@ -41440,7 +41472,9 @@
         "width": 4096,
         "height": 4096,
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/3aec2b1db87b3d61a22d_original_images3.jpg?v=1775258318",
-        "variant_ids": []
+        "variant_ids": [
+          53028715430230
+        ]
       }
     },
     {
