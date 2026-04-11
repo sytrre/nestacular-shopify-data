@@ -7919,6 +7919,18 @@
       "admin_graphql_api_id": "gid://shopify/Collection/658868502870"
     },
     {
+      "id": 693801353558,
+      "handle": "more-baby-essentials",
+      "title": "More Baby Essentials",
+      "updated_at": "2026-04-11T21:17:34+01:00",
+      "body_html": "<p data-start=\"258\" data-end=\"528\">Discover baby essentials for every stage of your little one’s day at Nestacular. This collection brings together carefully selected products beyond feeding, including bath time, baby care, playtime, learning, comfort, and everyday baby must-haves.</p>\n<p data-start=\"530\" data-end=\"840\">Whether you’re looking for practical daily essentials, thoughtful parent-friendly finds, or lovely additions to your baby’s routine, our Baby Essentials collection is designed to help make life a little easier. From useful basics to comforting favourites, each item is chosen with both baby and parent in mind.</p>\n<p data-start=\"842\" data-end=\"985\">Explore quality baby essentials that support everyday routines, encourage happy moments, and help you care for your little one with confidence.</p>",
+      "published_at": "2026-04-11T21:15:12+01:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/693801353558"
+    },
+    {
       "id": 656489480534,
       "handle": "shop-by-age-tableware",
       "title": "Shop by Age",
@@ -7999,8 +8011,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 215,
-    "items_in_page": 215,
+    "total_items": 216,
+    "items_in_page": 216,
     "has_next_page": false,
     "has_previous_page": false
   }
