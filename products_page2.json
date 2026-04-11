@@ -41616,7 +41616,7 @@
       "product_type": "",
       "created_at": "2026-04-09T21:28:50+01:00",
       "handle": "nestacular-cuddlephant-baby-lounger",
-      "updated_at": "2026-04-11T01:12:07+01:00",
+      "updated_at": "2026-04-11T10:33:12+01:00",
       "published_at": "2026-04-09T21:29:09+01:00",
       "template_suffix": "atlas-my-little-essentials-baby-lounger",
       "published_scope": "web",
@@ -41651,6 +41651,90 @@
           "old_inventory_quantity": 0,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53073524261206",
           "image_id": 74478770323798
+        },
+        {
+          "id": 53091087155542,
+          "product_id": 10320604823894,
+          "title": "Light Peach Elephant",
+          "price": "65.00",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "85.00",
+          "option1": "Light Peach Elephant",
+          "option2": null,
+          "option3": null,
+          "created_at": "2026-04-11T10:21:33+01:00",
+          "updated_at": "2026-04-11T10:21:34+01:00",
+          "taxable": true,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 0,
+          "inventory_management": null,
+          "requires_shipping": true,
+          "sku": null,
+          "weight": 0.0,
+          "weight_unit": "lb",
+          "inventory_item_id": 55611377156438,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/53091087155542",
+          "image_id": 74583449076054
+        },
+        {
+          "id": 53091135586646,
+          "product_id": 10320604823894,
+          "title": "Brown Teddy Bear",
+          "price": "65.00",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "85.00",
+          "option1": "Brown Teddy Bear",
+          "option2": null,
+          "option3": null,
+          "created_at": "2026-04-11T10:31:03+01:00",
+          "updated_at": "2026-04-11T10:31:03+01:00",
+          "taxable": true,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 0,
+          "inventory_management": null,
+          "requires_shipping": true,
+          "sku": null,
+          "weight": 0.0,
+          "weight_unit": "lb",
+          "inventory_item_id": 55611425587542,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/53091135586646",
+          "image_id": 74584742068566
+        },
+        {
+          "id": 53091143024982,
+          "product_id": 10320604823894,
+          "title": "Pink Teddy Bear",
+          "price": "65.00",
+          "position": 4,
+          "inventory_policy": "deny",
+          "compare_at_price": "85.00",
+          "option1": "Pink Teddy Bear",
+          "option2": null,
+          "option3": null,
+          "created_at": "2026-04-11T10:33:07+01:00",
+          "updated_at": "2026-04-11T10:33:07+01:00",
+          "taxable": true,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 0,
+          "inventory_management": null,
+          "requires_shipping": true,
+          "sku": null,
+          "weight": 0.0,
+          "weight_unit": "lb",
+          "inventory_item_id": 55611433025878,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/53091143024982",
+          "image_id": 74584909971798
         }
       ],
       "options": [
@@ -41660,7 +41744,10 @@
           "name": "Design",
           "position": 1,
           "values": [
-            "Grey Elephant"
+            "Grey Elephant",
+            "Light Peach Elephant",
+            "Brown Teddy Bear",
+            "Pink Teddy Bear"
           ]
         }
       ],
@@ -41796,6 +41883,51 @@
           "height": 1024,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/c6844a7beee5dc639f82_cuddlephant3.png?v=1775858691",
           "variant_ids": []
+        },
+        {
+          "id": 74583449076054,
+          "alt": null,
+          "position": 11,
+          "product_id": 10320604823894,
+          "created_at": "2026-04-11T10:20:58+01:00",
+          "updated_at": "2026-04-11T10:21:02+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58792069890390",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/light_peach_elephant.png?v=1775899262",
+          "variant_ids": [
+            53091087155542
+          ]
+        },
+        {
+          "id": 74584742068566,
+          "alt": null,
+          "position": 12,
+          "product_id": 10320604823894,
+          "created_at": "2026-04-11T10:30:33+01:00",
+          "updated_at": "2026-04-11T10:30:39+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58792677310806",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/brown_bear.png?v=1775899839",
+          "variant_ids": [
+            53091135586646
+          ]
+        },
+        {
+          "id": 74584909971798,
+          "alt": null,
+          "position": 13,
+          "product_id": 10320604823894,
+          "created_at": "2026-04-11T10:32:54+01:00",
+          "updated_at": "2026-04-11T10:32:58+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58792821064022",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Pink_Teddy_Bear.png?v=1775899978",
+          "variant_ids": [
+            53091143024982
+          ]
         }
       ],
       "image": {
