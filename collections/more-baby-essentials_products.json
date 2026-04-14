@@ -4,7 +4,7 @@
     "handle": "more-baby-essentials",
     "title": "More Baby Essentials",
     "body_html": "<p data-start=\"258\" data-end=\"528\">Discover baby essentials for every stage of your little one’s day at Nestacular. This collection brings together carefully selected products beyond feeding, including bath time, baby care, playtime, learning, comfort, and everyday baby must-haves.</p>\n<p data-start=\"530\" data-end=\"840\">Whether you’re looking for practical daily essentials, thoughtful parent-friendly finds, or lovely additions to your baby’s routine, our Baby Essentials collection is designed to help make life a little easier. From useful basics to comforting favourites, each item is chosen with both baby and parent in mind.</p>\n<p data-start=\"842\" data-end=\"985\">Explore quality baby essentials that support everyday routines, encourage happy moments, and help you care for your little one with confidence.</p>",
-    "products_count": 3
+    "products_count": 4
   },
   "products": [
     {
@@ -15,7 +15,7 @@
       "product_type": "",
       "created_at": "2026-04-04T00:16:28+01:00",
       "handle": "nestacular-bath-bomb-balls",
-      "updated_at": "2026-04-13T21:27:16+01:00",
+      "updated_at": "2026-04-14T13:40:32+01:00",
       "published_at": "2026-04-04T00:16:42+01:00",
       "template_suffix": "atlas-natural-mega-bubble-surprise-collection",
       "published_scope": "web",
@@ -842,14 +842,190 @@
         "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/09a1457cb0f7d837a56a_03_lifestyle_home_play_b36f44fd-901c-4190-bc0e-404b76040b9e.jpg?v=1775114979",
         "variant_ids": []
       }
+    },
+    {
+      "id": 10328948015446,
+      "title": "Peekaboo PachyDitty - Plush Toy Flapping Elephant  Ears",
+      "body_html": "",
+      "vendor": "Nestacular",
+      "product_type": "",
+      "created_at": "2026-04-14T12:41:34+01:00",
+      "handle": "hide-and-seek-elephant-plush-toy-flapping-ears-with-cheerful-songs-elephant-soft-soothing-new-born-gift-for-3-12-months",
+      "updated_at": "2026-04-14T13:05:00+01:00",
+      "published_at": "2026-04-14T12:41:42+01:00",
+      "template_suffix": "peekaboo-pachyditty---plush-toy-flapping-elephant--ears",
+      "published_scope": "global",
+      "tags": "",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/10328948015446",
+      "variants": [
+        {
+          "id": 53113069863254,
+          "product_id": 10328948015446,
+          "title": "A",
+          "price": "39.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "32.28",
+          "option1": "A",
+          "option2": null,
+          "option3": null,
+          "created_at": "2026-04-14T12:41:34+01:00",
+          "updated_at": "2026-04-14T12:43:16+01:00",
+          "taxable": true,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 0,
+          "inventory_management": null,
+          "requires_shipping": true,
+          "sku": null,
+          "weight": 0.0,
+          "weight_unit": "lb",
+          "inventory_item_id": 55636822589782,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/53113069863254",
+          "image_id": null
+        }
+      ],
+      "options": [
+        {
+          "id": 13273665077590,
+          "product_id": 10328948015446,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "A"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 74779490746710,
+          "alt": null,
+          "position": 1,
+          "product_id": 10328948015446,
+          "created_at": "2026-04-14T12:41:34+01:00",
+          "updated_at": "2026-04-14T12:41:37+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58878683742550",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S0b85ac081c214e6f82cb6a422109da93b.webp?v=1776166897",
+          "variant_ids": []
+        },
+        {
+          "id": 74779490779478,
+          "alt": null,
+          "position": 2,
+          "product_id": 10328948015446,
+          "created_at": "2026-04-14T12:41:34+01:00",
+          "updated_at": "2026-04-14T12:41:37+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58878683775318",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S9aa8a25af4864ceaafa5bc263ae2c229I.webp?v=1776166897",
+          "variant_ids": []
+        },
+        {
+          "id": 74779490812246,
+          "alt": null,
+          "position": 3,
+          "product_id": 10328948015446,
+          "created_at": "2026-04-14T12:41:34+01:00",
+          "updated_at": "2026-04-14T12:41:36+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58878683808086",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sb5b18e72179644a5a28dd8c4a66b134co.webp?v=1776166896",
+          "variant_ids": []
+        },
+        {
+          "id": 74779490845014,
+          "alt": null,
+          "position": 4,
+          "product_id": 10328948015446,
+          "created_at": "2026-04-14T12:41:34+01:00",
+          "updated_at": "2026-04-14T12:41:37+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58878683840854",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sb0ad2c8c156f49928b525d22b89120bez.webp?v=1776166897",
+          "variant_ids": []
+        },
+        {
+          "id": 74779490877782,
+          "alt": null,
+          "position": 5,
+          "product_id": 10328948015446,
+          "created_at": "2026-04-14T12:41:34+01:00",
+          "updated_at": "2026-04-14T12:41:36+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58878683873622",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S8cdd40b3b2e7417b8cf14640a26a5863x.webp?v=1776166896",
+          "variant_ids": []
+        },
+        {
+          "id": 74779490910550,
+          "alt": null,
+          "position": 6,
+          "product_id": 10328948015446,
+          "created_at": "2026-04-14T12:41:34+01:00",
+          "updated_at": "2026-04-14T12:41:37+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58878683906390",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S1b1559453d644599bab17ddf1c46f3b0n.webp?v=1776166897",
+          "variant_ids": []
+        },
+        {
+          "id": 74779490943318,
+          "alt": null,
+          "position": 7,
+          "product_id": 10328948015446,
+          "created_at": "2026-04-14T12:41:34+01:00",
+          "updated_at": "2026-04-14T12:41:37+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58878683939158",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/Sb5b18e72179644a5a28dd8c4a66b134co_65212627-3563-45e7-b246-3cd2877e334c.webp?v=1776166896",
+          "variant_ids": []
+        },
+        {
+          "id": 74779490976086,
+          "alt": null,
+          "position": 8,
+          "product_id": 10328948015446,
+          "created_at": "2026-04-14T12:41:34+01:00",
+          "updated_at": "2026-04-14T12:41:37+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58878683971926",
+          "width": 1001,
+          "height": 1001,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/a0.webp?v=1776166897",
+          "variant_ids": []
+        }
+      ],
+      "image": {
+        "id": 74779490746710,
+        "alt": null,
+        "position": 1,
+        "product_id": 10328948015446,
+        "created_at": "2026-04-14T12:41:34+01:00",
+        "updated_at": "2026-04-14T12:41:37+01:00",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/58878683742550",
+        "width": 1001,
+        "height": 1001,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/S0b85ac081c214e6f82cb6a422109da93b.webp?v=1776166897",
+        "variant_ids": []
+      }
     }
   ],
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 3,
-    "products_in_page": 3,
+    "total_products": 4,
+    "products_in_page": 4,
     "has_next_page": false,
     "has_previous_page": false
   }
