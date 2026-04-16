@@ -62264,7 +62264,7 @@
       "product_type": "",
       "created_at": "2026-04-16T06:39:08+01:00",
       "handle": "carrynest-baby-carrier",
-      "updated_at": "2026-04-16T14:52:20+01:00",
+      "updated_at": "2026-04-16T18:24:47+01:00",
       "published_at": "2026-04-16T06:39:09+01:00",
       "template_suffix": "atlas-carrynest-baby-carrier",
       "published_scope": "global",
@@ -62312,7 +62312,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2026-04-16T07:20:21+01:00",
-          "updated_at": "2026-04-16T13:01:03+01:00",
+          "updated_at": "2026-04-16T18:10:57+01:00",
           "taxable": true,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -62326,7 +62326,7 @@
           "inventory_quantity": 6,
           "old_inventory_quantity": 6,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53128576500054",
-          "image_id": 74934462021974
+          "image_id": 74956032803158
         },
         {
           "id": 53128576532822,
@@ -62340,7 +62340,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2026-04-16T07:20:21+01:00",
-          "updated_at": "2026-04-16T13:01:03+01:00",
+          "updated_at": "2026-04-16T18:22:14+01:00",
           "taxable": true,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -62354,7 +62354,7 @@
           "inventory_quantity": 6,
           "old_inventory_quantity": 6,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53128576532822",
-          "image_id": 74934461989206
+          "image_id": 74956779028822
         },
         {
           "id": 53128576565590,
@@ -62368,7 +62368,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2026-04-16T07:20:21+01:00",
-          "updated_at": "2026-04-16T13:01:03+01:00",
+          "updated_at": "2026-04-16T18:18:08+01:00",
           "taxable": true,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -62382,7 +62382,7 @@
           "inventory_quantity": 6,
           "old_inventory_quantity": 6,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53128576565590",
-          "image_id": 74934461956438
+          "image_id": 74956523503958
         }
       ],
       "options": [
@@ -62401,42 +62401,111 @@
       ],
       "images": [
         {
-          "id": 74934462251350,
+          "id": 74956779028822,
           "alt": null,
           "position": 1,
           "product_id": 10334502682966,
+          "created_at": "2026-04-16T18:21:57+01:00",
+          "updated_at": "2026-04-16T18:23:24+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58963537461590",
+          "width": 1024,
+          "height": 1536,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/bbb.png?v=1776360204",
+          "variant_ids": [
+            53128576532822
+          ]
+        },
+        {
+          "id": 74956032704854,
+          "alt": null,
+          "position": 2,
+          "product_id": 10334502682966,
+          "created_at": "2026-04-16T18:09:40+01:00",
+          "updated_at": "2026-04-16T18:24:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58962801394006",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/n3.jpg?v=1776360287",
+          "variant_ids": []
+        },
+        {
+          "id": 74934462251350,
+          "alt": null,
+          "position": 3,
+          "product_id": 10334502682966,
           "created_at": "2026-04-16T12:04:38+01:00",
-          "updated_at": "2026-04-16T12:05:59+01:00",
+          "updated_at": "2026-04-16T18:24:47+01:00",
           "admin_graphql_api_id": "gid://shopify/MediaImage/58941511729494",
           "width": 800,
           "height": 800,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new1.png?v=1776337559",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new1.png?v=1776360287",
           "variant_ids": []
         },
         {
           "id": 74934462218582,
           "alt": null,
-          "position": 2,
+          "position": 4,
           "product_id": 10334502682966,
           "created_at": "2026-04-16T12:04:38+01:00",
-          "updated_at": "2026-04-16T12:05:59+01:00",
+          "updated_at": "2026-04-16T18:24:47+01:00",
           "admin_graphql_api_id": "gid://shopify/MediaImage/58941511696726",
           "width": 1601,
           "height": 1601,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new2.jpg?v=1776337559",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new2.jpg?v=1776360287",
+          "variant_ids": []
+        },
+        {
+          "id": 74956032803158,
+          "alt": null,
+          "position": 5,
+          "product_id": 10334502682966,
+          "created_at": "2026-04-16T18:09:40+01:00",
+          "updated_at": "2026-04-16T18:24:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58962801492310",
+          "width": 800,
+          "height": 800,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/i1.jpg?v=1776360287",
+          "variant_ids": [
+            53128576500054
+          ]
+        },
+        {
+          "id": 74956032868694,
+          "alt": null,
+          "position": 6,
+          "product_id": 10334502682966,
+          "created_at": "2026-04-16T18:09:40+01:00",
+          "updated_at": "2026-04-16T18:24:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58962801525078",
+          "width": 600,
+          "height": 600,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/n2.jpg?v=1776360287",
+          "variant_ids": []
+        },
+        {
+          "id": 74956032999766,
+          "alt": null,
+          "position": 7,
+          "product_id": 10334502682966,
+          "created_at": "2026-04-16T18:09:40+01:00",
+          "updated_at": "2026-04-16T18:24:47+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58962801721686",
+          "width": 1536,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/n5.jpg?v=1776360287",
           "variant_ids": []
         },
         {
           "id": 74934462185814,
           "alt": null,
-          "position": 3,
+          "position": 8,
           "product_id": 10334502682966,
           "created_at": "2026-04-16T12:04:38+01:00",
-          "updated_at": "2026-04-16T12:05:59+01:00",
+          "updated_at": "2026-04-16T18:23:24+01:00",
           "admin_graphql_api_id": "gid://shopify/MediaImage/58941511663958",
           "width": 1601,
           "height": 1601,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new3.jpg?v=1776337559",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new3.jpg?v=1776360204",
           "variant_ids": [
             53128576467286
           ]
@@ -62444,100 +62513,85 @@
         {
           "id": 74934462120278,
           "alt": null,
-          "position": 4,
+          "position": 9,
           "product_id": 10334502682966,
           "created_at": "2026-04-16T12:04:38+01:00",
-          "updated_at": "2026-04-16T12:05:59+01:00",
+          "updated_at": "2026-04-16T18:23:24+01:00",
           "admin_graphql_api_id": "gid://shopify/MediaImage/58941511598422",
           "width": 1601,
           "height": 1601,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new5.jpg?v=1776337559",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new5.jpg?v=1776360204",
           "variant_ids": []
         },
         {
           "id": 74934462087510,
           "alt": null,
-          "position": 5,
+          "position": 10,
           "product_id": 10334502682966,
           "created_at": "2026-04-16T12:04:38+01:00",
-          "updated_at": "2026-04-16T12:05:59+01:00",
+          "updated_at": "2026-04-16T18:23:24+01:00",
           "admin_graphql_api_id": "gid://shopify/MediaImage/58941511565654",
           "width": 1601,
           "height": 1601,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new6.jpg?v=1776337559",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new6.jpg?v=1776360204",
           "variant_ids": []
-        },
-        {
-          "id": 74934461989206,
-          "alt": null,
-          "position": 6,
-          "product_id": 10334502682966,
-          "created_at": "2026-04-16T12:04:38+01:00",
-          "updated_at": "2026-04-16T12:05:59+01:00",
-          "admin_graphql_api_id": "gid://shopify/MediaImage/58941511467350",
-          "width": 220,
-          "height": 220,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new9.png?v=1776337559",
-          "variant_ids": [
-            53128576532822
-          ]
         },
         {
           "id": 74934462153046,
           "alt": null,
-          "position": 7,
+          "position": 11,
           "product_id": 10334502682966,
           "created_at": "2026-04-16T12:04:38+01:00",
-          "updated_at": "2026-04-16T12:05:59+01:00",
+          "updated_at": "2026-04-16T18:23:24+01:00",
           "admin_graphql_api_id": "gid://shopify/MediaImage/58941511631190",
           "width": 1000,
           "height": 1000,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new4.jpg?v=1776337559",
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new4.jpg?v=1776360204",
           "variant_ids": []
         },
         {
-          "id": 74934462021974,
+          "id": 74956523503958,
           "alt": null,
-          "position": 8,
+          "position": 12,
           "product_id": 10334502682966,
-          "created_at": "2026-04-16T12:04:38+01:00",
-          "updated_at": "2026-04-16T12:05:59+01:00",
-          "admin_graphql_api_id": "gid://shopify/MediaImage/58941511500118",
-          "width": 220,
-          "height": 220,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new8.png?v=1776337559",
-          "variant_ids": [
-            53128576500054
-          ]
-        },
-        {
-          "id": 74934461956438,
-          "alt": null,
-          "position": 9,
-          "product_id": 10334502682966,
-          "created_at": "2026-04-16T12:04:38+01:00",
-          "updated_at": "2026-04-16T12:05:59+01:00",
-          "admin_graphql_api_id": "gid://shopify/MediaImage/58941511434582",
-          "width": 220,
-          "height": 220,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new10.png?v=1776337559",
+          "created_at": "2026-04-16T18:17:29+01:00",
+          "updated_at": "2026-04-16T18:23:24+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58963291373910",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/fff.png?v=1776360204",
           "variant_ids": [
             53128576565590
           ]
+        },
+        {
+          "id": 74956032475478,
+          "alt": null,
+          "position": 13,
+          "product_id": 10334502682966,
+          "created_at": "2026-04-16T18:09:40+01:00",
+          "updated_at": "2026-04-16T18:23:24+01:00",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/58962801197398",
+          "width": 600,
+          "height": 773,
+          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/n4.jpg?v=1776360204",
+          "variant_ids": []
         }
       ],
       "image": {
-        "id": 74934462251350,
+        "id": 74956779028822,
         "alt": null,
         "position": 1,
         "product_id": 10334502682966,
-        "created_at": "2026-04-16T12:04:38+01:00",
-        "updated_at": "2026-04-16T12:05:59+01:00",
-        "admin_graphql_api_id": "gid://shopify/MediaImage/58941511729494",
-        "width": 800,
-        "height": 800,
-        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new1.png?v=1776337559",
-        "variant_ids": []
+        "created_at": "2026-04-16T18:21:57+01:00",
+        "updated_at": "2026-04-16T18:23:24+01:00",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/58963537461590",
+        "width": 1024,
+        "height": 1536,
+        "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/bbb.png?v=1776360204",
+        "variant_ids": [
+          53128576532822
+        ]
       }
     },
     {
