@@ -62264,9 +62264,9 @@
       "product_type": "",
       "created_at": "2026-04-16T06:39:08+01:00",
       "handle": "carrynest-baby-carrier",
-      "updated_at": "2026-04-16T12:06:00+01:00",
+      "updated_at": "2026-04-16T13:01:36+01:00",
       "published_at": "2026-04-16T06:39:09+01:00",
-      "template_suffix": "",
+      "template_suffix": "baby-carrier",
       "published_scope": "global",
       "tags": "",
       "status": "active",
@@ -62284,7 +62284,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2026-04-16T07:20:21+01:00",
-          "updated_at": "2026-04-16T12:05:57+01:00",
+          "updated_at": "2026-04-16T13:01:03+01:00",
           "taxable": true,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -62295,10 +62295,10 @@
           "weight": 0.0,
           "weight_unit": "lb",
           "inventory_item_id": 55655220904278,
-          "inventory_quantity": 10,
-          "old_inventory_quantity": 10,
+          "inventory_quantity": 6,
+          "old_inventory_quantity": 6,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53128576467286",
-          "image_id": null
+          "image_id": 74934462054742
         },
         {
           "id": 53128576500054,
@@ -62312,7 +62312,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2026-04-16T07:20:21+01:00",
-          "updated_at": "2026-04-16T12:05:56+01:00",
+          "updated_at": "2026-04-16T13:01:03+01:00",
           "taxable": true,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -62323,10 +62323,10 @@
           "weight": 0.0,
           "weight_unit": "lb",
           "inventory_item_id": 55655220937046,
-          "inventory_quantity": 0,
-          "old_inventory_quantity": 0,
+          "inventory_quantity": 6,
+          "old_inventory_quantity": 6,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53128576500054",
-          "image_id": null
+          "image_id": 74934462021974
         },
         {
           "id": 53128576532822,
@@ -62340,7 +62340,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2026-04-16T07:20:21+01:00",
-          "updated_at": "2026-04-16T12:05:57+01:00",
+          "updated_at": "2026-04-16T13:01:03+01:00",
           "taxable": true,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -62351,10 +62351,10 @@
           "weight": 0.0,
           "weight_unit": "lb",
           "inventory_item_id": 55655220969814,
-          "inventory_quantity": 0,
-          "old_inventory_quantity": 0,
+          "inventory_quantity": 6,
+          "old_inventory_quantity": 6,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53128576532822",
-          "image_id": null
+          "image_id": 74934461989206
         },
         {
           "id": 53128576565590,
@@ -62368,7 +62368,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2026-04-16T07:20:21+01:00",
-          "updated_at": "2026-04-16T12:05:57+01:00",
+          "updated_at": "2026-04-16T13:01:03+01:00",
           "taxable": true,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -62379,66 +62379,10 @@
           "weight": 0.0,
           "weight_unit": "lb",
           "inventory_item_id": 55655221002582,
-          "inventory_quantity": 0,
-          "old_inventory_quantity": 0,
+          "inventory_quantity": 6,
+          "old_inventory_quantity": 6,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53128576565590",
-          "image_id": null
-        },
-        {
-          "id": 53128576598358,
-          "product_id": 10334502682966,
-          "title": "Tan",
-          "price": "46.00",
-          "position": 5,
-          "inventory_policy": "deny",
-          "compare_at_price": null,
-          "option1": "Tan",
-          "option2": null,
-          "option3": null,
-          "created_at": "2026-04-16T07:20:21+01:00",
-          "updated_at": "2026-04-16T12:05:57+01:00",
-          "taxable": true,
-          "barcode": "",
-          "fulfillment_service": "manual",
-          "grams": 0,
-          "inventory_management": "shopify",
-          "requires_shipping": true,
-          "sku": null,
-          "weight": 0.0,
-          "weight_unit": "lb",
-          "inventory_item_id": 55655221035350,
-          "inventory_quantity": 0,
-          "old_inventory_quantity": 0,
-          "admin_graphql_api_id": "gid://shopify/ProductVariant/53128576598358",
-          "image_id": null
-        },
-        {
-          "id": 53128576631126,
-          "product_id": 10334502682966,
-          "title": "Orange",
-          "price": "46.00",
-          "position": 6,
-          "inventory_policy": "deny",
-          "compare_at_price": null,
-          "option1": "Orange",
-          "option2": null,
-          "option3": null,
-          "created_at": "2026-04-16T07:20:21+01:00",
-          "updated_at": "2026-04-16T12:05:57+01:00",
-          "taxable": true,
-          "barcode": "",
-          "fulfillment_service": "manual",
-          "grams": 0,
-          "inventory_management": "shopify",
-          "requires_shipping": true,
-          "sku": null,
-          "weight": 0.0,
-          "weight_unit": "lb",
-          "inventory_item_id": 55655221068118,
-          "inventory_quantity": 0,
-          "old_inventory_quantity": 0,
-          "admin_graphql_api_id": "gid://shopify/ProductVariant/53128576631126",
-          "image_id": null
+          "image_id": 74934461956438
         }
       ],
       "options": [
@@ -62451,9 +62395,7 @@
             "Grey",
             "Aquamarine",
             "Pink",
-            "Navy",
-            "Tan",
-            "Orange"
+            "Navy"
           ]
         }
       ],
@@ -62534,7 +62476,9 @@
           "width": 220,
           "height": 220,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new9.png?v=1776337559",
-          "variant_ids": []
+          "variant_ids": [
+            53128576532822
+          ]
         },
         {
           "id": 74934462153046,
@@ -62560,7 +62504,9 @@
           "width": 220,
           "height": 220,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new7.png?v=1776337559",
-          "variant_ids": []
+          "variant_ids": [
+            53128576467286
+          ]
         },
         {
           "id": 74934462021974,
@@ -62573,7 +62519,9 @@
           "width": 220,
           "height": 220,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new8.png?v=1776337559",
-          "variant_ids": []
+          "variant_ids": [
+            53128576500054
+          ]
         },
         {
           "id": 74934461956438,
@@ -62586,7 +62534,9 @@
           "width": 220,
           "height": 220,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new10.png?v=1776337559",
-          "variant_ids": []
+          "variant_ids": [
+            53128576565590
+          ]
         }
       ],
       "image": {
