@@ -62264,9 +62264,9 @@
       "product_type": "",
       "created_at": "2026-04-16T06:39:08+01:00",
       "handle": "carrynest-baby-carrier",
-      "updated_at": "2026-04-16T13:01:36+01:00",
+      "updated_at": "2026-04-16T14:52:20+01:00",
       "published_at": "2026-04-16T06:39:09+01:00",
-      "template_suffix": "baby-carrier",
+      "template_suffix": "atlas-carrynest-baby-carrier",
       "published_scope": "global",
       "tags": "",
       "status": "active",
@@ -62284,7 +62284,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2026-04-16T07:20:21+01:00",
-          "updated_at": "2026-04-16T13:01:03+01:00",
+          "updated_at": "2026-04-16T14:44:40+01:00",
           "taxable": true,
           "barcode": "",
           "fulfillment_service": "manual",
@@ -62298,7 +62298,7 @@
           "inventory_quantity": 6,
           "old_inventory_quantity": 6,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53128576467286",
-          "image_id": 74934462054742
+          "image_id": 74934462185814
         },
         {
           "id": 53128576500054,
@@ -62437,7 +62437,9 @@
           "width": 1601,
           "height": 1601,
           "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new3.jpg?v=1776337559",
-          "variant_ids": []
+          "variant_ids": [
+            53128576467286
+          ]
         },
         {
           "id": 74934462120278,
@@ -62494,24 +62496,9 @@
           "variant_ids": []
         },
         {
-          "id": 74934462054742,
-          "alt": null,
-          "position": 8,
-          "product_id": 10334502682966,
-          "created_at": "2026-04-16T12:04:38+01:00",
-          "updated_at": "2026-04-16T12:05:59+01:00",
-          "admin_graphql_api_id": "gid://shopify/MediaImage/58941511532886",
-          "width": 220,
-          "height": 220,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/new7.png?v=1776337559",
-          "variant_ids": [
-            53128576467286
-          ]
-        },
-        {
           "id": 74934462021974,
           "alt": null,
-          "position": 9,
+          "position": 8,
           "product_id": 10334502682966,
           "created_at": "2026-04-16T12:04:38+01:00",
           "updated_at": "2026-04-16T12:05:59+01:00",
@@ -62526,7 +62513,7 @@
         {
           "id": 74934461956438,
           "alt": null,
-          "position": 10,
+          "position": 9,
           "product_id": 10334502682966,
           "created_at": "2026-04-16T12:04:38+01:00",
           "updated_at": "2026-04-16T12:05:59+01:00",
