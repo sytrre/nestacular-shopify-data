@@ -62264,7 +62264,7 @@
       "product_type": "",
       "created_at": "2026-04-16T06:39:08+01:00",
       "handle": "carrynest-baby-carrier",
-      "updated_at": "2026-04-17T00:06:06+01:00",
+      "updated_at": "2026-04-17T16:12:34+01:00",
       "published_at": "2026-04-16T06:39:09+01:00",
       "template_suffix": "atlas-carrynest-baby-carrier",
       "published_scope": "global",
@@ -62563,19 +62563,6 @@
           "variant_ids": [
             53128576565590
           ]
-        },
-        {
-          "id": 74956032475478,
-          "alt": null,
-          "position": 13,
-          "product_id": 10334502682966,
-          "created_at": "2026-04-16T18:09:40+01:00",
-          "updated_at": "2026-04-16T18:23:24+01:00",
-          "admin_graphql_api_id": "gid://shopify/MediaImage/58962801197398",
-          "width": 600,
-          "height": 773,
-          "src": "https://cdn.shopify.com/s/files/1/0886/4910/5750/files/n4.jpg?v=1776360204",
-          "variant_ids": []
         }
       ],
       "image": {
